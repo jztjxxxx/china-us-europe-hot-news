@@ -1,11 +1,47 @@
 {
-  "updated_at": "2026-11-07T23:22:45+08:00",
+  "updated_at": "2026-11-07T23:57:56+08:00",
   "items": [
     {
       "region": "美国",
       "category": "政治",
-      "title": "洛杉矶新一波更偏左浪潮：尼蒂亚·拉曼引领进步派崭露头角",
-      "summary": "民主社会主义者在洛杉矶赢得了市长职位、一个联邦众议院席位和多个重要职位，庞大的志愿者网络助其获胜。在本周席卷美国政治的蓝色浪潮中，洛杉矶也出现了……",
+      "title": "美军拟寻求限制伊朗陆路贸易 美官员称习近平告诉特朗普同意伊朗绝不应拥核",
+      "summary": "在对伊朗实施长达数月的海上封锁后，美国军方正组建一支特遣队，以加强华盛顿方面在限制德黑兰通过陆地边境和里海运输先进武器系统及其他受制裁物资方面的努力。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20261107-%E7%BE%8E%E5%86%9B%E6%8B%9F%E5%AF%BB%E6%B1%82%E9%99%90%E5%88%B6%E4%BC%8A%E6%9C%97%E9%99%86%E8%B7%AF%E8%B4%B8%E6%98%93-%E7%BE%8E%E5%AE%98%E5%91%98%E7%A7%B0%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%91%8A%E8%AF%89%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8C%E6%84%8F%E4%BC%8A%E6%9C%97%E7%BB%9D%E4%B8%8D%E5%BA%94%E6%8B%A5%E6%A0%B8",
+      "published_at": "2026-11-07T23:47:57+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "政治",
+      "title": "Kraków shooting latest updates: five killed and more than a dozen injured, police say",
+      "summary": "Polish Prime Minister Donald Tusk, in a post on X, said police are investigating the attack A man was firing toward random people from a car driving through the city’s Main Square, Kraków police said.",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
+      "published_at": "2026-11-07T23:42:19+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "政治",
+      "title": "Five European leaders call for closer EU-UK ties ahead of Brussels summit",
+      "summary": "Germany, Belgium, Netherlands, Luxembourg and Denmark say cooperation on clean energy will benefit both sides Five European leaders have called for closer ties with Britain ahead of a keenly anticipated EU-UK summit.",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/world/2026/nov/07/europe-leaders-call-closer-eu-uk-ties-brussels-summit",
+      "published_at": "2026-11-07T23:30:35+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "政治",
+      "title": "Stephen Miller, Trump’s incoming chief of staff, pledges ‘total devotion’ to the president",
+      "summary": "Hardline aide offers ‘unwavering commitment’ to president amid fears White House will double down on far-right immigration agenda Stephen Miller, Donald Trump ’s most controversial aide and the architect of his sweeping",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-trump-loyalty",
+      "published_at": "2026-11-07T23:15:11+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "政治",
+      "title": "LA’s newer, bluer wave: Nithya Raman leads way as city’s progressives make their mark",
+      "summary": "Democratic socialists won the mayorship, a US House seat and powerful positions in Los Angeles – and a large network of volunteers helped them do it As a blue tsunami overtook US politics this week, Los Angeles saw a",
       "source": "卫报",
       "url": "https://www.theguardian.com/us-news/2026/nov/07/los-angeles-mayor-nithya-raman-progressives-dsa",
       "published_at": "2026-11-07T23:00:14+08:00"
@@ -13,8 +49,8 @@
     {
       "region": "欧洲",
       "category": "社会",
-      "title": "审查候选人本就棘手，改革党却似乎总做不好",
-      "summary": "针对党员的指控和偏离正轨的言论，凸显了快速扩张带来的问题。本周，奈杰尔·法拉奇在公布新任国防事务发言人后接受记者采访时，心情轻松愉快……",
+      "title": "Vetting candidates is a tricky process but Reform can’t seem to get it right",
+      "summary": "Charges against party members and off-piste remarks highlight problems brought about by rapid expansion Speaking to reporters after unveiling his new defence spokesperson this week, Nigel Farage’s jovial and upbeat mood",
       "source": "卫报",
       "url": "https://www.theguardian.com/politics/2026/nov/07/reform-nigel-farage-vetting-candidates-struggle",
       "published_at": "2026-11-07T23:00:14+08:00"
@@ -22,8 +58,8 @@
     {
       "region": "欧洲",
       "category": "社会",
-      "title": "“改变人生”：家长欢迎英国耗资1000万英镑的残疾儿童游乐中心",
-      "summary": "布里斯托附近的 Gympanzees 将成为英国首个此类场所，服务无法使用普通游乐场的儿童。十多年前，斯蒂芬妮·惠恩开始创建英国首个游乐休闲……",
+      "title": "‘Life-changing’: parents welcome £10m UK play centre for disabled children",
+      "summary": "Gympanzees near Bristol will be the first UK site of its type, catering for children unable to use regular playgrounds It has been over a decade since Stephanie Wheen set out to create the UK’s first play and leisure",
       "source": "卫报",
       "url": "https://www.theguardian.com/world/2026/nov/07/life-changing-parents-welcome-10m-uk-play-centre-for-disabled-children",
       "published_at": "2026-11-07T23:00:13+08:00"
@@ -40,8 +76,8 @@
     {
       "region": "美国",
       "category": "社会",
-      "title": "一种前景看好的心脏病新药意外失败",
-      "summary": "医生曾预计，这种能降低常见心脏病发作风险因素的实验性药物可以挽救患者生命，但该药并无效果。",
+      "title": "A promising new medicine against heart disease fails unexpectedly",
+      "summary": "Doctors expected an experimental drug that lowers a common risk factor for heart attacks would save patients' lives. The medicine made no difference.",
       "source": "NPR",
       "url": "https://www.npr.org/2026/11/07/nx-s1-6026379/lpa-drug-lipoproteina-heart-attack",
       "published_at": "2026-11-07T22:50:00+08:00"
@@ -49,8 +85,8 @@
     {
       "region": "欧洲",
       "category": "社会",
-      "title": "法国“不满之秋”再迎一日抗议",
-      "summary": "大罢工和大规模示威两天后，学生和工人周六再次走上街头。",
+      "title": "Another Day of Protests Unfurls in France’s Autumn of Discontent",
+      "summary": "Two days after a general strike and huge demonstrations, students and workers took to the streets again on Saturday.",
       "source": "纽约时报",
       "url": "https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html",
       "published_at": "2026-11-07T22:47:43+08:00"
@@ -58,8 +94,8 @@
     {
       "region": "美国",
       "category": "政治",
-      "title": "南卡罗来纳州共和党因达琳·格雷厄姆意外落败而分裂",
-      "summary": "有人指责特朗普在她哥哥、林赛·格雷厄姆去世后支持这位新手候选人，也有人指责……",
+      "title": "South Carolina Republicans Fracture Over Stunning Defeat of Darline Graham",
+      "summary": "Some blamed President Trump for backing the novice candidate after the death of her brother, Lindsey Graham. Others accused Mr.",
       "source": "纽约时报",
       "url": "https://www.nytimes.com/2026/11/07/us/politics/darline-graham-loss-blame.html",
       "published_at": "2026-11-07T22:30:09+08:00"
@@ -67,8 +103,8 @@
     {
       "region": "美国",
       "category": "科技",
-      "title": "特朗普政府想要水下数据中心，五大湖地区一家非营利组织已在准备",
-      "summary": "科技公司喜欢这个想法，因为它基本消除了社区反对，还能降低公用事业成本。埃隆·马斯克常吹嘘把数据中心放到太空，而报道显示，另一个地理……",
+      "title": "The Trump administration wants underwater datacenters. One Great Lakes non-profit is already preparing",
+      "summary": "Tech companies like the idea, as they largely eliminate community opposition, and could cut down on utility costs While Elon Musk has often touted putting datacenters in space, reports suggest that another geographic",
       "source": "卫报",
       "url": "https://www.theguardian.com/us-news/2026/nov/07/underwater-datacenters-great-lakes-trump",
       "published_at": "2026-11-07T22:00:14+08:00"
@@ -85,8 +121,8 @@
     {
       "region": "美国",
       "category": "社会",
-      "title": "民主党计划扩大对移民执法局致命枪击事件的调查",
-      "summary": "明尼阿波利斯去年冬天移民执法突袭期间，蕾妮·古德和亚历克斯·普雷蒂遇害，是全国的一个转折点。",
+      "title": "Democrats plan to widen their probes of fatal ICE shootings",
+      "summary": "The killings of Renee Good and Alex Pretti during the ICE surge in Minneapolis last winter was a pivotal moment for the country.",
       "source": "NPR",
       "url": "https://www.npr.org/2026/11/07/nx-s1-6029659/democrats-investigate-fatal-ice-shootings",
       "published_at": "2026-11-07T21:19:09+08:00"
@@ -94,56 +130,29 @@
     {
       "region": "美国",
       "category": "政治",
-      "title": "2025年美国无家可归人口创纪录下降",
-      "summary": "住房与城市发展部将此归功于特朗普总统，而无家可归者权益倡导组织则表示，前任们的“住房优先”政策也起了作用。",
+      "title": "U.S. Homeless Population Had Record Drop in 2025",
+      "summary": "The Department of Housing and Urban Development credited President Trump, while homeless advocacy groups said that so-called Housing First policies of his predecessors played a part.",
       "source": "纽约时报",
       "url": "https://www.nytimes.com/2026/11/06/us/politics/homeless-population-drop.html",
       "published_at": "2026-11-07T21:15:59+08:00"
     },
     {
-      "region": "美国",
-      "category": "社会",
-      "title": "民主党新近崛起，开始为塑造党的未来而斗争",
-      "summary": "在党迎来机遇的时刻，长期不和的各派系正抓住中期选举结果，主张向中间靠拢或向左转。",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/07/us/politics/democrats-midterms-2028-presidential-race.html",
-      "published_at": "2026-11-07T21:11:20+08:00"
-    },
-    {
       "region": "欧洲",
       "category": "政治",
-      "title": "俄罗斯袭击乌克兰电网后，基辅停电断水",
-      "summary": "莫斯科在袭击变电站和第聂伯河大桥时动用了172架无人机和36枚弹道导弹。泽连斯基指责俄罗斯试图让基辅和整个国家陷入停电……",
+      "title": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid",
+      "summary": "Moscow used 172 drones and 36 ballistic missiles in attacks on electricity substations and bridge over the Dnipro Volodymyr Zelenskyy has accused Russia of trying to “plunge Kyiv and the entire country into a blackout”,",
       "source": "卫报",
       "url": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid",
       "published_at": "2026-11-07T21:03:03+08:00"
     },
     {
-      "region": "美国",
-      "category": "政治",
-      "title": "特朗普提拔斯蒂芬·米勒，是对数百万选民的蔑视",
-      "summary": "特朗普强硬移民议程的设计者，如今成为政府中最有权势的非民选人物，这表明白宫正进入备战状态。",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/us-news/2026/nov/07/trump-stephen-miller-midterms",
-      "published_at": "2026-11-07T21:00:12+08:00"
-    },
-    {
       "region": "欧洲",
       "category": "社会",
-      "title": "法院在寻求庇护者绑架案中裁定内政部败诉",
-      "summary": "内政部曾声称，被绑架勒索不属于人口贩卖受害者所受剥削，在一名在利比亚被绑架的叙利亚男子一案中，上诉法院驳回了内政部的说法……",
+      "title": "Court rules against Home Office in asylum seeker kidnapping case",
+      "summary": "Department had claimed that being kidnapped for ransom was not exploitation of trafficking victims in case of Syrian man abducted in Libya The court of appeal has rejected claims by the Home Office that being kidnapped",
       "source": "卫报",
       "url": "https://www.theguardian.com/law/2026/nov/07/court-of-appeal-rules-kidnap-for-ransom-libya-exploitation-trafficking-victims-asylum-seeker-home-office",
       "published_at": "2026-11-07T21:00:11+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "政治",
-      "title": "布鲁塞尔峰会前，五位欧洲领导人呼吁加强欧盟与英国关系",
-      "summary": "德国、比利时、荷兰、卢森堡和丹麦表示，在清洁能源方面的合作将使双方受益。五位欧洲领导人呼吁在备受期待的欧盟-英国峰会前加强与英国的关系。",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/world/2026/nov/07/europe-leaders-call-closer-eu-uk-ties-brussels-summit",
-      "published_at": "2026-11-07T20:51:25+08:00"
     },
     {
       "region": "美国",
@@ -193,8 +202,8 @@
     {
       "region": "欧洲",
       "category": "社会",
-      "title": "研究发现，食品塑料包装中新型“高安全性”化学品与出生体重降低有关",
-      "summary": "据称安全的替代品 Dinch 在欧盟和美国使用，也被发现会导致胎儿发育并发症。接触新一代据称“安全”的增塑剂与出生体重降低和胎儿……",
+      "title": "New ‘high safety’ chemicals in plastic food packaging linked to lower birth weight, study finds",
+      "summary": "Dinch, an allegedly ‘safe’ alternative, used in the EU and US also found to cause fetal development complications Exposure to a new generation of allegedly “safe” plasticizers is linked to lower birth weight and fetal",
       "source": "卫报",
       "url": "https://www.theguardian.com/us-news/2026/nov/07/nontoxic-plastic-lower-birth-weight-study",
       "published_at": "2026-11-07T20:00:13+08:00"
@@ -207,6 +216,15 @@
       "source": "德国之声",
       "url": "https://www.dw.com/zh/深圳apec前夕-美国催中国兑现稀土承诺/a-79884476?maca=chi-rss-chi-all-1127-xml-mrss",
       "published_at": "2026-11-07T19:18:00+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "社会",
+      "title": "Latest news bulletin | November 7th, 2026 – Midday",
+      "summary": "Catch up with the most important stories from around Europe and beyond this November 7th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/video/2026/11/07/latest-news-bulletin-november-7th-2026-midday",
+      "published_at": "2026-11-07T19:00:15+08:00"
     },
     {
       "region": "中国",
@@ -229,19 +247,19 @@
     {
       "region": "中国",
       "category": "社会",
-      "title": "长平观察：西方背弃黄之锋，也在背弃自己",
-      "summary": "香港民主运动人士黄之锋以“串谋勾结外国势力”罪再被判刑10年。时事评论作家长平指出，从六四后老布什密使北京，到今天对黄之锋的沉默，西方一再背弃自由斗士，必将为自己的迟钝、懦弱和堕落付出代价。",
+      "title": "“天宫”将迎来首位外籍宇航员",
+      "summary": "中国空间站即将迎来首位外国访客！据中国官媒报道，一名巴基斯坦宇航员将搭乘“神舟二十四号” 飞船进入中国空间站。",
       "source": "德国之声",
-      "url": "https://www.dw.com/zh/长平观察：西方背弃黄之锋，也在背弃自己/a-79883719?maca=chi-rss-chi-all-1127-xml-mrss",
+      "url": "https://www.dw.com/zh/天宫-将迎来首位外籍宇航员/a-79883779?maca=chi-rss-chi-all-1127-xml-mrss",
       "published_at": "2026-11-07T17:06:00+08:00"
     },
     {
       "region": "中国",
       "category": "社会",
-      "title": "“天宫”将迎来首位外籍宇航员",
-      "summary": "中国空间站即将迎来首位外国访客！据中国官媒报道，一名巴基斯坦宇航员将搭乘“神舟二十四号” 飞船进入中国空间站。",
+      "title": "长平观察：西方背弃黄之锋，也在背弃自己",
+      "summary": "香港民主运动人士黄之锋以“串谋勾结外国势力”罪再被判刑10年。时事评论作家长平指出，从六四后老布什密使北京，到今天对黄之锋的沉默，西方一再背弃自由斗士，必将为自己的迟钝、懦弱和堕落付出代价。",
       "source": "德国之声",
-      "url": "https://www.dw.com/zh/天宫-将迎来首位外籍宇航员/a-79883779?maca=chi-rss-chi-all-1127-xml-mrss",
+      "url": "https://www.dw.com/zh/长平观察：西方背弃黄之锋，也在背弃自己/a-79883719?maca=chi-rss-chi-all-1127-xml-mrss",
       "published_at": "2026-11-07T17:06:00+08:00"
     },
     {
@@ -292,15 +310,6 @@
     {
       "region": "欧洲",
       "category": "社会",
-      "title": "法新社谴责警方暴力对待其记者",
-      "summary": "法新社（AFP）周五谴责“执法部门在法国高中生运动和抗议高生活成本的示威活动中对其记者实施暴力”。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261106-%E6%B3%95%E6%96%B0%E7%A4%BE%E8%B0%B4%E8%B4%A3%E8%AD%A6%E6%96%B9%E6%9A%B4%E5%8A%9B%E5%AF%B9%E5%BE%85%E5%85%B6%E8%AE%B0%E8%80%85",
-      "published_at": "2026-11-07T05:08:07+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "社会",
       "title": "意大利侦结对“李老师不是你老师”跨境监视威胁案",
       "summary": "米兰检察官已结束对居住在意大利的异议人士“李老师不是你老师”遭跨境跟踪、监视及威胁案件的调查，并准备申请将案件移送审判。",
       "source": "德国之声",
@@ -308,7 +317,7 @@
       "published_at": "2026-11-06T23:01:00+08:00"
     },
     {
-      "region": "中国",
+      "region": "美国",
       "category": "政治",
       "title": "德语媒体：西方背弃了黄之锋",
       "summary": "《世界报》发表评论称，香港民主派人士黄之锋为争取自由而身陷囹圄，但日益怯弱且堕落的西方却选择了沉默。",
