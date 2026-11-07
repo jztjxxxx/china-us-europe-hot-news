@@ -1,0 +1,222 @@
+/* 中美欧热点新闻 — 报纸头版风格；仅用系统字体，无外部字体/CDN。 */
+:root {
+  --ink: #1a1a1a;
+  --muted: #6b6b6b;
+  --line: #d8d2c4;
+  --paper: #fdfbf5;
+  --accent: #a6192e;
+  --card: #ffffff;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: "Songti SC", "Noto Serif CJK SC", "SimSun", Georgia, serif;
+  line-height: 1.6;
+}
+
+a { color: var(--ink); }
+
+.masthead {
+  text-align: center;
+  padding: 28px 16px 18px;
+  border-bottom: 3px double var(--ink);
+  max-width: 1080px;
+  margin: 0 auto;
+}
+
+.masthead .dateline {
+  font-family: "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
+  font-size: 13px;
+  letter-spacing: 0.12em;
+  color: var(--muted);
+  margin: 0 0 8px;
+}
+
+.masthead h1 {
+  font-size: clamp(34px, 7vw, 56px);
+  line-height: 1.15;
+  margin: 0;
+  letter-spacing: 0.06em;
+}
+
+.masthead .tagline {
+  font-family: "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
+  font-size: 14px;
+  color: var(--muted);
+  margin: 8px 0 4px;
+}
+
+.masthead .updated {
+  font-family: "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
+  font-size: 13px;
+  color: var(--muted);
+  margin: 4px 0 0;
+}
+
+main {
+  max-width: 1080px;
+  margin: 0 auto;
+  padding: 0 16px 32px;
+}
+
+.controls {
+  padding: 18px 0 6px;
+  border-bottom: 1px solid var(--line);
+}
+
+#search {
+  width: 100%;
+  padding: 10px 12px;
+  font-size: 15px;
+  font-family: "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  background: var(--card);
+  color: var(--ink);
+  margin-bottom: 12px;
+}
+
+.tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 10px;
+}
+
+.tabs button {
+  font-family: "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
+  font-size: 14px;
+  padding: 6px 14px;
+  border: 1px solid var(--ink);
+  border-radius: 999px;
+  background: transparent;
+  color: var(--ink);
+  cursor: pointer;
+}
+
+.tabs button.active {
+  background: var(--ink);
+  color: var(--paper);
+}
+
+.tabs.categories button.active {
+  background: var(--accent);
+  border-color: var(--accent);
+}
+
+.headline {
+  padding: 20px 0 8px;
+  border-bottom: 1px solid var(--line);
+}
+
+.headline .kicker {
+  font-family: "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
+  font-size: 13px;
+  color: var(--accent);
+  letter-spacing: 0.15em;
+  margin: 0 0 6px;
+}
+
+.headline h2 {
+  font-size: clamp(22px, 4vw, 32px);
+  line-height: 1.35;
+  margin: 0 0 8px;
+}
+
+.headline h2 a { text-decoration: none; }
+.headline h2 a:hover { text-decoration: underline; }
+
+.headline p { margin: 0 0 8px; font-size: 16px; }
+
+.status, .empty {
+  font-family: "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
+  color: var(--muted);
+  text-align: center;
+  padding: 24px 0;
+}
+
+.region-section { margin-top: 8px; }
+
+.region-section > h2 {
+  font-size: 22px;
+  border-bottom: 2px solid var(--ink);
+  padding-bottom: 6px;
+  margin: 24px 0 0;
+}
+
+.region-section > h2 span { color: var(--muted); font-size: 14px; font-weight: normal; }
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 16px;
+  margin-top: 16px;
+}
+
+.card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-top: 3px solid var(--ink);
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+}
+
+.card h3 {
+  font-size: 18px;
+  line-height: 1.45;
+  margin: 0 0 8px;
+}
+
+.card h3 a { text-decoration: none; }
+.card h3 a:hover { text-decoration: underline; color: var(--accent); }
+
+.card .category {
+  display: inline-block;
+  font-family: "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
+  font-size: 12px;
+  color: var(--accent);
+  border: 1px solid var(--accent);
+  border-radius: 3px;
+  padding: 1px 7px;
+  margin-bottom: 8px;
+}
+
+.card p.summary {
+  font-size: 15px;
+  margin: 0 0 12px;
+  flex: 1;
+}
+
+.card .meta {
+  font-family: "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
+  font-size: 12.5px;
+  color: var(--muted);
+  margin: 0;
+}
+
+.card .meta span + span::before {
+  content: " · ";
+}
+
+footer {
+  max-width: 1080px;
+  margin: 0 auto;
+  padding: 20px 16px 32px;
+  border-top: 3px double var(--ink);
+  font-family: "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
+  font-size: 13px;
+  color: var(--muted);
+  text-align: center;
+}
+
+footer p { margin: 4px 0; }
+
+@media (max-width: 600px) {
+  .masthead { padding-top: 20px; }
+  .cards { grid-template-columns: 1fr; }
+}
