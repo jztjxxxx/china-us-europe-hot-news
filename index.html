@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>中美欧热点新闻</title>
+<meta name="description" content="整合中国、美国、欧洲的热点新闻：政治、经济、科技、市场、社会综合头条，每天自动更新。">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="masthead">
+  <p class="dateline"><span id="today-date">—</span> · 综合头条 · 政治 / 经济 / 科技 / 市场 / 社会</p>
+  <h1>中美欧热点新闻</h1>
+  <p class="tagline">中国 · 美国 · 欧洲 —— 每日热点，一页尽览</p>
+  <p class="updated">数据更新于 <span id="updated-at">加载中…</span></p>
+</header>
+
+<main>
+  <section class="controls" aria-label="筛选">
+    <input id="search" type="search" placeholder="搜索标题或摘要…" aria-label="搜索新闻">
+    <nav class="tabs" id="region-tabs" aria-label="地区">
+      <button data-region="全部" class="active">全部</button>
+      <button data-region="中国">中国</button>
+      <button data-region="美国">美国</button>
+      <button data-region="欧洲">欧洲</button>
+    </nav>
+    <nav class="tabs categories" id="category-tabs" aria-label="分类">
+      <button data-category="全部" class="active">全部</button>
+      <button data-category="政治">政治</button>
+      <button data-category="经济">经济</button>
+      <button data-category="科技">科技</button>
+      <button data-category="市场">市场</button>
+      <button data-category="社会">社会</button>
+    </nav>
+  </section>
+
+  <section id="headline" class="headline" aria-label="头条"></section>
+
+  <p id="status" class="status" role="status">正在加载新闻…</p>
+  <div id="news"></div>
+
+  <p id="empty" class="empty" hidden>没有符合条件的新闻，换个关键词或分类试试。</p>
+</main>
+
+<footer>
+  <p>新闻内容版权属于原来源，本站仅做摘要聚合；点击标题可阅读原文。</p>
+  <p>数据源：德国之声、法国国际广播电台、南华早报、BBC、卫报、纽约时报、NPR、Euronews。数据每天自动更新（北京时间约 07:30）。</p>
+  <p><a href="https://github.com/jztjxxxx/china-us-europe-hot-news">GitHub 开源项目</a> · MIT 许可证</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
