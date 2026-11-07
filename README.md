@@ -1,5 +1,9 @@
 # 中美欧热点新闻
 
+> 👉 **在线看新闻：https://jztjxxxx.github.io/china-us-europe-hot-news/**
+>
+> 直接点上面这个链接就能看，不用下载、不用安装。
+
 整合中国、美国、欧洲的热点新闻：报纸头版式页面，顶部头条、下方按地区分栏，覆盖政治、经济、科技、市场、社会五类，可按地区 / 分类筛选、全文搜索，每天自动更新一次。
 
 > **English summary:** A static, open-source hot-news page covering China, the US and Europe. Headlines are fetched from public RSS feeds, rendered client-side from `data/news.json`, and refreshed daily by GitHub Actions. No build step, no external fonts or CDNs, no tracking.
