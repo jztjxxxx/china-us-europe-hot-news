@@ -6,7 +6,7 @@
 
 整合中国、美国、欧洲的热点新闻：报纸头版式页面，顶部头条、下方按地区分栏，覆盖政治、经济、科技、市场、社会五类，可按地区 / 分类筛选、全文搜索，每天自动更新一次。
 
-> **English summary:** A static, open-source hot-news page covering China, the US and Europe. Headlines are fetched from public RSS feeds, rendered client-side from `data/news.json`, and refreshed daily by GitHub Actions. No build step, no external fonts or CDNs, no tracking.
+> **English summary:** A static, open-source hot-news page covering China, the US and Europe. Headlines are fetched from public RSS feeds, rendered client-side from `data/news.json`, and refreshed daily by GitHub Actions. No build step, no external fonts; the only external script is the free GTranslate widget (see “翻译 / Translation”).
 
 ## 功能
 
@@ -14,8 +14,25 @@
 - 地区页签：全部 / 中国 / 美国 / 欧洲；分类筛选：全部 / 政治 / 经济 / 科技 / 市场 / 社会
 - 搜索框：按标题、摘要过滤
 - 每条新闻：中文标题、1–2 句中文摘要、来源、发布时间、原文链接（新标签页打开）
+- 翻译：搜索框旁“🌐 翻译 / Translate”下拉框，免费 GTranslate 小部件，可把整页翻成 15 种主流语言（见下文“翻译”）
 - 页眉显示数据更新时间；响应式布局，手机可正常浏览
-- 零外部依赖：只用系统字体，不加载任何外部字体或 CDN；纯静态页面
+- 唯一外部依赖：GTranslate 翻译脚本（cdn.gtranslate.net，免费），其余只用系统字体，不加载其他外部字体或 CDN；纯静态页面
+
+## 翻译 / Translation
+
+页面搜索框旁有“🌐 翻译 / Translate”下拉框，点开选一种语言，整页（标题、头条、新闻标题和摘要、地区与分类页签）就会翻成该语言，原文链接不变，仍跳到原新闻。
+
+用的是免费的 GTranslate 小部件（无需 key、无需注册），支持以下 15 种语言：
+
+中文（简体）、繁體中文、English、Español、Français、Deutsch、日本語、한국어、Português、Русский、العربية、हिन्दी、Bahasa Indonesia、Tiếng Việt、Türkçe
+
+注意：
+
+- **这是唯一的外部依赖。** 页面会加载 `https://cdn.gtranslate.net/widgets/latest/dropdown.js`，需要能访问 cdn.gtranslate.net；打不开时页面本身（新闻）不受影响，只会显示“翻译加载失败”的提示。
+- **免费版适用范围。** GTranslate 的免费小部件面向非商业网站（个人网站、教育项目、非营利组织、政府网站等），不限字数和浏览量；商业网站、需要被搜索引擎收录的翻译页面、手动改译文等功能要付费版。本项目是非商业的公开新闻聚合页，符合免费版用途。
+- **为什么不用 Google 翻译小部件。** 此前用的 Google 翻译小部件已于 2026-10-01 停止支持，实测在真浏览器里只剩一个“🌐 翻译 / Translate”文字标签、下拉框根本渲染不出来，请求其脚本还会返回 429/验证码页，故已全部移除，改用 GTranslate。
+- **动态新闻与漏翻的处理。** 新闻是页面加载后从 `data/news.json` 抓取、由 `app.js` 渲染进 DOM 的。GTranslate 的翻译库自带 DOM 变化监听，新节点加入时会停掉当前一轮、重新走一遍整个页面；但一轮翻完后监听的开关会关掉，之后再有渲染变化就不一定触发，特别是切走地区/分类再切回“全部”时头条是同一条内容重建。另外翻译库只优先翻视口内的节点，视口外的先放一放（约 200px 余量），等滚到附近再翻，而且是分批逐步翻的——所以页脚（页面最底下）和刚好在首屏外的头条，在短时间的检查里没翻完是正常的，不是被跳过了。为此 `app.js` 在每次渲染后开始一轮轮询（首次约 0.9 秒、之后每 2 秒查一次、持续约 90 秒，覆盖翻译库一轮几十秒的时长），滚动时也触发检查：只在“已选非中文、翻译库已就绪、上一轮已结束、头条或页脚在视口内却仍是中文原文”时，才用 `__GT.translator.revert()` + `translate()` 强制同一语言重翻（每渲染周期最多两次、每页累计最多 20 次的安全上限；同语言再调 `doGTranslate()` 是空操作，核对过 GTranslate 源码才改成这个办法）。上一轮还在翻时轮询会一直等它翻完再查，不会只查两次就放弃——旧版就是只查两次、每页上限 3 次，实测切分类回“全部”后头条变回中文、105 秒都没再被翻，就是栽在这两点上。已选语言会记在浏览器的 localStorage 里，刷新页面后小部件会自动恢复；新开标签页时页面会先显示中文、再逐步翻过去，这是翻译库分批翻的正常表现。
+- **局限（实话实说）。** 机器翻译质量以 GTranslate 为准，专有名词和数字以原文链接为准；强制重翻时会整页先短暂恢复中文再重翻，这是为了补翻漏掉的头条/页脚付出的代价，只在确实看到缺口时才触发。免费版主要翻译视口内及附近的内容，下方卡片要滚到附近才会逐步翻完。想做到每次都稳定、准，就得改用付费翻译 API 在每天更新时预先翻好各语言版本，那是下一步的优化，不是现在这个免费方案。
 
 ## 本地使用
 
