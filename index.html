@@ -58,9 +58,14 @@
 <script>
 /* GTranslate 免费小部件（无需 key）。设置必须在 dropdown.js 之前定义，
    按官方示例原样放在这里；dropdown.js 用 defer 加载，执行时
-   window.gtranslateSettings 已就绪。语言与加密货币站一致：15 种主流语言。 */
+   window.gtranslateSettings 已就绪。语言与加密货币站一致：15 种主流语言。
+   native_language_names 让下拉框用各语言自己的名字显示（日本語、Français…）；
+   detect_browser_language 关掉，不按访客浏览器语言自动改默认语言，
+   默认语言固定为中文（简体）。 */
 window.gtranslateSettings = {
   "default_language": "zh-CN",
+  "native_language_names": true,
+  "detect_browser_language": false,
   "languages": ["zh-CN", "zh-TW", "en", "es", "fr", "de", "ja", "ko", "pt", "ru", "ar", "hi", "id", "vi", "tr"],
   "wrapper_selector": ".gtranslate_wrapper"
 };
