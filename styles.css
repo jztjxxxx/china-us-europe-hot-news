@@ -75,8 +75,11 @@ main {
 }
 
 .controls-row #search {
-  flex: 1 1 auto;
+  /* 200px 基准、可伸可缩：之前 flex-basis 是 auto，会沿用 #search 的
+     width: 100%，搜索框先占满整行、把翻译控件挤到下一行。 */
+  flex: 1 1 200px;
   min-width: 0;
+  width: auto;
   margin-bottom: 0;
 }
 
@@ -271,7 +274,11 @@ footer p { margin: 4px 0; }
 @media (max-width: 600px) {
   .masthead { padding-top: 20px; }
   .cards { grid-template-columns: 1fr; }
-  /* 窄屏时搜索框独占一行，翻译控件换到下一行、靠右，不溢出。 */
+}
+
+@media (max-width: 480px) {
+  /* 真正窄屏时搜索框独占一行，翻译控件换到下一行、靠右，不溢出。
+     之前换行断点是 600px，中等宽度（481–600px）也会被挤成两行。 */
   .controls-row { flex-wrap: wrap; }
   .controls-row #search { flex: 1 1 100%; }
   .translate-bar { margin-left: auto; max-width: 100%; }
