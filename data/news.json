@@ -1,149 +1,302 @@
 {
-  "updated_at": "2026-11-08T10:39:14+08:00",
+  "updated_at": "2026-11-08T15:30:52+08:00",
   "items": [
+    {
+      "region": "欧洲",
+      "category": "经济",
+      "title": "商贩称1.2万英镑的圣诞集市摊位费“贵得摆不起”",
+      "summary": "摊主们表示，自从新运营方接手后成本高企，他们已会见市议会领导，表达了对高昂费用的担忧。",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ckn8wew92xw1o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-08T15:11:02+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "政治",
+      "title": "特朗普邀请UFC总裁出任白宫新闻秘书：“达纳，请接受这份工作！”",
+      "summary": "特朗普与怀特多年来关系密切，特朗普经常出席UFC赛事，怀特也曾在总统的多次集会上发言。",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/08/trump-offers-ufc-boss-press-secretary-role-dana-please-take-the-job",
+      "published_at": "2026-11-08T15:04:37+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "政治",
+      "title": "中期选举惨败后，民主党能否改变“不再受约束”的特朗普的俄乌立场？",
+      "summary": "共和党在美国中期选举中落败，俄罗斯密切关注，有观察人士预测，民主党明年1月接管国会后，对乌克兰的支持可能会增加。",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3373681/will-democrats-sway-unshackled-trumps-russia-ukraine-stance-after-midterm-rout",
+      "published_at": "2026-11-08T15:00:34+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "政治",
+      "title": "特朗普破碎的“镜像世界”：美国选民断然拒绝总统的另类现实",
+      "summary": "总统宣称带来了“黄金时代”，但物价飙升、战争拖延，中期选举选民并不买账他的“镜中叙事”……",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/08/trump-midterms-voters-mirror-world",
+      "published_at": "2026-11-08T15:00:34+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "经济",
+      "title": "拉美香蕉种植者要求提高报酬，以应对气候危机的影响",
+      "summary": "今年超级厄尔尼诺事件带来的极端天气导致产量大幅下降，拉美香蕉种植者呼吁提高报酬，以应对气候危机的影响……",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis",
+      "published_at": "2026-11-08T15:00:34+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "社会",
+      "title": "面临遣返的在英土耳其人激增，引发“疾风世代”式指责",
+      "summary": "在英国无限期居留申请被拒中发现错误后，包括戴维·拉米在内的人士表达了担忧，面临遣返的在英土耳其人数量突然上升引发了关注……",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/politics/2026/nov/08/turkish-nationals-uk-indefinite-leave-to-remain-home-office-windrush",
+      "published_at": "2026-11-08T15:00:33+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "经济",
+      "title": "“免费赠送三角钢琴”：利用音乐爱好者善心的骗局",
+      "summary": "邮件声称发件女子的丈夫去世，她要免费送出他的三角钢琴，但事情并非看上去那样。你的收件箱里突然出现一封邮件：一位丈夫去世的女子要免费赠送他的三角钢琴。",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/money/2026/nov/08/free-grand-piano-scam-emails",
+      "published_at": "2026-11-08T15:00:33+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "市场",
+      "title": "香港投资者放眼瑞士阿尔卑斯，分散房地产投资",
+      "summary": "一些富有的香港投资者正把目光投向亚洲以外，寻求跨币种、跨司法管辖区分散房地产投资，作为保值整体布局的一部分。",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/property/international/article/3373585/hong-kong-investors-look-swiss-alps-they-diversify-property-holdings",
+      "published_at": "2026-11-08T14:00:37+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "科技",
+      "title": "发烫的冰箱、假核警报与60亿美元劫案：我们是否正处在黑客攻击潮的前夜？",
+      "summary": "随着人工智能暴露出信息技术系统的漏洞，地缘政治在网络前线展开，一些专家认为，近几周发生的事件可能很快就会变得司空见惯……",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic",
+      "published_at": "2026-11-08T14:00:33+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "市场",
+      "title": "凯茜·伍德称“市场越担忧，我感觉越好”——原因在此",
+      "summary": "方舟投资首席执行官表示，市场目前笼罩着一堵“忧虑之墙”。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/08/cathie-wood-ai-selloff.html",
+      "published_at": "2026-11-08T14:00:01+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "科技",
+      "title": "人工智能正在加速招聘，并给中介费带来压力",
+      "summary": "招聘人员表示，人工智能正在加快筛选速度、重塑中介工作，人们开始质疑按比例收取的安置费能否维持下去。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/08/ai-recruitment-agency-fees.html",
+      "published_at": "2026-11-08T14:00:01+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "经济",
+      "title": "日本物价“高得离谱”，涨价为何反而让企业吃亏",
+      "summary": "当日本“平价象征”优衣库上个月决定上调基础款袜子的价格时，引发了强烈反弹，这家服装巨头随即迅速改口。",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3373678/why-raising-prices-japan-amid-insanely-high-inflation-backfires-firms",
+      "published_at": "2026-11-08T13:30:22+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "社会",
+      "title": "污染严重的德里在排灯节尝试“绿色”烟花以净化空气",
+      "summary": "印度最高法院裁定，这个周末只能燃放更环保的烟花，理由是空气质量问题，但环保人士称这是“漂绿”。",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/08/world/asia/delhi-pollution-green-fireworks-diwali.html",
+      "published_at": "2026-11-08T13:01:18+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "社会",
+      "title": "萨摩亚厨师把家乡风味带到新西兰高级餐厅",
+      "summary": "亨利·奥内塞莫在南太平洋岛屿长大，食物是他成长的核心，如今他把家乡风味带到了新西兰的米其林星级餐厅。",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/08/world/asia/onesemo-new-zealand-chef-samoa.html",
+      "published_at": "2026-11-08T13:01:15+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "社会",
+      "title": "又一位头号种子落马，圣母大学力克迈阿密搅乱大学橄榄球季后赛格局",
+      "summary": "C·J·卡尔传球319码、3次达阵，帮助排名第四的圣母大学以31比24获胜，报了此前让他们无缘季后赛的一箭之仇，迈阿密在有争议的末段判罚后反扑未果……",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/sport/2026/nov/08/notre-dame-miami-college-football-upset-cj-carr-playoff",
+      "published_at": "2026-11-08T13:01:04+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "科技",
+      "title": "欧洲真的开始认真摆脱技术依赖了吗？",
+      "summary": "布鲁塞尔正朝着正确方向前进，但还可以进一步推动各国政府。",
+      "source": "金融时报",
+      "url": "https://www.ft.com/content/bd763f67-4c23-4e55-8fbf-3ca0ed520175?syn-25a6b1a6=1",
+      "published_at": "2026-11-08T13:00:19+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "市场",
+      "title": "加密货币行业准备迎接与特朗普关系的清算",
+      "summary": "民主党誓言，在中期选举大胜后，将开始调查总统家族相关事宜。",
+      "source": "金融时报",
+      "url": "https://www.ft.com/content/f1b98a61-4103-447c-bb9a-3dccc0819f61?syn-25a6b1a6=1",
+      "published_at": "2026-11-08T13:00:19+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "科技",
+      "title": "苹果通过在新加坡入账利润节省27亿美元税款",
+      "summary": "根据新的披露，新加坡已超过爱尔兰，成为这家iPhone制造商最大的避税地。",
+      "source": "金融时报",
+      "url": "https://www.ft.com/content/49453406-99f2-4f5b-8f5d-01dc8cac5ede?syn-25a6b1a6=1",
+      "published_at": "2026-11-08T13:00:11+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "科技",
+      "title": "俄罗斯加紧打造埃隆·马斯克“星链”的竞争对手",
+      "summary": "莫斯科的旗舰太空项目将使深入乌克兰境内的更致命无人机袭击成为可能。",
+      "source": "金融时报",
+      "url": "https://www.ft.com/content/423ca208-8e22-4fb3-a76d-b9c722fd8cc0?syn-25a6b1a6=1",
+      "published_at": "2026-11-08T13:00:11+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "市场",
+      "title": "央视称，中国有望在2026年引领全球能源投资",
+      "summary": "据中国中央电视台周日报道，根据中国企业改革与发展研究会发布的《全球能源转型报告2026》，中国2026年能源投资预计达9400亿美元，为全球各国之最……",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-08/china-set-to-lead-world-in-energy-investment-in-2026-cctv-says",
+      "published_at": "2026-11-08T12:02:33+08:00"
+    },
     {
       "region": "中国",
       "category": "科技",
-      "title": "China US$300 dating app ‘marriage-or-refund’ guarantee sparks intense online buzz",
-      "summary": "In China’s competitive dating market, a new matchmaking start-up is staking its revenue on a bold wager: find true love, or get every penny back.",
+      "title": "香港在中国内地进口博览会上进一步拓展人工智能与航空业务",
+      "summary": "中国全球进口博览会的业内人士表示，香港正在人工智能、航空和专业服务领域与内地建立更深厚的联系。",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3373664/hong-kong-makes-further-roads-ai-aviation-mainland-chinese-expo",
+      "published_at": "2026-11-08T12:00:35+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "社会",
+      "title": "世界遗产地中只有一小部分在非洲，中国想改变这一点",
+      "summary": "非洲拥有古城、岩画和壮丽的自然景观，但其遗址在联合国教科文组织《世界遗产名录》中的占比严重偏低。",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3373662/only-fraction-world-heritage-sites-are-africa-china-wants-fix",
+      "published_at": "2026-11-08T12:00:32+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "社会",
+      "title": "东南亚绿色转型带来太阳能，但谁来买单维持运转？",
+      "summary": "奥斯曼·乌基大半辈子都生活在由阳光主宰的世界里，靠煤油和剩下的食用油照亮马来西亚偏远原住民村庄的家。",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/week-asia/health-environment/article/3373551/southeast-asias-green-push-brings-solar-power-who-pays-keep-it",
+      "published_at": "2026-11-08T12:00:30+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "科技",
+      "title": "印尼民众愤怒：巴淡岛数据中心抽干水龙头，“我们没水做饭”",
+      "summary": "在印尼巴淡岛，水龙头干涸后，做饭和洗澡都变得困难，当地居民正在抗议为全球人工智能热潮供电而新建的数据中心。",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3373676/indonesians-furious-batam-data-centres-drain-taps-we-cannot-cook-without-water",
+      "published_at": "2026-11-08T11:51:09+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "社会",
+      "title": "梅西连续第二年夺得金靴，纳什维尔在美职联决战日创下积分纪录",
+      "summary": "梅西成为首位连续夺得美职联金靴的球员，迈阿密国际在一场戏剧性平局中丢掉3比0的领先，纳什维尔以77分创下联赛新纪录。梅西周六赢得了连续第二个美职联金靴奖……",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/football/2026/nov/07/lionel-messi-mls-golden-boot-inter-miami-charlotte-nashville-playoffs",
+      "published_at": "2026-11-08T11:31:47+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "科技",
+      "title": "中国一款300美元相亲应用“结婚或退款”承诺引发热议",
+      "summary": "在中国竞争激烈的相亲市场，一家新兴婚恋初创公司押上全部收入打赌：找到真爱，否则全额退款。",
       "source": "南华早报",
       "url": "https://www.scmp.com/news/people-culture/trending-china/article/3373674/china-us300-dating-app-marriage-or-refund-guarantee-sparks-intense-online-buzz",
       "published_at": "2026-11-08T10:00:27+08:00"
     },
     {
-      "region": "中国",
-      "category": "政治",
-      "title": "Hong Kong must show real remorse for the Tai Po fire tragedy",
-      "summary": "When Chief Executive John Lee Ka-chiu and seven principal officials bowed deeply before the cameras on October 29, Hong Kong witnessed something rare: a collective government apology.",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3373289/hong-kong-must-show-real-remorse-tai-po-fire-tragedy",
-      "published_at": "2026-11-08T09:30:21+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "社会",
-      "title": "Hong Kong firefighters get HK$8.4 million tracking upgrade after Tai Po fire",
-      "summary": "Some 2,000 Hong Kong firefighters have been issued upgraded tracking devices after an independent inquiry into last year’s deadly Tai Po fire exposed technical limitations in the previous system, the South China Morning",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/news/hong-kong/article/3373666/hong-kong-firefighters-get-hk84-million-tracking-upgrade-after-tai-po-fire",
-      "published_at": "2026-11-08T09:00:34+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "社会",
-      "title": "Japan rethinks its stalking laws after Pokemon store murder",
-      "summary": "Long before Moe Harukawa was killed, she lived in fear. The 21-year-old shop assistant had reported her ex-boyfriend to police and a court had ordered him to stay away from her.",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/week-asia/health-environment/article/3373571/japan-rethinks-its-stalking-laws-after-pokemon-store-murder",
-      "published_at": "2026-11-08T09:00:27+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "社会",
-      "title": "Grief in China as rare snow leopard cub Ling Xiaohan loses 26-day fight for life",
-      "summary": "Millions of Chinese internet users grieved after beloved snow leopard cub Ling Xiaohan died last Sunday, following 26 days of medical treatment after he was found weak, injured and unable to move in the Qinghai Lake",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/news/china/politics/article/3373512/grief-china-rare-snow-leopard-cub-ling-xiaohan-loses-26-day-fight-life",
-      "published_at": "2026-11-08T09:00:24+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "社会",
-      "title": "The Trump coalition is shattered - what will Republicans do now?",
-      "summary": "Republicans can stick with Trumpism or chart a new path, writes BBC Washington correspondent Daniel Bush.",
+      "region": "欧洲",
+      "category": "科技",
+      "title": "《塞尔达》重制版能重现当年的魔力吗？",
+      "summary": "任天堂发布了这款被认为是有史以来最好游戏之一的重制版，BBC记者汤姆·格肯给出了他的评价。",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-08T08:52:39+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "政治",
-      "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
-      "summary": "It was unclear how genuine the president's offer was, although White later said he would travel to Washington for them to meet.",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-08T08:31:53+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "政治",
-      "title": "Trump says he asked Dana White, UFC boss, to be his new White House press secretary",
-      "summary": "White says he has meeting with Trump in Washington DC on Monday, without saying whether he will accept the job Donald Trump has offered the job of White House press secretary to Dana White, the chief executive of the",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/us-news/2026/nov/07/donald-trump-dana-white-press-secretary",
-      "published_at": "2026-11-08T08:28:33+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "政治",
-      "title": "Trump Asks Dana White of U.F.C. to Be His Press Secretary",
-      "summary": "On social media, the president offered the now-vacant job of White House press secretary to Dana White, the organization’s C.E.O., and told him to bring along fighters as aides.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/07/us/politics/trump-dana-white-ufc-press-secretary.html",
-      "published_at": "2026-11-08T08:19:59+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "社会",
-      "title": "Homelessness in the U.S. saw its largest drop in more than a decade last year",
-      "summary": "Homelessness declined after years of record-high levels but it still remains at nearly 700,000. The Trump administration and homeless advocacy groups cite different reasons for the drop.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/07/nx-s1-6033491/homelessness-in-the-u-s-saw-its-largest-drop-in-more-than-a-decade-last-year",
-      "published_at": "2026-11-08T08:19:52+08:00"
+      "url": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-08T08:37:45+08:00"
     },
     {
       "region": "中国",
       "category": "经济",
-      "title": "In Malaysia, a shadow trade in DIY weight-loss jabs takes hold",
-      "summary": "When her prescription for Mounjaro became too expensive, Bey* did what a growing number of Malaysians are doing: she found a cheaper vial online.",
+      "title": "马来西亚暗地里流行DIY减肥针",
+      "summary": "当她的Mounjaro处方药变得太贵时，贝伊*做了越来越多马来西亚人正在做的事：在网上找更便宜的药瓶。",
       "source": "南华早报",
       "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3373570/malaysia-shadow-trade-diy-weight-loss-jabs-takes-hold",
       "published_at": "2026-11-08T08:00:33+08:00"
     },
     {
-      "region": "美国",
-      "category": "社会",
-      "title": "Wisconsin state patrol trooper detained by ICE released from custody",
-      "summary": "Carel Aaron Van Der Merwe immigrated to US at 14 and has been waiting seven years for asylum case to be heard A Wisconsin state patrol trooper, whom federal immigration agents detained on Thursday at an airport, has",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/us-news/2026/nov/07/wisconsin-state-trooper-ice-released",
-      "published_at": "2026-11-08T07:05:06+08:00"
+      "region": "中国",
+      "category": "市场",
+      "title": "人工智能股暴跌，亚洲被遗忘的交易卷土重来：从中国到印度",
+      "summary": "美国中期选举后人工智能交易的瓦解迫使投资者重新思考亚洲布局，促使人们重新追捧不受青睐的中国和印度股票，以及有望受益于通胀缓解和贸易紧张局势的公司……",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-08/ai-slump-revives-asia-s-forgotten-trades-from-china-to-india",
+      "published_at": "2026-11-08T08:00:00+08:00"
     },
     {
-      "region": "美国",
-      "category": "政治",
-      "title": "Kraków shooting latest updates: six killed and more than a dozen injured – as it happened",
-      "summary": "Polish Prime Minister Donald Tusk heads to the city after four women and two men are killed and more than a dozen people injured Tom Rose, the US ambassador to Poland, wrote on X: We are just learning details of the",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
-      "published_at": "2026-11-08T06:32:41+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "社会",
-      "title": "2 Skydivers Die After Midair Collision in Southern California",
-      "summary": "The skydivers’ parachutes opened but became entangled after they collided, according to the company hosting the event.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/06/us/california-lake-elsinore-skydiving-deaths.html",
-      "published_at": "2026-11-08T06:25:13+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "政治",
-      "title": "Bomb Threats and Cyberattacks in Europe Inject Unease Into Everyday Life",
-      "summary": "A cyberattack on supermarket fridges, bomb threats to planes and software vulnerabilities have Europe on edge as government officials encourage resilience and stockpiling.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/07/world/europe/bomb-threats-cyberattacks-europe-uncertainty.html",
-      "published_at": "2026-11-08T06:05:57+08:00"
+      "region": "中国",
+      "category": "经济",
+      "title": "拉布布热潮看似势不可挡，如今毛绒怪物热正在消退",
+      "summary": "母公司泡泡玛特的收入已下滑，因为人们对这些古怪收藏玩偶的热情正在减退。",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-08T07:02:35+08:00"
     },
     {
       "region": "欧洲",
       "category": "社会",
-      "title": "Ukraine: Russian strikes hit Kyiv region, damaging infrastructure",
-      "summary": "Russian strikes have damaged infrastructure in the Kyiv region and left a kindergarten in ruins in the Ukrainian capital. Firefighters battled a major blaze as Ukraine faced renewed attacks on its energy network.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/video/2026/11/07/ukraine-russian-strikes-hit-kyiv-region-damaging-infrastructure",
-      "published_at": "2026-11-08T05:45:27+08:00"
+      "title": "部长称，克拉科夫枪杀6人的枪手持有“极端民族主义”观点",
+      "summary": "克拉科夫警方表示，枪手驾车进入市中心主要旅游景点主广场，随机向人群开枪。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/07/krakow-poland-shooting.html",
+      "published_at": "2026-11-08T06:39:10+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "经济",
+      "title": "德克萨斯州经济民粹主义传统令人意外又常被遗忘的历史",
+      "summary": "NPR记者罗布·施密茨采访了奥斯汀政治评论员戴维·格里斯科姆，他著有《红色德克萨斯的神话》一书，讲述了德克萨斯州经济民粹主义的故事。",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/07/nx-s1-6030759/the-surprising-and-often-forgotten-history-of-texas-tradition-of-economic-populism",
+      "published_at": "2026-11-08T06:12:07+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "经济",
+      "title": "伊普斯维奇镇俱乐部新店“将长久开下去”",
+      "summary": "球迷和球员都对市中心这处新的“活动空间”感到高兴。",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/videos/cxnv0455zq5jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-08T05:40:32+08:00"
     },
     {
       "region": "美国",
@@ -174,6 +327,15 @@
     },
     {
       "region": "中国",
+      "category": "社会",
+      "title": "印一架重型战略运输机创全球最高海拔降落纪录",
+      "summary": "2026 年 11 月 7 日，印度空军一架伊尔-76MD “Gajraj” 成功降落在了中印边境附近的拉达克东部尼奥马（Nyoma）前线机场（海拔达 13,629 英尺 / 约 4,154 米），创下了该机型在全球范围内的最高海拔降落纪录。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261107-%E5%8D%B0%E4%B8%80%E6%9E%B6%E9%87%8D%E5%9E%8B%E6%88%98%E7%95%A5%E8%BF%90%E8%BE%93%E6%9C%BA%E5%88%9B%E5%85%A8%E7%90%83%E6%9C%80%E9%AB%98%E6%B5%B7%E6%8B%94%E9%99%8D%E8%90%BD%E7%BA%AA%E5%BD%95",
+      "published_at": "2026-11-08T04:51:28+08:00"
+    },
+    {
+      "region": "中国",
       "category": "市场",
       "title": "中国进军欧洲摩托车市场",
       "summary": "中国凭借电动汽车彻底改变了欧洲汽车市场，如今又将同样的模式应用于摩托车领域，令日本和欧洲老牌摩托车品牌开始感受到压力。",
@@ -192,21 +354,12 @@
     },
     {
       "region": "中国",
-      "category": "市场",
+      "category": "社会",
       "title": "拖家带口 去中国实现“美国梦”",
       "summary": "曾是美国市场营销主管的布拉德利·克雷 （Bradley Krae）2016年曾在深圳当过英文教师。",
       "source": "法国国际广播电台",
       "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261107-%E6%8B%96%E5%AE%B6%E5%B8%A6%E5%8F%A3-%E5%8E%BB%E4%B8%AD%E5%9B%BD%E5%AE%9E%E7%8E%B0-%E7%BE%8E%E5%9B%BD%E6%A2%A6",
       "published_at": "2026-11-08T04:41:29+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "政治",
-      "title": "特朗普公开邀请UFC总裁出任白宫新闻发言人",
-      "summary": "美国总统特朗普近日公开向终极格斗冠军赛（UFC）总裁达纳·怀特（Dana White）抛出橄榄枝，邀请其出任白宫新闻发言人一职，美国总统在其社交媒体平台Truth Social上发布了这一消息，并特别指出怀特尚未接受邀请。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261107-%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%BC%80%E9%82%80%E8%AF%B7ufc%E6%80%BB%E8%A3%81%E5%87%BA%E4%BB%BB%E7%99%BD%E5%AE%AB%E6%96%B0%E9%97%BB%E5%8F%91%E8%A8%80%E4%BA%BA",
-      "published_at": "2026-11-08T04:35:07+08:00"
     },
     {
       "region": "欧洲",
@@ -227,33 +380,6 @@
       "published_at": "2026-11-08T03:07:52+08:00"
     },
     {
-      "region": "美国",
-      "category": "科技",
-      "title": "纽时揭中国两家芯片商获美批准处理英伟达芯片“形同空壳”",
-      "summary": "美国特朗普政府批准多家中国企业，购买或组装英伟达（Nvidia）先进人工智能芯片H200，但《纽约时报》调查发现，其中两家获批企业在中国的登记办公室形同空壳，不但现场空无一人，物业管理人员也表示从未听过公司名称。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261107-%E7%BA%BD%E6%97%B6%E6%8F%AD%E4%B8%AD%E5%9B%BD%E4%B8%A4%E5%AE%B6%E8%8A%AF%E7%89%87%E5%95%86%E8%8E%B7%E7%BE%8E%E6%89%B9%E5%87%86%E5%A4%84%E7%90%86%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%8A%AF%E7%89%87-%E5%BD%A2%E5%90%8C%E7%A9%BA%E5%A3%B3",
-      "published_at": "2026-11-08T01:49:57+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "社会",
-      "title": "波兰第二大城克拉科夫发生枪击案 至少6死10伤",
-      "summary": "波兰突发枪击案后，总理图斯克宣布他将前往克拉科夫（Cracovie）。据法新社报道，周六，一名男子在波兰南部旅游中心克拉科夫向路人开枪，造成6人死亡，约10人受伤。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261107-%E6%B3%A2%E5%85%B0%E7%AC%AC%E4%BA%8C%E5%A4%A7%E5%9F%8E%E5%85%8B%E6%8B%89%E7%A7%91%E5%A4%AB%E5%8F%91%E7%94%9F%E6%9E%AA%E5%87%BB%E6%A1%88-%E8%87%B3%E5%B0%916%E6%AD%BB10%E4%BC%A4",
-      "published_at": "2026-11-08T01:32:08+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "政治",
-      "title": "法国检方调查针对航班的虚假炸弹威胁与外国势力潜在关联",
-      "summary": "法国检方已对过去一周针对欧洲数十架商业航班的虚假炸弹威胁展开调查，尤其关注与“外国势力”之间可能存在的联系。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261107-%E6%B3%95%E5%9B%BD%E6%A3%80%E6%96%B9%E8%B0%83%E6%9F%A5%E9%92%88%E5%AF%B9%E8%88%AA%E7%A9%BA%E5%85%AC%E5%8F%B8%E7%9A%84%E8%99%9A%E5%81%87%E7%82%B8%E5%BC%B9%E5%A8%81%E8%83%81%E4%B8%8E%E5%A4%96%E5%9B%BD%E5%8A%BF%E5%8A%9B%E5%85%B3%E8%81%94",
-      "published_at": "2026-11-08T00:55:36+08:00"
-    },
-    {
       "region": "欧洲",
       "category": "政治",
       "title": "俄军导弹再袭基辅 乌总统和市长打嘴仗",
@@ -270,96 +396,6 @@
       "source": "德国之声",
       "url": "https://www.dw.com/zh/中期选举惨败后首次人事调整：特朗普换掉白宫幕僚长/a-79884880?maca=chi-rss-chi-all-1127-xml-mrss",
       "published_at": "2026-11-07T20:37:00+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "政治",
-      "title": "反AI浪潮让黄仁勋祸不单行？股票暴跌 被国会传唤",
-      "summary": "随着民主党在中期选举后全面执掌美国国会参众两院，原先与特朗普关系密切的AI科技大佬正面临全新挑战。",
-      "source": "德国之声",
-      "url": "https://www.dw.com/zh/反ai浪潮让黄仁勋祸不单行？股票暴跌-被国会传唤/a-79884461?maca=chi-rss-chi-all-1127-xml-mrss",
-      "published_at": "2026-11-07T20:07:00+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "经济",
-      "title": "深圳APEC前夕 美国催中国兑现稀土承诺",
-      "summary": "深圳APEC会议召开前不到两周，美国财政部长贝森特和贸易代表格里尔与中国国务院副总理何立峰视频会谈，要求中国\"全面、立即\"落实釜山贸易协议的承诺，何立峰则对美方近期的贸易限制表达\"严正关切\"。",
-      "source": "德国之声",
-      "url": "https://www.dw.com/zh/深圳apec前夕-美国催中国兑现稀土承诺/a-79884476?maca=chi-rss-chi-all-1127-xml-mrss",
-      "published_at": "2026-11-07T19:18:00+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "社会",
-      "title": "长平观察：西方背弃黄之锋，也在背弃自己",
-      "summary": "香港民主运动人士黄之锋以“串谋勾结外国势力”罪再被判刑10年。时事评论作家长平指出，从六四后老布什密使北京，到今天对黄之锋的沉默，西方一再背弃自由斗士，必将为自己的迟钝、懦弱和堕落付出代价。",
-      "source": "德国之声",
-      "url": "https://www.dw.com/zh/长平观察：西方背弃黄之锋，也在背弃自己/a-79883719?maca=chi-rss-chi-all-1127-xml-mrss",
-      "published_at": "2026-11-07T17:06:00+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "社会",
-      "title": "“天宫”将迎来首位外籍宇航员",
-      "summary": "中国空间站即将迎来首位外国访客！据中国官媒报道，一名巴基斯坦宇航员将搭乘“神舟二十四号” 飞船进入中国空间站。",
-      "source": "德国之声",
-      "url": "https://www.dw.com/zh/天宫-将迎来首位外籍宇航员/a-79883779?maca=chi-rss-chi-all-1127-xml-mrss",
-      "published_at": "2026-11-07T17:06:00+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "社会",
-      "title": "意大利侦结对“李老师不是你老师”跨境监视威胁案",
-      "summary": "米兰检察官已结束对居住在意大利的异议人士“李老师不是你老师”遭跨境跟踪、监视及威胁案件的调查，并准备申请将案件移送审判。",
-      "source": "德国之声",
-      "url": "https://www.dw.com/zh/意大利侦结对-李老师不是你老师-跨境监视威胁案/a-79877842?maca=chi-rss-chi-all-1127-xml-mrss",
-      "published_at": "2026-11-06T23:01:00+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "政治",
-      "title": "德语媒体：西方背弃了黄之锋",
-      "summary": "《世界报》发表评论称，香港民主派人士黄之锋为争取自由而身陷囹圄，但日益怯弱且堕落的西方却选择了沉默。",
-      "source": "德国之声",
-      "url": "https://www.dw.com/zh/德语媒体：西方背弃了黄之锋/a-79878086?maca=chi-rss-chi-all-1127-xml-mrss",
-      "published_at": "2026-11-06T22:57:00+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "经济",
-      "title": "北京再对欧盟商品启动两项反倾销调查",
-      "summary": "北京方面周五（11月6日）对原产于欧盟的进口商品同时启动两项贸易调查。这距离双方刚就稳定经贸关系达成共识还不到一个月。",
-      "source": "德国之声",
-      "url": "https://www.dw.com/zh/北京再对欧盟商品启动两项反倾销调查/a-79876214?maca=chi-rss-chi-all-1127-xml-mrss",
-      "published_at": "2026-11-06T20:58:00+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "政治",
-      "title": "沈伯洋：无论谁当选台北市长 都是对中国的胜利",
-      "summary": "民进党台北市长候选人沈伯洋表示，这场选举无论谁胜出，都是台湾民主对中国的胜利。即便他的对手蒋万安当选，也同样是对中国的一记耳光。",
-      "source": "德国之声",
-      "url": "https://www.dw.com/zh/沈伯洋：无论谁当选台北市长-都是对中国的胜利/a-79875748?maca=chi-rss-chi-all-1127-xml-mrss",
-      "published_at": "2026-11-06T20:39:00+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "社会",
-      "title": "民调：73%德国人理解“Z世代”抗议",
-      "summary": "最新民调显示，针对近期年轻人发起抗议活动，大部分德国民众对其诉求表示理解。绝大多数受访者认为，德国政界并未充分重视年轻一代的关切。",
-      "source": "德国之声",
-      "url": "https://www.dw.com/zh/民调：73-德国人理解-z世代-抗议/a-79875729?maca=chi-rss-chi-all-1127-xml-mrss",
-      "published_at": "2026-11-06T20:27:00+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "政治",
-      "title": "北京表示反对美国“破坏”古巴与中国的关系",
-      "summary": "本周五（11月6日），北京谴责了美国针对古巴实施的新一轮制裁，称此举旨在“破坏”中国与古巴之间的关系。",
-      "source": "德国之声",
-      "url": "https://www.dw.com/zh/北京表示反对美国-破坏-古巴与中国的关系/a-79875276?maca=chi-rss-chi-all-1127-xml-mrss",
-      "published_at": "2026-11-06T19:48:00+08:00"
     }
   ]
 }
