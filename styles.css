@@ -1,4 +1,7 @@
-/* 中美欧热点新闻 — 报纸头版风格；仅用系统字体，无外部字体/CDN。 */
+/* 中美欧热点新闻 — 报纸头版风格；仅用系统字体，无外部字体。
+   唯一外部脚本是 GTranslate 翻译小部件（cdn.gtranslate.net，免费，
+   非商业网站免费使用），详见 README 的“翻译”一节。
+   此前用的 Google 翻译小部件已于 2026-10-01 停服，代码已全部移除。 */
 :root {
   --ink: #1a1a1a;
   --muted: #6b6b6b;
@@ -61,6 +64,55 @@ main {
   max-width: 1080px;
   margin: 0 auto;
   padding: 0 16px 32px;
+}
+
+/* ---- 翻译（GTranslate 小部件） ---- */
+.controls-row {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.controls-row #search {
+  flex: 1 1 auto;
+  min-width: 0;
+  margin-bottom: 0;
+}
+
+.translate-bar {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-family: "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
+  font-size: 13px;
+  color: var(--muted);
+  white-space: nowrap;
+}
+
+.translate-label { flex: 0 0 auto; }
+
+.gtranslate_wrapper { display: inline-block; }
+
+/* GTranslate 生成的语言下拉框，收成报纸风的小圆角控件。 */
+.gtranslate_wrapper .gt_selector {
+  font-family: "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
+  font-size: 13px;
+  padding: 4px 6px;
+  max-width: 180px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--card);
+  color: var(--ink);
+  cursor: pointer;
+}
+
+.translate-note {
+  font-size: 12px;
+  color: var(--muted);
+  white-space: normal;
+  max-width: 220px;
 }
 
 .controls {
@@ -219,4 +271,10 @@ footer p { margin: 4px 0; }
 @media (max-width: 600px) {
   .masthead { padding-top: 20px; }
   .cards { grid-template-columns: 1fr; }
+  /* 窄屏时搜索框独占一行，翻译控件换到下一行、靠右，不溢出。 */
+  .controls-row { flex-wrap: wrap; }
+  .controls-row #search { flex: 1 1 100%; }
+  .translate-bar { margin-left: auto; max-width: 100%; }
+  .gtranslate_wrapper .gt_selector { max-width: 150px; }
+  .translate-note { max-width: 100%; }
 }
