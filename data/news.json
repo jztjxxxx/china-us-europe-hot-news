@@ -1,68 +1,257 @@
 {
-  "updated_at": "2026-11-07T23:57:56+08:00",
+  "updated_at": "2026-11-08T10:39:14+08:00",
   "items": [
     {
-      "region": "美国",
-      "category": "政治",
-      "title": "美军拟寻求限制伊朗陆路贸易 美官员称习近平告诉特朗普同意伊朗绝不应拥核",
-      "summary": "在对伊朗实施长达数月的海上封锁后，美国军方正组建一支特遣队，以加强华盛顿方面在限制德黑兰通过陆地边境和里海运输先进武器系统及其他受制裁物资方面的努力。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20261107-%E7%BE%8E%E5%86%9B%E6%8B%9F%E5%AF%BB%E6%B1%82%E9%99%90%E5%88%B6%E4%BC%8A%E6%9C%97%E9%99%86%E8%B7%AF%E8%B4%B8%E6%98%93-%E7%BE%8E%E5%AE%98%E5%91%98%E7%A7%B0%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%91%8A%E8%AF%89%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8C%E6%84%8F%E4%BC%8A%E6%9C%97%E7%BB%9D%E4%B8%8D%E5%BA%94%E6%8B%A5%E6%A0%B8",
-      "published_at": "2026-11-07T23:47:57+08:00"
+      "region": "中国",
+      "category": "科技",
+      "title": "China US$300 dating app ‘marriage-or-refund’ guarantee sparks intense online buzz",
+      "summary": "In China’s competitive dating market, a new matchmaking start-up is staking its revenue on a bold wager: find true love, or get every penny back.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3373674/china-us300-dating-app-marriage-or-refund-guarantee-sparks-intense-online-buzz",
+      "published_at": "2026-11-08T10:00:27+08:00"
     },
     {
-      "region": "欧洲",
+      "region": "中国",
       "category": "政治",
-      "title": "Kraków shooting latest updates: five killed and more than a dozen injured, police say",
-      "summary": "Polish Prime Minister Donald Tusk, in a post on X, said police are investigating the attack A man was firing toward random people from a car driving through the city’s Main Square, Kraków police said.",
+      "title": "Hong Kong must show real remorse for the Tai Po fire tragedy",
+      "summary": "When Chief Executive John Lee Ka-chiu and seven principal officials bowed deeply before the cameras on October 29, Hong Kong witnessed something rare: a collective government apology.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3373289/hong-kong-must-show-real-remorse-tai-po-fire-tragedy",
+      "published_at": "2026-11-08T09:30:21+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "社会",
+      "title": "Hong Kong firefighters get HK$8.4 million tracking upgrade after Tai Po fire",
+      "summary": "Some 2,000 Hong Kong firefighters have been issued upgraded tracking devices after an independent inquiry into last year’s deadly Tai Po fire exposed technical limitations in the previous system, the South China Morning",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/hong-kong/article/3373666/hong-kong-firefighters-get-hk84-million-tracking-upgrade-after-tai-po-fire",
+      "published_at": "2026-11-08T09:00:34+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "社会",
+      "title": "Japan rethinks its stalking laws after Pokemon store murder",
+      "summary": "Long before Moe Harukawa was killed, she lived in fear. The 21-year-old shop assistant had reported her ex-boyfriend to police and a court had ordered him to stay away from her.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/week-asia/health-environment/article/3373571/japan-rethinks-its-stalking-laws-after-pokemon-store-murder",
+      "published_at": "2026-11-08T09:00:27+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "社会",
+      "title": "Grief in China as rare snow leopard cub Ling Xiaohan loses 26-day fight for life",
+      "summary": "Millions of Chinese internet users grieved after beloved snow leopard cub Ling Xiaohan died last Sunday, following 26 days of medical treatment after he was found weak, injured and unable to move in the Qinghai Lake",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/china/politics/article/3373512/grief-china-rare-snow-leopard-cub-ling-xiaohan-loses-26-day-fight-life",
+      "published_at": "2026-11-08T09:00:24+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "社会",
+      "title": "The Trump coalition is shattered - what will Republicans do now?",
+      "summary": "Republicans can stick with Trumpism or chart a new path, writes BBC Washington correspondent Daniel Bush.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-08T08:52:39+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "政治",
+      "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
+      "summary": "It was unclear how genuine the president's offer was, although White later said he would travel to Washington for them to meet.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-08T08:31:53+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "政治",
+      "title": "Trump says he asked Dana White, UFC boss, to be his new White House press secretary",
+      "summary": "White says he has meeting with Trump in Washington DC on Monday, without saying whether he will accept the job Donald Trump has offered the job of White House press secretary to Dana White, the chief executive of the",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/07/donald-trump-dana-white-press-secretary",
+      "published_at": "2026-11-08T08:28:33+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "政治",
+      "title": "Trump Asks Dana White of U.F.C. to Be His Press Secretary",
+      "summary": "On social media, the president offered the now-vacant job of White House press secretary to Dana White, the organization’s C.E.O., and told him to bring along fighters as aides.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/07/us/politics/trump-dana-white-ufc-press-secretary.html",
+      "published_at": "2026-11-08T08:19:59+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "社会",
+      "title": "Homelessness in the U.S. saw its largest drop in more than a decade last year",
+      "summary": "Homelessness declined after years of record-high levels but it still remains at nearly 700,000. The Trump administration and homeless advocacy groups cite different reasons for the drop.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/07/nx-s1-6033491/homelessness-in-the-u-s-saw-its-largest-drop-in-more-than-a-decade-last-year",
+      "published_at": "2026-11-08T08:19:52+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "经济",
+      "title": "In Malaysia, a shadow trade in DIY weight-loss jabs takes hold",
+      "summary": "When her prescription for Mounjaro became too expensive, Bey* did what a growing number of Malaysians are doing: she found a cheaper vial online.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3373570/malaysia-shadow-trade-diy-weight-loss-jabs-takes-hold",
+      "published_at": "2026-11-08T08:00:33+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "社会",
+      "title": "Wisconsin state patrol trooper detained by ICE released from custody",
+      "summary": "Carel Aaron Van Der Merwe immigrated to US at 14 and has been waiting seven years for asylum case to be heard A Wisconsin state patrol trooper, whom federal immigration agents detained on Thursday at an airport, has",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/07/wisconsin-state-trooper-ice-released",
+      "published_at": "2026-11-08T07:05:06+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "政治",
+      "title": "Kraków shooting latest updates: six killed and more than a dozen injured – as it happened",
+      "summary": "Polish Prime Minister Donald Tusk heads to the city after four women and two men are killed and more than a dozen people injured Tom Rose, the US ambassador to Poland, wrote on X: We are just learning details of the",
       "source": "卫报",
       "url": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
-      "published_at": "2026-11-07T23:42:19+08:00"
+      "published_at": "2026-11-08T06:32:41+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "社会",
+      "title": "2 Skydivers Die After Midair Collision in Southern California",
+      "summary": "The skydivers’ parachutes opened but became entangled after they collided, according to the company hosting the event.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/06/us/california-lake-elsinore-skydiving-deaths.html",
+      "published_at": "2026-11-08T06:25:13+08:00"
     },
     {
       "region": "欧洲",
       "category": "政治",
-      "title": "Five European leaders call for closer EU-UK ties ahead of Brussels summit",
-      "summary": "Germany, Belgium, Netherlands, Luxembourg and Denmark say cooperation on clean energy will benefit both sides Five European leaders have called for closer ties with Britain ahead of a keenly anticipated EU-UK summit.",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/world/2026/nov/07/europe-leaders-call-closer-eu-uk-ties-brussels-summit",
-      "published_at": "2026-11-07T23:30:35+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "政治",
-      "title": "Stephen Miller, Trump’s incoming chief of staff, pledges ‘total devotion’ to the president",
-      "summary": "Hardline aide offers ‘unwavering commitment’ to president amid fears White House will double down on far-right immigration agenda Stephen Miller, Donald Trump ’s most controversial aide and the architect of his sweeping",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-trump-loyalty",
-      "published_at": "2026-11-07T23:15:11+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "政治",
-      "title": "LA’s newer, bluer wave: Nithya Raman leads way as city’s progressives make their mark",
-      "summary": "Democratic socialists won the mayorship, a US House seat and powerful positions in Los Angeles – and a large network of volunteers helped them do it As a blue tsunami overtook US politics this week, Los Angeles saw a",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/us-news/2026/nov/07/los-angeles-mayor-nithya-raman-progressives-dsa",
-      "published_at": "2026-11-07T23:00:14+08:00"
+      "title": "Bomb Threats and Cyberattacks in Europe Inject Unease Into Everyday Life",
+      "summary": "A cyberattack on supermarket fridges, bomb threats to planes and software vulnerabilities have Europe on edge as government officials encourage resilience and stockpiling.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/07/world/europe/bomb-threats-cyberattacks-europe-uncertainty.html",
+      "published_at": "2026-11-08T06:05:57+08:00"
     },
     {
       "region": "欧洲",
       "category": "社会",
-      "title": "Vetting candidates is a tricky process but Reform can’t seem to get it right",
-      "summary": "Charges against party members and off-piste remarks highlight problems brought about by rapid expansion Speaking to reporters after unveiling his new defence spokesperson this week, Nigel Farage’s jovial and upbeat mood",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/politics/2026/nov/07/reform-nigel-farage-vetting-candidates-struggle",
-      "published_at": "2026-11-07T23:00:14+08:00"
+      "title": "Ukraine: Russian strikes hit Kyiv region, damaging infrastructure",
+      "summary": "Russian strikes have damaged infrastructure in the Kyiv region and left a kindergarten in ruins in the Ukrainian capital. Firefighters battled a major blaze as Ukraine faced renewed attacks on its energy network.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/video/2026/11/07/ukraine-russian-strikes-hit-kyiv-region-damaging-infrastructure",
+      "published_at": "2026-11-08T05:45:27+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "政治",
+      "title": "美中期选举后乌克兰强调争取美国两党的支持",
+      "summary": "谈及美国中期选举后民主党赢得国会两院控制权，乌克兰总统泽连斯基6日在接受美国有线电视新闻网采访时表示，美国两党的支持对乌克兰十分重要，希望支持力度进一步增加。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261107-%E7%BE%8E%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%90%8E%E4%B9%8C%E5%85%8B%E5%85%B0%E5%BC%BA%E8%B0%83%E4%BA%89%E5%8F%96%E7%BE%8E%E5%9B%BD%E4%B8%A4%E5%85%9A%E7%9A%84%E6%94%AF%E6%8C%81",
+      "published_at": "2026-11-08T05:22:22+08:00"
     },
     {
       "region": "欧洲",
       "category": "社会",
-      "title": "‘Life-changing’: parents welcome £10m UK play centre for disabled children",
-      "summary": "Gympanzees near Bristol will be the first UK site of its type, catering for children unable to use regular playgrounds It has been over a decade since Stephanie Wheen set out to create the UK’s first play and leisure",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/world/2026/nov/07/life-changing-parents-welcome-10m-uk-play-centre-for-disabled-children",
-      "published_at": "2026-11-07T23:00:13+08:00"
+      "title": "智利导演莱里奥 （Sebastián Lelio）离世",
+      "summary": "智利电影导演塞巴斯蒂安·莱里奥 （Sebastián Lelio）于2026年11月6日去世，享年52岁，其家人公布了这一消息。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261107-%E6%99%BA%E5%8A%9B%E5%AF%BC%E6%BC%94%E8%8E%B1%E9%87%8C%E5%A5%A5-sebasti%C3%A1n-lelio-%E7%A6%BB%E4%B8%96",
+      "published_at": "2026-11-08T04:58:45+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "政治",
+      "title": "法国政府发言人暂换新面孔",
+      "summary": "法国政府发言人暂换人，因莫德·布雷容（Maud Bregeon）要休产假。临时政府发言人是司法部长杰拉尔德·达尔马宁的亲密助手、担任生态转型事务部长代表，名为马蒂厄·勒费夫尔（Mathieu Lefèvre）。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261107-%E6%B3%95%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%8F%91%E8%A8%80%E4%BA%BA%E6%9A%82%E6%8D%A2%E6%96%B0%E9%9D%A2%E5%AD%94",
+      "published_at": "2026-11-08T04:55:32+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "市场",
+      "title": "中国进军欧洲摩托车市场",
+      "summary": "中国凭借电动汽车彻底改变了欧洲汽车市场，如今又将同样的模式应用于摩托车领域，令日本和欧洲老牌摩托车品牌开始感受到压力。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261107-%E4%B8%AD%E5%9B%BD%E8%BF%9B%E5%86%9B%E6%AC%A7%E6%B4%B2%E6%91%A9%E6%89%98%E8%BD%A6%E5%B8%82%E5%9C%BA",
+      "published_at": "2026-11-08T04:46:50+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "政治",
+      "title": "欧盟五国推动与英国达成电力协议",
+      "summary": "据法新社周六报道，包括德国和丹麦在内的五个欧盟国家呼吁布鲁塞尔加快英国参与欧洲电力市场的谈判。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261107-%E6%AC%A7%E7%9B%9F%E4%BA%94%E5%9B%BD%E6%8E%A8%E5%8A%A8%E4%B8%8E%E8%8B%B1%E5%9B%BD%E8%BE%BE%E6%88%90%E7%94%B5%E5%8A%9B%E5%8D%8F%E8%AE%AE",
+      "published_at": "2026-11-08T04:44:24+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "市场",
+      "title": "拖家带口 去中国实现“美国梦”",
+      "summary": "曾是美国市场营销主管的布拉德利·克雷 （Bradley Krae）2016年曾在深圳当过英文教师。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261107-%E6%8B%96%E5%AE%B6%E5%B8%A6%E5%8F%A3-%E5%8E%BB%E4%B8%AD%E5%9B%BD%E5%AE%9E%E7%8E%B0-%E7%BE%8E%E5%9B%BD%E6%A2%A6",
+      "published_at": "2026-11-08T04:41:29+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "政治",
+      "title": "特朗普公开邀请UFC总裁出任白宫新闻发言人",
+      "summary": "美国总统特朗普近日公开向终极格斗冠军赛（UFC）总裁达纳·怀特（Dana White）抛出橄榄枝，邀请其出任白宫新闻发言人一职，美国总统在其社交媒体平台Truth Social上发布了这一消息，并特别指出怀特尚未接受邀请。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261107-%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%BC%80%E9%82%80%E8%AF%B7ufc%E6%80%BB%E8%A3%81%E5%87%BA%E4%BB%BB%E7%99%BD%E5%AE%AB%E6%96%B0%E9%97%BB%E5%8F%91%E8%A8%80%E4%BA%BA",
+      "published_at": "2026-11-08T04:35:07+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "社会",
+      "title": "临近阿布扎比美俄乌会谈 俄罗斯持续袭击乌克兰",
+      "summary": "乌克兰官员周六11月7日表示，俄军在周五到周六的夜间对乌克兰首都基辅及周边地区发动导弹与无人机攻击，造成1死8伤，伤者包括1名儿童，除了住宅及非住宅建筑受到损害外，还造成能源基础设施及一座横跨第聂伯河（Dnipro River）的重要桥梁毁损。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20261107-%E4%B8%B4%E8%BF%91%E9%98%BF%E5%B8%83%E6%89%8E%E6%AF%94%E7%BE%8E%E4%BF%84%E4%B9%8C%E4%BC%9A%E8%B0%88-%E4%BF%84%E7%BD%97%E6%96%AF%E6%8C%81%E7%BB%AD%E8%A2%AD%E5%87%BB%E4%B9%8C%E5%85%8B%E5%85%B0",
+      "published_at": "2026-11-08T03:59:11+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "社会",
+      "title": "埃博拉:英国医生刚果(金)确诊",
+      "summary": "在非洲中部，埃博拉本迪布焦型病毒（Ebola Bundibugyo）疫情自大约半年前（2026年5月中旬）在刚果民主共和国（RD Congo）东部地区爆发以来，现已夺去超过5300人的生命。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20261107-rfi%E6%B3%95%E5%B9%BF-%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E5%9F%83%E5%8D%9A%E6%8B%89-%E8%8B%B1%E5%9B%BD%E5%8C%BB%E7%94%9F%E5%88%9A%E6%9E%9C-%E9%87%91-%E7%A1%AE%E8%AF%8A",
+      "published_at": "2026-11-08T03:07:52+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "科技",
+      "title": "纽时揭中国两家芯片商获美批准处理英伟达芯片“形同空壳”",
+      "summary": "美国特朗普政府批准多家中国企业，购买或组装英伟达（Nvidia）先进人工智能芯片H200，但《纽约时报》调查发现，其中两家获批企业在中国的登记办公室形同空壳，不但现场空无一人，物业管理人员也表示从未听过公司名称。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261107-%E7%BA%BD%E6%97%B6%E6%8F%AD%E4%B8%AD%E5%9B%BD%E4%B8%A4%E5%AE%B6%E8%8A%AF%E7%89%87%E5%95%86%E8%8E%B7%E7%BE%8E%E6%89%B9%E5%87%86%E5%A4%84%E7%90%86%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%8A%AF%E7%89%87-%E5%BD%A2%E5%90%8C%E7%A9%BA%E5%A3%B3",
+      "published_at": "2026-11-08T01:49:57+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "社会",
+      "title": "波兰第二大城克拉科夫发生枪击案 至少6死10伤",
+      "summary": "波兰突发枪击案后，总理图斯克宣布他将前往克拉科夫（Cracovie）。据法新社报道，周六，一名男子在波兰南部旅游中心克拉科夫向路人开枪，造成6人死亡，约10人受伤。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261107-%E6%B3%A2%E5%85%B0%E7%AC%AC%E4%BA%8C%E5%A4%A7%E5%9F%8E%E5%85%8B%E6%8B%89%E7%A7%91%E5%A4%AB%E5%8F%91%E7%94%9F%E6%9E%AA%E5%87%BB%E6%A1%88-%E8%87%B3%E5%B0%916%E6%AD%BB10%E4%BC%A4",
+      "published_at": "2026-11-08T01:32:08+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "政治",
+      "title": "法国检方调查针对航班的虚假炸弹威胁与外国势力潜在关联",
+      "summary": "法国检方已对过去一周针对欧洲数十架商业航班的虚假炸弹威胁展开调查，尤其关注与“外国势力”之间可能存在的联系。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261107-%E6%B3%95%E5%9B%BD%E6%A3%80%E6%96%B9%E8%B0%83%E6%9F%A5%E9%92%88%E5%AF%B9%E8%88%AA%E7%A9%BA%E5%85%AC%E5%8F%B8%E7%9A%84%E8%99%9A%E5%81%87%E7%82%B8%E5%BC%B9%E5%A8%81%E8%83%81%E4%B8%8E%E5%A4%96%E5%9B%BD%E5%8A%BF%E5%8A%9B%E5%85%B3%E8%81%94",
+      "published_at": "2026-11-08T00:55:36+08:00"
     },
     {
       "region": "欧洲",
@@ -75,111 +264,12 @@
     },
     {
       "region": "美国",
-      "category": "社会",
-      "title": "A promising new medicine against heart disease fails unexpectedly",
-      "summary": "Doctors expected an experimental drug that lowers a common risk factor for heart attacks would save patients' lives. The medicine made no difference.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/07/nx-s1-6026379/lpa-drug-lipoproteina-heart-attack",
-      "published_at": "2026-11-07T22:50:00+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "社会",
-      "title": "Another Day of Protests Unfurls in France’s Autumn of Discontent",
-      "summary": "Two days after a general strike and huge demonstrations, students and workers took to the streets again on Saturday.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html",
-      "published_at": "2026-11-07T22:47:43+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "政治",
-      "title": "South Carolina Republicans Fracture Over Stunning Defeat of Darline Graham",
-      "summary": "Some blamed President Trump for backing the novice candidate after the death of her brother, Lindsey Graham. Others accused Mr.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/07/us/politics/darline-graham-loss-blame.html",
-      "published_at": "2026-11-07T22:30:09+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "科技",
-      "title": "The Trump administration wants underwater datacenters. One Great Lakes non-profit is already preparing",
-      "summary": "Tech companies like the idea, as they largely eliminate community opposition, and could cut down on utility costs While Elon Musk has often touted putting datacenters in space, reports suggest that another geographic",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/us-news/2026/nov/07/underwater-datacenters-great-lakes-trump",
-      "published_at": "2026-11-07T22:00:14+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "政治",
-      "title": "联合国人权办对港澳重刑判罚表担忧 外交部驻澳门公署：坚决反对",
-      "summary": "联合国人权事务高级专员办事处（简称联合国人权办）周五在社媒平台X上发文称，“在香港和澳门特别行政区根据国家安全法律施加严厉刑罚的做法令人深感担忧。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261107-%E8%81%94%E5%90%88%E5%9B%BD%E4%BA%BA%E6%9D%83%E5%8A%9E%E5%AF%B9%E6%B8%AF%E6%BE%B3%E9%87%8D%E5%88%91%E5%88%A4%E7%BD%9A%E8%A1%A8%E6%8B%85%E5%BF%A7-%E5%A4%96%E4%BA%A4%E9%83%A8%E9%A9%BB%E6%BE%B3%E9%97%A8%E5%85%AC%E7%BD%B2-%E5%9D%9A%E5%86%B3%E5%8F%8D%E5%AF%B9",
-      "published_at": "2026-11-07T21:40:14+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "社会",
-      "title": "Democrats plan to widen their probes of fatal ICE shootings",
-      "summary": "The killings of Renee Good and Alex Pretti during the ICE surge in Minneapolis last winter was a pivotal moment for the country.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/07/nx-s1-6029659/democrats-investigate-fatal-ice-shootings",
-      "published_at": "2026-11-07T21:19:09+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "政治",
-      "title": "U.S. Homeless Population Had Record Drop in 2025",
-      "summary": "The Department of Housing and Urban Development credited President Trump, while homeless advocacy groups said that so-called Housing First policies of his predecessors played a part.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/06/us/politics/homeless-population-drop.html",
-      "published_at": "2026-11-07T21:15:59+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "政治",
-      "title": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid",
-      "summary": "Moscow used 172 drones and 36 ballistic missiles in attacks on electricity substations and bridge over the Dnipro Volodymyr Zelenskyy has accused Russia of trying to “plunge Kyiv and the entire country into a blackout”,",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid",
-      "published_at": "2026-11-07T21:03:03+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "社会",
-      "title": "Court rules against Home Office in asylum seeker kidnapping case",
-      "summary": "Department had claimed that being kidnapped for ransom was not exploitation of trafficking victims in case of Syrian man abducted in Libya The court of appeal has rejected claims by the Home Office that being kidnapped",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/law/2026/nov/07/court-of-appeal-rules-kidnap-for-ransom-libya-exploitation-trafficking-victims-asylum-seeker-home-office",
-      "published_at": "2026-11-07T21:00:11+08:00"
-    },
-    {
-      "region": "美国",
       "category": "政治",
       "title": "中期选举惨败后首次人事调整：特朗普换掉白宫幕僚长",
       "summary": "共和党在中期选举中遭遇重挫后，特朗普撤换白宫幕僚长怀尔斯，由副幕僚长米勒接任。米勒是特朗普强硬移民政策的主要推手，被民主党人斥为“极端分子”。",
       "source": "德国之声",
       "url": "https://www.dw.com/zh/中期选举惨败后首次人事调整：特朗普换掉白宫幕僚长/a-79884880?maca=chi-rss-chi-all-1127-xml-mrss",
       "published_at": "2026-11-07T20:37:00+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "经济",
-      "title": "美国促中国“全面、立即”履行釜山协议承诺",
-      "summary": "美国警告中国，必须履行唐纳德·特朗普去年在釜山与习近平达成的贸易战休战协议条款。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20261107-%E7%BE%8E%E5%9B%BD%E5%91%BC%E5%90%81%E4%B8%AD%E5%9B%BD-%E5%85%A8%E9%9D%A2-%E7%AB%8B%E5%8D%B3-%E5%B1%A5%E8%A1%8C%E9%87%9C%E5%B1%B1%E5%8D%8F%E8%AE%AE%E6%89%BF%E8%AF%BA",
-      "published_at": "2026-11-07T20:25:26+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "政治",
-      "title": "在华因间谍罪获刑的安斯泰来日籍员工12月将刑满出狱 预计立即遣返",
-      "summary": "据共同社援引熟悉日中关系的人士周六报导称，一名在安斯泰来制药公司工作的60多岁日籍男子，因“间谍活动”在中国被判刑，目前正在服刑。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261107-%E5%9C%A8%E5%8D%8E%E5%9B%A0%E9%97%B4%E8%B0%8D%E7%BD%AA%E8%8E%B7%E5%88%91%E7%9A%84%E5%AE%89%E6%96%AF%E6%B3%B0%E6%9D%A5%E6%97%A5%E7%B1%8D%E5%91%98%E5%B7%A512%E6%9C%88%E5%B0%86%E5%88%91%E6%BB%A1%E5%87%BA%E7%8B%B1-%E9%A2%84%E8%AE%A1%E5%B0%86%E7%AB%8B%E5%8D%B3%E9%81%A3%E8%BF%94%E5%9B%9E",
-      "published_at": "2026-11-07T20:09:43+08:00"
     },
     {
       "region": "美国",
@@ -192,66 +282,12 @@
     },
     {
       "region": "中国",
-      "category": "政治",
-      "title": "张剑虹的悔过假释与黄之锋的十年重判 香港国安法在司法实践中的「棍棒与胡萝卜」",
-      "summary": "香港《苹果日报》前社长张剑虹的提早获释与前香港众志秘书长黄之锋被重判 10 年监禁，被外界普遍视为香港国安法在司法实践中「棍棒与胡萝卜」奖惩并行策略的典型展现。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E5%BE%AE%E8%A8%80%E5%BE%AE%E8%AF%AD/20261107-%E5%BC%A0%E5%89%91%E8%99%B9%E7%9A%84%E6%82%94%E8%BF%87%E5%81%87%E9%87%8A%E4%B8%8E%E9%BB%84%E4%B9%8B%E9%94%8B%E7%9A%84%E5%8D%81%E5%B9%B4%E9%87%8D%E5%88%A4-%E9%A6%99%E6%B8%AF%E5%9B%BD%E5%AE%89%E6%B3%95%E5%9C%A8%E5%8F%B8%E6%B3%95%E5%AE%9E%E8%B7%B5%E4%B8%AD%E7%9A%84-%E6%A3%8D%E6%A3%92%E4%B8%8E%E8%83%A1%E8%90%9D%E5%8D%9C",
-      "published_at": "2026-11-07T20:00:34+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "社会",
-      "title": "New ‘high safety’ chemicals in plastic food packaging linked to lower birth weight, study finds",
-      "summary": "Dinch, an allegedly ‘safe’ alternative, used in the EU and US also found to cause fetal development complications Exposure to a new generation of allegedly “safe” plasticizers is linked to lower birth weight and fetal",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/us-news/2026/nov/07/nontoxic-plastic-lower-birth-weight-study",
-      "published_at": "2026-11-07T20:00:13+08:00"
-    },
-    {
-      "region": "中国",
       "category": "经济",
       "title": "深圳APEC前夕 美国催中国兑现稀土承诺",
       "summary": "深圳APEC会议召开前不到两周，美国财政部长贝森特和贸易代表格里尔与中国国务院副总理何立峰视频会谈，要求中国\"全面、立即\"落实釜山贸易协议的承诺，何立峰则对美方近期的贸易限制表达\"严正关切\"。",
       "source": "德国之声",
       "url": "https://www.dw.com/zh/深圳apec前夕-美国催中国兑现稀土承诺/a-79884476?maca=chi-rss-chi-all-1127-xml-mrss",
       "published_at": "2026-11-07T19:18:00+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "社会",
-      "title": "Latest news bulletin | November 7th, 2026 – Midday",
-      "summary": "Catch up with the most important stories from around Europe and beyond this November 7th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/video/2026/11/07/latest-news-bulletin-november-7th-2026-midday",
-      "published_at": "2026-11-07T19:00:15+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "科技",
-      "title": "软银和ABB考虑剥离交易中国部分以挽救机器人协议",
-      "summary": "据彭博社援引据知情人士报导，软银集团和总部位于瑞士苏黎世的跨国工程技术集团ABB正考虑剥离一项巨型机器人交易中的中国部分，以寻求挽救这笔被北京方面阻止的交易。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20261107-%E8%BD%AF%E9%93%B6%E5%92%8Cabb%E8%80%83%E8%99%91%E5%89%A5%E7%A6%BB%E4%BA%A4%E6%98%93%E4%B8%AD%E5%9B%BD%E9%83%A8%E5%88%86%E4%BB%A5%E6%8C%BD%E6%95%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%8F%E8%AE%AE",
-      "published_at": "2026-11-07T18:15:18+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "社会",
-      "title": "台湾关闭驻巴新代表处 并指责中国打压",
-      "summary": "台湾周五（11月7号）宣布，决定主动关闭其驻巴布亚新几内亚代表处，撤回所有派驻人员，并终止技术合作及援助计划。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261107-%E5%8F%B0%E6%B9%BE%E5%85%B3%E9%97%AD%E9%A9%BB%E5%B7%B4%E6%96%B0%E4%BB%A3%E8%A1%A8%E5%A4%84-%E5%B9%B6%E6%8C%87%E8%B4%A3%E4%B8%AD%E5%9B%BD%E6%89%93%E5%8E%8B",
-      "published_at": "2026-11-07T17:27:38+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "社会",
-      "title": "“天宫”将迎来首位外籍宇航员",
-      "summary": "中国空间站即将迎来首位外国访客！据中国官媒报道，一名巴基斯坦宇航员将搭乘“神舟二十四号” 飞船进入中国空间站。",
-      "source": "德国之声",
-      "url": "https://www.dw.com/zh/天宫-将迎来首位外籍宇航员/a-79883779?maca=chi-rss-chi-all-1127-xml-mrss",
-      "published_at": "2026-11-07T17:06:00+08:00"
     },
     {
       "region": "中国",
@@ -263,49 +299,13 @@
       "published_at": "2026-11-07T17:06:00+08:00"
     },
     {
-      "region": "美国",
-      "category": "科技",
-      "title": "美情报备忘录指与黄仁勋有过恋爱关系的中国女商人是国安部间谍",
-      "summary": "据《纽约时报》援引获得相关情报简报的人士报导称，今年春天在特朗普政府高层决策者之间流传的一份备忘录援引情报指，一名与英伟达首席执行官黄仁勋一度关系密切的中国女商人是中国国家安全部的间谍。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261107-%E7%BE%8E%E6%83%85%E6%8A%A5%E5%A4%87%E5%BF%98%E5%BD%95%E6%8C%87%E4%B8%8E%E9%BB%84%E4%BB%81%E5%8B%8B%E6%9C%89%E8%BF%87%E6%81%8B%E7%88%B1%E5%85%B3%E7%B3%BB%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%95%86%E4%BA%BA%E6%98%AF%E5%9B%BD%E5%AE%89%E9%83%A8%E9%97%B4%E8%B0%8D",
-      "published_at": "2026-11-07T16:55:39+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "政治",
-      "title": "中国强势对应高市“台湾有事”发言一周年 APEC日中首脑难以举行会谈",
-      "summary": "日本首相高市早苗导致日中关系趋于历史性冷却的“台湾有事”相关发言到11月7日满一周年，高市首相6日就日中关系表示，将致力于“构建建设性、稳定的关系”。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261107-%E4%B8%AD%E5%9B%BD%E5%BC%BA%E5%8A%BF%E5%AF%B9%E5%BA%94%E9%AB%98%E5%B8%82-%E5%8F%B0%E6%B9%BE%E6%9C%89%E4%BA%8B-%E5%8F%91%E8%A8%80%E4%B8%80%E5%91%A8%E5%B9%B4-apec%E6%97%A5%E4%B8%AD%E9%A6%96%E8%84%91%E9%9A%BE%E4%BB%A5%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%B0%88",
-      "published_at": "2026-11-07T16:23:31+08:00"
-    },
-    {
       "region": "中国",
       "category": "社会",
-      "title": "中国首次邀请外籍航天员进入空间站：巴基斯坦宇航员将搭乘神舟二十四号飞船执行任务",
-      "summary": "据中国官方媒体周六（11月7日）报道，一名巴基斯坦宇航员将加入中国神舟二十四号载人飞船乘组执行任务。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261107-%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%AC%A1%E9%82%80%E8%AF%B7%E5%A4%96%E7%B1%8D%E8%88%AA%E5%A4%A9%E5%91%98%E8%BF%9B%E5%85%A5%E7%A9%BA%E9%97%B4%E7%AB%99-%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%AE%87%E8%88%AA%E5%91%98%E5%B0%86%E6%90%AD%E4%B9%98%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B7%E9%A3%9E%E8%88%B9%E6%89%A7%E8%A1%8C%E4%BB%BB%E5%8A%A1",
-      "published_at": "2026-11-07T13:12:06+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "市场",
-      "title": "台湾：台积电股价飙升掀股市热，部分普通民众甚至每天都买卖股票",
-      "summary": "法国世界报周五刊出的一篇文章表示，在台湾，台积电股价飙升带动台湾人的投资热潮，并带来财富增长，但是，财富增长的背后隐藏着社会不平等。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20261106-%E5%8F%B0%E6%B9%BE-%E5%8F%B0%E7%A7%AF%E7%94%B5%E8%82%A1%E4%BB%B7%E9%A3%99%E5%8D%87%E6%8E%80%E8%82%A1%E5%B8%82%E7%83%AD%EF%BC%8C%E9%83%A8%E5%88%86%E6%99%AE%E9%80%9A%E6%B0%91%E4%BC%97%E7%94%9A%E8%87%B3%E6%AF%8F%E5%A4%A9%E9%83%BD%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8",
-      "published_at": "2026-11-07T06:47:40+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "社会",
-      "title": "中国解放军四少将被终止全国人大代表资格",
-      "summary": "中国全国人大常委会会议11月6日在北京闭幕，决定终止九名全国人大代表的资格，其中四人来自解放军和武警部队，分别是少将张弓、郭建军、吴育红和孟庆斌。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261106-%E4%B8%AD%E5%9B%BD%E8%A7%A3%E6%94%BE%E5%86%9B%E5%9B%9B%E5%B0%91%E5%B0%86%E8%A2%AB%E7%BB%88%E6%AD%A2%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E8%B5%84%E6%A0%BC",
-      "published_at": "2026-11-07T06:21:34+08:00"
+      "title": "“天宫”将迎来首位外籍宇航员",
+      "summary": "中国空间站即将迎来首位外国访客！据中国官媒报道，一名巴基斯坦宇航员将搭乘“神舟二十四号” 飞船进入中国空间站。",
+      "source": "德国之声",
+      "url": "https://www.dw.com/zh/天宫-将迎来首位外籍宇航员/a-79883779?maca=chi-rss-chi-all-1127-xml-mrss",
+      "published_at": "2026-11-07T17:06:00+08:00"
     },
     {
       "region": "欧洲",
@@ -335,6 +335,15 @@
       "published_at": "2026-11-06T20:58:00+08:00"
     },
     {
+      "region": "中国",
+      "category": "政治",
+      "title": "沈伯洋：无论谁当选台北市长 都是对中国的胜利",
+      "summary": "民进党台北市长候选人沈伯洋表示，这场选举无论谁胜出，都是台湾民主对中国的胜利。即便他的对手蒋万安当选，也同样是对中国的一记耳光。",
+      "source": "德国之声",
+      "url": "https://www.dw.com/zh/沈伯洋：无论谁当选台北市长-都是对中国的胜利/a-79875748?maca=chi-rss-chi-all-1127-xml-mrss",
+      "published_at": "2026-11-06T20:39:00+08:00"
+    },
+    {
       "region": "欧洲",
       "category": "社会",
       "title": "民调：73%德国人理解“Z世代”抗议",
@@ -344,22 +353,13 @@
       "published_at": "2026-11-06T20:27:00+08:00"
     },
     {
-      "region": "美国",
+      "region": "中国",
       "category": "政治",
-      "title": "特朗普称结束乌克兰战争的“重大协议”正在酝酿之中",
-      "summary": "美国总统特朗普表示，俄乌战争已接近解决，而结束这场冲突可能需要“整个欧洲”的参与。",
+      "title": "北京表示反对美国“破坏”古巴与中国的关系",
+      "summary": "本周五（11月6日），北京谴责了美国针对古巴实施的新一轮制裁，称此举旨在“破坏”中国与古巴之间的关系。",
       "source": "德国之声",
-      "url": "https://www.dw.com/zh/特朗普称结束乌克兰战争的-重大协议-正在酝酿之中/a-79873214?maca=chi-rss-chi-all-1127-xml-mrss",
-      "published_at": "2026-11-06T17:27:00+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "政治",
-      "title": "美国中期选举是否预示着全球右翼民粹主义正在衰落？",
-      "summary": "在德国和其他西方民主国家，右翼民粹主义势力多年来不断壮大。但从近期的一些选举结果来看，这一趋势似乎已经逆转。",
-      "source": "德国之声",
-      "url": "https://www.dw.com/zh/美国中期选举是否预示着全球右翼民粹主义正在衰落？/a-79866988?maca=chi-rss-chi-all-1127-xml-mrss",
-      "published_at": "2026-11-05T22:20:00+08:00"
+      "url": "https://www.dw.com/zh/北京表示反对美国-破坏-古巴与中国的关系/a-79875276?maca=chi-rss-chi-all-1127-xml-mrss",
+      "published_at": "2026-11-06T19:48:00+08:00"
     }
   ]
 }
