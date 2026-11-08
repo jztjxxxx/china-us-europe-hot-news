@@ -25,6 +25,16 @@
 - China Daily RSS、新华社英文 RSS：404
 - AP：403（Cloudflare 拦截）；Reuters：401
 - 环球时报 outbrain RSS：返回 200 但内容过期（最新为 10 月），近 48 小时 0 条
+
+2026-11-08 扩充经济/科技源实测（见 README「数据源」一节）：
+- 可用：金融时报 FT（technology/markets/companies/global-economy，
+  均为 200 且 3 天内新鲜；摘要为一句话提要，全文付费墙）、
+  彭博 Bloomberg（markets/technology/economics）、BBC 商业/科技、
+  纽约时报商业/科技、卫报商业/科技、CNBC、SCMP 商业/科技、
+  Euronews 商业。
+- 仍不可用：AP（403 / 连接被重置，Cloudflare 拦截）、
+  Reuters（401）、The Times（返回 200 但内容是 "Verifying Device"
+  机器人验证 HTML，不是 RSS）、RFI 经济（200 但 3 天内 0 条新鲜）。
 """
 
 import html
@@ -44,21 +54,51 @@ OUT = ROOT / "data" / "news.json"
 
 USER_AGENT = "Mozilla/5.0 (china-us-europe-hot-news; +https://github.com/jztjxxxx/china-us-europe-hot-news)"
 
-# (url, 来源名, 地区提示；None 表示按关键词判定）
+# (url, 来源名, 地区提示, 分类提示；提示为 None 表示按关键词判定。
+#  频道明确属于经济/科技/市场时给分类提示；频道本身无明确地区时
+#  地区提示为 None，无法按关键词判定地区的条目会被丢弃。）
 FEEDS = [
-    ("https://rss.dw.com/xml/rss-chi-all", "德国之声", None),
-    ("https://www.rfi.fr/cn/rss", "法国国际广播电台", None),
-    ("https://www.scmp.com/rss/91/feed", "南华早报", "中国"),
-    ("https://feeds.bbci.co.uk/news/world/asia/rss.xml", "BBC", "中国"),
-    ("https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml", "BBC", "美国"),
-    ("https://www.theguardian.com/us-news/rss", "卫报", "美国"),
-    ("https://rss.nytimes.com/services/xml/rss/nyt/US.xml", "纽约时报", "美国"),
-    ("https://www.npr.org/rss/rss.php?id=1001", "NPR", "美国"),
-    ("https://www.theguardian.com/world/europe-news/rss", "卫报", "欧洲"),
-    ("https://www.euronews.com/rss?format=mrss&level=theme&name=news", "Euronews", None),
-    ("https://www.theguardian.com/world/rss", "卫报", None),
-    ("https://rss.nytimes.com/services/xml/rss/nyt/World.xml", "纽约时报", None),
-    ("https://feeds.bbci.co.uk/news/business/rss.xml", "BBC", None),
+    # 综合源（原有）
+    ("https://rss.dw.com/xml/rss-chi-all", "德国之声", None, None),
+    ("https://www.rfi.fr/cn/rss", "法国国际广播电台", None, None),
+    ("https://www.scmp.com/rss/91/feed", "南华早报", "中国", None),
+    ("https://feeds.bbci.co.uk/news/world/asia/rss.xml", "BBC", "中国", None),
+    ("https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml", "BBC", "美国", None),
+    ("https://www.theguardian.com/us-news/rss", "卫报", "美国", None),
+    ("https://rss.nytimes.com/services/xml/rss/nyt/US.xml", "纽约时报", "美国", None),
+    ("https://www.npr.org/rss/rss.php?id=1001", "NPR", "美国", None),
+    ("https://www.theguardian.com/world/europe-news/rss", "卫报", "欧洲", None),
+    ("https://www.euronews.com/rss?format=mrss&level=theme&name=news", "Euronews", None, None),
+    ("https://www.theguardian.com/world/rss", "卫报", None, None),
+    ("https://rss.nytimes.com/services/xml/rss/nyt/World.xml", "纽约时报", None, None),
+    # 经济 / 科技 / 市场源（2026-11-08 新增）
+    ("https://www.ft.com/rss/technology", "金融时报", None, "科技"),
+    ("https://www.ft.com/rss/markets", "金融时报", None, "市场"),
+    ("https://www.ft.com/rss/companies", "金融时报", None, "市场"),
+    ("https://www.ft.com/rss/global-economy", "金融时报", None, "经济"),
+    ("https://feeds.bloomberg.com/markets/news.rss", "彭博", None, "市场"),
+    ("https://feeds.bloomberg.com/technology/news.rss", "彭博", None, "科技"),
+    ("https://feeds.bloomberg.com/economics/news.rss", "彭博", None, "经济"),
+    ("https://feeds.bbci.co.uk/news/business/rss.xml", "BBC", "欧洲", "经济"),
+    ("https://feeds.bbci.co.uk/news/technology/rss.xml", "BBC", "欧洲", "科技"),
+    ("https://rss.nytimes.com/services/xml/rss/nyt/Business.xml", "纽约时报", "美国", "经济"),
+    ("https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml", "纽约时报", "美国", "科技"),
+    ("https://www.theguardian.com/uk/business/rss", "卫报", "欧洲", "经济"),
+    ("https://www.theguardian.com/technology/rss", "卫报", "欧洲", "科技"),
+    ("https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114", "CNBC", "美国", "市场"),
+    ("https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19854910", "CNBC", "美国", "科技"),
+    ("https://www.scmp.com/rss/92/feed", "南华早报", "中国", "经济"),
+    ("https://www.scmp.com/rss/36/feed", "南华早报", "中国", "科技"),
+    ("https://www.euronews.com/rss?format=mrss&level=theme&name=business", "Euronews", "欧洲", "经济"),
+]
+
+# 不属于中/美/欧三栏的地方：若一条新闻没有任何地区关键词，
+# 又提到这些地方（如以色列新闻），直接丢弃，不硬塞进某一栏。
+OUT_OF_SCOPE = [
+    "以色列", "巴勒斯坦", "加沙", "伊朗", "伊拉克", "沙特", "埃及",
+    "巴西", "墨西哥", "阿根廷", "尼日利亚", "肯尼亚", "南非",
+    "Israel", "Palestine", "Gaza", "Iran", "Iraq", "Saudi", "Egypt",
+    "Brazil", "Mexico", "Argentina", "Nigeria", "Kenya", "South Africa",
 ]
 
 # ---- 地区关键词（中英；短英文词用词边界匹配，避免 "US" 误命中）----
@@ -67,13 +107,23 @@ REGION_KEYWORDS = {
             "台湾", "臺灣", "台北", "习近平", "習近平", "国务院", "人大",
             "华为", "小米", "人民币", "中共", "中方", "大陆",
             "China", "Beijing", "Shanghai", "Shenzhen", "Hong Kong", "Macau",
-            "Taiwan", "Taipei", "Xi Jinping", "Huawei", "Xiaomi", "Chinese"],
+            "Taiwan", "Taipei", "Xi Jinping", "Huawei", "Xiaomi", "Chinese",
+            "Alibaba", "Tencent", "BYD", "TSMC", "台积电", "阿里", "腾讯",
+            "比亚迪",
+            # 亚太地区新闻（SCMP / BBC 亚洲线）归入中国栏，见 README 说明
+            "日本", "东京", "韩国", "首尔", "新加坡", "印度", "新西兰",
+            "澳大利亚", "印尼", "越南", "泰国", "马来西亚", "菲律宾",
+            "Japan", "Tokyo", "South Korea", "Seoul", "Singapore", "India",
+            "New Zealand", "Australia", "Indonesia", "Vietnam", "Thailand",
+            "Malaysia", "Philippines"],
     "美国": ["美国", "美國", "华盛顿", "特朗普", "白宫", "纽约", "加州",
             "德州", "佛州", "拜登", "万斯", "美联储", "美元", "硅谷",
             "美方", "中期选举",
             "US", "USA", "U.S.", "Trump", "White House", "Washington",
             "New York", "California", "Texas", "Florida", "Biden", "Vance",
-            "Federal Reserve", "Silicon Valley", "America", "American"],
+            "Federal Reserve", "Silicon Valley", "America", "American",
+            "Apple", "Microsoft", "Nvidia", "Tesla", "Amazon", "Google",
+            "Meta", "OpenAI", "Intel", "Netflix", "Nasdaq", "Dow Jones"],
     "欧洲": ["欧洲", "歐洲", "英国", "法国", "德国", "意大利", "西班牙",
             "葡萄牙", "荷兰", "比利时", "瑞士", "奥地利", "波兰", "希腊",
             "瑞典", "挪威", "丹麦", "芬兰", "爱尔兰", "欧盟", "歐盟",
@@ -81,7 +131,8 @@ REGION_KEYWORDS = {
             "马德里", "罗马", "布鲁塞尔", "北约",
             "Europe", "European", "EU", "UK", "Britain", "France", "Germany",
             "Italy", "Spain", "Ukraine", "Russia", "Moscow", "Kyiv",
-            "London", "Paris", "Berlin", "Madrid", "Brussels", "NATO"],
+            "London", "Paris", "Berlin", "Madrid", "Brussels", "NATO",
+            "Volkswagen", "BMW", "Siemens", "Airbus", "Shell", "HSBC", "SAP"],
 }
 
 # ---- 分类关键词；打分最高者胜，平局按 CATEGORY_ORDER 顺序 ----
@@ -90,33 +141,48 @@ CATEGORY_KEYWORDS = {
     "政治": ["选举", "選舉", "议会", "总统", "總理", "政府", "政策", "外交",
             "军事", "战争", "戰爭", "制裁", "峰会", "国安", "党", "法案",
             "议员", "部长", "内阁", "白宫", "国会", "参议院", "众议院",
-            "election", "president", "government", "parliament", "policy",
-            "war", "sanction", "summit", "diplomacy", "minister", "congress",
-            "senate", "cabinet", "prime minister", "vote", "voter"],
+            "公投",
+            "election", "elections", "president", "government", "parliament",
+            "policy", "war", "sanction", "summit", "diplomacy", "minister",
+            "congress", "senate", "cabinet", "prime minister", "vote",
+            "voter", "voters", "midterm", "midterms", "ballot", "party",
+            "referendum"],
     "经济": ["经济", "經濟", "GDP", "通胀", "通膨", "利率", "央行", "贸易",
             "关税", "财政", "增长", "增速", "就业", "失业", "非农",
-            "economy", "inflation", "interest rate", "central bank", "trade",
-            "tariff", "growth", "jobs", "unemployment", "GDP", "recession"],
+            "营收", "利润", "估值", "并购", "债券", "黄金", "降息", "加息",
+            "economy", "economic", "inflation", "interest rate", "central bank",
+            "trade", "tariff", "growth", "jobs", "unemployment", "GDP",
+            "recession", "revenue", "profit", "bond", "gold price", "merger",
+            "acquisition", "valuation", "startup", "IPO", "listing"],
     "科技": ["科技", "人工智能", "AI", "芯片", "半导体", "机器人", "互联网",
             "卫星", "算法", "大模型", "算力", "英伟达", "黄仁勋",
+            "数据中心", "初创",
             "technology", "tech", "artificial intelligence", "chip",
             "semiconductor", "robot", "software", "satellite", "Nvidia",
-            "Huang", "AI"],
+            "Huang", "AI", "data center", "datacenter", "cloud", "cyber",
+            "smartphone", "electric vehicle", "EV", "battery"],
     "市场": ["股市", "股票", "股价", "市场", "投資", "投资", "基金", "暴跌",
             "暴涨", "上涨", "下跌", "财报", "市值", "纳斯达克", "道指",
-            "stock", "market", "shares", "investor", "earnings", "Nasdaq",
-            "Dow", "S&P", "rally", "plunge", "shares"],
+            "比特币", "加密货币",
+            "stock", "stocks", "market", "shares", "investor", "earnings",
+            "Nasdaq", "Dow", "S&P", "rally", "plunge", "trading",
+            "bitcoin", "crypto", "fund", "index"],
     "社会": ["社会", "教育", "健康", "文化", "体育", "事故", "火灾", "移民",
             "难民", "气候", "环保", "电影", "音乐", "学校", "医院",
             "society", "health", "education", "culture", "sport", "accident",
             "immigration", "climate", "film", "school", "hospital", "fire"],
 }
 
-MAX_ITEMS = 40
-MAX_PER_REGION = 14
-MAX_PER_SOURCE = 12  # 单一来源上限，保证来源多样性
+MAX_ITEMS = 45
+MAX_PER_REGION = 16
+MAX_PER_SOURCE = 10  # 单一来源上限，保证来源多样性
 # 只收录近 3 天的条目（按 UTC 日期）
 CUTOFF_DAYS = 3
+# 分类目标：经济/科技/市场不再被政治/社会淹没
+CATEGORY_MIN = {"经济": 8, "科技": 8, "市场": 5}
+CATEGORY_MAX = {"政治": 12, "经济": 14, "科技": 14, "市场": 12, "社会": 12}
+REGION_MIN = 10
+REGION_CATEGORY_MIN = 2  # 每个地区至少 2 条经济、2 条科技（若候选允许）
 
 
 def contains(text, keyword):
@@ -137,8 +203,10 @@ def detect_region(text, hint):
     scores = {r: score(text, kws) for r, kws in REGION_KEYWORDS.items()}
     best = max(scores.values())
     if best == 0:
-        # 无地区关键词且无明确来源提示时不硬归类，调用方丢弃该条，
-        # 避免把巴拉圭这类新闻误划入欧洲。
+        # 无地区关键词：若提到三栏之外的地方（如以色列），丢弃；
+        # 否则用来源提示（如 SCMP 亚洲线 -> 中国栏），无提示则丢弃。
+        if any(contains(text, w) for w in OUT_OF_SCOPE):
+            return None
         return hint
     tied = [r for r, s in scores.items() if s == best]
     if len(tied) == 1:
@@ -155,9 +223,16 @@ def detect_region(text, hint):
     return min(tied, key=lambda r: first_pos[r])
 
 
-def detect_category(text):
+def detect_category(text, hint=None):
+    """频道提示优先：频道明确属于某类时用提示，除非关键词强烈反对
+    （另一类得分比提示类高 3 分以上）。无提示时按关键词打分。"""
     scores = {c: score(text, kws) for c, kws in CATEGORY_KEYWORDS.items()}
     best = max(scores.values())
+    if hint:
+        # 提示只在与关键词得分基本一致时生效；若另一类明显更强
+        # （高 2 分以上），以关键词为准，避免把党代会新闻划入市场。
+        if best == 0 or scores[hint] >= best - 1:
+            return hint
     if best == 0:
         return "社会"
     for c in CATEGORIES:  # 平局按固定顺序：政治、经济、科技、市场、社会
@@ -232,14 +307,37 @@ def norm_title_tokens(title):
     return set(t.split())
 
 
+STOPWORDS = {
+    "the", "a", "an", "of", "to", "in", "on", "for", "and", "or", "after",
+    "with", "his", "her", "their", "is", "are", "was", "were", "be", "has",
+    "have", "will", "would", "from", "by", "at", "as", "it", "its", "this",
+    "that", "new", "more", "over", "under", "into", "about", "up", "out",
+    "who", "what", "why", "how", "when", "can", "could", "than", "then",
+}
+
+
+def content_tokens(title):
+    """标题实词集合：去停用词、去单字母，用于跨源同题去重。"""
+    return {t for t in norm_title_tokens(title)
+            if t not in STOPWORDS and len(t) > 2}
+
+
 def similar_title(a, b):
-    """跨源同题去重：词集合 Jaccard 相似度过高视为同一新闻。"""
+    """跨源同题去重：词集合 Jaccard 相似度过高视为同一新闻。
+    不同媒体对同一新闻的标题措辞不同（如 UFC  press secretary 的
+    三个版本），全词 Jaccard 只有 0.25，因此再算一层实词 Jaccard，
+    0.5 以上也视为同一新闻。"""
     ta, tb = norm_title_tokens(a), norm_title_tokens(b)
     if not ta or not tb:
         return False
     if ta <= tb or tb <= ta:
         return True
-    return len(ta & tb) / len(ta | tb) >= 0.65
+    if len(ta & tb) / len(ta | tb) >= 0.65:
+        return True
+    ca, cb = content_tokens(a), content_tokens(b)
+    if len(ca) < 3 or len(cb) < 3:
+        return False
+    return len(ca & cb) / len(ca | cb) >= 0.5
 
 
 def fetch_feed(url):
@@ -276,7 +374,7 @@ def main():
 
     candidates = []
     feed_stats = {}
-    for url, source, hint in FEEDS:
+    for url, source, hint, cat_hint in FEEDS:
         try:
             data = fetch_feed(url)
             raw_items = parse_items(data)
@@ -292,13 +390,15 @@ def main():
                 continue
             if dt.date().isoformat() == today:
                 today_n += 1
+            if re.search(r"news bulletin", raw["title"], re.I):
+                continue  # Euronews 的“新闻简报”视频无实质内容，跳过
             text = raw["title"] + " " + clean_text(raw["description"])
             region = detect_region(text, hint)
             if region is None:
                 continue  # 无法判定地区，不收录
             candidates.append({
                 "region": region,
-                "category": detect_category(text),
+                "category": detect_category(text, cat_hint),
                 "title": raw["title"],
                 "summary": make_summary(raw["description"]) or raw["title"],
                 "source": source,
@@ -320,39 +420,97 @@ def main():
         seen_urls.add(c["url"])
         deduped.append(c)
 
-    # 选条：先收中文源条目（标题含中文），再用英文源补齐；每地区上限
+    # 选条：按时间倒序贪心选，分类设上限（政治/社会各不超 12），
+    # 地区、来源设上限；中文标题优先于同等新鲜度的英文标题。
+    # 注意：不再全局“中文先、补英文”，否则英文经济/科技源
+    # （FT/彭博/纽约时报商业版）永远排不上；但先为中文标题
+    # 预留 CHINESE_QUOTA 个名额，否则新一批会被英文标题淹没。
+    CHINESE_QUOTA = 12
     picked = []
 
-    def try_pick(pool):
-        for c in pool:
-            if len(picked) >= MAX_ITEMS:
-                return
-            region_count = sum(1 for p in picked if p["region"] == c["region"])
-            if region_count >= MAX_PER_REGION:
-                continue
-            source_count = sum(1 for p in picked if p["source"] == c["source"])
-            if source_count >= MAX_PER_SOURCE:
-                continue
+    def fits(c, items):
+        if sum(1 for p in items if p["region"] == c["region"]) >= MAX_PER_REGION:
+            return False
+        if sum(1 for p in items if p["source"] == c["source"]) >= MAX_PER_SOURCE:
+            return False
+        if sum(1 for p in items if p["category"] == c["category"]) >= CATEGORY_MAX[c["category"]]:
+            return False
+        return True
+
+    pool = sorted(deduped,
+                  key=lambda c: (c["_dt"], is_chinese(c["title"])),
+                  reverse=True)
+    for c in pool:
+        if len(picked) >= MAX_ITEMS:
+            break
+        if sum(1 for p in picked if is_chinese(p["title"])) >= CHINESE_QUOTA:
+            break
+        if not is_chinese(c["title"]):
+            continue
+        if fits(c, picked):
+            picked.append(c)
+    for c in pool:
+        if len(picked) >= MAX_ITEMS:
+            break
+        if c in picked:
+            continue
+        if fits(c, picked):
             picked.append(c)
 
-    try_pick([c for c in deduped if is_chinese(c["title"])])
-    try_pick([c for c in deduped if not is_chinese(c["title"])])
+    def counts_of(items, key):
+        return Counter(x[key] for x in items)
 
-    # 类别补齐：若某类别为 0，用未入选的该类别最新条目替换入选最多的类别中最旧的一条
-    picked_urls = {p["url"] for p in picked}
-    rest = [c for c in deduped if c["url"] not in picked_urls]
-    for cat in CATEGORIES:
-        if any(p["category"] == cat for p in picked):
-            continue
-        repl = next((c for c in rest if c["category"] == cat), None)
-        if not repl:
-            continue
-        counts = Counter(p["category"] for p in picked)
-        victim_cat = counts.most_common(1)[0][0]
-        victim = next(p for p in reversed(picked) if p["category"] == victim_cat)
-        picked.remove(victim)
-        picked.append(repl)
-        rest.remove(repl)
+    def can_swap_in(cand, victim):
+        """换入 cand、换出 victim 后，地区/来源上限是否仍成立。"""
+        rest_picked = [p for p in picked if p is not victim]
+        if sum(1 for p in rest_picked if p["region"] == cand["region"]) >= MAX_PER_REGION:
+            return False
+        if sum(1 for p in rest_picked if p["source"] == cand["source"]) >= MAX_PER_SOURCE:
+            return False
+        return True
+
+    def swap_for(need_fn, victim_cats):
+        """为满足 need_fn 的候选换入：找未入选的最新候选，从
+        victim_cats 类别中最旧的入选项中换出一个。"""
+        rest = [c for c in deduped if c not in picked]
+        for cand in rest:
+            if not need_fn(cand):
+                continue
+            for vcat in victim_cats:
+                victims = [p for p in reversed(picked)
+                           if p["category"] == vcat]
+                for victim in victims:
+                    if can_swap_in(cand, victim):
+                        picked.remove(victim)
+                        picked.append(cand)
+                        return True
+        return False
+
+    # 补齐 1：分类下限（经济 >= 8、科技 >= 8、市场 >= 5），
+    # 从政治/社会超额部分换出。
+    for cat, minimum in CATEGORY_MIN.items():
+        while counts_of(picked, "category")[cat] < minimum:
+            if not swap_for(lambda c, cat=cat: c["category"] == cat,
+                            ["政治", "社会"]):
+                break
+
+    # 补齐 2：每个地区至少 10 条。
+    for region in ("中国", "美国", "欧洲"):
+        while counts_of(picked, "region")[region] < REGION_MIN:
+            if not swap_for(lambda c, region=region: c["region"] == region,
+                            ["政治", "社会", "经济", "科技", "市场"]):
+                break
+
+    # 补齐 3：每个地区至少 2 条经济、2 条科技。
+    for region in ("中国", "美国", "欧洲"):
+        for cat in ("经济", "科技"):
+            while sum(1 for p in picked
+                      if p["region"] == region and p["category"] == cat) < REGION_CATEGORY_MIN:
+                if not swap_for(
+                        lambda c, region=region, cat=cat:
+                            c["region"] == region and c["category"] == cat,
+                        ["政治", "社会"]):
+                    break
 
     picked.sort(key=lambda x: x["_dt"], reverse=True)
     for p in picked:
