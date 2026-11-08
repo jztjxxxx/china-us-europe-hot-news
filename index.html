@@ -17,7 +17,14 @@
 
 <main>
   <section class="controls" aria-label="筛选">
-    <input id="search" type="search" placeholder="搜索标题或摘要…" aria-label="搜索新闻">
+    <div class="controls-row">
+      <input id="search" type="search" placeholder="搜索标题或摘要…" aria-label="搜索新闻">
+      <div class="translate-bar notranslate" aria-label="翻译">
+        <span class="translate-label">🌐 翻译 / Translate</span>
+        <div class="gtranslate_wrapper"></div>
+        <span id="translate-note" class="translate-note" role="status"></span>
+      </div>
+    </div>
     <nav class="tabs" id="region-tabs" aria-label="地区">
       <button data-region="全部" class="active">全部</button>
       <button data-region="中国">中国</button>
@@ -48,6 +55,17 @@
   <p><a href="https://github.com/jztjxxxx/china-us-europe-hot-news">GitHub 开源项目</a> · MIT 许可证</p>
 </footer>
 
+<script>
+/* GTranslate 免费小部件（无需 key）。设置必须在 dropdown.js 之前定义，
+   按官方示例原样放在这里；dropdown.js 用 defer 加载，执行时
+   window.gtranslateSettings 已就绪。语言与加密货币站一致：15 种主流语言。 */
+window.gtranslateSettings = {
+  "default_language": "zh-CN",
+  "languages": ["zh-CN", "zh-TW", "en", "es", "fr", "de", "ja", "ko", "pt", "ru", "ar", "hi", "id", "vi", "tr"],
+  "wrapper_selector": ".gtranslate_wrapper"
+};
+</script>
+<script src="https://cdn.gtranslate.net/widgets/latest/dropdown.js" defer onerror="document.getElementById('translate-note').textContent='翻译加载失败：需访问 cdn.gtranslate.net。'"></script>
 <script src="app.js"></script>
 </body>
 </html>
