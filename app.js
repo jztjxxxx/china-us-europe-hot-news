@@ -32,6 +32,10 @@
 // （首次约 0.9 秒、之后每 2 秒一次、持续约 90 秒），只在“已选非中文、
 // 翻译库已就绪、上一轮已结束、头条或页脚在视口内却仍是中文原文”时才
 // 强制重翻；滚动时（防抖）也触发一轮检查，覆盖滚到底部才看到的页脚。
+// 后台标签页的定时器会被浏览器节流，90 秒轮询可能在切走期间悄悄
+// 过期、错过补翻：render 发生在后台时先不启动轮询、只记一个待处理
+// 标记，poll 轮到后台时也停下等；切回前台（visibilitychange）时再
+// 重新开始一轮轮询。见 scheduleEnsureTranslation / pollEnsureTranslation。
 // 此前用的 Google 翻译小部件已于 2026-10-01 停服、实测无法渲染下拉框，
 // 故全部移除，改用 GTranslate（见 README“翻译”一节）。
 (function () {
@@ -66,6 +70,10 @@
   var ensureTimer = null;
   var ensureDeadline = 0;
   var scrollCheckTimer = null;
+  /* render 或 poll 发生在后台标签页时记一个待处理标记：后台定时器
+     会被浏览器节流，90 秒轮询不能在后台白白烧掉，切回前台时凭这
+     个标记重新开始一轮（见 visibilitychange 处理）。 */
+  var ensurePending = false;
 
   /* 已选的目标语言，存在 localStorage 的 __GT_TRANSLATE_LANGS 里
      （{"srcLang": "zh-CN", "tgtLang": "en"} 这种格式，与
@@ -76,6 +84,11 @@
       if (stored && typeof stored.tgtLang === "string") return stored.tgtLang;
     } catch (e) { /* 忽略读取失败 */ }
     return "";
+  }
+
+  /* 标签页是否在后台（老浏览器没有 document.hidden 时按可见处理）。 */
+  function isHidden() {
+    return typeof document.hidden === "boolean" && document.hidden;
   }
 
   function currentHeadlineItem() {
@@ -121,6 +134,10 @@
      完再验证缺口还在不在；还在且本轮没用完 2 次，才再强制一次。 */
   function pollEnsureTranslation() {
     ensureTimer = null;
+    if (isHidden()) {   // 在后台时停下、不消耗轮询期限，切回前台再重开
+      ensurePending = true;
+      return;
+    }
     var lang = storedTargetLang();
     if (!lang || lang === "zh-CN") return;   // 没选翻译 / 选回中文，停
     var gt = window.__GT && window.__GT.translator;
@@ -147,10 +164,18 @@
   }
 
   /* 每次 render() 后开始一轮轮询：首次约 0.9 秒查，之后每 2 秒
-     查一次、持续约 90 秒（覆盖 GTranslate 几十秒一轮的时长）。 */
+     查一次、持续约 90 秒（覆盖 GTranslate 几十秒一轮的时长）。
+     render 发生在后台时不启动轮询、只记待处理标记，切回前台时
+     由 visibilitychange 处理重新开始，避免 90 秒在后台被节流烧掉。 */
   function scheduleEnsureTranslation() {
     if (ensureTimer) clearTimeout(ensureTimer);
     forcedThisCycle = 0;
+    if (isHidden()) {
+      ensurePending = true;
+      ensureTimer = null;
+      return;
+    }
+    ensurePending = false;
     ensureDeadline = Date.now() + 90000;
     ensureTimer = setTimeout(pollEnsureTranslation, 900);
   }
@@ -255,6 +280,16 @@
   searchEl.addEventListener("input", function () {
     state.query = searchEl.value.trim().toLowerCase();
     render();
+  });
+
+  /* 切回前台时补一次检查：后台期间定时器被节流，90 秒轮询可能
+     过期、错过补翻。有待处理标记、或当前没有轮询在跑时，重开一轮；
+     没选翻译、或已选回中文时什么也不做（poll 里会直接退出）。 */
+  document.addEventListener("visibilitychange", function () {
+    if (isHidden()) return;
+    var lang = storedTargetLang();
+    if (!lang || lang === "zh-CN") return;
+    if (ensurePending || !ensureTimer) scheduleEnsureTranslation();
   });
 
   /* 滚动时也检查（防抖）：覆盖滚到底部才进入视口的页脚，
