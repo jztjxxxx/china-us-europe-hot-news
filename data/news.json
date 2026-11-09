@@ -1,401 +1,410 @@
 {
-  "updated_at": "2026-11-08T15:30:52+08:00",
+  "updated_at": "2026-11-09T10:54:41+08:00",
   "items": [
     {
-      "region": "欧洲",
-      "category": "经济",
-      "title": "商贩称1.2万英镑的圣诞集市摊位费“贵得摆不起”",
-      "summary": "摊主们表示，自从新运营方接手后成本高企，他们已会见市议会领导，表达了对高昂费用的担忧。",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ckn8wew92xw1o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-08T15:11:02+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "政治",
-      "title": "特朗普邀请UFC总裁出任白宫新闻秘书：“达纳，请接受这份工作！”",
-      "summary": "特朗普与怀特多年来关系密切，特朗普经常出席UFC赛事，怀特也曾在总统的多次集会上发言。",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/08/trump-offers-ufc-boss-press-secretary-role-dana-please-take-the-job",
-      "published_at": "2026-11-08T15:04:37+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "政治",
-      "title": "中期选举惨败后，民主党能否改变“不再受约束”的特朗普的俄乌立场？",
-      "summary": "共和党在美国中期选举中落败，俄罗斯密切关注，有观察人士预测，民主党明年1月接管国会后，对乌克兰的支持可能会增加。",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3373681/will-democrats-sway-unshackled-trumps-russia-ukraine-stance-after-midterm-rout",
-      "published_at": "2026-11-08T15:00:34+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "政治",
-      "title": "特朗普破碎的“镜像世界”：美国选民断然拒绝总统的另类现实",
-      "summary": "总统宣称带来了“黄金时代”，但物价飙升、战争拖延，中期选举选民并不买账他的“镜中叙事”……",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/08/trump-midterms-voters-mirror-world",
-      "published_at": "2026-11-08T15:00:34+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "经济",
-      "title": "拉美香蕉种植者要求提高报酬，以应对气候危机的影响",
-      "summary": "今年超级厄尔尼诺事件带来的极端天气导致产量大幅下降，拉美香蕉种植者呼吁提高报酬，以应对气候危机的影响……",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis",
-      "published_at": "2026-11-08T15:00:34+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "社会",
-      "title": "面临遣返的在英土耳其人激增，引发“疾风世代”式指责",
-      "summary": "在英国无限期居留申请被拒中发现错误后，包括戴维·拉米在内的人士表达了担忧，面临遣返的在英土耳其人数量突然上升引发了关注……",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/politics/2026/nov/08/turkish-nationals-uk-indefinite-leave-to-remain-home-office-windrush",
-      "published_at": "2026-11-08T15:00:33+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "经济",
-      "title": "“免费赠送三角钢琴”：利用音乐爱好者善心的骗局",
-      "summary": "邮件声称发件女子的丈夫去世，她要免费送出他的三角钢琴，但事情并非看上去那样。你的收件箱里突然出现一封邮件：一位丈夫去世的女子要免费赠送他的三角钢琴。",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/money/2026/nov/08/free-grand-piano-scam-emails",
-      "published_at": "2026-11-08T15:00:33+08:00"
-    },
-    {
       "region": "中国",
       "category": "市场",
-      "title": "香港投资者放眼瑞士阿尔卑斯，分散房地产投资",
-      "summary": "一些富有的香港投资者正把目光投向亚洲以外，寻求跨币种、跨司法管辖区分散房地产投资，作为保值整体布局的一部分。",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/property/international/article/3373585/hong-kong-investors-look-swiss-alps-they-diversify-property-holdings",
-      "published_at": "2026-11-08T14:00:37+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "科技",
-      "title": "发烫的冰箱、假核警报与60亿美元劫案：我们是否正处在黑客攻击潮的前夜？",
-      "summary": "随着人工智能暴露出信息技术系统的漏洞，地缘政治在网络前线展开，一些专家认为，近几周发生的事件可能很快就会变得司空见惯……",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic",
-      "published_at": "2026-11-08T14:00:33+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "市场",
-      "title": "凯茜·伍德称“市场越担忧，我感觉越好”——原因在此",
-      "summary": "方舟投资首席执行官表示，市场目前笼罩着一堵“忧虑之墙”。",
+      "title": "China wholesale inflation hits highest in more than four years as consumer measure slows",
+      "summary": "The PPI for October came in at 5.7%, compared to the 5.3% expected by economists polled by Reuters.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/08/cathie-wood-ai-selloff.html",
-      "published_at": "2026-11-08T14:00:01+08:00"
+      "url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+      "published_at": "2026-11-09T10:50:22+08:00"
     },
     {
       "region": "美国",
       "category": "科技",
-      "title": "人工智能正在加速招聘，并给中介费带来压力",
-      "summary": "招聘人员表示，人工智能正在加快筛选速度、重塑中介工作，人们开始质疑按比例收取的安置费能否维持下去。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/08/ai-recruitment-agency-fees.html",
-      "published_at": "2026-11-08T14:00:01+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "经济",
-      "title": "日本物价“高得离谱”，涨价为何反而让企业吃亏",
-      "summary": "当日本“平价象征”优衣库上个月决定上调基础款袜子的价格时，引发了强烈反弹，这家服装巨头随即迅速改口。",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/news/asia/east-asia/article/3373678/why-raising-prices-japan-amid-insanely-high-inflation-backfires-firms",
-      "published_at": "2026-11-08T13:30:22+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "社会",
-      "title": "污染严重的德里在排灯节尝试“绿色”烟花以净化空气",
-      "summary": "印度最高法院裁定，这个周末只能燃放更环保的烟花，理由是空气质量问题，但环保人士称这是“漂绿”。",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/08/world/asia/delhi-pollution-green-fireworks-diwali.html",
-      "published_at": "2026-11-08T13:01:18+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "社会",
-      "title": "萨摩亚厨师把家乡风味带到新西兰高级餐厅",
-      "summary": "亨利·奥内塞莫在南太平洋岛屿长大，食物是他成长的核心，如今他把家乡风味带到了新西兰的米其林星级餐厅。",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/08/world/asia/onesemo-new-zealand-chef-samoa.html",
-      "published_at": "2026-11-08T13:01:15+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "社会",
-      "title": "又一位头号种子落马，圣母大学力克迈阿密搅乱大学橄榄球季后赛格局",
-      "summary": "C·J·卡尔传球319码、3次达阵，帮助排名第四的圣母大学以31比24获胜，报了此前让他们无缘季后赛的一箭之仇，迈阿密在有争议的末段判罚后反扑未果……",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/sport/2026/nov/08/notre-dame-miami-college-football-upset-cj-carr-playoff",
-      "published_at": "2026-11-08T13:01:04+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "科技",
-      "title": "欧洲真的开始认真摆脱技术依赖了吗？",
-      "summary": "布鲁塞尔正朝着正确方向前进，但还可以进一步推动各国政府。",
-      "source": "金融时报",
-      "url": "https://www.ft.com/content/bd763f67-4c23-4e55-8fbf-3ca0ed520175?syn-25a6b1a6=1",
-      "published_at": "2026-11-08T13:00:19+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "市场",
-      "title": "加密货币行业准备迎接与特朗普关系的清算",
-      "summary": "民主党誓言，在中期选举大胜后，将开始调查总统家族相关事宜。",
-      "source": "金融时报",
-      "url": "https://www.ft.com/content/f1b98a61-4103-447c-bb9a-3dccc0819f61?syn-25a6b1a6=1",
-      "published_at": "2026-11-08T13:00:19+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "科技",
-      "title": "苹果通过在新加坡入账利润节省27亿美元税款",
-      "summary": "根据新的披露，新加坡已超过爱尔兰，成为这家iPhone制造商最大的避税地。",
-      "source": "金融时报",
-      "url": "https://www.ft.com/content/49453406-99f2-4f5b-8f5d-01dc8cac5ede?syn-25a6b1a6=1",
-      "published_at": "2026-11-08T13:00:11+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "科技",
-      "title": "俄罗斯加紧打造埃隆·马斯克“星链”的竞争对手",
-      "summary": "莫斯科的旗舰太空项目将使深入乌克兰境内的更致命无人机袭击成为可能。",
-      "source": "金融时报",
-      "url": "https://www.ft.com/content/423ca208-8e22-4fb3-a76d-b9c722fd8cc0?syn-25a6b1a6=1",
-      "published_at": "2026-11-08T13:00:11+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "市场",
-      "title": "央视称，中国有望在2026年引领全球能源投资",
-      "summary": "据中国中央电视台周日报道，根据中国企业改革与发展研究会发布的《全球能源转型报告2026》，中国2026年能源投资预计达9400亿美元，为全球各国之最……",
+      "title": "Is Nvidia Too Powerful? Jensen Huang Responds",
+      "summary": "Does the AI industry’s reliance on Nvidia pose a systemic risk? In an interview filmed on October 14 for an upcoming episode of The Circuit, CEO Jensen Huang responds.",
       "source": "彭博",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-08/china-set-to-lead-world-in-energy-investment-in-2026-cctv-says",
-      "published_at": "2026-11-08T12:02:33+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "科技",
-      "title": "香港在中国内地进口博览会上进一步拓展人工智能与航空业务",
-      "summary": "中国全球进口博览会的业内人士表示，香港正在人工智能、航空和专业服务领域与内地建立更深厚的联系。",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3373664/hong-kong-makes-further-roads-ai-aviation-mainland-chinese-expo",
-      "published_at": "2026-11-08T12:00:35+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "社会",
-      "title": "世界遗产地中只有一小部分在非洲，中国想改变这一点",
-      "summary": "非洲拥有古城、岩画和壮丽的自然景观，但其遗址在联合国教科文组织《世界遗产名录》中的占比严重偏低。",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3373662/only-fraction-world-heritage-sites-are-africa-china-wants-fix",
-      "published_at": "2026-11-08T12:00:32+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "社会",
-      "title": "东南亚绿色转型带来太阳能，但谁来买单维持运转？",
-      "summary": "奥斯曼·乌基大半辈子都生活在由阳光主宰的世界里，靠煤油和剩下的食用油照亮马来西亚偏远原住民村庄的家。",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/week-asia/health-environment/article/3373551/southeast-asias-green-push-brings-solar-power-who-pays-keep-it",
-      "published_at": "2026-11-08T12:00:30+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "科技",
-      "title": "印尼民众愤怒：巴淡岛数据中心抽干水龙头，“我们没水做饭”",
-      "summary": "在印尼巴淡岛，水龙头干涸后，做饭和洗澡都变得困难，当地居民正在抗议为全球人工智能热潮供电而新建的数据中心。",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3373676/indonesians-furious-batam-data-centres-drain-taps-we-cannot-cook-without-water",
-      "published_at": "2026-11-08T11:51:09+08:00"
+      "url": "https://www.bloomberg.com/news/videos/2026-11-09/is-nvidia-too-powerful-jensen-huang-responds-video",
+      "published_at": "2026-11-09T10:49:17+08:00"
     },
     {
       "region": "美国",
-      "category": "社会",
-      "title": "梅西连续第二年夺得金靴，纳什维尔在美职联决战日创下积分纪录",
-      "summary": "梅西成为首位连续夺得美职联金靴的球员，迈阿密国际在一场戏剧性平局中丢掉3比0的领先，纳什维尔以77分创下联赛新纪录。梅西周六赢得了连续第二个美职联金靴奖……",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/football/2026/nov/07/lionel-messi-mls-golden-boot-inter-miami-charlotte-nashville-playoffs",
-      "published_at": "2026-11-08T11:31:47+08:00"
-    },
-    {
-      "region": "中国",
       "category": "科技",
-      "title": "中国一款300美元相亲应用“结婚或退款”承诺引发热议",
-      "summary": "在中国竞争激烈的相亲市场，一家新兴婚恋初创公司押上全部收入打赌：找到真爱，否则全额退款。",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3373674/china-us300-dating-app-marriage-or-refund-guarantee-sparks-intense-online-buzz",
-      "published_at": "2026-11-08T10:00:27+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "科技",
-      "title": "《塞尔达》重制版能重现当年的魔力吗？",
-      "summary": "任天堂发布了这款被认为是有史以来最好游戏之一的重制版，BBC记者汤姆·格肯给出了他的评价。",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-08T08:37:45+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "经济",
-      "title": "马来西亚暗地里流行DIY减肥针",
-      "summary": "当她的Mounjaro处方药变得太贵时，贝伊*做了越来越多马来西亚人正在做的事：在网上找更便宜的药瓶。",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3373570/malaysia-shadow-trade-diy-weight-loss-jabs-takes-hold",
-      "published_at": "2026-11-08T08:00:33+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "市场",
-      "title": "人工智能股暴跌，亚洲被遗忘的交易卷土重来：从中国到印度",
-      "summary": "美国中期选举后人工智能交易的瓦解迫使投资者重新思考亚洲布局，促使人们重新追捧不受青睐的中国和印度股票，以及有望受益于通胀缓解和贸易紧张局势的公司……",
+      "title": "Jensen Huang on Who Could Succeed Him as Nvidia CEO",
+      "summary": "Nvidia CEO Jensen Huang, in an interview filmed on October 14, discusses his unconventional leadership style, the pressures of the job and who might succeed him.",
       "source": "彭博",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-08/ai-slump-revives-asia-s-forgotten-trades-from-china-to-india",
-      "published_at": "2026-11-08T08:00:00+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "经济",
-      "title": "拉布布热潮看似势不可挡，如今毛绒怪物热正在消退",
-      "summary": "母公司泡泡玛特的收入已下滑，因为人们对这些古怪收藏玩偶的热情正在减退。",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-08T07:02:35+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "社会",
-      "title": "部长称，克拉科夫枪杀6人的枪手持有“极端民族主义”观点",
-      "summary": "克拉科夫警方表示，枪手驾车进入市中心主要旅游景点主广场，随机向人群开枪。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/07/krakow-poland-shooting.html",
-      "published_at": "2026-11-08T06:39:10+08:00"
+      "url": "https://www.bloomberg.com/news/videos/2026-11-09/jensen-huang-on-who-could-succeed-him-as-nvidia-ceo-video",
+      "published_at": "2026-11-09T10:48:29+08:00"
     },
     {
       "region": "美国",
-      "category": "经济",
-      "title": "德克萨斯州经济民粹主义传统令人意外又常被遗忘的历史",
-      "summary": "NPR记者罗布·施密茨采访了奥斯汀政治评论员戴维·格里斯科姆，他著有《红色德克萨斯的神话》一书，讲述了德克萨斯州经济民粹主义的故事。",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/07/nx-s1-6030759/the-surprising-and-often-forgotten-history-of-texas-tradition-of-economic-populism",
-      "published_at": "2026-11-08T06:12:07+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "经济",
-      "title": "伊普斯维奇镇俱乐部新店“将长久开下去”",
-      "summary": "球迷和球员都对市中心这处新的“活动空间”感到高兴。",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/videos/cxnv0455zq5jo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-08T05:40:32+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "政治",
-      "title": "美中期选举后乌克兰强调争取美国两党的支持",
-      "summary": "谈及美国中期选举后民主党赢得国会两院控制权，乌克兰总统泽连斯基6日在接受美国有线电视新闻网采访时表示，美国两党的支持对乌克兰十分重要，希望支持力度进一步增加。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261107-%E7%BE%8E%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%90%8E%E4%B9%8C%E5%85%8B%E5%85%B0%E5%BC%BA%E8%B0%83%E4%BA%89%E5%8F%96%E7%BE%8E%E5%9B%BD%E4%B8%A4%E5%85%9A%E7%9A%84%E6%94%AF%E6%8C%81",
-      "published_at": "2026-11-08T05:22:22+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "社会",
-      "title": "智利导演莱里奥 （Sebastián Lelio）离世",
-      "summary": "智利电影导演塞巴斯蒂安·莱里奥 （Sebastián Lelio）于2026年11月6日去世，享年52岁，其家人公布了这一消息。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261107-%E6%99%BA%E5%8A%9B%E5%AF%BC%E6%BC%94%E8%8E%B1%E9%87%8C%E5%A5%A5-sebasti%C3%A1n-lelio-%E7%A6%BB%E4%B8%96",
-      "published_at": "2026-11-08T04:58:45+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "政治",
-      "title": "法国政府发言人暂换新面孔",
-      "summary": "法国政府发言人暂换人，因莫德·布雷容（Maud Bregeon）要休产假。临时政府发言人是司法部长杰拉尔德·达尔马宁的亲密助手、担任生态转型事务部长代表，名为马蒂厄·勒费夫尔（Mathieu Lefèvre）。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261107-%E6%B3%95%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%8F%91%E8%A8%80%E4%BA%BA%E6%9A%82%E6%8D%A2%E6%96%B0%E9%9D%A2%E5%AD%94",
-      "published_at": "2026-11-08T04:55:32+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "社会",
-      "title": "印一架重型战略运输机创全球最高海拔降落纪录",
-      "summary": "2026 年 11 月 7 日，印度空军一架伊尔-76MD “Gajraj” 成功降落在了中印边境附近的拉达克东部尼奥马（Nyoma）前线机场（海拔达 13,629 英尺 / 约 4,154 米），创下了该机型在全球范围内的最高海拔降落纪录。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261107-%E5%8D%B0%E4%B8%80%E6%9E%B6%E9%87%8D%E5%9E%8B%E6%88%98%E7%95%A5%E8%BF%90%E8%BE%93%E6%9C%BA%E5%88%9B%E5%85%A8%E7%90%83%E6%9C%80%E9%AB%98%E6%B5%B7%E6%8B%94%E9%99%8D%E8%90%BD%E7%BA%AA%E5%BD%95",
-      "published_at": "2026-11-08T04:51:28+08:00"
+      "category": "科技",
+      "title": "Nvidia’s Jensen Huang: China Is 'Not Our Enemy,' US Chip Policy a 'Mistake'",
+      "summary": "In an interview filmed on October 14, Nvidia CEO Jensen Huang defended engaging with China and criticized US chip restrictions.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-09/nvidia-ceo-jensen-huang-on-selling-chips-to-china-video",
+      "published_at": "2026-11-09T10:46:23+08:00"
     },
     {
       "region": "中国",
       "category": "市场",
-      "title": "中国进军欧洲摩托车市场",
-      "summary": "中国凭借电动汽车彻底改变了欧洲汽车市场，如今又将同样的模式应用于摩托车领域，令日本和欧洲老牌摩托车品牌开始感受到压力。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261107-%E4%B8%AD%E5%9B%BD%E8%BF%9B%E5%86%9B%E6%AC%A7%E6%B4%B2%E6%91%A9%E6%89%98%E8%BD%A6%E5%B8%82%E5%9C%BA",
-      "published_at": "2026-11-08T04:46:50+08:00"
+      "title": "Foreign Funds Pile Into India as AI Trade Falters",
+      "summary": "Including Friday’s provisional figures, foreign funds were net buyers of close to $5 billion of stocks last week.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-09/foreign-funds-pile-into-india-as-ai-trade-falters",
+      "published_at": "2026-11-09T10:45:32+08:00"
     },
     {
-      "region": "欧洲",
-      "category": "政治",
-      "title": "欧盟五国推动与英国达成电力协议",
-      "summary": "据法新社周六报道，包括德国和丹麦在内的五个欧盟国家呼吁布鲁塞尔加快英国参与欧洲电力市场的谈判。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261107-%E6%AC%A7%E7%9B%9F%E4%BA%94%E5%9B%BD%E6%8E%A8%E5%8A%A8%E4%B8%8E%E8%8B%B1%E5%9B%BD%E8%BE%BE%E6%88%90%E7%94%B5%E5%8A%9B%E5%8D%8F%E8%AE%AE",
-      "published_at": "2026-11-08T04:44:24+08:00"
+      "region": "美国",
+      "category": "市场",
+      "title": "Stock futures rise slightly as investors eye AI trade, brace for more data and earnings: Live updates",
+      "summary": "Key inflation data and AI earnings could set the tone for markets this week.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html",
+      "published_at": "2026-11-09T10:36:59+08:00"
     },
     {
       "region": "中国",
-      "category": "社会",
-      "title": "拖家带口 去中国实现“美国梦”",
-      "summary": "曾是美国市场营销主管的布拉德利·克雷 （Bradley Krae）2016年曾在深圳当过英文教师。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261107-%E6%8B%96%E5%AE%B6%E5%B8%A6%E5%8F%A3-%E5%8E%BB%E4%B8%AD%E5%9B%BD%E5%AE%9E%E7%8E%B0-%E7%BE%8E%E5%9B%BD%E6%A2%A6",
-      "published_at": "2026-11-08T04:41:29+08:00"
+      "category": "科技",
+      "title": "Japan, Vietnam Eye Economic Security Ties as To Lam Visits Tokyo",
+      "summary": "The leaders of Japan and Vietnam are set to meet in Tokyo on Monday in a visit aimed at bolstering trade, technology and security ties.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-09/japan-vietnam-eye-economic-security-ties-as-to-lam-visits-tokyo",
+      "published_at": "2026-11-09T10:27:13+08:00"
     },
     {
-      "region": "欧洲",
-      "category": "社会",
-      "title": "临近阿布扎比美俄乌会谈 俄罗斯持续袭击乌克兰",
-      "summary": "乌克兰官员周六11月7日表示，俄军在周五到周六的夜间对乌克兰首都基辅及周边地区发动导弹与无人机攻击，造成1死8伤，伤者包括1名儿童，除了住宅及非住宅建筑受到损害外，还造成能源基础设施及一座横跨第聂伯河（Dnipro River）的重要桥梁毁损。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20261107-%E4%B8%B4%E8%BF%91%E9%98%BF%E5%B8%83%E6%89%8E%E6%AF%94%E7%BE%8E%E4%BF%84%E4%B9%8C%E4%BC%9A%E8%B0%88-%E4%BF%84%E7%BD%97%E6%96%AF%E6%8C%81%E7%BB%AD%E8%A2%AD%E5%87%BB%E4%B9%8C%E5%85%8B%E5%85%B0",
-      "published_at": "2026-11-08T03:59:11+08:00"
+      "region": "中国",
+      "category": "市场",
+      "title": "China’s Cheap Domestic Gas Curbs LNG Buying as Winter Nears",
+      "summary": "China’s domestic natural gas prices are weakening, curbing the world’s biggest importer’s appetite for expensive seaborne supplies and potentially freeing up cargoes for Europe and other Asian markets during the peak",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-09/china-s-cheap-domestic-gas-curbs-lng-buying-as-winter-nears",
+      "published_at": "2026-11-09T10:20:24+08:00"
     },
     {
-      "region": "欧洲",
-      "category": "社会",
-      "title": "埃博拉:英国医生刚果(金)确诊",
-      "summary": "在非洲中部，埃博拉本迪布焦型病毒（Ebola Bundibugyo）疫情自大约半年前（2026年5月中旬）在刚果民主共和国（RD Congo）东部地区爆发以来，现已夺去超过5300人的生命。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20261107-rfi%E6%B3%95%E5%B9%BF-%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E5%9F%83%E5%8D%9A%E6%8B%89-%E8%8B%B1%E5%9B%BD%E5%8C%BB%E7%94%9F%E5%88%9A%E6%9E%9C-%E9%87%91-%E7%A1%AE%E8%AF%8A",
-      "published_at": "2026-11-08T03:07:52+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "政治",
-      "title": "俄军导弹再袭基辅 乌总统和市长打嘴仗",
-      "summary": "即将入冬的乌克兰再遭俄军导弹空袭，而此次攻击的目标则以供电、供水设施为主。11月6日晚间、7日凌晨，乌克兰多地发生停电。",
-      "source": "德国之声",
-      "url": "https://www.dw.com/zh/俄军导弹再袭基辅-乌总统和市长打嘴仗/a-79885814?maca=chi-rss-chi-all-1127-xml-mrss",
-      "published_at": "2026-11-07T22:56:00+08:00"
+      "region": "中国",
+      "category": "科技",
+      "title": "Japan’s Mitsui Chemicals, DBJ to Buy JSR for $12 Billion",
+      "summary": "Japanese chemical maker Mitsui Chemicals Inc. and the Development Bank of Japan plan to buy chip materials firm JSR Corp.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-09/japan-s-mitsui-chemicals-dbj-to-buy-jsr-for-12-billion",
+      "published_at": "2026-11-09T10:16:56+08:00"
     },
     {
       "region": "美国",
       "category": "政治",
-      "title": "中期选举惨败后首次人事调整：特朗普换掉白宫幕僚长",
-      "summary": "共和党在中期选举中遭遇重挫后，特朗普撤换白宫幕僚长怀尔斯，由副幕僚长米勒接任。米勒是特朗普强硬移民政策的主要推手，被民主党人斥为“极端分子”。",
+      "title": "Biden Says Health to Limit Book Promotion as Cancer ‘Slows Me Down’",
+      "summary": "Former President Joseph R. Biden Jr.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/08/us/politics/biden-cancer-health-memoir.html",
+      "published_at": "2026-11-09T10:14:35+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "经济",
+      "title": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit",
+      "summary": "Pontiff tells Argentina’s president the economy must benefit all on second stop of 12-day Latin America tour Pope Leo XIV has delivered a stinging critique of Argentine president Javier Milei’s harsh austerity measures,",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity",
+      "published_at": "2026-11-09T10:11:25+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "社会",
+      "title": "One killed in Indonesia helicopter crash during firefighting operation",
+      "summary": "An Indonesian crew member was killed, while an Australian and New Zealander were rescued after the crash.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cxnv0442ml6vo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-09T10:07:38+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "社会",
+      "title": "China digital bed bug map lets travellers flag hotels nationwide upon spotting pests",
+      "summary": "A digital map of bed bug sightings has gained popularity in China but has also sparked controversy by allowing users to flag hotels where they claim to have found the insects with a single click.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3373726/china-digital-bed-bug-map-lets-travellers-flag-hotels-nationwide-upon-spotting-pests",
+      "published_at": "2026-11-09T10:05:09+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "经济",
+      "title": "Philippine Economy Unexpectedly Slows, Pressuring Marcos",
+      "summary": "The Philippines’ economic growth, one of Asia’s worst-performing, unexpectedly slowed for a fifth straight quarter on weak farm output, with high energy costs and El Niño continuing to cloud the outlook.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-09/philippine-economy-slows-further-adding-to-pressure-on-marcos",
+      "published_at": "2026-11-09T10:03:44+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "社会",
+      "title": "Low pay, fatigue and staff shortages put Hong Kong’s aviation hub status at risk: unions",
+      "summary": "Unsatisfactory employment conditions in Hong Kong’s aviation industry are threatening the sector’s ability to attract and retain talent, potentially undermining the city’s competitive edge as a global aviation hub,",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/hong-kong/transport/article/3373714/low-pay-fatigue-and-staff-shortages-put-hong-kongs-aviation-hub-status-risk-unions",
+      "published_at": "2026-11-09T10:00:47+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "经济",
+      "title": "What comes next? Hong Kong seeks to unlock next phase of growth as global financial hub",
+      "summary": "In November 2022, as Hong Kong prepared to host its inaugural Global Financial Leaders’ Investment Summit, Typhoon Nalgae was bearing down on the city, bringing much of it to a standstill.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/business/banking-finance/article/3373692/what-comes-next-hong-kong-seeks-unlock-next-phase-growth-global-financial-hub",
+      "published_at": "2026-11-09T10:00:40+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "科技",
+      "title": "AI pulls up the civil service ladder to Southeast Asia’s middle class",
+      "summary": "Artificial intelligence promises to make government bureaucracies leaner across Asia, but its biggest effect on public-sector employment may not come from the widely feared wave of lay-offs.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/week-asia/economics/article/3373652/ai-pulls-civil-service-ladder-southeast-asias-middle-class",
+      "published_at": "2026-11-09T10:00:38+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "经济",
+      "title": "China’s comfortable brain-reading device achieves 94% mind-typing accuracy in day-long use",
+      "summary": "Chinese researchers have created a comfortable electrode for non-invasive brain-computer interfaces (BCIs) that achieved over 94 per cent accuracy in visual mind-typing tests during day-long use.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/china/science/article/3373477/chinas-comfortable-brain-reading-device-achieves-94-mind-typing-accuracy-day-long-use",
+      "published_at": "2026-11-09T10:00:33+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "社会",
+      "title": "Top House Democrat 'a hard yes' on impeaching Hegseth",
+      "summary": "But the Pentagon said the defence secretary would not be deterred by \"phony investigations\".",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cj4g1nwx39wno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-09T09:53:48+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "经济",
+      "title": "Chinese Producer Inflation Hits 5.7% for Post-Covid Era High",
+      "summary": "China’s producer inflation accelerated to the fastest since June 2022 as more expensive energy raised factories’ costs but failed to prevent a slowdown in consumer-price growth.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-09/chinese-producer-inflation-soars-to-5-7-for-post-covid-era-high",
+      "published_at": "2026-11-09T09:35:41+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "科技",
+      "title": "Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy",
+      "summary": "Silicon Valley chipmaker opens investigation into chief executive as he confirms extramarital liaison in message to employees",
+      "source": "金融时报",
+      "url": "https://www.ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa?syn-25a6b1a6=1",
+      "published_at": "2026-11-09T09:08:15+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "科技",
+      "title": "Nvidia CEO Jensen Huang admits to affair; board orders investigation",
+      "summary": "The board of US AI chip giant Nvidia has announced an independent investigation as chief executive Jensen Huang said in a memo to employees that he had been unfaithful to his wife.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/tech/article/3373724/nvidia-ceo-jensen-huang-admits-affair-board-orders-investigation",
+      "published_at": "2026-11-09T08:53:13+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "科技",
+      "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+      "summary": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-09T08:50:06+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "经济",
+      "title": "Doing these things now will help you save money at Christmas",
+      "summary": "Small decisions made now can make a big difference to your festive finances, charities say, so here are some tips.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-09T08:09:14+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "经济",
+      "title": "UK Firms Pared Hiring in Turbulent Weeks Before Budget, REC Says",
+      "summary": "Britain’s brief employment recovery came to an end ahead of Chancellor of the Exchequer John Healey’s budget, according to a survey that’s closely watched by Bank of England officials.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-09/uk-firms-pared-hiring-in-turbulent-weeks-before-budget-rec-says",
+      "published_at": "2026-11-09T08:01:00+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "经济",
+      "title": "Standard Chartered profits from geopolitical fragmentation as earnings soar: CEO",
+      "summary": "Standard Chartered expects to sustain its strong earnings growth by capitalising on rising wealth in Asia and the Middle East, growing demand for cross-border financial services and the digitisation of money, as rising",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/business/banking-finance/article/3373698/standard-chartered-profits-geopolitical-fragmentation-earnings-soar-ceo",
+      "published_at": "2026-11-09T08:00:41+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "经济",
+      "title": "When the Boss on the Phone Isn’t Real: How More Than $129 Million Was Stolen Using A.I.",
+      "summary": "A federal indictment alleges that three men used generative A.I. to impersonate voices of chief executives and lawyers to defraud companies of millions of dollars.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/08/business/ai-ceo-impersonation-theft.html",
+      "published_at": "2026-11-09T07:34:09+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "社会",
+      "title": "非洲:2026青奥会男子3人篮球赛",
+      "summary": "法广（RFI）中文[周日体育]（Sport dimanche）继续关注正在非洲国家塞内加尔(le Sénégal)首都达喀尔举办的第四届夏季青年奥林匹克运动会（JOJ Dakar 2026）。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20261108-rfi%E6%B3%95%E5%B9%BF-%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-2026%E9%9D%92%E5%A5%A5%E4%BC%9A3%E4%BA%BA%E7%AF%AE%E7%90%83%E8%B5%9B",
+      "published_at": "2026-11-09T07:25:47+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "社会",
+      "title": "Drone attack on Iraq gas field causes power outages",
+      "summary": "An Emirati-owned gas complex in Iraq’s autonomous Kurdistan region was attacked on Sunday, disrupting the gas supply to the region’s power plants, local Kurdish authorities said.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3373721/attack-iraq-gas-complex-disrupts-supply-regions-power-plants-authorities-say",
+      "published_at": "2026-11-09T06:09:47+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "市场",
+      "title": "Trump says renewed Iran strikes ‘highly unlikely’ if talks progress but warns he could still strike",
+      "summary": "Trump tied avoiding renewed U.S. strikes to progress in talks over Iran’s nuclear program and the Strait of Hormuz.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/08/trump-iran-strikes-unlikely-talks-hormuz.html",
+      "published_at": "2026-11-09T05:53:02+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "社会",
+      "title": "NFL week nine: Chiefs thrash Jets, Rams beat Commanders and Broncos survive wild finish – as it happened",
+      "summary": "Bengals joint-top of AFC North with 34-17 win in Madrid Myles Garrett returns in Rams win with three sacks Broncos 0-0 Panthers 14:56, 1st quarter Here we go! Carolina kick it away to Denver.",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/sport/live/2026/nov/08/nfl-week-nine-jets-v-chiefs-rams-v-commanders-broncos-v-panthers-and-more-updates",
+      "published_at": "2026-11-09T05:38:42+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "政治",
+      "title": "特朗普：“重燃战火的可能性非常小”",
+      "summary": "伊朗外长阿巴斯·阿拉格奇（Abbas Araghchi）周日表示，近期为解决中东冲突而加强的外交努力因特朗普阵营在中期选举中失利带来的“冲击”而陷入停滞。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20261108-%E7%89%B9%E6%9C%97%E6%99%AE-%E9%87%8D%E7%87%83%E6%88%98%E7%81%AB%E7%9A%84%E5%8F%AF%E8%83%BD%E6%80%A7%E9%9D%9E%E5%B8%B8%E5%B0%8F",
+      "published_at": "2026-11-09T05:14:01+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "社会",
+      "title": "Two police officers hailed as heroes for confronting Kraków gunman",
+      "summary": "Jakub Kulik critically injured and Artur Morański also wounded after actions that ‘prevented further casualties’ Two Polish police officers who were injured as they pursued and detained the gunman in Kraków on Saturday",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/world/2026/nov/08/two-police-officers-heroes-confronting-krakow-gunman-poland",
+      "published_at": "2026-11-09T05:11:40+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "政治",
+      "title": "法国外长：“梅郎雄完全成为克里姆林宫代言人”",
+      "summary": "法国外长周日表示，不屈服法兰西党领袖让-吕克·梅朗雄“简直成了克里姆林宫的的代言人”，因为他提议应该就顿巴斯地区的命运征询当地民众的意见。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261108-%E6%B3%95%E5%9B%BD%E5%A4%96%E9%95%BF-%E6%A2%85%E9%83%8E%E9%9B%84%E5%AE%8C%E5%85%A8%E6%88%90%E4%B8%BA%E5%85%8B%E9%87%8C%E5%A7%86%E6%9E%97%E5%AE%AB%E4%BB%A3%E8%A8%80%E4%BA%BA",
+      "published_at": "2026-11-09T05:10:28+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "科技",
+      "title": "黄仁勋承认婚外情向家人道歉 英伟达董事会声明：将对黄仁勋与疑似中国间谍的女商人的关系展开调查",
+      "summary": "据CNBC的报道：英伟达已经对联合创始人兼首席执行官黄仁勋与一名情报机构称是中国间谍的女商人的关系展开调查。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261108-%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%91%A3%E4%BA%8B%E4%BC%9A%E5%8F%91%E8%A1%A8%E5%A3%B0%E6%98%8E%E5%B0%86%E5%AF%B9%E9%BB%84%E4%BB%81%E5%8B%8B%E4%B8%8E%E4%B8%80%E5%90%8D%E6%83%85%E6%8A%A5%E6%9C%BA%E6%9E%84%E7%A7%B0%E6%98%AF%E4%B8%AD%E5%9B%BD%E9%97%B4%E8%B0%8D%E7%9A%84%E5%A5%B3%E5%95%86%E4%BA%BA%E7%9A%84%E5%85%B3%E7%B3%BB%E5%B1%95%E5%BC%80%E8%B0%83%E6%9F%A5",
+      "published_at": "2026-11-09T05:04:57+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "政治",
+      "title": "众议院监督委员会主席：“特朗普是美历史上最腐败的总统”",
+      "summary": "美国司法部长托德·布兰奇（Todd Blanche）周日在CNN上表示，他的职责是捍卫特朗普政府成员，这些成员可能会成为共和党败选后，即将占据国会多数席位的民主党人调查的目标。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261108-%E4%BC%97%E8%AE%AE%E9%99%A2%E7%9B%91%E7%9D%A3%E5%A7%94%E5%91%98%E4%BC%9A%E4%B8%BB%E5%B8%AD-%E7%89%B9%E6%9C%97%E6%99%AE%E6%98%AF%E7%BE%8E%E5%8E%86%E5%8F%B2%E4%B8%8A%E6%9C%80%E8%85%90%E8%B4%A5%E7%9A%84%E6%80%BB%E7%BB%9F",
+      "published_at": "2026-11-09T04:59:36+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "政治",
+      "title": "伊朗再处决3名抗议者",
+      "summary": "伊朗当局周日宣布处决三名男子，他们被控在今年1月席卷全国的反政府抗议活动中代表以色列和美国行事。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261108-%E4%BC%8A%E6%9C%97%E5%86%8D%E5%A4%84%E5%86%B33%E5%90%8D%E6%8A%97%E8%AE%AE%E8%80%85",
+      "published_at": "2026-11-09T04:56:04+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "社会",
+      "title": "《南德意志报》：黄之锋是整整一代人的象征",
+      "summary": "德国多份媒体对香港民主活动人士黄之锋（Joshua Wong）被判十年监禁表示了关注。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261108-%E5%8D%97%E5%BE%B7%E6%84%8F%E5%BF%97%E6%8A%A5-%E9%BB%84%E4%B9%8B%E9%94%8B%E6%98%AF%E6%95%B4%E6%95%B4%E4%B8%80%E4%BB%A3%E4%BA%BA%E7%9A%84%E8%B1%A1%E5%BE%81",
+      "published_at": "2026-11-09T04:42:07+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "政治",
+      "title": "默茨希望任命伊尔莎·艾格纳为德国第一位女总统",
+      "summary": "据基民盟内部消息人士透露，德国总理弗里德里希·默茨（Friedrich Merz）周日晚间宣布，巴伐利亚州议会议长伊尔泽·艾格纳（Ilse Aigner）将作为其总统候选人。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261108-%E9%BB%98%E8%8C%A8%E5%B8%8C%E6%9C%9B%E4%BB%BB%E5%91%BD%E4%BC%8A%E5%B0%94%E8%8E%8E%C2%B7%E8%89%BE%E6%A0%BC%E7%BA%B3%E4%B8%BA%E5%BE%B7%E5%9B%BD%E7%AC%AC%E4%B8%80%E4%BD%8D%E5%A5%B3%E6%80%BB%E7%BB%9F",
+      "published_at": "2026-11-09T04:38:16+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "社会",
+      "title": "教宗良14世访南美3国10城 计划行程3万公里讲演36场",
+      "summary": "罗马天主教教宗良十四世（Pope Leo XIV）11月8日将前往阿根廷，展开为期12天南美洲之旅的第2站行程。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20261108-%E6%95%99%E5%AE%97%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%96%E8%AE%BF%E5%8D%97%E7%BE%8E%E4%B8%89%E5%9B%BD%E5%8D%81%E5%9F%8E%E8%A1%8C%E7%A8%8B3%E4%B8%87%E5%85%AC%E9%87%8C%E5%8F%91%E8%A1%A836%E5%9C%BA%E6%BC%94%E8%AF%B4",
+      "published_at": "2026-11-09T03:12:29+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "政治",
+      "title": "美众院准备弹劾赫格塞思 部分共和党议员或将倒戈",
+      "summary": "美国众议院共和党领导层正严阵以待，防范本周在针对战争部长赫格塞思（Pete Hegseth）的弹劾动议进行表决时，出现足够多的共和党人倒戈。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261108-%E7%BE%8E%E4%BC%97%E9%99%A2%E5%87%86%E5%A4%87%E5%BC%B9%E5%8A%BE%E8%B5%AB%E6%A0%BC%E5%A1%9E%E6%80%9D-%E9%83%A8%E5%88%86%E5%85%B1%E5%92%8C%E5%85%9A%E8%AE%AE%E5%91%98%E6%88%96%E5%B0%86%E5%80%92%E6%88%88",
+      "published_at": "2026-11-09T01:32:38+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "社会",
+      "title": "墙外文摘：黄之锋再判10年，提早出狱的人交出了什么？",
+      "summary": "黄之锋被再判10年，同一周，另一些人提前出狱、获准离境，甚至到深圳\"体验发展\"。",
       "source": "德国之声",
-      "url": "https://www.dw.com/zh/中期选举惨败后首次人事调整：特朗普换掉白宫幕僚长/a-79884880?maca=chi-rss-chi-all-1127-xml-mrss",
-      "published_at": "2026-11-07T20:37:00+08:00"
+      "url": "https://www.dw.com/zh/墙外文摘：黄之锋再判10年，提早出狱的人交出了什么？/a-79892036?maca=chi-rss-chi-all-1127-xml-mrss",
+      "published_at": "2026-11-08T23:50:00+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "社会",
+      "title": "法国周末再示威 抗议者数量减少",
+      "summary": "法国连续第四个周末出现针对高昂生活成本以及教育系统积弊的示威抗议。不过，和此前几次相比，本周末的抗议人数明显减少。",
+      "source": "德国之声",
+      "url": "https://www.dw.com/zh/法国周末再示威-抗议者数量减少/a-79891873?maca=chi-rss-chi-all-1127-xml-mrss",
+      "published_at": "2026-11-08T23:32:00+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "科技",
+      "title": "Sequoia’s new chiefs sweep away last remnants of Botha era",
+      "summary": "Closures of London office and permanent capital fund mark latest efforts to streamline Silicon Valley VC firm",
+      "source": "金融时报",
+      "url": "https://www.ft.com/content/abf66424-1738-4c1b-9d6b-a868be30b474?syn-25a6b1a6=1",
+      "published_at": "2026-11-08T22:00:00+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "科技",
+      "title": "UK spent £100m on zombie Brexit border inspection posts",
+      "summary": "Five of seven facilities in England and Wales never reached operational stage as Tories vacillated over plans to check goods The UK wasted at least £100m in taxpayers’ money to set up zombie Brexit border inspection",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/politics/2026/nov/08/uk-zombie-brexit-border-inspection-posts-check-goods",
+      "published_at": "2026-11-08T21:32:58+08:00"
     }
   ]
 }
