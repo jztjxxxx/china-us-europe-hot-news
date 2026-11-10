@@ -4,7 +4,7 @@
 >
 > 直接点上面这个链接就能看，不用下载、不用安装。
 
-整合中国、美国、欧洲的热点新闻：报纸头版式页面，顶部头条、下方按地区分栏，覆盖政治、经济、科技、市场、社会五类，可按地区 / 分类筛选、全文搜索，每天自动更新三次（每 8 小时一次）。
+整合中国、美国、欧洲的热点新闻：数字印象派风格页面（暖米白宣纸底、莫奈式柔和色彩、光斑笔触、手绘波浪装饰），顶部头条、下方按地区分栏，覆盖政治、经济、科技、市场、社会五类，可按地区 / 分类筛选、全文搜索，每天自动更新三次（每 8 小时一次）。用到的风格：digital impressionism（主风格）、shades of off-white（米白纸底）、sketch and scribble（手绘下划线与分隔线）、generative art（背景淡淡的光斑笔触）；未采用 ASCII 与像素、morphing objects、lomo imagery，以及一切赛博朋克元素（深黑底、霓虹、发光、切角、故障重影、数字雨）。
 
 > **English summary:** A static, open-source hot-news page covering China, the US and Europe. Headlines are fetched from public RSS feeds, rendered client-side from `data/news.json`, and refreshed 3 times a day (every 8 hours) by GitHub Actions. No build step, no external fonts; the only external script is the free GTranslate widget (see “翻译 / Translation”).
 
