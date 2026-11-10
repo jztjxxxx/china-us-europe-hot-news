@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>中美欧热点新闻</title>
 <meta name="description" content="整合中国、美国、欧洲的热点新闻：政治、经济、科技、市场、社会综合头条，每天自动更新。">
-<link rel="stylesheet" href="styles.css?v=20261110">
+<link rel="stylesheet" href="styles.css?v=20261110fx">
 </head>
 <body>
 <header class="masthead">
@@ -15,6 +15,12 @@
   <p class="updated">数据更新于 <span id="updated-at">加载中…</span></p>
   <div class="sketch-div" aria-hidden="true"><svg width="120" height="8" viewBox="0 0 120 8"><path d="M3 5 Q 13 2, 23 5 T 43 5 T 63 5 T 83 5 T 103 5 T 117 5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg><span class="dot">✦</span><svg width="120" height="8" viewBox="0 0 120 8"><path d="M3 5 Q 13 2, 23 5 T 43 5 T 63 5 T 83 5 T 103 5 T 117 5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></div>
 </header>
+
+<!-- 头条跑马灯：内容由 app.js 从新闻数据里取前 8 条标题填入，横向无限滚动；无数据时隐藏。 -->
+<div class="ticker" id="ticker" hidden>
+  <span class="ticker-label">最新 ✦</span>
+  <div class="ticker-viewport"><div class="ticker-track" id="ticker-track"></div></div>
+</div>
 
 <main>
   <section class="controls" aria-label="筛选">
