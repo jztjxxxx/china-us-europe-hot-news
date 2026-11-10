@@ -1,38 +1,65 @@
-/* 中美欧热点新闻 — 报纸头版风格；仅用系统字体，无外部字体。
+/* 中美欧热点新闻 — 数字印象派风格；仅用系统字体，无外部字体下载。
    唯一外部脚本是 GTranslate 翻译小部件（cdn.gtranslate.net，免费，
    非商业网站免费使用），详见 README 的“翻译”一节。
-   此前用的 Google 翻译小部件已于 2026-10-01 停服，代码已全部移除。 */
+   此前用的 Google 翻译小部件已于 2026-10-01 停服，代码已全部移除。
+   用到的用户所给风格（见 README）：digital impressionism（主风格，
+   莫奈式柔和色彩与光斑笔触）、shades of off-white（暖米白宣纸底）、
+   sketch and scribble（少量手绘感装饰：波浪下划线、手绘分隔线）、
+   generative art（背景里淡淡的随机感光斑笔触，很淡、不影响读字）。
+   未采用：ASCII 与像素、morphing objects、lomo imagery，以及一切
+   赛博朋克元素（深黑底、霓虹、发光、切角、故障重影、数字雨）。 */
 :root {
-  --ink: #1a1a1a;
-  --muted: #6b6b6b;
-  --line: #d8d2c4;
-  --paper: #fdfbf5;
-  --accent: #a6192e;
-  --card: #ffffff;
+  --paper: #f8f3e7;
+  --paper2: #fdfaf1;
+  --card: #fffdf6;
+  --ink: #3a352c;
+  --muted: #7d7466;
+  --line: rgba(125, 116, 102, 0.28);
+  --blue: #6b8ec4;
+  --lavender: #9a8fc7;
+  --orange: #df9a5e;
+  --green: #8ba888;
+  --rose: #d98a94;
+  --serif: "Songti SC", "Noto Serif CJK SC", "STSong", Georgia, "Times New Roman", serif;
+  --sans: "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
+  --mono: ui-monospace, "SF Mono", "Cascadia Code", Consolas, "Liberation Mono", monospace;
 }
 
 * { box-sizing: border-box; }
 
+::selection { background: rgba(154, 143, 199, 0.35); color: var(--ink); }
+
+html { scrollbar-color: var(--lavender) var(--paper); }
+
 body {
   margin: 0;
-  background: var(--paper);
   color: var(--ink);
-  font-family: "Songti SC", "Noto Serif CJK SC", "SimSun", Georgia, serif;
+  font-family: var(--sans);
   line-height: 1.6;
+  /* 宣纸底 + 生成式光斑：多层柔和径向渐变模拟印象派笔触与光影，
+     透明度都很低，只作底色氛围，不影响读字。 */
+  background:
+    radial-gradient(560px 380px at 8% 4%, rgba(154, 143, 199, 0.16), transparent 65%),
+    radial-gradient(640px 420px at 94% 10%, rgba(107, 142, 196, 0.14), transparent 65%),
+    radial-gradient(700px 460px at 50% 78%, rgba(223, 154, 94, 0.12), transparent 65%),
+    radial-gradient(420px 300px at 82% 62%, rgba(139, 168, 136, 0.12), transparent 65%),
+    radial-gradient(380px 260px at 18% 88%, rgba(217, 138, 148, 0.10), transparent 65%),
+    var(--paper);
+  background-attachment: fixed;
 }
 
-a { color: var(--ink); }
+a { color: var(--blue); }
+a:hover { color: var(--orange); }
 
 .masthead {
   text-align: center;
   padding: 28px 16px 18px;
-  border-bottom: 3px double var(--ink);
   max-width: 1080px;
   margin: 0 auto;
 }
 
 .masthead .dateline {
-  font-family: "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
+  font-family: var(--mono);
   font-size: 13px;
   letter-spacing: 0.12em;
   color: var(--muted);
@@ -40,25 +67,58 @@ a { color: var(--ink); }
 }
 
 .masthead h1 {
+  font-family: var(--serif);
   font-size: clamp(34px, 7vw, 56px);
-  line-height: 1.15;
+  line-height: 1.2;
   margin: 0;
   letter-spacing: 0.06em;
+  font-weight: 600;
+  /* 标题：蓝紫到暖橙的柔和渐变，不发光。 */
+  background: linear-gradient(95deg, #5d7fb8 5%, #8a7fc0 38%, #c98d7a 68%, #df9a5e 95%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+/* 标题下的手绘波浪下划线（sketch 风格小装饰）。 */
+.masthead h1::after {
+  content: "";
+  display: block;
+  width: 180px;
+  height: 8px;
+  margin: 10px auto 0;
+  background: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='180' height='8' viewBox='0 0 180 8'><path d='M3 5 Q 13 2, 23 5 T 43 5 T 63 5 T 83 5 T 103 5 T 123 5 T 143 5 T 163 5 T 177 5' fill='none' stroke='%239a8fc7' stroke-width='2' stroke-linecap='round'/></svg>") no-repeat center / 180px 8px;
 }
 
 .masthead .tagline {
-  font-family: "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
+  font-family: var(--sans);
   font-size: 14px;
   color: var(--muted);
   margin: 8px 0 4px;
 }
 
 .masthead .updated {
-  font-family: "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
+  font-family: var(--mono);
   font-size: 13px;
   color: var(--muted);
   margin: 4px 0 0;
 }
+
+/* 手绘分隔线：波浪线 + 小圆点，纯装饰。 */
+.sketch-div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin: 14px 0 0;
+  color: var(--lavender);
+  opacity: 0.75;
+}
+
+.sketch-div svg { display: block; }
+.sketch-div .dot { font-size: 10px; letter-spacing: 0.3em; }
+
+footer .sketch-div { margin: 0 0 12px; color: var(--orange); }
 
 main {
   max-width: 1080px;
@@ -88,7 +148,7 @@ main {
   display: flex;
   align-items: center;
   gap: 6px;
-  font-family: "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
+  font-family: var(--sans);
   font-size: 13px;
   color: var(--muted);
   white-space: nowrap;
@@ -98,15 +158,15 @@ main {
 
 .gtranslate_wrapper { display: inline-block; }
 
-/* GTranslate 生成的语言下拉框，收成报纸风的小圆角控件。 */
+/* GTranslate 生成的语言下拉框：浅色纸底上的柔和圆角控件。 */
 .gtranslate_wrapper .gt_selector {
-  font-family: "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
+  font-family: var(--sans);
   font-size: 13px;
-  padding: 4px 6px;
+  padding: 4px 10px;
   max-width: 180px;
   border: 1px solid var(--line);
   border-radius: 999px;
-  background: var(--card);
+  background: var(--paper2);
   color: var(--ink);
   cursor: pointer;
 }
@@ -118,6 +178,7 @@ main {
   max-width: 220px;
 }
 
+/* ---- 控制区 ---- */
 .controls {
   padding: 18px 0 6px;
   border-bottom: 1px solid var(--line);
@@ -125,14 +186,30 @@ main {
 
 #search {
   width: 100%;
-  padding: 10px 12px;
+  padding: 10px 14px;
   font-size: 15px;
-  font-family: "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
+  font-family: var(--sans);
   border: 1px solid var(--line);
-  border-radius: 4px;
-  background: var(--card);
+  border-radius: 999px;
+  background: var(--paper2);
   color: var(--ink);
   margin-bottom: 12px;
+}
+
+#search::placeholder { color: var(--muted); }
+
+#search:focus {
+  outline: none;
+  border-color: var(--lavender);
+  box-shadow: 0 0 0 3px rgba(154, 143, 199, 0.18);
+}
+
+button:focus-visible,
+#search:focus-visible,
+a:focus-visible,
+.gtranslate_wrapper .gt_selector:focus-visible {
+  outline: 2px solid var(--orange);
+  outline-offset: 2px;
 }
 
 .tabs {
@@ -143,24 +220,34 @@ main {
 }
 
 .tabs button {
-  font-family: "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
+  font-family: var(--sans);
   font-size: 14px;
-  padding: 6px 14px;
-  border: 1px solid var(--ink);
+  padding: 6px 16px;
+  border: 1px solid var(--line);
   border-radius: 999px;
-  background: transparent;
+  background: rgba(255, 253, 246, 0.7);
   color: var(--ink);
   cursor: pointer;
+  transition: box-shadow 0.2s ease, background 0.2s ease;
+}
+
+.tabs button:hover {
+  background: var(--paper2);
+  box-shadow: 0 2px 10px rgba(122, 100, 80, 0.12);
 }
 
 .tabs button.active {
-  background: var(--ink);
-  color: var(--paper);
+  background: linear-gradient(90deg, #7d9cc9, #9a8fc7);
+  border-color: transparent;
+  color: #fff;
+  box-shadow: 0 2px 12px rgba(125, 156, 201, 0.35);
 }
 
 .tabs.categories button.active {
-  background: var(--accent);
-  border-color: var(--accent);
+  background: linear-gradient(90deg, #df9a5e, #d98a94);
+  border-color: transparent;
+  color: #fff;
+  box-shadow: 0 2px 12px rgba(223, 154, 94, 0.35);
 }
 
 .headline {
@@ -169,26 +256,33 @@ main {
 }
 
 .headline .kicker {
-  font-family: "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
+  font-family: var(--mono);
   font-size: 13px;
-  color: var(--accent);
+  color: var(--orange);
   letter-spacing: 0.15em;
   margin: 0 0 6px;
 }
 
 .headline h2 {
+  font-family: var(--serif);
   font-size: clamp(22px, 4vw, 32px);
   line-height: 1.35;
   margin: 0 0 8px;
 }
 
-.headline h2 a { text-decoration: none; }
-.headline h2 a:hover { text-decoration: underline; }
+.headline h2 a { text-decoration: none; color: var(--ink); }
+.headline h2 a:hover { text-decoration: underline; color: var(--blue); }
 
-.headline p { margin: 0 0 8px; font-size: 16px; }
+.headline p { margin: 0 0 8px; font-size: 16px; color: #4c463c; }
+
+.headline .meta {
+  font-family: var(--mono);
+  font-size: 12.5px;
+  color: var(--muted);
+}
 
 .status, .empty {
-  font-family: "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
+  font-family: var(--sans);
   color: var(--muted);
   text-align: center;
   padding: 24px 0;
@@ -197,10 +291,13 @@ main {
 .region-section { margin-top: 8px; }
 
 .region-section > h2 {
+  font-family: var(--serif);
   font-size: 22px;
-  border-bottom: 2px solid var(--ink);
-  padding-bottom: 6px;
+  color: var(--blue);
+  padding-bottom: 8px;
   margin: 24px 0 0;
+  /* 地区标题下的手绘波浪线。 */
+  background: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='120' height='6' viewBox='0 0 120 6'><path d='M2 4 Q 9 1, 17 4 T 32 4 T 47 4 T 62 4 T 77 4 T 92 4 T 107 4 T 118 4' fill='none' stroke='%239a8fc7' stroke-width='1.6' stroke-linecap='round'/></svg>") no-repeat left bottom / 120px 6px;
 }
 
 .region-section > h2 span { color: var(--muted); font-size: 14px; font-weight: normal; }
@@ -214,41 +311,52 @@ main {
 
 .card {
   background: var(--card);
-  border: 1px solid var(--line);
-  border-top: 3px solid var(--ink);
+  border: 1px solid rgba(125, 116, 102, 0.18);
+  border-radius: 14px;
+  box-shadow: 0 3px 14px rgba(122, 100, 80, 0.09);
   padding: 16px;
   display: flex;
   flex-direction: column;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 22px rgba(122, 100, 80, 0.15);
 }
 
 .card h3 {
+  font-family: var(--serif);
   font-size: 18px;
   line-height: 1.45;
   margin: 0 0 8px;
+  overflow-wrap: anywhere;
 }
 
-.card h3 a { text-decoration: none; }
-.card h3 a:hover { text-decoration: underline; color: var(--accent); }
+.card h3 a { text-decoration: none; color: var(--ink); }
+.card h3 a:hover { text-decoration: underline; color: var(--blue); }
 
 .card .category {
   display: inline-block;
-  font-family: "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
+  align-self: flex-start;
+  font-family: var(--sans);
   font-size: 12px;
-  color: var(--accent);
-  border: 1px solid var(--accent);
-  border-radius: 3px;
-  padding: 1px 7px;
+  color: #fff;
+  background: linear-gradient(90deg, #9a8fc7, #7d9cc9);
+  border-radius: 999px;
+  padding: 1px 9px;
   margin-bottom: 8px;
 }
 
 .card p.summary {
   font-size: 15px;
+  color: #4c463c;
   margin: 0 0 12px;
   flex: 1;
 }
 
 .card .meta {
-  font-family: "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
+  font-family: var(--mono);
   font-size: 12.5px;
   color: var(--muted);
   margin: 0;
@@ -262,8 +370,8 @@ footer {
   max-width: 1080px;
   margin: 0 auto;
   padding: 20px 16px 32px;
-  border-top: 3px double var(--ink);
-  font-family: "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
+  border-top: 1px solid var(--line);
+  font-family: var(--sans);
   font-size: 13px;
   color: var(--muted);
   text-align: center;
@@ -284,4 +392,9 @@ footer p { margin: 4px 0; }
   .translate-bar { margin-left: auto; max-width: 100%; }
   .gtranslate_wrapper .gt_selector { max-width: 150px; }
   .translate-note { max-width: 100%; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .card, .tabs button { transition: none; }
+  .card:hover { transform: none; }
 }
