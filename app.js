@@ -52,6 +52,95 @@
   var dateEl = document.getElementById("today-date");
   var searchEl = document.getElementById("search");
 
+  /* ---- 互动效果（原生实现，概念参考 21st.dev 的 Marquee /
+     Spotlight Card / Blur Fade / Magnetic Button；代码是本站
+     自己写的，没有复制它们的源码）----
+     全部效果都只在合适时启用：减动效偏好（prefers-reduced-motion）
+     时不做淡入和磁吸；光晕和磁吸只在能悬停的设备上启用，触屏
+     不受任何影响。 */
+  var prefersReducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  var finePointer = window.matchMedia("(hover: hover) and (pointer: fine)").matches;
+
+  /* Blur Fade 的安全门：只有浏览器支持 IntersectionObserver、
+     且用户没有减动效偏好时，才给 <html> 加 js-fade（CSS 据此把
+     卡片/头条先藏起来，等滚进视口再淡入）。没有 JS、或不支持
+     IntersectionObserver 时，这个类永远不会出现，内容默认可见。 */
+  if (!prefersReducedMotion && "IntersectionObserver" in window) {
+    document.documentElement.classList.add("js-fade");
+  }
+
+  /* ---- 1) 跑马灯：取前 8 条标题，两组相同内容拼成无缝循环 ---- */
+  var tickerEl = document.getElementById("ticker");
+  var tickerTrack = document.getElementById("ticker-track");
+
+  function buildTicker() {
+    if (!tickerEl || !tickerTrack) return;
+    var items = state.items.slice(0, 8);
+    if (!items.length) { tickerEl.hidden = true; return; }
+    var group = items.map(function (it) {
+      return '<a href="' + escapeHtml(it.url) + '" target="_blank" rel="noopener noreferrer">' +
+        escapeHtml(it.title) + '</a><span class="ticker-sep" aria-hidden="true">✦</span>';
+    }).join("");
+    tickerTrack.innerHTML =
+      '<span class="ticker-group">' + group + '</span>' +
+      '<span class="ticker-group" aria-hidden="true">' + group + '</span>';
+    tickerEl.hidden = false;
+  }
+
+  /* ---- 3) 滚动模糊淡入：滚进视口的卡片/头条加 .in-view 淡入 ----
+     每次 render() 都会重建 DOM，所以每次渲染后都要重新观察新节点。
+     已经在视口内的节点，observe 后会立刻回调、马上淡入，不用等滚动。 */
+  var fadeObserver = null;
+
+  function observeFade() {
+    if (!document.documentElement.classList.contains("js-fade")) return;
+    if (!fadeObserver) {
+      fadeObserver = new IntersectionObserver(function (entries) {
+        entries.forEach(function (entry) {
+          if (entry.isIntersecting) {
+            entry.target.classList.add("in-view");
+            fadeObserver.unobserve(entry.target);
+          }
+        });
+      }, { threshold: 0.08, rootMargin: "0px 0px -40px 0px" });
+    }
+    var targets = document.querySelectorAll(".card, .headline");
+    for (var i = 0; i < targets.length; i++) {
+      if (!targets[i].hidden) fadeObserver.observe(targets[i]);
+    }
+  }
+
+  /* ---- 2) 卡片光晕：鼠标在卡片上移动时，把光标位置写进
+     --mx / --my，CSS 的 ::before 径向渐变就跟着光标走。
+     事件委托挂在 #news 容器上，render 重建卡片也不用重新绑定。 */
+  if (finePointer && !prefersReducedMotion) {
+    newsEl.addEventListener("mousemove", function (e) {
+      var card = e.target && e.target.closest ? e.target.closest(".card") : null;
+      if (!card) return;
+      var r = card.getBoundingClientRect();
+      card.style.setProperty("--mx", ((e.clientX - r.left) / r.width * 100).toFixed(1) + "%");
+      card.style.setProperty("--my", ((e.clientY - r.top) / r.height * 100).toFixed(1) + "%");
+    });
+  }
+
+  /* ---- 4) 磁吸按钮：地区/分类页签在鼠标靠近时朝光标方向
+     轻移最多 4px，松开（mouseleave）后靠 CSS 过渡弹回原位。
+     只改 transform，不动点击逻辑，页签切换照常工作。 */
+  if (finePointer && !prefersReducedMotion) {
+    var magButtons = document.querySelectorAll("#region-tabs button, #category-tabs button");
+    for (var i = 0; i < magButtons.length; i++) {
+      (function (btn) {
+        btn.addEventListener("mousemove", function (e) {
+          var r = btn.getBoundingClientRect();
+          var dx = (e.clientX - (r.left + r.width / 2)) / (r.width / 2);
+          var dy = (e.clientY - (r.top + r.height / 2)) / (r.height / 2);
+          btn.style.transform = "translate(" + (dx * 4).toFixed(1) + "px," + (dy * 4).toFixed(1) + "px)";
+        });
+        btn.addEventListener("mouseleave", function () { btn.style.transform = ""; });
+      })(magButtons[i]);
+    }
+  }
+
   /* ---- GTranslate：渲染后检查头条 / 页脚是否真的被翻了 ----
      见文件头注释：同语言再调 doGTranslate() 是空操作，真正能强制
      同一语言重翻的是 __GT.translator.revert() + translate()。
@@ -260,6 +349,8 @@
     /* 地区 / 分类 / 搜索切换后重新渲染了卡片与头条，开始一轮轮询：
        头条、页脚是否真的被翻了，有缺口时强制重翻（见文件头注释）。 */
     scheduleEnsureTranslation();
+    /* 渲染重建了卡片 DOM，重新观察新节点做滚动淡入。 */
+    observeFade();
   }
 
   function bindTabs(id, key) {
@@ -324,6 +415,7 @@
         statusEl.textContent = "暂无新闻数据。";
         return;
       }
+      buildTicker();
       render();
     })
     .catch(function (err) {
