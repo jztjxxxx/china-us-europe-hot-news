@@ -1,410 +1,410 @@
 {
-  "updated_at": "2026-11-10T12:44:22+08:00",
+  "updated_at": "2026-11-10T23:43:23+08:00",
   "items": [
     {
       "region": "美国",
+      "category": "经济",
+      "title": "Top Federal Reserve official considers largest rate rise since 2022",
+      "summary": "Governor Christopher Waller says policymakers should weigh a 50-basis-point move if US inflation fails to slow",
+      "source": "金融时报",
+      "url": "https://www.ft.com/content/72abed21-6043-4b2b-81b1-f3a2547da5b7?syn-25a6b1a6=1",
+      "published_at": "2026-11-10T23:43:00+08:00"
+    },
+    {
+      "region": "美国",
       "category": "市场",
-      "title": "Nonprofit Opens Scholarship for Hispanic Students to Applicants of All Races",
-      "summary": "The decision by the Hispanic Scholarship Fund was part of a settlement agreement in a lawsuit claiming that the organization had discriminated against some students.",
+      "title": "Anthropic sets IPO price range of $70 to $78, looks to start trading Nov. 19, sources say",
+      "summary": "Anthropic's IPO is expected to come roughly five months after Elon Musk took SpaceX public in a record offering.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
+      "published_at": "2026-11-10T23:42:00+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "经济",
+      "title": "A Fan-Favorite Aquarium Screen Saver Is Leaving Roku",
+      "summary": "The Aquatic Life display, a welcome moment of Zen in the frenzied world of TV streaming, will go dark on Dec. 1 after its designer pulled the license.",
       "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/09/us/hispanic-scholarship-fund-applicants-lawsuit.html",
-      "published_at": "2026-11-10T12:24:34+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "科技",
-      "title": "Japan’s Rapidus Is Said Likely to Miss Mass Production Deadline",
-      "summary": "Japanese government-backed startup Rapidus Corp. has fallen behind schedule on its high-stakes pledge to mass produce cutting-edge chips by March 2028 and may no longer be able to make that deadline.",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/japan-s-rapidus-is-said-likely-to-miss-mass-production-deadline",
-      "published_at": "2026-11-10T12:15:00+08:00"
+      "url": "https://www.nytimes.com/2026/11/10/business/roku-aquatic-life-screensaver-fox.html",
+      "published_at": "2026-11-10T23:41:01+08:00"
     },
     {
       "region": "美国",
-      "category": "政治",
-      "title": "Australia Faces New US Reality After Midterms",
-      "summary": "Australia's government is closely watching President Trump's approach to foreign policy for the remainder of his term.",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-10/australia-ahead-11-10-2026-video",
-      "published_at": "2026-11-10T12:13:22+08:00"
+      "category": "市场",
+      "title": "Stocks making the biggest moves in early trading: Sanmina, Hims & Hers, Securitize & more",
+      "summary": "Follow below as CNBC breaks down the biggest stock market moves of the day.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/10/stock-market-movers-live-updates.html",
+      "published_at": "2026-11-10T23:40:31+08:00"
     },
     {
-      "region": "中国",
+      "region": "欧洲",
       "category": "政治",
-      "title": "Why is Vietnam’s To Lam in Japan? AI, chips and nuclear power",
-      "summary": "Vietnam’s To Lam is expected to use his visit to Japan this week to expand trade and investment options with Tokyo, especially in technology, amid continued uncertainty surrounding America’s future policy direction.",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/week-asia/politics/article/3373880/why-vietnams-lam-japan-ai-chips-and-nuclear-power",
-      "published_at": "2026-11-10T12:12:23+08:00"
+      "title": "Russia’s ‘unfriendly countries’ list now targets property, child custody and debts",
+      "summary": "Moscow’s list of states it deems unfriendly was set in March 2022 for foreign economic policy, but decrees and court rulings now apply it to child custody, vehicle registration and debt repayment.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/10/russias-unfriendly-countries-list-now-targets-property-child-custody-and-debts",
+      "published_at": "2026-11-10T23:40:07+08:00"
     },
     {
       "region": "美国",
-      "category": "政治",
-      "title": "Trump says more US attacks on Iran 'highly unlikely'",
-      "summary": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation in the Middle East change.",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-10T12:09:16+08:00"
+      "category": "经济",
+      "title": "Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O.",
+      "summary": "The A.I. company’s pricing would make it one of the biggest ever public listings.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html",
+      "published_at": "2026-11-10T23:39:57+08:00"
     },
     {
-      "region": "中国",
+      "region": "美国",
       "category": "社会",
-      "title": "Japan busts fake cell tower used in phishing scheme targeting Chinese tourists",
-      "summary": "A Chinese man was referred to prosecutors on Monday for allegedly disrupting a major mobile carrier’s services in Tokyo’s Ginza shopping district with a rogue cell tower device, with police investigating possible links",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/news/asia/east-asia/article/3373878/japan-busts-fake-cell-tower-used-phishing-scheme-targeting-chinese-tourists",
-      "published_at": "2026-11-10T12:00:36+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "市场",
-      "title": "Chinese biotech giant WuXi AppTec’s shares jump after Pentagon blacklist reversal",
-      "summary": "WuXi AppTec’s shares jumped on Tuesday after the Pentagon removed the company from a list of entities allegedly linked to the Chinese military, marking a win for the biotech service giant and raising hopes among other",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/business/companies/article/3373875/chinese-biotech-giant-wuxi-apptecs-shares-jump-after-pentagon-blacklist-reversal",
-      "published_at": "2026-11-10T12:00:30+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "科技",
-      "title": "Chinese traders still confident of Nvidia GPU access amid Jensen Huang scandal",
-      "summary": "Prices for Nvidia graphics processing units (GPUs) are falling in China’s largest electronics market, as traders shrug off the frenzy of market speculation over tightening export controls in the wake of the US midterm",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/tech/big-tech/article/3373855/chinese-traders-still-confident-nvidia-gpu-access-amid-jensen-huang-scandal",
-      "published_at": "2026-11-10T12:00:30+08:00"
+      "title": "Here’s the latest.",
+      "summary": "Here’s the latest.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/live/2026/11/10/us/hegseth-impeachment-congress/heres-the-latest",
+      "published_at": "2026-11-10T23:37:51+08:00"
     },
     {
       "region": "欧洲",
-      "category": "经济",
-      "title": "UK talent connect with Hong Kong and mainland China employers at London career showcase",
-      "summary": "Developing Hong Kong into an international hub for high-calibre talent is one of the priorities of Chief Executive John Lee Ka-chiu’s first five-year plan for the city, which he unveiled in September.",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/native/business/topics/hong-kong-global-hub-talent/article/3373483/uk-talent-connect-hong-kong-and-mainland-china-employers-london-career-showcase",
-      "published_at": "2026-11-10T12:00:27+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "经济",
-      "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace",
-      "summary": "China’s factories are finding eager buyers worldwide, but the export boom is raising concerns about its impact on trading partner nations.",
+      "category": "社会",
+      "title": "Meghan Markle Makes First Public Appearance Since Her Father’s Arrest",
+      "summary": "The Duchess of Sussex accompanied her husband, Prince Harry, in Brussels at an event about online safety for children.",
       "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/09/business/china-trade-surplus-trillion.html",
-      "published_at": "2026-11-10T12:00:06+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "市场",
-      "title": "SoftBank Group shares surge 13% as Asian tech stocks track Wall Street rebound",
-      "summary": "A sharp decline in oil prices lifted sentiment while renewed buying in semiconductor names overnight spilled over into Asia, following last week's bruising sell-off.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/10/ai-softbank-sk-hynix-samsung-wall-street-tech-stocks.html",
-      "published_at": "2026-11-10T11:58:46+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "科技",
-      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-10T11:58:13+08:00"
+      "url": "https://www.nytimes.com/2026/11/10/world/europe/meghan-markle-brussels-speech-canceled-prince-harry.html",
+      "published_at": "2026-11-10T23:36:55+08:00"
     },
     {
       "region": "中国",
       "category": "科技",
-      "title": "Hong Kong Listings Raise 6-Year High of $51.9 Billion, Second Best Ever",
-      "summary": "Hong Kong listing proceeds have climbed to the highest in six years after a fresh wave of offerings helped the market regain some of the momentum it had lost in recent months.",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/hong-kong-listings-raise-6-year-high-of-51-9-billion-second-best-ever",
-      "published_at": "2026-11-10T11:57:15+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "市场",
-      "title": "China exports, imports soar past expectations in October — surplus narrows sharply",
-      "summary": "Goods exports soared by 35.2% last month from a year earlier, exceeding expectations for a 33.5% jump in a Reuters poll and slowing from a 36.3% jump in September.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
-      "published_at": "2026-11-10T11:56:15+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "市场",
-      "title": "China Oil Imports Rebound as More Crude Flows From Persian Gulf",
-      "summary": "Chinese crude oil imports rose to a seven-month high in October on a recovery in shipments from the Persian Gulf.",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/china-oil-imports-rebound-as-more-crude-flows-from-persian-gulf",
-      "published_at": "2026-11-10T11:42:53+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "政治",
-      "title": "Ukraine Peace Talks Resume This Week in Abu Dhabi",
-      "summary": "U.S.-led talks to end the war between Russia and Ukraine will resume this week in Abu Dhabi. A cease-fire won’t be on the table.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html",
-      "published_at": "2026-11-10T11:39:35+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "市场",
-      "title": "Japan 30-Year Bond Sale Sees Weaker Demand After JGB Swings",
-      "summary": "Japan’s 30-year government bond auction drew soft demand as sharp moves in the yield curve following a selloff in AI-related stocks damped investor risk appetite.",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/japan-30-year-bond-sale-sees-weaker-demand-than-12-month-average-mwa53xcl",
-      "published_at": "2026-11-10T11:38:06+08:00"
+      "title": "英伟达因黄仁勋涉谍案遭起诉 诉讼曝光之际股价已跌近5%",
+      "summary": "在报道称英伟达首席执行官黄仁勋与一名涉嫌为中国间谍的女子有染后，周一，英伟达的股价暴跌近5%，随后该公司遭到股东起诉。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261110-%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%9B%A0%E9%BB%84%E4%BB%81%E5%8B%8B%E6%B6%89%E8%B0%8D%E6%A1%88%E9%81%AD%E8%B5%B7%E8%AF%89-%E8%AF%89%E8%AE%BC%E6%9B%9D%E5%85%89%E4%B9%8B%E9%99%85%E8%82%A1%E4%BB%B7%E5%B7%B2%E8%B7%8C%E8%BF%915",
+      "published_at": "2026-11-10T23:34:59+08:00"
     },
     {
       "region": "美国",
-      "category": "市场",
-      "title": "Californians reject wealth tax for billionaires",
-      "summary": "Proposition 40 targeted Californian billionaires with a 5% tax on their total wealth, including assets such as shares as well as income.",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cq398em3032wo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-10T11:34:46+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "市场",
-      "title": "S&P 500 futures are little changed as traders brace for crucial consumer inflation report: Live updates",
-      "summary": "Traders awaited the October consumer price index reading, due Tuesday morning.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html",
-      "published_at": "2026-11-10T11:33:27+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "政治",
-      "title": "黃仁勳坦承婚外情 與中國間諜關係面臨質疑",
-      "summary": "輝達（英偉達）創辦人黃仁勳8日公開承認對妻子不忠。此前有多家媒體揭露，黃仁勳的外遇對象，是一名被美國政府認定為中國情報人員的女子。",
-      "source": "德国之声",
-      "url": "https://www.dw.com/zh/黃仁勳坦承婚外情-與中國間諜關係面臨質疑/a-79895340?maca=chi-rss-chi-all-1127-xml-mrss",
-      "published_at": "2026-11-10T11:33:00+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "经济",
-      "title": "Taiwanese lender moves to West Kowloon as financial firms lead Hong Kong office leasing",
-      "summary": "A Taiwanese bank’s deal to lease a large office space in West Kowloon adds to momentum in Hong Kong’s office sector, where financial institutions have become the most active source of leasing activity.",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/business/article/3373858/taiwanese-lender-moves-west-kowloon-financial-firms-lead-hong-kong-office-leasing",
-      "published_at": "2026-11-10T11:00:22+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "市场",
-      "title": "Singapore Launches Gold Vaulting Service for Central Banks",
-      "summary": "Singapore has launched a gold vaulting service for foreign central banks and official institutions, seeking to tap growing demand to diversify where bullion reserves are stored.",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/singapore-launches-gold-vaulting-service-for-central-banks",
-      "published_at": "2026-11-10T11:00:10+08:00"
-    },
-    {
-      "region": "中国",
       "category": "科技",
-      "title": "Citi's Rizvi Sees 100 Hires in China Over Next Years",
-      "summary": "Kaleem Rizvi, Global Co-head of Corporate Banking at Citi, says the bank envisions hiring 100 bankers over the next several years after it won approval for its securities venture in China.",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-10/citi-s-rizvi-sees-100-hires-in-china-over-next-years-video",
-      "published_at": "2026-11-10T10:52:50+08:00"
+      "title": "Nvidia falls for second day as investors weigh fallout of CEO’s affair with alleged spy",
+      "summary": "Investors continue to weigh the potential fallout from CEO Jensen Huang's affair with an alleged Chinese spy.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html",
+      "published_at": "2026-11-10T23:31:51+08:00"
     },
     {
-      "region": "中国",
-      "category": "经济",
-      "title": "Chinese Trade Surplus Tops $1 Trillion for Second Time Ever",
-      "summary": "China’s trade surplus ballooned to just over $1 trillion for the year despite the biggest surge in imports since 2021, with an increasingly lopsided relationship with the European Union accounting for nearly a third of",
+      "region": "美国",
+      "category": "科技",
+      "title": "Fed Might Hike 50 Bps in December, Carlyle's Thomas Says",
+      "summary": "Jason Thomas, Carlyle’s head of global research and investment strategy, discusses the hotter-than-expected U.S. consumer price data and the implications for Federal Reserve monetary policy.",
       "source": "彭博",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/chinese-trade-surplus-surpasses-1-trillion-for-second-time-ever",
-      "published_at": "2026-11-10T10:40:43+08:00"
+      "url": "https://www.bloomberg.com/news/videos/2026-11-10/fed-might-hike-50-bps-in-december-carlyle-s-thomas-says-video",
+      "published_at": "2026-11-10T23:29:23+08:00"
     },
     {
       "region": "美国",
       "category": "经济",
-      "title": "Lawsuit Says Republican Strategist Alex Bruesewitz Took Money From Qatari Interests",
-      "summary": "The suit claims that any payments to Alex Bruesewitz, a Republican strategist, could have violated federal law. He has denied ever taking such funds.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/09/business/media/lawsuit-x-strategies.html",
-      "published_at": "2026-11-10T10:32:06+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "政治",
-      "title": "Ukraine war briefing: battlefield gains bolstering Kyiv’s hand in US-led peace talks, Zelenskyy says",
-      "summary": "Ukrainian president says battlefield successes and mounting Russian losses add to negotiating leverage ahead of Abu Dhabi talks on Tuesday.",
+      "title": "Inquiry launched into UK budget bank tax leak; Wall Street hit by US inflation shock – business live",
+      "summary": "Rolling coverage of the latest economic and financial news, including live coverage of the Bank of England Watchers conference in London Young people in UK hit by ‘low-gear economy’, warns Bank of England deputy The AI",
       "source": "卫报",
-      "url": "https://www.theguardian.com/world/2026/nov/10/ukraine-war-briefing-battlefield-gains-bolstering-kyivs-hand-in-us-led-peace-talks-zelenskyy-says",
-      "published_at": "2026-11-10T09:51:06+08:00"
+      "url": "https://www.theguardian.com/business/live/2026/nov/10/nvidia-shareholder-lawsuit-jensen-huang-relationship-suspected-chinese-spy-fbi-trump-bank-of-england-latest-news-updates",
+      "published_at": "2026-11-10T23:24:32+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "科技",
+      "title": "What to Know About Nvidia’s Investigation of CEO Jensen Huang",
+      "summary": "Jensen Huang, the chief executive of the A.I. chip company, admitted to an affair with a woman who U.S.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang.html",
+      "published_at": "2026-11-10T23:24:26+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "科技",
+      "title": "德语媒体：事关国家安全的婚外情",
+      "summary": "《法兰克福汇报》评论认为，英伟达掌门人黄仁勋的婚外情已经掀起了围绕美国国家安全、芯片技术以及科技巨头同白宫关系的激烈讨论。",
+      "source": "德国之声",
+      "url": "https://www.dw.com/zh/德语媒体：事关国家安全的婚外情/a-79911107?maca=chi-rss-chi-all-1127-xml-mrss",
+      "published_at": "2026-11-10T23:23:00+08:00"
     },
     {
       "region": "欧洲",
-      "category": "科技",
-      "title": "Teenager who planned terror attack in Sydney tells court he was radicalised online and used AI to strategise",
-      "summary": "Boy says he was first exposed to extremist material on TikTok, turned to Telegram and YouTube for bomb-making instructions, and used ChatGPT to devise his plans Get our breaking news email , free app or daily news",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/10/teen-planned-sydney-terror-attack-using-chatgpt-radicalised-tiktok-ntwnfb",
-      "published_at": "2026-11-10T09:09:19+08:00"
+      "category": "政治",
+      "title": "法国承诺对伊朗网攻超市冰柜系统进行隐秘制裁与报复 欧盟准备加入",
+      "summary": "法国周一指责伊朗是10月大规模网络攻击数百超市联网冰柜的幕后黑手，目前正筹备对德黑兰进行反击，包括采取不会公开披露的措施。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261110-%E6%B3%95%E5%9B%BD%E6%89%BF%E8%AF%BA%E5%AF%B9%E4%BC%8A%E6%9C%97%E7%BD%91%E6%94%BB%E8%B6%85%E5%B8%82%E5%86%B0%E6%9F%9C%E7%B3%BB%E7%BB%9F%E8%BF%9B%E8%A1%8C%E9%9A%90%E7%A7%98%E5%88%B6%E8%A3%81%E4%B8%8E%E6%8A%A5%E5%A4%8D-%E6%AC%A7%E7%9B%9F%E5%87%86%E5%A4%87%E5%8A%A0%E5%85%A5",
+      "published_at": "2026-11-10T23:21:59+08:00"
     },
     {
       "region": "欧洲",
-      "category": "科技",
-      "title": "M. John Harrison wins the Booker Prize for The End of Everything",
-      "summary": "UK author M. John Harrison won the Booker Prize on Monday for his enigmatic novel The End of Everything, which echoes concerns about artificial intelligence in a darkly satirical depiction of post-apocalyptic Britain.",
+      "category": "经济",
+      "title": "BoE policymaker refuses to rule out back-to-back rate rises",
+      "summary": "Clare Lombardelli says high energy prices and resilience of UK growth mean there is a case for a further increase ‘in the near term’",
+      "source": "金融时报",
+      "url": "https://www.ft.com/content/212d4b87-9fce-4141-b21f-7e4a81c8074f?syn-25a6b1a6=1",
+      "published_at": "2026-11-10T23:15:50+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "社会",
+      "title": "美俄乌和谈首日：美方称已有“一些好主意”",
+      "summary": "美国、俄罗斯和乌克兰代表周二在阿布扎比举行今年2月以来首次三方会谈，首日谈判持续四小时。",
+      "source": "德国之声",
+      "url": "https://www.dw.com/zh/美俄乌和谈首日：美方称已有-一些好主意/a-79910805?maca=chi-rss-chi-all-1127-xml-mrss",
+      "published_at": "2026-11-10T23:15:00+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "经济",
+      "title": "Russian October Budget Gap Widens as War Spending Hits Finances",
+      "summary": "Russia posted a budget deficit of 5.23 trillion rubles ($63 billion) in the first 10 months of 2026, as stronger revenue failed to keep pace with mounting government spending, according to Finance Ministry data",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/russian-october-budget-gap-widens-as-war-spending-hits-finances",
+      "published_at": "2026-11-10T23:14:19+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "社会",
+      "title": "Chinese-French team celebrates ‘borderless connections’ at Shaw Prize ceremony",
+      "summary": "The Chinese and French winners of the 2026 Shaw Prize in Life Science and Medicine have highlighted the spirit of “borderless connections” and friendship behind their research – which turned a rare form of leukaemia",
       "source": "南华早报",
-      "url": "https://www.scmp.com/news/world/europe/article/3373860/m-john-harrison-wins-booker-prize-end-everything",
-      "published_at": "2026-11-10T09:07:45+08:00"
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3373988/chinese-french-team-celebrates-borderless-connections-shaw-prize-ceremony",
+      "published_at": "2026-11-10T23:13:14+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "社会",
+      "title": "UK children’s author David Walliams accused of sexual misconduct",
+      "summary": "British children’s author and comedian David Walliams used his fame to groom girls and young women for sex, two British news outlets reported on Tuesday.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/world/europe/article/3373989/uk-childrens-author-david-walliams-accused-sexual-misconduct",
+      "published_at": "2026-11-10T23:12:41+08:00"
     },
     {
       "region": "美国",
-      "category": "经济",
-      "title": "Exxon Strikes Preliminary Deal to Return to Venezuela",
-      "summary": "The agreement brings the biggest U.S. oil company a step closer to pumping oil again in Venezuela, nearly two decades after it left the country.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/09/business/energy-environment/exxon-mobil-venezuela-oil-deal.html",
-      "published_at": "2026-11-10T08:51:53+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "科技",
-      "title": "黄仁勋婚外情：其影响可能远超个人婚外情",
-      "summary": "一家估值达4.5万亿美元的美国人工智能巨头的掌门人，竟与一名可能是中国间谍的女子保持秘密恋情！",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20261110-%E9%BB%84%E4%BB%81%E5%8B%8B%E5%A9%9A%E5%A4%96%E6%83%85-%E5%85%B3%E9%94%AE%E5%AE%83%E6%98%AF%E4%B8%8D%E6%98%AF%E4%B8%AA%E9%97%B4%E8%B0%8D%E6%A1%88",
-      "published_at": "2026-11-10T08:13:23+08:00"
+      "category": "市场",
+      "title": "Rivian CEO says new R2 SUV, autonomy make 2027 an ‘inflection year’ as EV maker marks five years since IPO",
+      "summary": "Rivian CEO RJ Scaringe says 2027 will be an “inflection year” as the EV maker scales R2 and invests in autonomy.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/10/rivian-r2-autonomy-2027-rj-scaringe.html",
+      "published_at": "2026-11-10T23:11:48+08:00"
     },
     {
       "region": "欧洲",
       "category": "经济",
-      "title": "Headteachers say families will struggle after another rise in school dinner prices",
-      "summary": "The price of a school dinner in a primary school will have risen from £2.60 to £3.40 since the start of 2026.",
+      "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
+      "summary": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c9m262yv6yx8o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-10T08:00:22+08:00"
+      "url": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-10T23:10:20+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "经济",
+      "title": "Welcome Break Rotherham: is this really Britain’s best motorway service station?",
+      "summary": "It is modelled on a Yorkshire village and came top in a new survey, with 99% of visitors praising it. But with its branches of Burger King, Pret and Krispy Kreme, what makes it a cut above?",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/10/welcome-break-rotherham-britains-best-motorway-service-station",
+      "published_at": "2026-11-10T23:09:16+08:00"
     },
     {
       "region": "美国",
+      "category": "市场",
+      "title": "Monthly US inflation higher than expected in October",
+      "summary": "Figure of 0.4% comes as last year’s government shutdown prevented data collection",
+      "source": "金融时报",
+      "url": "https://www.ft.com/content/8b564134-dea6-4272-8ede-e0b12ef5aebd?syn-25a6b1a6=1",
+      "published_at": "2026-11-10T23:06:01+08:00"
+    },
+    {
+      "region": "中国",
       "category": "科技",
-      "title": "陷入风暴的英伟达掌门人黄仁勋会倒下吗",
-      "summary": "高科技界最具影响力的人物之一，英伟达首席执行官黄仁勋陷入“情色与间谍”风暴，这不仅因其婚外恋暴露，更因其情妇被美国情报机构认定是一名中国间谍。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261109-%E9%99%B7%E5%85%A5%E9%A3%8E%E6%9A%B4%E7%9A%84%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%8E%8C%E9%97%A8%E4%BA%BA%E9%BB%84%E4%BB%81%E5%8B%8B%E4%BC%9A%E5%80%92%E4%B8%8B%E5%90%97",
-      "published_at": "2026-11-10T06:53:17+08:00"
+      "title": "Jensen Huang's affair with alleged Chinese spy further complicates Nvidia’s China problem",
+      "summary": "The allegations against Jensen Huang have brought new attention to the Nvidia CEO's potential influence over U.S. policy on chip sales to China.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
+      "published_at": "2026-11-10T23:04:23+08:00"
     },
     {
       "region": "欧洲",
-      "category": "政治",
-      "title": "网路袭击法国境内超市冷藏设备是伊朗伊斯兰革命卫队干的， 法国外长发誓要制裁",
-      "summary": "法国周一表示，伊朗伊斯兰革命卫队是上个月针对法国境内超市冷藏设备所发动“史无前例”网络攻击的幕后黑手，并誓言将在欧洲层面针对德黑兰实施制裁。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261109-%E7%BD%91%E8%B7%AF%E8%A2%AD%E5%87%BB%E6%B3%95%E5%9B%BD%E5%A2%83%E5%86%85%E8%B6%85%E5%B8%82%E5%86%B7%E8%97%8F%E8%AE%BE%E5%A4%87%E6%98%AF%E4%BC%8A%E6%9C%97%E4%BC%8A%E6%96%AF%E5%85%B0%E9%9D%A9%E5%91%BD%E5%8D%AB%E9%98%9F%E5%B9%B2%E7%9A%84%EF%BC%8C-%E6%B3%95%E5%9B%BD%E5%A4%96%E9%95%BF%E5%8F%91%E8%AA%93%E8%A6%81%E5%88%B6%E8%A3%81",
-      "published_at": "2026-11-10T06:33:43+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "科技",
-      "title": "France accuses Iran of cyber 'sabotage' in fridge attacks",
-      "summary": "France says Iranian military hackers took over refrigeration controllers at around 700 different retail sites last month, turning up temperatures in the middle of the night and spoiling millions of dollars' worth of",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
-      "published_at": "2026-11-10T06:30:49+08:00"
+      "category": "经济",
+      "title": "Thousands of 'off-grid' homes eligible for £250 to help with heating bills",
+      "summary": "Households dependent on either heating oil or LPG and are eligible for reduced council tax will benefit.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cm70p050824po?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-10T23:01:50+08:00"
     },
     {
       "region": "欧洲",
       "category": "社会",
-      "title": "乌克兰2027年面临700亿欧元资金缺口，德国总理要欧盟就明年支持乌克兰所需的资金达成共识",
-      "summary": "据法新社周一看到的一封信件显示，德国总理默茨表示，欧盟必须先就明年支持乌克兰所需的资金达成共识，才能解决该欧盟下一期预算方面的僵局。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261109-%E4%B9%8C%E5%85%8B%E5%85%B02027%E5%B9%B4%E9%9D%A2%E4%B8%B4700%E4%BA%BF%E6%AC%A7%E5%85%83%E8%B5%84%E9%87%91%E7%BC%BA%E5%8F%A3%EF%BC%8C%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%90%86%E8%A6%81%E6%AC%A7%E7%9B%9F%E5%B0%B1%E6%98%8E%E5%B9%B4%E6%94%AF%E6%8C%81%E4%B9%8C%E5%85%8B%E5%85%B0%E6%89%80%E9%9C%80%E7%9A%84%E8%B5%84%E9%87%91%E8%BE%BE%E6%88%90%E5%85%B1%E8%AF%86",
-      "published_at": "2026-11-10T06:29:27+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "科技",
-      "title": "要依靠英伟达芯片的硅谷科技界力挺黄仁勋， 说他不可替代",
-      "summary": "英伟达（Nvidia）首席执行官黄仁勋（Jensen Huang）正处于人工智能热潮的中心。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261109-%E8%A6%81%E4%BE%9D%E9%9D%A0%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%8A%AF%E7%89%87%E7%9A%84%E7%A1%85%E8%B0%B7%E7%A7%91%E6%8A%80%E7%95%8C%E5%8A%9B%E6%8C%BA%E9%99%B7%E5%85%A5%E5%A9%9A%E5%A4%96%E6%81%8B%E5%92%8C%E7%96%91%E4%BC%BC%E9%97%B4%E8%B0%8D%E4%B8%91%E9%97%BB%E7%9A%84%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%A6%96%E5%B8%AD%E6%89%A7%E8%A1%8C%E5%AE%98%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%8C-%E8%AF%B4%E4%BB%96%E4%B8%8D%E5%8F%AF%E6%9B%BF%E4%BB%A3",
-      "published_at": "2026-11-10T06:23:33+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "政治",
-      "title": "特朗普称下周或与习近平、普京在中国举行三方会谈",
-      "summary": "美国总统特朗普（Donald Trump）表示，预计本月18日至19日在中国深圳举行的亚太经济合作组织（APEC）领导人非正式会议期间，与中国国家主席习近平及俄罗斯总统普京（Vladimir Putin）举行三方会谈。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261109-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8B%E5%91%A8%E6%88%96%E4%B8%8E%E4%B9%A0%E8%BF%91%E5%B9%B3-%E6%99%AE%E4%BA%AC%E5%9C%A8%E4%B8%AD%E5%9B%BD%E4%B8%BE%E8%A1%8C%E4%B8%89%E6%96%B9%E4%BC%9A%E8%B0%88",
-      "published_at": "2026-11-10T06:21:34+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "政治",
-      "title": "特朗普再次指责中期选举存在舞弊",
-      "summary": "在共和党于中期选举中遭遇惨败近一周后，美国总统特朗普于周一再次毫无根据的指控中期选举存在舞弊。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261109-%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%AC%A1%E6%8C%87%E8%B4%A3%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%AD%98%E5%9C%A8%E8%88%9E%E5%BC%8A",
-      "published_at": "2026-11-10T06:15:46+08:00"
+      "title": "The allegations against David Walliams - podcast",
+      "summary": "Multiple women allege David Walliams abused his power and position as a celebrity to prey on them for sexual purposes when they were young women, an investigation by the Guardian and ITV News has found.",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/news/audio/2026/nov/10/david-walliams-allegations-podcast",
+      "published_at": "2026-11-10T23:00:47+08:00"
     },
     {
       "region": "欧洲",
+      "category": "经济",
+      "title": "ECB’s Nagel Says December Rate Hike Is Looking ‘Rather Obvious’",
+      "summary": "European Central Bank Governing Council member Joachim Nagel said there’s a strong case to raise interest rates next month and to start constricting the economy to tame inflation.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/ecb-s-nagel-says-december-rate-hike-is-looking-rather-obvious",
+      "published_at": "2026-11-10T22:54:41+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "市场",
+      "title": "EU Steps Up Push For More Joint Borrowing to Finance Ukraine",
+      "summary": "The European Commission and some member states are stepping up their efforts to win support for more joint borrowing to secure Ukraine’s financing needs as efforts to make greater use of Russia’s frozen central-bank",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/eu-steps-up-push-for-more-joint-borrowing-to-finance-ukraine",
+      "published_at": "2026-11-10T22:53:14+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "经济",
+      "title": "突破1万亿美元：中国前10个月贸易顺差创纪录",
+      "summary": "中国今年的贸易顺差有望超越去年创下的1.2万亿美元纪录。据中国海关总署统计，中国今年前10个月的贸易顺差高达1.04万亿美元。",
+      "source": "德国之声",
+      "url": "https://www.dw.com/zh/突破1万亿美元：中国前10个月贸易顺差创纪录/a-79910316?maca=chi-rss-chi-all-1127-xml-mrss",
+      "published_at": "2026-11-10T22:44:00+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "科技",
+      "title": "Anthropic Hired UK Lobby Firm Charlesbye Before IPO, Adding to Sunak",
+      "summary": "Anthropic PBC hired a lobbying firm run by the one-time aide to former British prime minister Boris Johnson, adding to the ranks of UK political veterans the company has recruited to handle mounting calls to regulate",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-hired-uk-lobby-firm-charlesbye-before-ipo-adding-to-sunak",
+      "published_at": "2026-11-10T22:37:33+08:00"
+    },
+    {
+      "region": "中国",
       "category": "社会",
-      "title": "Shipwreck Off Senegal Kills Dozens as Canary Islands Declare Migrant Emergency",
-      "summary": "Migrant arrivals to Europe are down overall but still claiming scores of victims, overwhelming local officials and dominating political debate.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/09/world/africa/senegal-migrant-boat-capsize-europe.html",
-      "published_at": "2026-11-10T04:50:13+08:00"
+      "title": "Activist Greta Thunberg arrives at UN climate talks in Turkey",
+      "summary": "Prominent climate change activist Greta Thunberg arrived Tuesday at the UN climate meeting, where she emphasised the need to protect people and the planet over profits and power.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/world/europe/article/3373987/activist-greta-thunberg-arrives-un-climate-talks-turkey",
+      "published_at": "2026-11-10T22:25:48+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "政治",
+      "title": "《法兰克福汇报》：美国外交政策仍大部分由总统决定",
+      "summary": "美国中期选举结果引发德语媒体极大关注。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%9F%8F%E6%9E%97%E9%A3%9E%E9%B8%BF/20261110-%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8F%E6%B1%87%E6%8A%A5-%E7%BE%8E%E5%9B%BD%E5%A4%96%E4%BA%A4%E6%94%BF%E7%AD%96%E4%BB%8D%E5%A4%A7%E9%83%A8%E5%88%86%E7%94%B1%E6%80%BB%E7%BB%9F%E5%86%B3%E5%AE%9A",
+      "published_at": "2026-11-10T21:48:49+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "科技",
+      "title": "China panel chair Moolenaar demands answers on Nvidia CEO's alleged affair with a Chinese spy",
+      "summary": "Rep. John Moolenaar, R-Mich., is the chairman of the Select Committee on China and told CNBC he expects answers about Jensen Huang's relationship.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html",
+      "published_at": "2026-11-10T21:41:57+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "政治",
+      "title": "媒体报道陶宛要求台湾驻该国代表处更名，台湾表示名称是双方共识 没有更名计划",
+      "summary": "对于立陶宛要求台湾驻维尔纽斯代表处更名的报道，台湾做出回应，其外交部发言人表示名称是双方达成的共识。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261110-%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93%E9%99%B6%E5%AE%9B%E8%A6%81%E6%B1%82%E5%8F%B0%E6%B9%BE%E9%A9%BB%E8%AF%A5%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%A4%84%E6%9B%B4%E5%90%8D%EF%BC%8C%E5%8F%B0%E6%B9%BE%E8%A1%A8%E7%A4%BA%E5%90%8D%E7%A7%B0%E6%98%AF%E5%8F%8C%E6%96%B9%E5%85%B1%E8%AF%86-%E6%B2%A1%E6%9C%89%E6%9B%B4%E5%90%8D%E8%AE%A1%E5%88%92",
+      "published_at": "2026-11-10T21:34:43+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "科技",
+      "title": "AI microdramas cause ‘aesthetic fatigue’, professor tells Macau forum",
+      "summary": "Formulaic AI-generated microdramas risk stifling human creativity and innovation, a Beijing professor has warned at a forum in Macau.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3373984/ai-microdramas-cause-aesthetic-fatigue-professor-tells-macau-forum",
+      "published_at": "2026-11-10T21:28:04+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "科技",
+      "title": "Alibaba chip unit T-Head files Hong Kong IPO plan amid China’s AI self-sufficiency drive",
+      "summary": "Alibaba Group Holding’s chip design unit T-Head has filed for an initial public offering (IPO) on a confidential basis in Hong Kong, the company said in a stock-exchange filing on Tuesday evening, setting up a",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/business/companies/article/3373974/alibaba-chip-unit-t-head-files-hong-kong-ipo-plan-amid-chinas-ai-self-sufficiency-drive",
+      "published_at": "2026-11-10T21:20:29+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "政治",
+      "title": "美国斡旋，俄乌在阿联酋重启谈判，割让领土等重大分歧尚无进展",
+      "summary": "俄罗斯和乌克兰代表团11月10日在阿联酋阿布扎比举行会谈。这是自今年2月以来，双方首次在美国斡旋下展开此类谈判。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20261110-%E7%BE%8E%E5%9B%BD%E6%96%A1%E6%97%8B%EF%BC%8C%E4%BF%84%E4%B9%8C%E5%9C%A8%E9%98%BF%E8%81%94%E9%85%8B%E9%87%8D%E5%90%AF%E8%B0%88%E5%88%A4%EF%BC%8C%E5%89%B2%E8%AE%A9%E9%A2%86%E5%9C%9F%E7%AD%89%E9%87%8D%E5%A4%A7%E5%88%86%E6%AD%A7%E5%B0%9A%E6%97%A0%E8%BF%9B%E5%B1%95",
+      "published_at": "2026-11-10T20:30:44+08:00"
     },
     {
       "region": "中国",
       "category": "经济",
-      "title": "中国2026年的能源投资估计或达9400亿美元",
-      "summary": "中国2026年的能源投资预估或达到9400亿美元，位居世界各国之首。作为世界第二大经济体，中国正将支出转向电网和基础设施建设，以支持其快速发展的可再生能源行业。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261109-%E4%B8%AD%E5%9B%BD2026%E5%B9%B4%E7%9A%84%E8%83%BD%E6%BA%90%E6%8A%95%E8%B5%84%E4%BC%B0%E8%AE%A1%E6%88%96%E8%BE%BE%E5%88%B09400%E4%BA%BF%E7%BE%8E%E5%85%83",
-      "published_at": "2026-11-10T03:09:56+08:00"
+      "title": "On the right track: Beijing, Ottawa ramp up trade ties as CEOs plan China trip for Apec",
+      "summary": "Beijing and Ottawa are expanding their trade and business ties through a flurry of visits and exchanges, with Vice-Premier He Lifeng co-chairing a high-level economic dialogue in Canada and a group of top Canadian",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/economy/policy/article/3373917/right-track-beijing-ottawa-ramp-trade-ties-ceos-plan-china-trip-apec",
+      "published_at": "2026-11-10T20:30:25+08:00"
     },
     {
-      "region": "欧洲",
-      "category": "经济",
-      "title": "The facial recognition technology stopping shoplifters",
-      "summary": "Business correspondent Emma Simpson tries out Sainsbury's facial recognition technology.",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/videos/c5x2v2kpwzgvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-10T03:00:43+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "经济",
-      "title": "Bank of France Warns of Uncertainty as Modest Growth Returns",
-      "summary": "The Bank of France said it expects the economy to return to growth at a moderate pace in the fourth quarter, but flagged unusually high uncertainty following protests and unrest that peaked with looting in October.",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-09/bank-of-france-warns-of-uncertainty-as-modest-growth-returns",
-      "published_at": "2026-11-10T03:00:00+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "政治",
-      "title": "特朗普称与伊朗重启战争“极不可能”，国际油价下跌",
-      "summary": "美国总统唐纳德·特朗普表示，只要与德黑兰的谈判取得进展，与伊朗重启战争“极不可能”。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261109-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8E%E4%BC%8A%E6%9C%97%E9%87%8D%E5%90%AF%E6%88%98%E4%BA%89-%E6%9E%81%E4%B8%8D%E5%8F%AF%E8%83%BD-%EF%BC%8C%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E4%B8%8B%E8%B7%8C",
-      "published_at": "2026-11-10T01:14:22+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "社会",
-      "title": "巴黎会议筹资修复俄军炸损的切尔诺贝利核电站隔离罩",
-      "summary": "为修复切尔诺贝利前核电站防护罩的集资会议周一在巴黎举行，各捐助方承诺的资金略多于总预算的一半——该防护罩去年曾遭俄罗斯无人机破坏。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261109-%E5%B7%B4%E9%BB%8E%E4%BC%9A%E8%AE%AE%E7%AD%B9%E8%B5%84%E4%BF%AE%E5%A4%8D%E4%BF%84%E5%86%9B%E7%82%B8%E6%8D%9F%E7%9A%84%E5%88%87%E5%B0%94%E8%AF%BA%E8%B4%9D%E5%88%A9%E6%A0%B8%E7%94%B5%E7%AB%99%E9%9A%94%E7%A6%BB%E7%BD%A9",
-      "published_at": "2026-11-10T00:11:53+08:00"
-    },
-    {
-      "region": "美国",
+      "region": "中国",
       "category": "科技",
-      "title": "失去光环的黄仁勋，还能撑得起英伟达吗？",
-      "summary": "英伟达总裁黄仁勋承认与一名女子有婚外情，美国情报官员认为她是中国间谍，英伟达股价周一早盘下跌。",
+      "title": "黄仁勋陷疑似中国间谍事件 人工智能行业震荡",
+      "summary": "周二（11月10日）法国各大报纸头版关注的议题各有侧重，《费加罗报》聚焦全球气候变化，报道2026年全球碳排放有望依赖历史性下降，除了霍尔木兹海峡被封因素外，可再生能源的发展成为推动减排的主要力量。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20261110-%E5%8D%B1%E9%99%A9%E7%9A%84%E5%85%B3%E7%B3%BB-%E8%8B%B1%E4%BC%9F%E8%BE%BEceo%E9%99%B7%E7%96%91%E4%BC%BC%E4%B8%AD%E5%9B%BD%E9%97%B4%E8%B0%8D%E4%BA%8B%E4%BB%B6%E9%9C%87%E8%8D%A1%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%A1%8C%E4%B8%9A",
+      "published_at": "2026-11-10T20:22:51+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "科技",
+      "title": "《信息报》：英伟达CEO与涉谍情人导致向中国输送了75亿美元芯片",
+      "summary": "据《The Information》报道，黄乐（Alice Huang）、她的丈夫和姊妹在中国和新加坡建立了一个公司网络，用于采购英伟达芯片，其中上海世纪利通公司获得了该芯片制造商授予的“优先云合作伙伴”资格。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261110-%E4%BF%A1%E6%81%AF%E6%8A%A5-%E8%8B%B1%E4%BC%9F%E8%BE%BEceo%E4%B8%8E%E6%B6%89%E8%B0%8D%E6%83%85%E4%BA%BA%E5%90%91%E4%B8%AD%E5%9B%BD%E8%BE%93%E9%80%81%E4%BA%8675%E4%BA%BF%E7%BE%8E%E5%85%83%E8%8A%AF%E7%89%87",
+      "published_at": "2026-11-10T20:07:09+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "经济",
+      "title": "Hong Kong to cut capital charges on loans to Northern Metropolis university towns",
+      "summary": "Hong Kong’s de facto central bank plans to introduce legislative amendments in the first quarter of next year to lower the capital costs for banks lending to local tertiary institutions, in a bid to speed up the",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3373972/hong-kong-cut-capital-charges-loans-northern-metropolis-university-towns",
+      "published_at": "2026-11-10T20:03:23+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "政治",
+      "title": "台湾国防部称中国进行“区域拒止”演习",
+      "summary": "台湾防长顾立雄周二表示，中国正在西太平洋进行“区域拒止”演习，参与演习的包括辽宁号航空母舰及其他海军编队。",
       "source": "德国之声",
-      "url": "https://www.dw.com/zh/失去光环的黄仁勋，还能撑得起英伟达吗？/a-79902904?maca=chi-rss-chi-all-1127-xml-mrss",
-      "published_at": "2026-11-09T23:40:00+08:00"
+      "url": "https://www.dw.com/zh/台湾国防部称中国进行-区域拒止-演习/a-79907965?maca=chi-rss-chi-all-1127-xml-mrss",
+      "published_at": "2026-11-10T19:27:00+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "科技",
+      "title": "美国严控之下，中国如何获得英伟达芯片？",
+      "summary": "英伟达CEO黄仁勋的婚外情风波，将一家涉华新加坡公司推到聚光灯下，也再次引发外界对中国获取受美国出口限制高端AI芯片途径的关注。",
+      "source": "德国之声",
+      "url": "https://www.dw.com/zh/美国严控之下，中国如何获得英伟达芯片？/a-79907942?maca=chi-rss-chi-all-1127-xml-mrss",
+      "published_at": "2026-11-10T19:19:00+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "科技",
+      "title": "French supermarket cyber attack delivers chilling warning to Britain",
+      "summary": "High-tech and nimble supply chains that keep UK food prices low also leave nation dangerously exposed to security risks",
+      "source": "金融时报",
+      "url": "https://www.ft.com/content/240200e9-7a33-49a9-9801-ef92b4af22db?syn-25a6b1a6=1",
+      "published_at": "2026-11-10T17:30:10+08:00"
     }
   ]
 }
