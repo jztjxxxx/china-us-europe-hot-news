@@ -2,8 +2,11 @@ name: 更新新闻
 
 on:
   schedule:
-    # 每天 23:30 UTC ≈ 北京时间次日 07:30
-    - cron: "30 23 * * *"
+  # 每天 3 次，每隔 8 小时：UTC 23:30 / 07:30 / 15:30
+  # ≈ 北京时间 07:30 / 15:30 / 23:30
+  - cron: "30 23 * * *"
+  - cron: "30 7 * * *"
+  - cron: "30 15 * * *"
   workflow_dispatch:
 
 permissions:
