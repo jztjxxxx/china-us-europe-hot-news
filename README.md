@@ -4,9 +4,9 @@
 >
 > 直接点上面这个链接就能看，不用下载、不用安装。
 
-整合中国、美国、欧洲的热点新闻：报纸头版式页面，顶部头条、下方按地区分栏，覆盖政治、经济、科技、市场、社会五类，可按地区 / 分类筛选、全文搜索，每天自动更新一次。
+整合中国、美国、欧洲的热点新闻：报纸头版式页面，顶部头条、下方按地区分栏，覆盖政治、经济、科技、市场、社会五类，可按地区 / 分类筛选、全文搜索，每天自动更新三次（每 8 小时一次）。
 
-> **English summary:** A static, open-source hot-news page covering China, the US and Europe. Headlines are fetched from public RSS feeds, rendered client-side from `data/news.json`, and refreshed daily by GitHub Actions. No build step, no external fonts; the only external script is the free GTranslate widget (see “翻译 / Translation”).
+> **English summary:** A static, open-source hot-news page covering China, the US and Europe. Headlines are fetched from public RSS feeds, rendered client-side from `data/news.json`, and refreshed 3 times a day (every 8 hours) by GitHub Actions. No build step, no external fonts; the only external script is the free GTranslate widget (see “翻译 / Translation”).
 
 ## 功能
 
@@ -55,7 +55,7 @@ python3 scripts/fetch_news.py
 
 ## 每天自动更新
 
-`.github/workflows/update-news.yml` 每天 23:30 UTC（北京时间次日约 07:30）自动运行一次：
+`.github/workflows/update-news.yml` 每天自动运行三次，每隔 8 小时一次（UTC 23:30 / 07:30 / 15:30，约北京时间 07:30 / 15:30 / 23:30）：
 
 1. 检出代码，安装 Python 3.12
 2. 运行 `python3 scripts/fetch_news.py`
