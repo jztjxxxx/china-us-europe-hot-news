@@ -1,95 +1,311 @@
 {
-  "updated_at": "2026-11-11T23:30:54+08:00",
+  "updated_at": "2026-11-12T06:07:17+08:00",
   "items": [
     {
       "region": "美国",
-      "category": "市场",
-      "title": "Stocks making the biggest moves Wednesday: CoreWeave, Nvidia, NextNav & more",
-      "summary": "Follow below as CNBC covers the biggest stock market moves of the day.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/11/stocks-moving-the-most-today-live-updates.html",
-      "published_at": "2026-11-11T23:29:06+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "市场",
-      "title": "CoreWeave CEO Intrator tells CNBC he has canceled his planned share sale program",
-      "summary": "After CoreWeave beat on revenue and upped its forecast, CEO Mike Intrator indicated the company will be fine despite last week's Democratic midterm sweep.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/11/coreweave-ceo-election-data-center-buildout.html",
-      "published_at": "2026-11-11T23:28:29+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "市场",
-      "title": "Nasdaq surges as CoreWeave leads tech rebound: Live updates",
-      "summary": "Stocks rose Wednesday, boosted by sharp gains in CoreWeave and a rebound in Nvidia following back-to-back losing sessions for the chipmaker.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html",
-      "published_at": "2026-11-11T23:28:11+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "科技",
-      "title": "US tech stocks gain as AI trade revives",
-      "summary": "Nasdaq erases bulk of last week’s losses as better-than-expected CoreWeave results and prospect of higher Anthropic IPO valuation boost sentiment",
-      "source": "金融时报",
-      "url": "https://www.ft.com/content/639de881-6017-454f-abfa-cfb191d1e7cd?syn-25a6b1a6=1",
-      "published_at": "2026-11-11T23:25:47+08:00"
-    },
-    {
-      "region": "美国",
       "category": "社会",
-      "title": "ICE Officer Involved in Maine Shooting Expressed Hatred of Immigrants",
-      "summary": "The agent talked of foreign bloodlines, denounced noncitizens and more, according to emails obtained by The Times. His fatal shooting of a Colombian-born motorist in July remains under investigation.",
+      "title": "An 8-Year-Old Was Separated From Family and Taken by ICE at a Check-In",
+      "summary": "The third grader from Haiti had been living with his uncle’s family since his father was deported last year. From a shelter where ICE sent him, “he cried and just begged to come home.”",
       "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/11/us/david-brouillette-ice-maine-shooting-anti-immigrant-hatred.html",
-      "published_at": "2026-11-11T23:24:18+08:00"
+      "url": "https://www.nytimes.com/2026/11/11/us/ice-detains-8-year-old.html",
+      "published_at": "2026-11-12T06:00:55+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "社会",
+      "title": "Under higher scrutiny, will Singapore remain Chinese firms’ first overseas port of call?",
+      "summary": "With domestic profits narrowing and production capacity expanding, China’s firms are continuing to widen their overseas footprints in search of new, more lucrative markets.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/economy/china-economy/article/3373856/under-higher-scrutiny-will-singapore-remain-chinese-firms-first-overseas-port-call",
+      "published_at": "2026-11-12T06:00:10+08:00"
     },
     {
       "region": "美国",
-      "category": "市场",
-      "title": "Measles is surging in the U.S. — and outbreaks can cost millions",
-      "summary": "A new tool developed by Johns Hopkins researchers estimates that the 2025 measles outbreak in the U.S. carried an economic cost of more than $37 million.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/11/measles-outbreak-us-economic-cost.html",
-      "published_at": "2026-11-11T23:14:53+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "市场",
-      "title": "Inflation Report Doesn't Warrant 50 Bps Fed Rate Hike, David Rosenberg Says",
-      "summary": "Rosenberg Research founder and President David Rosenberg says a 50 basis-point rate hike by the Federal Reserve in December is on the table but not firmly. (Source: Bloomberg)",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-11/cpi-report-doesn-t-warrant-50-bps-hike-david-rosenberg-video",
-      "published_at": "2026-11-11T23:13:42+08:00"
+      "category": "政治",
+      "title": "A Diminished Justice Dept. Braces for Fresh Fights After Midterm Loss",
+      "summary": "The upheaval points to a broader dilemma spurred by the election: whether the department can carry out President Trump’s priorities as career officials eye the exits and senior department officials resign.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/11/us/politics/doj-trump-blanche-trump-midterms.html",
+      "published_at": "2026-11-12T05:59:02+08:00"
     },
     {
       "region": "美国",
       "category": "科技",
-      "title": "CoreWeave soars 20% as CEO reaffirms AI compute demand after strong Q3 report",
-      "summary": "Neoclouds such as CoreWeave, Nebius and IREN have come under scrutiny this month as investors assessed the sustainability of the AI trade.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
-      "published_at": "2026-11-11T23:13:39+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "市场",
-      "title": "Sudden Screwworm Resurgence Finds Catalyst in Ideal Fly Weather",
-      "summary": "The New World screwworm has made a comeback in the US after months of relatively muted cases, thanks in large part to milder temperatures and humidity that are encouraging the deadly livestock parasite’s activity.",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-11/sudden-screwworm-resurgence-finds-catalyst-in-ideal-fly-weather",
-      "published_at": "2026-11-11T23:13:17+08:00"
+      "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
+      "summary": "Mr. Huang, Nvidia’s chief executive, is already facing scrutiny over an affair with a Chinese businesswoman who U.S.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+      "published_at": "2026-11-12T05:57:50+08:00"
     },
     {
       "region": "欧洲",
       "category": "社会",
-      "title": "US envoys to meet Putin and Zelenskyy separately after peace talks see some progress - Europe Live",
-      "summary": "US negotiators to meet Putin in Moscow, Zelenskyy in Dublin next Separately, I am also keeping an eye on Italy, with reports that several schools are being evacuated after receiving bomb threats by emails.",
+      "title": "Workers in Spain Stage a General Strike for the First Time in 14 Years",
+      "summary": "Workers in a wide range of industries walked off the job to protest rising rents and stagnant wages, which have become central issues in the campaign.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/11/world/europe/spain-general-strike.html",
+      "published_at": "2026-11-12T05:53:34+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "社会",
+      "title": "Hegseth and team reprimanded by Arlington national cemetery guard – video",
+      "summary": "Defense secretary Pete Hegseth and members of his team were reprimanded by a US sentinel at Arlington national cemetery after the Veterans Day commemoration that Donald Trumped attended on 11 November Continue",
       "source": "卫报",
-      "url": "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates",
-      "published_at": "2026-11-11T23:12:08+08:00"
+      "url": "https://www.theguardian.com/us-news/video/2026/nov/11/hegseth-and-team-reprimanded-by-arlington-national-cemetery-guard-video",
+      "published_at": "2026-11-12T05:53:22+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "经济",
+      "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
+      "summary": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-12T05:48:33+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "政治",
+      "title": "伊朗 : 美国用中东地区以外的军事基地袭击伊朗， 伊朗将打击这些基地",
+      "summary": "伊朗安全事务负责人穆赫辛·雷扎伊发出威胁称，如果美国利用自己在中东地区以外（包括欧洲）的军事基地对伊朗伊斯兰共和国发动袭击，伊朗将对这些基地实施打击。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20261111-%E4%BC%8A%E6%9C%97-%E7%BE%8E%E5%9B%BD%E7%94%A8%E4%B8%AD%E4%B8%9C%E5%9C%B0%E5%8C%BA%E4%BB%A5%E5%A4%96%E7%9A%84%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%EF%BC%8C-%E4%BC%8A%E6%9C%97%E5%B0%86%E6%89%93%E5%87%BB%E8%BF%99%E4%BA%9B%E5%9F%BA%E5%9C%B0",
+      "published_at": "2026-11-12T05:46:37+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "社会",
+      "title": "德国军队禁止使用中国造无人机",
+      "summary": "德国国防部周三宣布，出于安全考虑，德军将不再使用任何中国产无人机，理由是需要保护敏感设施和数据。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261111-%E5%BE%B7%E5%9B%BD%E5%86%9B%E9%98%9F%E7%A6%81%E6%AD%A2%E4%BD%BF%E7%94%A8%E4%B8%AD%E5%9B%BD%E9%80%A0%E6%97%A0%E4%BA%BA%E6%9C%BA",
+      "published_at": "2026-11-12T05:44:27+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "社会",
+      "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
+      "summary": "Following a wreath-laying ceremony marking Veterans Day, a group that included Defence Secretary Pete Hegseth was shouted at by a US Army sentinel to be quiet.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-12T05:43:35+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "经济",
+      "title": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
+      "summary": "There is a growing expectation among senior Labour figures that drilling in the oil field will be given the green light.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-12T05:42:20+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "经济",
+      "title": "OpenAI, Anthropic Valuations Fuel VC Fears of Startup Correction",
+      "summary": "In late September, OpenAI entered discussions for its latest funding round with confidence.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-11/openai-anthropic-valuations-fuel-vc-fears-of-startup-correction",
+      "published_at": "2026-11-12T05:39:14+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "科技",
+      "title": "中国大学被美国列入黑名单 仍购买英伟达h200芯片",
+      "summary": "美国对中国出口先进人工智能（AI）芯片的限制再遭质疑。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261111-%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6%E8%A2%AB%E7%BE%8E%E5%9B%BD%E5%88%97%E5%85%A5%E9%BB%91%E5%90%8D%E5%8D%95-%E4%BB%8D%E8%B4%AD%E4%B9%B0%E8%8B%B1%E4%BC%9F%E8%BE%BEh200%E8%8A%AF%E7%89%87",
+      "published_at": "2026-11-12T05:36:46+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "市场",
+      "title": "Feds arrest top official of healthcare company, alleging illegal drug importation",
+      "summary": "U.S. officials are accusing two top officials of a Canadian company of operating a scheme to illegally import prescription drugs, court records show.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/11/canarx-official-arrested-drug-importation.html",
+      "published_at": "2026-11-12T05:33:17+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "政治",
+      "title": "Low-hanging fruit for Xi and Trump to pluck at Shenzhen Apec summit",
+      "summary": "The Asia-Pacific Economic Cooperation summit is set to take place in Shenzhen on November 18 and 19.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/opinion/china-opinion/article/3373661/low-hanging-fruit-xi-and-trump-pluck-shenzhen-apec-summit",
+      "published_at": "2026-11-12T05:30:05+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "市场",
+      "title": "ExxonMobil launches legal challenge to EU carbon capture rules",
+      "summary": "US oil company invokes investment treaty to challenge Brussels’ green regulations and seek suspension of timing requirements",
+      "source": "金融时报",
+      "url": "https://www.ft.com/content/377d2ae5-112f-411f-bfc1-5e498948cb7b?syn-25a6b1a6=1",
+      "published_at": "2026-11-12T05:26:48+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "市场",
+      "title": "Nasdaq gains more than 1% as CoreWeave spike revitalizes AI trade",
+      "summary": "Stocks rose Wednesday, boosted by sharp gains in CoreWeave and a rebound in Nvidia following back-to-back losing sessions for the chipmaker.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html",
+      "published_at": "2026-11-12T05:22:14+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "社会",
+      "title": "Alexander Darchiev, Russia’s Ambassador to the U.S., Dies at 66",
+      "summary": "The death of Alexander Darchiev was announced by Russia’s foreign ministry. He was appointed to his post in Washington in 2025, as relations between the Kremlin and the White House warmed.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/11/world/europe/russian-ambassador-darchiev-dead.html",
+      "published_at": "2026-11-12T05:14:46+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "科技",
+      "title": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns",
+      "summary": "CoreWeave's stock has been hammered heading into the neocloud's Q3 earnings report.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
+      "published_at": "2026-11-12T05:13:41+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "科技",
+      "title": "CoreWeave soars more than 24% for best day since April 2025 after strong Q3 report",
+      "summary": "Neoclouds such as CoreWeave, Nebius and IREN have come under scrutiny this month as investors assessed the sustainability of the AI trade.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
+      "published_at": "2026-11-12T05:11:26+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "经济",
+      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
+      "summary": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-12T04:52:52+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "经济",
+      "title": "Court Rules That Sexual Harassment Case Against SpaceX Can Proceed",
+      "summary": "The company had argued that the case, involving eight former workers, must be resolved before an arbitrator.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/11/business/sexual-harassment-spacex-elon-musk.html",
+      "published_at": "2026-11-12T04:51:49+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "社会",
+      "title": "Poundland owner extracted millions when chain was on ‘knife-edge’, MPs say",
+      "summary": "Retailer’s management to seek two-week extension of legal protection from creditors in high court MPs have accused the owner of Poundland of extracting millions of pounds from the budget retailer when it was on a",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/business/2026/nov/11/poundland-owner-chain-mps-claim-high-court",
+      "published_at": "2026-11-12T03:10:26+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "社会",
+      "title": "British soldier charged with rape of army servicewoman in Cyprus",
+      "summary": "L/Cpl Nicholas Horne, from 4th Battalion of Royal Regiment of Scotland, charged with one count of rape on 23 October A British soldier has been charged with the alleged rape of a UK army servicewoman in Cyprus.",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/11/scots-soldier-charged-with-of-army-servicewoman-in-cyprus",
+      "published_at": "2026-11-12T03:06:48+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "社会",
+      "title": "Ex-member of radical Marxist group scales balcony, escapes house arrest in Argentina",
+      "summary": "Leonardo Bertulazzi, 74, awaiting extradition to Italy, reportedly used harness to flee custody A 74-year-old former member of Italy ’s radical Marxist group the Red Brigades has escaped from house arrest in Argentina ,",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/world/2026/nov/11/red-brigades-leonardo-bertulazzi-escapes-house-arrest-argentina",
+      "published_at": "2026-11-12T03:00:33+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "市场",
+      "title": "Healey says Treasury discussing ‘worst-case’ energy support for UK households",
+      "summary": "Chancellor prepares for deepening energy crisis and says end to Iran war would be biggest boost to Britain’s economy",
+      "source": "金融时报",
+      "url": "https://www.ft.com/content/22798c90-e999-4564-924a-4f04343cac3d?syn-25a6b1a6=1",
+      "published_at": "2026-11-12T02:47:25+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "政治",
+      "title": "古巴外长访华，王毅承诺中国“坚定支持”古巴反制裁",
+      "summary": "周三在中国首都举行的一次会晤中，中国外长王毅向到访的古巴同行保证，面对制裁，北京将“坚定支持”哈瓦那，此前华盛顿上周对古巴实施了新的限制措施，包括制裁两家中国企业。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261111-%E5%8F%A4%E5%B7%B4%E5%A4%96%E9%95%BF%E8%AE%BF%E5%8D%8E%EF%BC%8C%E7%8E%8B%E6%AF%85%E6%89%BF%E8%AF%BA%E4%B8%AD%E5%9B%BD-%E5%9D%9A%E5%AE%9A%E6%94%AF%E6%8C%81-%E5%8F%A4%E5%B7%B4%E5%8F%8D%E5%88%B6%E8%A3%81",
+      "published_at": "2026-11-12T02:41:16+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "社会",
+      "title": "俄罗斯谈判代表：任何和平协议都不存在与基辅交换领土的可能",
+      "summary": "综合塔斯社、路透社报道，俄罗斯的乌克兰问题谈判代表拒绝与基辅进行领土交换的方案。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261111-%E4%BF%84%E7%BD%97%E6%96%AF%E8%B0%88%E5%88%A4%E4%BB%A3%E8%A1%A8-%E4%BB%BB%E4%BD%95%E5%92%8C%E5%B9%B3%E5%8D%8F%E8%AE%AE%E9%83%BD%E4%B8%8D%E5%AD%98%E5%9C%A8%E4%B8%8E%E5%9F%BA%E8%BE%85%E4%BA%A4%E6%8D%A2%E9%A2%86%E5%9C%9F%E7%9A%84%E5%8F%AF%E8%83%BD",
+      "published_at": "2026-11-12T02:35:25+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "政治",
+      "title": "台湾将由电脑制造商宏碁集团联合创始人施振荣代表出席亚太经合峰会",
+      "summary": "台湾周三宣布，宏碁联合创始人施振荣将代表台湾出席下周在中国举行的亚太经济合作组织（APEC）峰会。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261111-%E5%8F%B0%E6%B9%BE%E5%B0%86%E7%94%B1%E7%94%B5%E8%84%91%E5%88%B6%E9%80%A0%E5%95%86%E5%AE%8F%E7%A2%81%E9%9B%86%E5%9B%A2%E8%81%94%E5%90%88%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%96%BD%E6%8C%AF%E8%8D%A3%E4%BB%A3%E8%A1%A8%E5%87%BA%E5%B8%AD%E4%BA%9A%E5%A4%AA%E7%BB%8F%E5%90%88%E5%B3%B0%E4%BC%9A",
+      "published_at": "2026-11-12T02:20:49+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "市场",
+      "title": "General strikes to paralyze Spain as protestors clash with police ahead of election campaign",
+      "summary": "Spanish workers are expected to turn out in their millions on Wednesday for the country's first general strike in 14 years.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/11/spain-protests-general-strikes-election.html",
+      "published_at": "2026-11-12T02:02:32+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "经济",
+      "title": "Poundland founder writes to King for help",
+      "summary": "Poundland has filed a notice of intention to appoint administrators, which protects it from creditors until Thursday.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/videos/cm4gndjd4nnno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-12T01:59:35+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "政治",
+      "title": "美国财长贝森特就英伟达客户输华芯片安全问题与商务部长卢特尼克对峙",
+      "summary": "Axios11日引述知情人透露，美国财长贝森特上周在白宫内部就英伟达客户Megaspeed迟迟未被列入“对国家安全构成威胁的企业名单”一事，与商务部长卢特尼克发生了争执。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261111-%E7%BE%8E%E5%9B%BD%E8%B4%A2%E9%95%BF%E8%B4%9D%E6%A3%AE%E7%89%B9%E5%B0%B1%E5%AF%B9%E8%BE%93%E5%8D%8E%E8%8A%AF%E7%89%87%E5%AE%89%E5%85%A8%E4%B8%8D%E4%BD%9C%E4%B8%BA%E4%B8%8E%E5%95%86%E5%8A%A1%E9%83%A8%E9%95%BF%E5%8D%A2%E7%89%B9%E5%B0%BC%E5%85%8B%E5%AF%B9%E5%B3%99",
+      "published_at": "2026-11-12T01:48:40+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "政治",
+      "title": "美国：针对皮特·赫格塞斯的弹劾程序在国会受挫 特朗普欣喜",
+      "summary": "针对美国国防部长皮特·赫格塞斯的弹劾程序于周二被共和党众议员扼杀在萌芽状态，因民主党占多数的新一届国会明年1月就职，所以为这位五角大楼负责人争取到了宝贵的喘息之机。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261111-%E7%BE%8E%E5%9B%BD-%E9%92%88%E5%AF%B9%E7%9A%AE%E7%89%B9%C2%B7%E8%B5%AB%E6%A0%BC%E5%A1%9E%E6%96%AF%E7%9A%84%E5%BC%B9%E5%8A%BE%E7%A8%8B%E5%BA%8F%E5%9C%A8%E5%9B%BD%E4%BC%9A%E5%8F%97%E6%8C%AB-%E7%89%B9%E6%9C%97%E6%99%AE%E6%AC%A3%E5%96%9C",
+      "published_at": "2026-11-11T23:59:31+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "科技",
+      "title": "Thousands of schools in Italy, Scotland and Ireland receive bomb threats",
+      "summary": "Incidents appear to be latest co-ordinated attack aimed at disrupting life in Europe",
+      "source": "金融时报",
+      "url": "https://www.ft.com/content/7bbc0a5e-b7e2-4a3f-874f-a63de94e922d?syn-25a6b1a6=1",
+      "published_at": "2026-11-11T23:39:44+08:00"
     },
     {
       "region": "美国",
@@ -119,42 +335,6 @@
       "published_at": "2026-11-11T22:58:19+08:00"
     },
     {
-      "region": "欧洲",
-      "category": "社会",
-      "title": "ITV to cut show budgets as UK TV and film production spend drops by more than £2bn",
-      "summary": "Broadcaster plans to make £30m in ‘temporary’ savings before inquiry into takeover by Sky Business live – latest updates ITV plans to slash its programming budget as new figures showed that spend on the production of",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/business/2026/nov/11/itv-cut-costs-falling-advertising-sales",
-      "published_at": "2026-11-11T22:57:38+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "社会",
-      "title": "Three Iran-backed suspects plotted attacks including incident near UK air base, US says",
-      "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near RAF Fairford, which is used by US armed forces.",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-11T22:51:26+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "科技",
-      "title": "Helsing Unveils AI Military Software to Challenge Palantir",
-      "summary": "Helsing Gmbh, a German dronemaker, released a platform that uses artificial intelligence to help military units process data from the field more quickly, creating a new European challenger to US-based Palantir",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-11/helsing-unveils-ai-military-software-to-challenge-palantir",
-      "published_at": "2026-11-11T22:46:59+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "社会",
-      "title": "In Interview, Sonia Gandhi Recalls Love and Loss in India",
-      "summary": "In a memoir and interview, the Italian-born woman who married into the Nehru-Gandhi dynasty recalls political battles and the killings of family members.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/10/world/asia/sonia-gandhi-india.html",
-      "published_at": "2026-11-11T22:41:21+08:00"
-    },
-    {
       "region": "中国",
       "category": "科技",
       "title": "Jensen Huang's affair with alleged Chinese spy further complicates Nvidia’s China problem",
@@ -162,105 +342,6 @@
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
       "published_at": "2026-11-11T22:39:33+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "科技",
-      "title": "Britain should ‘exploit’ NHS data to power AI, says minister",
-      "summary": "Chris McDonald says country has ‘strategic competitive advantage’ in uniting its life sciences and AI industries",
-      "source": "金融时报",
-      "url": "https://www.ft.com/content/f95d9298-d27e-4c1b-87e5-ea75f67a1e0c?syn-25a6b1a6=1",
-      "published_at": "2026-11-11T22:37:32+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "社会",
-      "title": "‘Hear the goals during the afterlife’: Barça fans get to inter ashes at club’s new memorial",
-      "summary": "Memorial FC Barcelona, part of upgrade to Camp Nou stadium, will consist of 26,000 niches where fans can deposit their ashes Lifelong supporters of Barcelona football club will soon be able to cheer on the club from",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/football/2026/nov/11/barcelona-fc-camp-nou-stadium-memorial-fans-ashes",
-      "published_at": "2026-11-11T22:30:15+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "市场",
-      "title": "Virgin Atlantic Cuts Winter Capacity on Fuel Costs, Soft Demand",
-      "summary": "Virgin Atlantic Airways Ltd. is cutting capacity as the UK carrier grapples with higher oil prices and softened demand.",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-11/virgin-atlantic-cuts-winter-capacity-on-fuel-costs-soft-demand",
-      "published_at": "2026-11-11T22:14:57+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "社会",
-      "title": "德国联邦国防军因间谍风险禁用中国无人机和汽车",
-      "summary": "根据德国《明镜》周刊报道，出于迫切的安全顾虑，德国联邦国防军禁止在军营和训练场使用所有中国小型无人机。",
-      "source": "德国之声",
-      "url": "https://www.dw.com/zh/德国联邦国防军因间谍风险禁用中国无人机和汽车/a-79919532?maca=chi-rss-chi-all-1127-xml-mrss",
-      "published_at": "2026-11-11T22:14:00+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "市场",
-      "title": "Zelenskyy warns Ukraine is 'not real estate' as experts say a Russia peace deal remains elusive",
-      "summary": "President Zelenskyy warned Tuesday that his country \"was not real estate,\" as a second and final day of U.S.-brokered peace talks got underway.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/11/ukraine-russia-peace-talks-zelenskyy-putin.html",
-      "published_at": "2026-11-11T22:13:40+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "经济",
-      "title": "How GLP-1 Drugs and a Revamp Revived Ro’s Business",
-      "summary": "The telehealth company said that its annualized revenue had grown nearly tenfold since it revamped its business and embraced weight-loss treatments.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/11/business/dealbook/ro-revenue-glp1.html",
-      "published_at": "2026-11-11T22:06:50+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "经济",
-      "title": "$150 for a Thanksgiving Pie? A Humble Dessert Staple Gets Pricey.",
-      "summary": "This season, bakers are charging three figures for luxury versions that combine elaborate prep and premium ingredients. Not everyone is biting.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/11/dining/thanksgiving-pies-prices-expensive-dessert.html",
-      "published_at": "2026-11-11T22:03:47+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "市场",
-      "title": "Goldman, Fortress and HBSC Back Rare Private Credit Deal in Saudi Arabia",
-      "summary": "Goldman Sachs Group Inc., HSBC Holdings Plc and Fortress Investment Group are among financial heavyweights teaming up on one of Saudi Arabia’s first major private credit deals since the regional war began.",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-11/goldman-fortress-and-hbsc-back-rare-private-credit-deal-in-saudi-arabia",
-      "published_at": "2026-11-11T22:02:18+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "社会",
-      "title": "How are Chinese infantry units training to survive drone-filled battlefields?",
-      "summary": "China’s infantry units are adapting to the growing threat from drones, with some brigades introducing compulsory counter-drone training, new equipment and fresh tactics to help soldiers evade aerial surveillance and",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/news/china/military/article/3374059/how-are-chinese-infantry-units-training-survive-drone-filled-battlefields",
-      "published_at": "2026-11-11T22:00:08+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "政治",
-      "title": "中期选举后 深圳峰会前 日本密切关注特朗普外交政策重心变化",
-      "summary": "日本担心，特朗普在中期选举受到重挫后，可能急于在外交上取得“速成政绩”，尤其担心特朗普在深圳的APEC峰会上向习近平做出更多让步，从而损害美国印太盟友的利益。",
-      "source": "德国之声",
-      "url": "https://www.dw.com/zh/中期选举后-深圳峰会前-日本密切关注特朗普外交政策重心变化/a-79919689?maca=chi-rss-chi-all-1127-xml-mrss",
-      "published_at": "2026-11-11T21:58:00+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "科技",
-      "title": "美国商务部推迟将Megaspeed列入贸易黑名单",
-      "summary": "据金融时报透露，与英伟达首席执行官黄仁勋有染且被美国情报官员认为是中国女谍的黄乐所在公司Megaspeed，迟迟未被美国商务部列入“实体清单”，引关注。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261111-%E7%BE%8E%E5%9B%BD%E5%95%86%E5%8A%A1%E9%83%A8%E6%8E%A8%E8%BF%9F%E5%B0%86megaspeed%E5%88%97%E5%85%A5%E8%B4%B8%E6%98%93%E9%BB%91%E5%90%8D%E5%8D%95",
-      "published_at": "2026-11-11T21:54:40+08:00"
     },
     {
       "region": "中国",
@@ -272,51 +353,6 @@
       "published_at": "2026-11-11T21:48:52+08:00"
     },
     {
-      "region": "欧洲",
-      "category": "社会",
-      "title": "Shipwreck Off Senegal Kills Dozens as Canary Islands Declare Migrant Emergency",
-      "summary": "Migrant arrivals to Europe are down overall but still claiming scores of victims, overwhelming local officials and dominating political debate.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/09/world/africa/senegal-migrant-boat-capsize-europe.html",
-      "published_at": "2026-11-11T21:41:53+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "经济",
-      "title": "Anthropic’s I.P.O. and the Clubby Business of A.I.",
-      "summary": "Some of the biggest investors in the artificial intelligence giant’s upcoming listing are also some of its most important business partners.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/11/business/dealbook/anthropic-ipo-nvidia.html",
-      "published_at": "2026-11-11T21:40:36+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "经济",
-      "title": "The Fed Has to Raise Rates. How Fast to Go Has Officials Divided.",
-      "summary": "The Federal Reserve’s gradual approach to raising rates is being tested by intensifying price pressures.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/11/business/fed-interest-rates-inflation.html",
-      "published_at": "2026-11-11T21:40:22+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "经济",
-      "title": "Diesel still costing close to a ‘dismal’ £2 a litre despite oil price falls",
-      "summary": "Pump prices stay stubbornly high as leading bank official warns energy costs are likely to remain ‘elevated’ Business live – latest updates The price of diesel on UK forecourts remains stubbornly close to October’s",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/money/2026/nov/11/diesel-prices-petrol-business-oil-hormuz",
-      "published_at": "2026-11-11T21:30:27+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "经济",
-      "title": "German Economic Advisers More Than Double 2026 Growth Forecast",
-      "summary": "Germany’s economy will expand this year at more than twice the pace envisaged in the spring thanks to vast government spending and surprisingly robust exports, according to the country’s independent economic advisers.",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-11/german-economic-advisers-more-than-double-2026-growth-forecast",
-      "published_at": "2026-11-11T21:30:00+08:00"
-    },
-    {
       "region": "中国",
       "category": "市场",
       "title": "Nissan cuts sales forecast again on China woes as CEO outlines plan to fight back",
@@ -326,31 +362,13 @@
       "published_at": "2026-11-11T21:18:48+08:00"
     },
     {
-      "region": "欧洲",
-      "category": "经济",
-      "title": "EU plans Doha defence talks to strengthen security ties with Gulf countries",
-      "summary": "EU Ambassador to Qatar Antonino Maggiore tells Euronews that Europe plans to strengthen defence cooperation with Qatar and the Gulf countries, as \"every crisis brings opportunities,\" while also deepening political and",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/11/eu-plans-doha-defence-talks-to-strengthen-security-ties-with-gulf-countries",
-      "published_at": "2026-11-11T21:13:43+08:00"
-    },
-    {
       "region": "中国",
       "category": "科技",
       "title": "Nissan reduces petrol car production as EV sales boom in China",
-      "summary": "Manufacturer says ‘shift to new energy vehicles is happening faster than expected’ and market is harsh Business live – latest updates The Japanese carmaker Nissan has said it has been caught out by accelerating sales of",
+      "summary": "Manufacturer says ‘shift to new energy vehicles is happening faster than expected’ and market is harsh The Japanese carmaker Nissan has said it has been caught out by accelerating sales of electric and hybrid cars in",
       "source": "卫报",
       "url": "https://www.theguardian.com/business/2026/nov/11/nissan-reduces-petrol-car-production-as-ev-sales-boom-in-china",
       "published_at": "2026-11-11T21:11:58+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "社会",
-      "title": "30 Japanese porn stars denied entry into Hong Kong, forcing adult expo’s cancellation",
-      "summary": "A large-scale adult entertainment expo billed as Hong Kong’s first has abruptly been cancelled after nearly 30 Japanese adult-video (AV) performers were refused entry upon arrival at Hong Kong International Airport.",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3374106/30-japanese-porn-stars-denied-entry-hong-kong-forcing-adult-expos-cancellation",
-      "published_at": "2026-11-11T20:49:50+08:00"
     },
     {
       "region": "中国",
@@ -372,30 +390,12 @@
     },
     {
       "region": "中国",
-      "category": "政治",
-      "title": "台湾九合一大选｜基隆不仅蓝绿战况极度胶着，更是中央与地方的政治角力舞台",
-      "summary": "基隆市长选举被定位为「市政与政党对决」的百里侯之争，不仅是现任国民党籍市长谢国梁的连任保卫战，更是民进党全面动员，由议长童子玮挂帅企图翻转北台湾的重要指标。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%81%9A%E7%84%A6%E5%8F%B0%E6%B5%B7/20261111-%E5%8F%B0%E6%B9%BE%E4%B9%9D%E5%90%88%E4%B8%80%E5%A4%A7%E9%80%89%EF%BD%9C%E5%9F%BA%E9%9A%86%E4%B8%8D%E4%BB%85%E8%93%9D%E7%BB%BF%E6%88%98%E5%86%B5%E6%9E%81%E5%BA%A6%E8%83%B6%E7%9D%80%EF%BC%8C%E6%9B%B4%E6%98%AF%E4%B8%AD%E5%A4%AE%E4%B8%8E%E5%9C%B0%E6%96%B9%E7%9A%84%E6%94%BF%E6%B2%BB%E8%A7%92%E5%8A%9B%E8%88%9E%E5%8F%B0",
-      "published_at": "2026-11-11T20:18:55+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "政治",
-      "title": "台湾派施振荣出席深圳APEC峰会 强调平等参与",
-      "summary": "台湾总统府宣布，宏碁创办人施振荣将作为领袖代表出席下周在深圳举行的APEC峰会。",
-      "source": "德国之声",
-      "url": "https://www.dw.com/zh/台湾派施振荣出席深圳apec峰会-强调平等参与/a-79917400?maca=chi-rss-chi-all-1127-xml-mrss",
-      "published_at": "2026-11-11T19:49:00+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "社会",
-      "title": "中国“双十一”：民众消费仍谨慎 AI促销初显身手",
-      "summary": "尽管中国的商家早早启动“双11”促销，但目前的迹象显示，今年“双11”整体表现趋于平淡。",
-      "source": "德国之声",
-      "url": "https://www.dw.com/zh/中国-双十一-：民众消费仍谨慎-ai促销初显身手/a-79917807?maca=chi-rss-chi-all-1127-xml-mrss",
-      "published_at": "2026-11-11T19:47:00+08:00"
+      "category": "科技",
+      "title": "BYD apologises for wheel-rim error as China cracks down on car quality issues",
+      "summary": "BYD has apologised for an assembly error that caused some of its electric cars in China to be fitted with incorrect wheel rims, as Beijing ramps up scrutiny of quality issues in the country’s car industry.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/business/china-evs/article/3374098/byd-apologises-wheel-rim-error-china-cracks-down-car-quality-issues",
+      "published_at": "2026-11-11T19:32:05+08:00"
     },
     {
       "region": "中国",
