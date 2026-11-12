@@ -1,59 +1,257 @@
 {
-  "updated_at": "2026-11-12T06:07:17+08:00",
+  "updated_at": "2026-11-12T12:03:22+08:00",
   "items": [
     {
       "region": "美国",
-      "category": "社会",
-      "title": "An 8-Year-Old Was Separated From Family and Taken by ICE at a Check-In",
-      "summary": "The third grader from Haiti had been living with his uncle’s family since his father was deported last year. From a shelter where ICE sent him, “he cried and just begged to come home.”",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/11/us/ice-detains-8-year-old.html",
-      "published_at": "2026-11-12T06:00:55+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "社会",
-      "title": "Under higher scrutiny, will Singapore remain Chinese firms’ first overseas port of call?",
-      "summary": "With domestic profits narrowing and production capacity expanding, China’s firms are continuing to widen their overseas footprints in search of new, more lucrative markets.",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/economy/china-economy/article/3373856/under-higher-scrutiny-will-singapore-remain-chinese-firms-first-overseas-port-call",
-      "published_at": "2026-11-12T06:00:10+08:00"
+      "category": "科技",
+      "title": "What we know as pressure builds on embattled Nvidia CEO Jensen Huang",
+      "summary": "The billionaire tech executive's future is in question after reports of a second extramarital affair.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-12T12:01:14+08:00"
     },
     {
       "region": "美国",
-      "category": "政治",
-      "title": "A Diminished Justice Dept. Braces for Fresh Fights After Midterm Loss",
-      "summary": "The upheaval points to a broader dilemma spurred by the election: whether the department can carry out President Trump’s priorities as career officials eye the exits and senior department officials resign.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/11/us/politics/doj-trump-blanche-trump-midterms.html",
-      "published_at": "2026-11-12T05:59:02+08:00"
+      "category": "市场",
+      "title": "Nasdaq-100 futures slide, dragged lower as Nvidia sell-off resumes: Live updates",
+      "summary": "All three of the major averages rallied on Wednesday, driven by gains in CoreWeave and a rebound in Nvidia.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/11/stock-market-today-live-updates.html",
+      "published_at": "2026-11-12T12:00:26+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "经济",
+      "title": "Houthi rebels’ fresh demands put Chinese firms in a dilemma, analyst warns",
+      "summary": "The escalating conflicts between Saudi Arabia and Houthi rebels in Yemen have put many listed Hong Kong and mainland Chinese companies in a dilemma, especially as the Houthis order foreign businesses to register with a",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/business/companies/article/3374144/houthi-rebels-fresh-demands-put-chinese-firms-dilemma-analyst-warns",
+      "published_at": "2026-11-12T12:00:13+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "社会",
+      "title": "Famed ocean liner sunk to become world’s biggest artificial reef",
+      "summary": "Famed ocean liner ⁠SS United States, the largest passenger ship ever built in America and the world’s fastest, headed for the sea floor near Florida on Wednesday in a deliberate sinking designed to transform the vessel",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3374147/famed-ocean-liner-sunk-become-worlds-biggest-artificial-reef",
+      "published_at": "2026-11-12T11:55:51+08:00"
     },
     {
       "region": "美国",
       "category": "科技",
-      "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
-      "summary": "Mr. Huang, Nvidia’s chief executive, is already facing scrutiny over an affair with a Chinese businesswoman who U.S.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
-      "published_at": "2026-11-12T05:57:50+08:00"
+      "title": "Nvidia board meeting to decide CEO Jensen Huang’s fate stretches into evening",
+      "summary": "Nvidia's board is meeting days after CEO Jensen Huang admitted to an affair with a woman who is believed by U.S. intelligence of being a Chinese spy.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html",
+      "published_at": "2026-11-12T11:46:56+08:00"
     },
     {
-      "region": "欧洲",
-      "category": "社会",
-      "title": "Workers in Spain Stage a General Strike for the First Time in 14 Years",
-      "summary": "Workers in a wide range of industries walked off the job to protest rising rents and stagnant wages, which have become central issues in the campaign.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/11/world/europe/spain-general-strike.html",
-      "published_at": "2026-11-12T05:53:34+08:00"
+      "region": "中国",
+      "category": "市场",
+      "title": "Japan 5-Year Bond Sale Sees Firmer Demand Than 12-Month Average",
+      "summary": "Japan’s five-year government bond auction drew stronger demand than its 12-month average as elevated yields attracted investors.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-12/japan-5-year-bond-sale-sees-firmer-demand-than-12-month-average-mwd011h1",
+      "published_at": "2026-11-12T11:39:12+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "市场",
+      "title": "The world's super-rich are piling into alternative investments. Here's why",
+      "summary": "Alternative investments now account for 60% of single-family office portfolios, surpassing traditional assets for the first time, according to BNY Wealth.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/rich-wealth-alternative-assets-.html",
+      "published_at": "2026-11-12T11:36:44+08:00"
     },
     {
       "region": "美国",
       "category": "社会",
-      "title": "Hegseth and team reprimanded by Arlington national cemetery guard – video",
-      "summary": "Defense secretary Pete Hegseth and members of his team were reprimanded by a US sentinel at Arlington national cemetery after the Veterans Day commemoration that Donald Trumped attended on 11 November Continue",
+      "title": "Here’s the latest.",
+      "summary": "Here’s the latest.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/live/2026/11/11/us/mississippi-senate-election-midterms/heres-the-latest",
+      "published_at": "2026-11-12T11:36:25+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "科技",
+      "title": "Nvidia board reportedly meeting to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live",
+      "summary": "Huang’s potential departure would leave a leadership vacuum at the roughly $4tn chipmaker he co-founded, with Nvidia’s shares sliding about 8% in ​after-hours trading US Democratic ⁠Senators Elizabeth Warren and Chris",
       "source": "卫报",
-      "url": "https://www.theguardian.com/us-news/video/2026/nov/11/hegseth-and-team-reprimanded-by-arlington-national-cemetery-guard-video",
-      "published_at": "2026-11-12T05:53:22+08:00"
+      "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+      "published_at": "2026-11-12T11:36:18+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "市场",
+      "title": "Why Bernstein Downgraded Nvidia Stock",
+      "summary": "Stacy Rasgon, Managing Director and Senior Analyst at Bernstein Research, was asked why his team said in a note they’ve “had enough” before he discusses the outlook for Nvidia in the wake of fresh reports of CEO Jensen",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-12/why-bernstein-downgraded-nvidia-stock-video",
+      "published_at": "2026-11-12T11:34:15+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "科技",
+      "title": "Another Data Center Halts in Australia as Public Backlash Rises",
+      "summary": "A vast data center project near Adelaide has been suspended following community opposition, at least the third Australian development to be waylaid in recent weeks as public opposition grows.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-12/another-data-center-halts-in-australia-as-public-backlash-rises",
+      "published_at": "2026-11-12T11:32:24+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "科技",
+      "title": "What Could Come Next After Huang’s Ouster?",
+      "summary": "Industry leaders, analysts and decision makers discuss how Nvidia CEO Jensen Huang’s replacement by a new leader could impact markets as well as how it might affect the global economy. (Source: Bloomberg)",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-12/what-could-come-next-after-huang-s-ouster-video",
+      "published_at": "2026-11-12T11:29:05+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "科技",
+      "title": "Elon Musk says it would be an 'honor' to hire Nvidia's Jensen Huang",
+      "summary": "The post on X comes amid reports that Nvidia's board is preparing to oust Huang.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/elon-musk-jensen-huang-nvidia-tesla.html",
+      "published_at": "2026-11-12T11:25:05+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "社会",
+      "title": "US Soldier Is Arrested in UK on Suspicion of Spying for Russia",
+      "summary": "The 41-year-old man, who was not named, was in custody pending possible charges after a joint investigation with the F.B.I. and U.S.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/10/world/europe/uk-us-army-arrest-espionage-russia.html",
+      "published_at": "2026-11-12T11:07:34+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "社会",
+      "title": "What Southeast Asian newsrooms struggling to attract Gen Z can learn from creators",
+      "summary": "For Malaysian content creator Iqbal Fatkhi, making news content credible to younger audiences sometimes means making it less like traditional journalism.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3374091/what-southeast-asian-newsrooms-struggling-attract-gen-z-can-learn-creators",
+      "published_at": "2026-11-12T11:00:08+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "经济",
+      "title": "Taiwan to send Acer founder Stan Shih to Shenzhen Apec, calls for ‘equal footing’",
+      "summary": "Taiwan will send Stan Shih, founder of computer giant Acer, to the Apec leaders’ summit in Shenzhen next week and has urged Beijing to ensure its delegation is treated with “dignity”.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/china/politics/article/3374140/taiwan-send-acer-founder-stan-shih-shenzhen-apec-calls-equal-footing",
+      "published_at": "2026-11-12T10:53:34+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "社会",
+      "title": "Australian teen missing in bush for six days rescued alive",
+      "summary": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\".",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-12T10:40:18+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "市场",
+      "title": "Taiwan Drafts Plans for Wealth Fund, Aims for Bill by Year-End",
+      "summary": "Taiwan is drafting legislation to establish a new sovereign wealth fund with initial capital of about NT$30 billion ($912 million), pushing ahead with the government’s plan to make strategic investments overseas.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-12/taiwan-drafts-plans-for-wealth-fund-aims-for-bill-by-year-end",
+      "published_at": "2026-11-12T10:40:18+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "市场",
+      "title": "India Reclaims Spot Among World’s Five Biggest Stock Markets as Rally Extends",
+      "summary": "Market value climbs to $5.4 trillion, overtaking Taiwan.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-12/india-reclaims-spot-among-world-s-five-biggest-stock-markets-as-rally-extends",
+      "published_at": "2026-11-12T10:30:33+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "社会",
+      "title": "Malaysian police shoot dead machete-wielding man who severed officer’s hand",
+      "summary": "A foreign man who allegedly hacked off a Malaysian policeman’s right hand during an attack at an apartment in Desa Amanpuri, Kepong, was shot dead.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3374135/malaysian-police-shoot-dead-machete-wielding-man-who-severed-officers-hand",
+      "published_at": "2026-11-12T10:27:48+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "社会",
+      "title": "Chinese women believe they are long-lost twins after chance sighting in short video",
+      "summary": "A chance discovery on a short-video-sharing platform reunited two Chinese women who believe they are twins separated at birth 20 years ago.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3374134/chinese-twin-sisters-reunite-after-20-years-thanks-chance-sighting-short-video",
+      "published_at": "2026-11-12T10:18:48+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "社会",
+      "title": "Hong Kong charity helps neurodivergent people build confidence through nutrition, dance",
+      "summary": "For 33-year-old Coco Choi Pak-yin and 24-year-old Crystal Lee Wing-wai, few things bring more joy than dancing at the Hong Kong charity Love 21 Foundation.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3374130/hong-kong-charity-helps-neurodivergent-people-build-confidence-through-nutrition-dance",
+      "published_at": "2026-11-12T10:15:05+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "政治",
+      "title": "波兰政治舞台激进化，欧盟密切关注",
+      "summary": "本期出刊的法国世界报大篇幅聚焦俄乌阿布扎比谈判并未出现重大进展、法国政坛各党派候选人动向等。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20261112-%E6%B3%A2%E5%85%B0%E6%94%BF%E6%B2%BB%E8%88%9E%E5%8F%B0%E6%BF%80%E8%BF%9B%E5%8C%96%EF%BC%8C%E6%AC%A7%E7%9B%9F%E5%AF%86%E5%88%87%E5%85%B3%E6%B3%A8",
+      "published_at": "2026-11-12T10:06:11+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "市场",
+      "title": "Losing steam? Hong Kong hit by run of lacklustre IPOs amid tepid investor demand",
+      "summary": "Hong Kong’s initial public offering (IPO) market has endured a tough few days, with all six listings launched this week priced at or near the bottom of their marketed ranges amid tepid institutional interest.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/business/markets/article/3374132/losing-steam-hong-kong-hit-run-lacklustre-ipos-amid-tepid-investor-demand",
+      "published_at": "2026-11-12T10:01:16+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "经济",
+      "title": "Hong Kong business leaders examine investment opportunities under city’s first Five-Year plan",
+      "summary": "Co-organised by the South China Morning Post and the Hong Kong Investment Corporation (HKIC), the closed-door SCMP C-Suite roundtable welcomed Financial Secretary Paul Chan Mo-po as guest of honour, alongside HKIC CEO",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/presented/business/topics/c-suite-content-hub/article/3374079/hong-kong-business-leaders-examine-investment-opportunities-under-citys-first-five-year-plan",
+      "published_at": "2026-11-12T10:00:20+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "经济",
+      "title": "BOJ’s Dovish Member Urges Caution on Pace of Rate Increases",
+      "summary": "The Bank of Japan needs to be cautious and monitor the impact of interest-rate hikes on the economy, as there’s a risk that higher rates could weigh on the price trend, board member Toichiro Asada said.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-12/boj-s-dovish-member-calls-for-caution-on-pace-of-rate-increases",
+      "published_at": "2026-11-12T09:51:00+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "经济",
+      "title": "Mexican Steel Imports from Asia Fall as More US Supplies Sought",
+      "summary": "Mexico’s crackdown on Asian imports is creating an opening to buy more US-made steel, a top economic official said, a shift that could help advance trade negotiations with the Trump administration.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-12/mexican-steel-imports-from-asia-fall-as-more-us-supplies-sought",
+      "published_at": "2026-11-12T09:42:20+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "经济",
+      "title": "Money pours into US manufacturing from overseas companies",
+      "summary": "Inflation, skills shortages and unpredictable policies on tariffs and war have made life difficult for businesses even in sectors enjoying surging demand",
+      "source": "金融时报",
+      "url": "https://www.ft.com/content/0b32f2c4-3e47-46ec-90ee-94194d2c3e3f?syn-25a6b1a6=1",
+      "published_at": "2026-11-12T09:00:02+08:00"
     },
     {
       "region": "欧洲",
@@ -62,7 +260,61 @@
       "summary": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
       "source": "BBC",
       "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-12T05:48:33+08:00"
+      "published_at": "2026-11-12T08:49:05+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "经济",
+      "title": "From Paris to DC - why offices are being turned into apartments",
+      "summary": "Office buildings with low occupancy rates are being transformed into flats.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cm89ze7qepvyo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-12T08:05:40+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "市场",
+      "title": "Pessimism over UK housing market hits highest level in three years",
+      "summary": "Rics survey shows sharp fall in estate agents’ expectations for sales and prices as elevated mortgage rates weigh on demand",
+      "source": "金融时报",
+      "url": "https://www.ft.com/content/b9eb728e-847d-44f8-a2cc-bb139bc7220f?syn-25a6b1a6=1",
+      "published_at": "2026-11-12T08:01:10+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "科技",
+      "title": "黄仁勋再爆婚外情 华尔街日报称英伟达准备解除其首席执行官职务",
+      "summary": "在传出英伟达首席执行官与疑似女间谍黄乐有染后，周三纽约时报爆出黄仁勋第二段婚外恋。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261111-%E9%BB%84%E4%BB%81%E5%8B%8B%E5%86%8D%E7%88%86%E5%A9%9A%E5%A4%96%E6%83%85-%E5%8D%8E%E5%B0%94%E8%A1%97%E6%97%A5%E6%8A%A5%E7%A7%B0%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%87%86%E5%A4%87%E8%A7%A3%E9%99%A4%E5%85%B6%E9%A6%96%E5%B8%AD%E6%89%A7%E8%A1%8C%E5%AE%98%E8%81%8C%E5%8A%A1",
+      "published_at": "2026-11-12T07:51:21+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "经济",
+      "title": "Some under-25s should get fewer benefits, Milburn review to say",
+      "summary": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-12T07:22:04+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "社会",
+      "title": "西班牙举行总罢工：马德里和巴塞罗那数万名抗议者要求保障住房权益",
+      "summary": "本周三（11月11日），西班牙各大工会（包括CCOO和CGT）联合租户联盟在全国范围内发起了一场为期24小时的总罢工。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261111-%E8%A5%BF%E7%8F%AD%E7%89%99%E4%B8%BE%E8%A1%8C%E6%80%BB%E7%BD%A2%E5%B7%A5-%E9%A9%AC%E5%BE%B7%E9%87%8C%E5%92%8C%E5%B7%B4%E5%A1%9E%E7%BD%97%E9%82%A3%E6%95%B0%E4%B8%87%E5%90%8D%E6%8A%97%E8%AE%AE%E8%80%85%E8%A6%81%E6%B1%82%E4%BF%9D%E9%9A%9C%E4%BD%8F%E6%88%BF%E6%9D%83%E7%9B%8A",
+      "published_at": "2026-11-12T06:33:05+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "社会",
+      "title": "波兰独立日 从华沙街头传出的复杂信号",
+      "summary": "波兰独立日在首都华沙爆发的“爱国大游行”在平静中结束，虽然没有像不少人担心的会出现严重暴力，但传递出一些令人不安的信号。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261111-%E6%B3%A2%E5%85%B0%E7%8B%AC%E7%AB%8B%E6%97%A5-%E4%BB%8E%E5%8D%8E%E6%B2%99%E8%A1%97%E5%A4%B4%E4%BC%A0%E5%87%BA%E7%9A%84%E5%A4%8D%E6%9D%82%E4%BF%A1%E5%8F%B7",
+      "published_at": "2026-11-12T06:30:02+08:00"
     },
     {
       "region": "美国",
@@ -83,31 +335,13 @@
       "published_at": "2026-11-12T05:44:27+08:00"
     },
     {
-      "region": "美国",
-      "category": "社会",
-      "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
-      "summary": "Following a wreath-laying ceremony marking Veterans Day, a group that included Defence Secretary Pete Hegseth was shouted at by a US Army sentinel to be quiet.",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-12T05:43:35+08:00"
-    },
-    {
       "region": "欧洲",
-      "category": "经济",
-      "title": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
-      "summary": "There is a growing expectation among senior Labour figures that drilling in the oil field will be given the green light.",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-12T05:42:20+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "经济",
-      "title": "OpenAI, Anthropic Valuations Fuel VC Fears of Startup Correction",
-      "summary": "In late September, OpenAI entered discussions for its latest funding round with confidence.",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-11/openai-anthropic-valuations-fuel-vc-fears-of-startup-correction",
-      "published_at": "2026-11-12T05:39:14+08:00"
+      "category": "政治",
+      "title": "美国特使将于周四分别会晤普京和泽连斯基",
+      "summary": "美国特使将于周四分别会晤俄罗斯总统普京和乌克兰总统泽连斯基。之前，他们在阿布扎比进行了为期两天的会谈，旨在为结束乌克兰战争寻求“突破口”。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261111-%E7%BE%8E%E5%9B%BD%E7%89%B9%E4%BD%BF%E5%B0%86%E4%BA%8E%E5%91%A8%E5%9B%9B%E5%88%86%E5%88%AB%E4%BC%9A%E6%99%A4%E6%99%AE%E4%BA%AC%E5%92%8C%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA",
+      "published_at": "2026-11-12T05:42:35+08:00"
     },
     {
       "region": "中国",
@@ -117,123 +351,6 @@
       "source": "法国国际广播电台",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261111-%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6%E8%A2%AB%E7%BE%8E%E5%9B%BD%E5%88%97%E5%85%A5%E9%BB%91%E5%90%8D%E5%8D%95-%E4%BB%8D%E8%B4%AD%E4%B9%B0%E8%8B%B1%E4%BC%9F%E8%BE%BEh200%E8%8A%AF%E7%89%87",
       "published_at": "2026-11-12T05:36:46+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "市场",
-      "title": "Feds arrest top official of healthcare company, alleging illegal drug importation",
-      "summary": "U.S. officials are accusing two top officials of a Canadian company of operating a scheme to illegally import prescription drugs, court records show.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/11/canarx-official-arrested-drug-importation.html",
-      "published_at": "2026-11-12T05:33:17+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "政治",
-      "title": "Low-hanging fruit for Xi and Trump to pluck at Shenzhen Apec summit",
-      "summary": "The Asia-Pacific Economic Cooperation summit is set to take place in Shenzhen on November 18 and 19.",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/opinion/china-opinion/article/3373661/low-hanging-fruit-xi-and-trump-pluck-shenzhen-apec-summit",
-      "published_at": "2026-11-12T05:30:05+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "市场",
-      "title": "ExxonMobil launches legal challenge to EU carbon capture rules",
-      "summary": "US oil company invokes investment treaty to challenge Brussels’ green regulations and seek suspension of timing requirements",
-      "source": "金融时报",
-      "url": "https://www.ft.com/content/377d2ae5-112f-411f-bfc1-5e498948cb7b?syn-25a6b1a6=1",
-      "published_at": "2026-11-12T05:26:48+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "市场",
-      "title": "Nasdaq gains more than 1% as CoreWeave spike revitalizes AI trade",
-      "summary": "Stocks rose Wednesday, boosted by sharp gains in CoreWeave and a rebound in Nvidia following back-to-back losing sessions for the chipmaker.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html",
-      "published_at": "2026-11-12T05:22:14+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "社会",
-      "title": "Alexander Darchiev, Russia’s Ambassador to the U.S., Dies at 66",
-      "summary": "The death of Alexander Darchiev was announced by Russia’s foreign ministry. He was appointed to his post in Washington in 2025, as relations between the Kremlin and the White House warmed.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/11/world/europe/russian-ambassador-darchiev-dead.html",
-      "published_at": "2026-11-12T05:14:46+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "科技",
-      "title": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns",
-      "summary": "CoreWeave's stock has been hammered heading into the neocloud's Q3 earnings report.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
-      "published_at": "2026-11-12T05:13:41+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "科技",
-      "title": "CoreWeave soars more than 24% for best day since April 2025 after strong Q3 report",
-      "summary": "Neoclouds such as CoreWeave, Nebius and IREN have come under scrutiny this month as investors assessed the sustainability of the AI trade.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
-      "published_at": "2026-11-12T05:11:26+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "经济",
-      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
-      "summary": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-12T04:52:52+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "经济",
-      "title": "Court Rules That Sexual Harassment Case Against SpaceX Can Proceed",
-      "summary": "The company had argued that the case, involving eight former workers, must be resolved before an arbitrator.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/11/business/sexual-harassment-spacex-elon-musk.html",
-      "published_at": "2026-11-12T04:51:49+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "社会",
-      "title": "Poundland owner extracted millions when chain was on ‘knife-edge’, MPs say",
-      "summary": "Retailer’s management to seek two-week extension of legal protection from creditors in high court MPs have accused the owner of Poundland of extracting millions of pounds from the budget retailer when it was on a",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/business/2026/nov/11/poundland-owner-chain-mps-claim-high-court",
-      "published_at": "2026-11-12T03:10:26+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "社会",
-      "title": "British soldier charged with rape of army servicewoman in Cyprus",
-      "summary": "L/Cpl Nicholas Horne, from 4th Battalion of Royal Regiment of Scotland, charged with one count of rape on 23 October A British soldier has been charged with the alleged rape of a UK army servicewoman in Cyprus.",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/11/scots-soldier-charged-with-of-army-servicewoman-in-cyprus",
-      "published_at": "2026-11-12T03:06:48+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "社会",
-      "title": "Ex-member of radical Marxist group scales balcony, escapes house arrest in Argentina",
-      "summary": "Leonardo Bertulazzi, 74, awaiting extradition to Italy, reportedly used harness to flee custody A 74-year-old former member of Italy ’s radical Marxist group the Red Brigades has escaped from house arrest in Argentina ,",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/world/2026/nov/11/red-brigades-leonardo-bertulazzi-escapes-house-arrest-argentina",
-      "published_at": "2026-11-12T03:00:33+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "市场",
-      "title": "Healey says Treasury discussing ‘worst-case’ energy support for UK households",
-      "summary": "Chancellor prepares for deepening energy crisis and says end to Iran war would be biggest boost to Britain’s economy",
-      "source": "金融时报",
-      "url": "https://www.ft.com/content/22798c90-e999-4564-924a-4f04343cac3d?syn-25a6b1a6=1",
-      "published_at": "2026-11-12T02:47:25+08:00"
     },
     {
       "region": "中国",
@@ -252,51 +369,6 @@
       "source": "法国国际广播电台",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261111-%E4%BF%84%E7%BD%97%E6%96%AF%E8%B0%88%E5%88%A4%E4%BB%A3%E8%A1%A8-%E4%BB%BB%E4%BD%95%E5%92%8C%E5%B9%B3%E5%8D%8F%E8%AE%AE%E9%83%BD%E4%B8%8D%E5%AD%98%E5%9C%A8%E4%B8%8E%E5%9F%BA%E8%BE%85%E4%BA%A4%E6%8D%A2%E9%A2%86%E5%9C%9F%E7%9A%84%E5%8F%AF%E8%83%BD",
       "published_at": "2026-11-12T02:35:25+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "政治",
-      "title": "台湾将由电脑制造商宏碁集团联合创始人施振荣代表出席亚太经合峰会",
-      "summary": "台湾周三宣布，宏碁联合创始人施振荣将代表台湾出席下周在中国举行的亚太经济合作组织（APEC）峰会。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261111-%E5%8F%B0%E6%B9%BE%E5%B0%86%E7%94%B1%E7%94%B5%E8%84%91%E5%88%B6%E9%80%A0%E5%95%86%E5%AE%8F%E7%A2%81%E9%9B%86%E5%9B%A2%E8%81%94%E5%90%88%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%96%BD%E6%8C%AF%E8%8D%A3%E4%BB%A3%E8%A1%A8%E5%87%BA%E5%B8%AD%E4%BA%9A%E5%A4%AA%E7%BB%8F%E5%90%88%E5%B3%B0%E4%BC%9A",
-      "published_at": "2026-11-12T02:20:49+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "市场",
-      "title": "General strikes to paralyze Spain as protestors clash with police ahead of election campaign",
-      "summary": "Spanish workers are expected to turn out in their millions on Wednesday for the country's first general strike in 14 years.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/11/spain-protests-general-strikes-election.html",
-      "published_at": "2026-11-12T02:02:32+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "经济",
-      "title": "Poundland founder writes to King for help",
-      "summary": "Poundland has filed a notice of intention to appoint administrators, which protects it from creditors until Thursday.",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/videos/cm4gndjd4nnno?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-12T01:59:35+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "政治",
-      "title": "美国财长贝森特就英伟达客户输华芯片安全问题与商务部长卢特尼克对峙",
-      "summary": "Axios11日引述知情人透露，美国财长贝森特上周在白宫内部就英伟达客户Megaspeed迟迟未被列入“对国家安全构成威胁的企业名单”一事，与商务部长卢特尼克发生了争执。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261111-%E7%BE%8E%E5%9B%BD%E8%B4%A2%E9%95%BF%E8%B4%9D%E6%A3%AE%E7%89%B9%E5%B0%B1%E5%AF%B9%E8%BE%93%E5%8D%8E%E8%8A%AF%E7%89%87%E5%AE%89%E5%85%A8%E4%B8%8D%E4%BD%9C%E4%B8%BA%E4%B8%8E%E5%95%86%E5%8A%A1%E9%83%A8%E9%95%BF%E5%8D%A2%E7%89%B9%E5%B0%BC%E5%85%8B%E5%AF%B9%E5%B3%99",
-      "published_at": "2026-11-12T01:48:40+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "政治",
-      "title": "美国：针对皮特·赫格塞斯的弹劾程序在国会受挫 特朗普欣喜",
-      "summary": "针对美国国防部长皮特·赫格塞斯的弹劾程序于周二被共和党众议员扼杀在萌芽状态，因民主党占多数的新一届国会明年1月就职，所以为这位五角大楼负责人争取到了宝贵的喘息之机。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261111-%E7%BE%8E%E5%9B%BD-%E9%92%88%E5%AF%B9%E7%9A%AE%E7%89%B9%C2%B7%E8%B5%AB%E6%A0%BC%E5%A1%9E%E6%96%AF%E7%9A%84%E5%BC%B9%E5%8A%BE%E7%A8%8B%E5%BA%8F%E5%9C%A8%E5%9B%BD%E4%BC%9A%E5%8F%97%E6%8C%AB-%E7%89%B9%E6%9C%97%E6%99%AE%E6%AC%A3%E5%96%9C",
-      "published_at": "2026-11-11T23:59:31+08:00"
     },
     {
       "region": "欧洲",
@@ -318,93 +390,21 @@
     },
     {
       "region": "欧洲",
+      "category": "政治",
+      "title": "土耳其气候峰会：大国领导人缺席，冯德莱恩或感“孤单”",
+      "summary": "第31届联合国气候变化大会周三在土耳其安塔利亚进入领导人发言阶段。七国集团中只有英国首相伯纳姆将发言，马克龙、默茨和梅洛尼都不出席；",
+      "source": "德国之声",
+      "url": "https://www.dw.com/zh/土耳其气候峰会：大国领导人缺席，冯德莱恩或感-孤单/a-79921161?maca=chi-rss-chi-all-1127-xml-mrss",
+      "published_at": "2026-11-11T23:01:00+08:00"
+    },
+    {
+      "region": "欧洲",
       "category": "科技",
       "title": "The 37 best Christmas gifts in the UK for tweens – chosen by 10- to 12-year-olds",
       "summary": "We asked 20 tweenagers what they already own, love and think would make great gifts.",
       "source": "卫报",
       "url": "https://www.theguardian.com/thefilter/2026/nov/11/best-christmas-gifts-ideas-tweens-uk",
       "published_at": "2026-11-11T23:00:52+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "社会",
-      "title": "俄罗斯：两名受雇于波兰情报机构的“特工”被捕",
-      "summary": "俄罗斯联邦安全局（FSB）周三宣布，在与波兰和立陶宛接壤的俄罗斯飞地加里宁格勒逮捕了两名为波兰情报部门工作的“特工”。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261111-%E4%BF%84%E7%BD%97%E6%96%AF-%E4%B8%A4%E5%90%8D%E5%8F%97%E9%9B%87%E4%BA%8E%E6%B3%A2%E5%85%B0%E6%83%85%E6%8A%A5%E6%9C%BA%E6%9E%84%E7%9A%84-%E7%89%B9%E5%B7%A5-%E8%A2%AB%E6%8D%95",
-      "published_at": "2026-11-11T22:58:19+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "科技",
-      "title": "Jensen Huang's affair with alleged Chinese spy further complicates Nvidia’s China problem",
-      "summary": "The allegations against Jensen Huang have brought new attention to the Nvidia CEO's potential influence over U.S. policy on chip sales to China.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
-      "published_at": "2026-11-11T22:39:33+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "经济",
-      "title": "How a Suspected Chinese Spy Gained Access to Nvidia Chips",
-      "summary": "A woman whom U.S. intelligence identified as a Chinese spy had ties to Nvidia’s chief executive, Jensen Huang, dating to at least 2023.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/video/business/100000011273241/alice-huang-nvidia-china-spy.html",
-      "published_at": "2026-11-11T21:48:52+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "市场",
-      "title": "Nissan cuts sales forecast again on China woes as CEO outlines plan to fight back",
-      "summary": "Intensifying competition in the world's largest auto market forced Nissan to cut its annual sales forecast for a second time in months.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/11/nissan-sales-forecast-earnings-china.html",
-      "published_at": "2026-11-11T21:18:48+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "科技",
-      "title": "Nissan reduces petrol car production as EV sales boom in China",
-      "summary": "Manufacturer says ‘shift to new energy vehicles is happening faster than expected’ and market is harsh The Japanese carmaker Nissan has said it has been caught out by accelerating sales of electric and hybrid cars in",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/business/2026/nov/11/nissan-reduces-petrol-car-production-as-ev-sales-boom-in-china",
-      "published_at": "2026-11-11T21:11:58+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "科技",
-      "title": "China’s Huawei to roll out new smartphone brand Osta, 6 years after giving up Honor",
-      "summary": "Huawei Technologies is preparing to launch a new smartphone brand, doubling down on its hard-won domestic comeback six years after spinning off budget marque Honor under the weight of US sanctions.",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/tech/tech-trends/article/3374099/chinas-huawei-roll-out-new-smartphone-brand-osta-6-years-after-giving-honor",
-      "published_at": "2026-11-11T20:30:13+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "市场",
-      "title": "China-linked critical minerals price swings delay 1 in 4 energy-storage projects: report",
-      "summary": "Price volatility in critical minerals, largely shaped by China’s market, is delaying or derailing nearly one in four energy-storage investments worldwide, according to a new report, highlighting the extent to which",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/economy/global-economy/article/3374064/china-linked-critical-minerals-price-swings-delay-1-4-energy-storage-projects-report",
-      "published_at": "2026-11-11T20:30:10+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "科技",
-      "title": "BYD apologises for wheel-rim error as China cracks down on car quality issues",
-      "summary": "BYD has apologised for an assembly error that caused some of its electric cars in China to be fitted with incorrect wheel rims, as Beijing ramps up scrutiny of quality issues in the country’s car industry.",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/business/china-evs/article/3374098/byd-apologises-wheel-rim-error-china-cracks-down-car-quality-issues",
-      "published_at": "2026-11-11T19:32:05+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "经济",
-      "title": "Hong Kong rules out talent scheme caps despite squeeze on jobs for local graduates",
-      "summary": "Hong Kong authorities have no plans to adjust talent-hunting schemes or cap the number of non-local graduates permitted to seek employment in the city, the labour chief has said, pointing to a rapidly ageing population",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/news/hong-kong/article/3374092/hong-kong-rules-out-talent-scheme-caps-despite-squeeze-jobs-local-graduates",
-      "published_at": "2026-11-11T18:59:28+08:00"
     }
   ]
 }
