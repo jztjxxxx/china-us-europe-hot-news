@@ -1,23 +1,302 @@
 {
-  "updated_at": "2026-11-13T05:53:32+08:00",
+  "updated_at": "2026-11-13T11:32:26+08:00",
   "items": [
+    {
+      "region": "美国",
+      "category": "科技",
+      "title": "Trump Had Urged Nvidia’s Jensen Huang to Fight for His Job",
+      "summary": "The president called the Nvidia chief on Tuesday, continuing a pattern of supporting him even as the spy scandal was intensifying.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html",
+      "published_at": "2026-11-13T11:27:02+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "社会",
+      "title": "What we know about Brooklyn building collapse that killed eight people",
+      "summary": "Two construction workers and two children were killed when a residential building fell into an adjacent construction site on Wednesday.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cm20v66jq611o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-13T11:26:47+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "科技",
+      "title": "Malaysia Checks Whether Chips Were Reexported by Megaspeed Unit",
+      "summary": "Malaysia is determining whether artificial intelligence chips brought into the country by a unit of Singapore-based Megaspeed International Pte were subsequently shipped overseas.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-13/malaysia-checks-whether-chips-were-reexported-by-megaspeed-unit",
+      "published_at": "2026-11-13T11:21:05+08:00"
+    },
     {
       "region": "中国",
       "category": "经济",
-      "title": "大众在中国的新能源汽车销量猛增347%",
-      "summary": "据北德广播电台报道，德国大众汽车品牌10月份在中国市场的新款混合动力汽车和纯电动汽车销量较去年同期大幅增长。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261112-%E5%A4%A7%E4%BC%97%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E7%8C%9B%E5%A2%9E347",
-      "published_at": "2026-11-13T05:48:37+08:00"
+      "title": "Hong Kong looks to attract wider pool of investors to growing ETF market",
+      "summary": "Hong Kong’s exchange-traded fund (ETF) market is looking to attract a broader pool of investors, from local retail investors to mainland Chinese institutions, as rising demand for diversified investment products and",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/business/china-business/article/3374289/hong-kong-looks-attract-wider-pool-investors-growing-etf-market",
+      "published_at": "2026-11-13T11:18:18+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "市场",
+      "title": "Japan Bonds Fall as Treasury Rout Extends on Fed-Hike Bets",
+      "summary": "Japanese government bonds slumped on Friday, tracking Treasuries which saw a second straight session of losses as traders increased wagers on aggressive Federal Reserve interest-rate hikes.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-13/japan-bonds-fall-as-treasury-rout-extends-on-fed-hike-bets",
+      "published_at": "2026-11-13T11:11:15+08:00"
     },
     {
       "region": "美国",
       "category": "科技",
-      "title": "Nvidia Faced Pressure to Boost Its AI Backstop Before Huang Exit",
-      "summary": "Before Nvidia Corp.",
+      "title": "Singtel CFO on 1H Earnings",
+      "summary": "Arthur Lang, Singtel Group CFO, discusses the outlook and growth strategy for the business after the company's first half earnings, and on potential business impact from Nvidia leadership changes.",
       "source": "彭博",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-12/nvidia-faced-pressure-to-boost-its-ai-backstop-before-huang-exit",
-      "published_at": "2026-11-13T05:47:59+08:00"
+      "url": "https://www.bloomberg.com/news/videos/2026-11-13/singtel-cfo-on-1h-earnings-video",
+      "published_at": "2026-11-13T11:09:38+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "经济",
+      "title": "Outlook, Teams and More Microsoft Programs Disrupted by Outage",
+      "summary": "The outage began early Thursday afternoon, causing problems for offices, agencies and individuals around the globe.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html",
+      "published_at": "2026-11-13T11:03:35+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "科技",
+      "title": "Who is Colette Kress, interim Nvidia CEO after Jensen Huang exit?",
+      "summary": "Chief financial officer, reportedly disparaged by Huang during summer meeting, to take over on short-term basis The hunt is on for a new Nvidia CEO.",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-nvidia-ceo-replacement",
+      "published_at": "2026-11-13T11:02:06+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "科技",
+      "title": "Nvidia’s Jensen Huang expected to testify before Congress amid calls for crackdown on China chip exports – live",
+      "summary": "Huang’s resignation has sent shockwaves through the AI industry, after revelations of extramarital affairs, including one involving a suspected Chinese spy Full report: Jensen Huang resigns as Nvidia CEO Analysis:",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/technology/live/2026/nov/13/nvidia-jensen-huang-to-testify-before-congress-live-latest-updates",
+      "published_at": "2026-11-13T11:01:01+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "社会",
+      "title": "Teen prodigy, Netflix star, prisoner: the story of Hong Kong dissident Joshua Wong – podcast",
+      "summary": "Pro-democracy activist Nathan Law and journalist Danny Vincent on the sentencing of the iconic Hong Kong campaigner Joshua Wong to another 10 years in prison.",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/news/audio/2026/nov/13/teen-prodigy-netflix-star-prisoner-the-story-of-hong-kong-dissident-joshua-wong-podcast",
+      "published_at": "2026-11-13T11:00:06+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "市场",
+      "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+      "summary": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-13T10:48:29+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "社会",
+      "title": "'How does a building just fall?' Neighbours grieve after deadly Brooklyn building collapse",
+      "summary": "The accident rattled the usually calm immigrant neighbourhood of Flatbush, New York. At least eight residents, including two children, died in the rubble.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gn5qddqqxo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-13T10:45:20+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "市场",
+      "title": "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal",
+      "summary": "Cerebras announced a new deal with Microsoft after partnering with major cloud providers Amazon and Oracle.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
+      "published_at": "2026-11-13T10:43:26+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "科技",
+      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+      "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-13T10:39:00+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "经济",
+      "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+      "summary": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-13T10:38:02+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "社会",
+      "title": "US doctor kills building manager after long-running dispute over mould, police say",
+      "summary": "Authorities say the shooting in Washington DC left four people injured, with the suspect dying of a self-inflicted gunshot wound.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/crgqx2qqnwpjo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-13T10:35:34+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "市场",
+      "title": "Rate Hike Fears Set to Test Nifty’s Rally as India Inflation Accelerates",
+      "summary": "October inflation beats estimates, accelerating to the highest level in two years.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-13/rate-hike-fears-set-to-test-nifty-s-rally-as-india-inflation-accelerates",
+      "published_at": "2026-11-13T10:31:00+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "市场",
+      "title": "Stock futures rise after market dips amid Nvidia woes: Live updates",
+      "summary": "Major indexes sagged in Thursday's regular trading as Nvidia shares dove on Jensen Huang's exit.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html",
+      "published_at": "2026-11-13T10:29:27+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "科技",
+      "title": "Singapore Charges 5th Person Linked to Nvidia Case, ST Says",
+      "summary": "Singapore charged a fifth person in relation to an AI server fraud case linked to the export of computer servers that might contain Nvidia Corp. chips to Malaysia, according to a report by the Straits Times.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-13/singapore-charges-5th-person-linked-to-nvidia-chip-case-st-says",
+      "published_at": "2026-11-13T10:24:21+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "社会",
+      "title": "Can the Eurovision Song Contest succeed in Asia?",
+      "summary": "The world’s biggest and longest-running song contest is coming to Asia, with eleven countries competing in Bangkok, Thailand on Saturday.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/videos/cxvg23n59y1ro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-13T10:24:11+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "政治",
+      "title": "Chinese e-commerce sellers brace for Thai import duties. Will a 30% tariff threaten sales?",
+      "summary": "A new tariff of up to 30 per cent on e-commerce goods entering Thailand may squeeze Chinese vendors, but intense price competition and their ability to keep costs low are likely to limit its impact, analysts said.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/economy/global-economy/article/3374280/chinese-e-commerce-sellers-brace-thai-import-duties-will-30-tariff-threaten-sales",
+      "published_at": "2026-11-13T10:19:15+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "社会",
+      "title": "Chinese cleaner with movie-star looks goes viral, drawing comparisons to top actor Hu Ge",
+      "summary": "After a 55-year-old Chinese cleaner went viral for his handsome appearance, he said he would continue doing his job with a down-to-earth attitude.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/people-culture/china-personalities/article/3374281/chinese-cleaner-movie-star-looks-goes-viral-drawing-comparisons-top-actor-hu-ge",
+      "published_at": "2026-11-13T10:18:45+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "经济",
+      "title": "China Gets First Economic Scorecard With Stimulus Taps Turned On",
+      "summary": "China’s economy is entering the crucial final stretch before policymakers meet next month, with its momentum again at risk of fading.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-13/china-gets-first-economic-scorecard-with-stimulus-taps-turned-on",
+      "published_at": "2026-11-13T10:17:52+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "经济",
+      "title": "'My window faces a brick wall': What's your rent in NYC?",
+      "summary": "We ask people in New York City how much they pay for their homes.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/videos/c6wy9j9v7nl7o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-13T09:30:31+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "社会",
+      "title": "Court in UK Decriminalizes Same-Sex Relations in Trinidad and Tobago",
+      "summary": "The ruling, which could affect similar laws in other British Commonwealth countries, has spotlighted a legal system still intertwined with a former colonial power.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/11/world/americas/trinidad-same-sex-ruling.html",
+      "published_at": "2026-11-13T09:21:32+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "经济",
+      "title": "Yuan May Double Global Payment Share as Usage Climbs, HSBC Says",
+      "summary": "A doubling of the Chinese currency’s share of global payments from the current 6%-7% is not impossible, according to the head of yuan internationalization at HSBC Holdings Plc.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-13/yuan-may-double-global-payment-share-as-usage-climbs-hsbc-says",
+      "published_at": "2026-11-13T08:26:18+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "科技",
+      "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+      "summary": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-13T08:13:35+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "科技",
+      "title": "Darth Vader lightsaber from iconic duel sells for nearly US$5 million",
+      "summary": "A lightsaber used by Darth Vader in the Star Wars films The Empire Strikes Back and Return of the Jedi sold on Thursday for nearly US$5 million in an auction.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/world/europe/article/3374272/darth-vaders-lightsaber-used-i-am-your-father-duel-sells-nearly-us5-million",
+      "published_at": "2026-11-13T07:32:29+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "科技",
+      "title": "黄乐：过去二十多年鲜为人知的经历逐渐浮出水面",
+      "summary": "黄乐，一个几天前还鲜为人知的名字，却因为与英伟达创始人黄仁勋的关系，以及美国情报部门对她的间谍嫌疑，突然成为国际舆论关注的焦点。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20261112-%E9%BB%84%E4%B9%90-%E8%BF%87%E5%8E%BB%E4%BA%8C%E5%8D%81%E5%A4%9A%E5%B9%B4%E9%B2%9C%E4%B8%BA%E4%BA%BA%E7%9F%A5%E7%9A%84%E7%BB%8F%E5%8E%86%E9%80%90%E6%B8%90%E6%B5%AE%E5%87%BA%E6%B0%B4%E9%9D%A2",
+      "published_at": "2026-11-13T07:27:53+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "政治",
+      "title": "In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks",
+      "summary": "In Dublin, President Volodymyr Zelensky of Ukraine said Europeans would join the next round of talks. Russia has not confirmed that.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
+      "published_at": "2026-11-13T07:15:18+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "经济",
+      "title": "Some under-25s should get fewer benefits, Milburn review to say",
+      "summary": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-13T06:51:18+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "科技",
+      "title": "英伟达首席执行官黄仁勋光速辞职引发冲击波",
+      "summary": "英伟达首席执行官黄仁勋周四光速辞职，在人工智能行业引发地震，同时在一定程度上冲击美国政坛，影响美中外交。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261112-%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%A6%96%E5%B8%AD%E6%89%A7%E8%A1%8C%E5%AE%98%E9%BB%84%E4%BB%81%E5%8B%8B%E5%85%89%E9%80%9F%E8%BE%9E%E8%81%8C%E5%BC%95%E5%8F%91%E5%86%B2%E5%87%BB%E6%B3%A2",
+      "published_at": "2026-11-13T06:49:31+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "政治",
+      "title": "Putin takes hard line in US talks as Ukraine says Starlink disrupted again",
+      "summary": "Russian president says he would target any foreign troops sent to Ukraine and refuses to soften territorial demands Vladimir Putin warned US negotiators that Russia would target any foreign troops deployed to Ukraine,",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink",
+      "published_at": "2026-11-13T06:26:37+08:00"
     },
     {
       "region": "欧洲",
@@ -26,70 +305,25 @@
       "summary": "The officer, who served at a NATO base in Britain, is expected to be charged in the coming days, two officials said.",
       "source": "纽约时报",
       "url": "https://www.nytimes.com/2026/11/12/world/europe/army-britain-arrest-spy-russia.html",
-      "published_at": "2026-11-13T05:46:28+08:00"
+      "published_at": "2026-11-13T06:16:40+08:00"
     },
     {
-      "region": "美国",
-      "category": "市场",
-      "title": "Microsoft outage hits Outlook. AWS and Google users also report issues",
-      "summary": "Amazon Web Services and Google users also reported outages on Thursday",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
-      "published_at": "2026-11-13T05:43:11+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "科技",
-      "title": "Nvidia live updates: Jensen Huang had ‘intimate relationship’ with second employee, Reuters reports",
-      "summary": "Nvidia CFO Colette Kress has been named interim CEO during the search for Huang’s replacement.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html",
-      "published_at": "2026-11-13T05:41:38+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "科技",
-      "title": "Wall Street Whistles Past Nvidia Risk to Bet on Wobbly AI Trade",
-      "summary": "Wall Street isn’t particularly concerned about the risks to the artificial intelligence trade posed by the ouster of Nvidia Corp.’s long-time Chief Executive Officer Jensen Huang over a series of romantic relationships,",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-12/wall-street-whistles-past-nvidia-risk-to-bet-on-wobbly-ai-trade",
-      "published_at": "2026-11-13T05:37:51+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "市场",
-      "title": "Oil Supertanker Squeeze Is Crimping US Crude Exports, Texas Port CEO Says",
-      "summary": "A shortage of available oil supertankers is constraining US crude exports, prompting shippers to hire smaller vessels and direct more cargoes to Europe, according to the head of the largest US port.",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-12/oil-supertanker-squeeze-is-crimping-us-crude-exports-texas-port-ceo-says",
-      "published_at": "2026-11-13T05:33:45+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "市场",
-      "title": "Cerebras surges 18% after beating on quarterly revenue and announcing Microsoft deal",
-      "summary": "Cerebras announced a new deal with Microsoft after partnering with major cloud providers Amazon and Oracle.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
-      "published_at": "2026-11-13T05:33:44+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "科技",
-      "title": "Nvidia turmoil continues as Jensen Huang resigns over affairs scandal and company appoints interim CEO – as it happened",
-      "summary": "This live blog is now closed. Analysis: Jensen Huang built an AI kingdom.",
+      "region": "欧洲",
+      "category": "社会",
+      "title": "Angela Rayner grants planning approval for asylum centre in Piddington despite local opposition",
+      "summary": "Home Office sign-off also needed for site that would house 1,200 asylum seekers near Oxfordshire village that voted to leave UK The communities secretary, Angela Rayner, has approved full planning permission for an",
       "source": "卫报",
-      "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-      "published_at": "2026-11-13T05:33:08+08:00"
+      "url": "https://www.theguardian.com/uk-news/2026/nov/12/angela-rayner-grants-planning-approval-for-asylum-centre-in-piddington-despite-local-opposition",
+      "published_at": "2026-11-13T06:09:20+08:00"
     },
     {
-      "region": "美国",
-      "category": "市场",
-      "title": "Nasdaq Composite slides as Nvidia shares tumble on Jensen Huang’s exit; oil prices jump",
-      "summary": "The Nasdaq Composite fell on Thursday as investors weighed the departure of Nvidia CEO Jensen Huang.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/11/stock-market-today-live-updates.html",
-      "published_at": "2026-11-13T05:30:14+08:00"
+      "region": "中国",
+      "category": "经济",
+      "title": "大众在中国的新能源汽车销量猛增347%",
+      "summary": "据北德广播电台报道，德国大众汽车品牌10月份在中国市场的新款混合动力汽车和纯电动汽车销量较去年同期大幅增长。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261112-%E5%A4%A7%E4%BC%97%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E7%8C%9B%E5%A2%9E347",
+      "published_at": "2026-11-13T05:48:37+08:00"
     },
     {
       "region": "欧洲",
@@ -110,193 +344,13 @@
       "published_at": "2026-11-13T05:17:14+08:00"
     },
     {
-      "region": "美国",
-      "category": "经济",
-      "title": "Jensen Huang, Nvidia’s Ousted CEO, Was the Face of the A.I. Boom Powering the U.S. Economy",
-      "summary": "Nvidia’s ousted leader was a unique rhetorical and financial booster for investments that are driving economic growth.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/12/business/economy/jensen-huang-economy-nvidia-ai.html",
-      "published_at": "2026-11-13T05:05:50+08:00"
-    },
-    {
       "region": "中国",
       "category": "科技",
       "title": "英伟达董事会开始物色新领导人",
-      "summary": "周四，英伟达董事会开始物色新领导人。之前，英伟达联合创始人黄仁勋（Jensen Huang）因被曝出两段婚外情而辞职；",
+      "summary": "周四，英伟达董事会开始物色新领导人。之前，英伟达联合创始人黄仁勋因被曝出两段婚外情而辞职；",
       "source": "法国国际广播电台",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261112-%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%91%A3%E4%BA%8B%E4%BC%9A%E5%BC%80%E5%A7%8B%E7%89%A9%E8%89%B2%E6%96%B0%E9%A2%86%E5%AF%BC%E4%BA%BA",
       "published_at": "2026-11-13T05:00:32+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "政治",
-      "title": "Norway follows Finland in barring Russian athletes from entering country over Ukraine war",
-      "summary": "Move by Norway ‘a further tightening’ of current rules Russians ‘have no business’ in Finland, says minister Norway’s government announced that it would prevent Russian and Belarusian professional athletes from coming",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/sport/2026/nov/12/finland-bars-russian-athletes-ukraine",
-      "published_at": "2026-11-13T05:00:12+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "经济",
-      "title": "The Man Behind the Magic",
-      "summary": "Tim Sypko has spent much of his working life making sure that other people’s memories are magical. It is a responsibility he takes seriously.",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/presented/business/topics/c-suite-content-hub/article/3373739/man-behind-magic",
-      "published_at": "2026-11-13T05:00:12+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "政治",
-      "title": "‘Win-win’ deal with EU could be done, Andy Burnham says",
-      "summary": "Prime minister says reset could be a deal ‘like the Brexit people thought they were voting for in 2016’ Andy Burnham has said he believes a “win-win” deal could be done with the EU that could be “more like the Brexit",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/politics/2026/nov/12/win-win-deal-with-eu-could-be-done-andy-burmham-says",
-      "published_at": "2026-11-13T04:59:05+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "经济",
-      "title": "Trump trade chief Greer speaks with 'Squawk Box' as tariff threats rise",
-      "summary": "Trump's tariffs, which have ignited trade wars with multiple U.S. economic partners, will likely be a top target for Democrats once they take control of Congress.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/12/jamieson-greer-trump-tariffs-election-nvidia.html",
-      "published_at": "2026-11-13T04:59:04+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "经济",
-      "title": "Here’s the latest.",
-      "summary": "Here’s the latest.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/live/2026/11/12/business/nvidia-jensen-huang-resigns/heres-the-latest",
-      "published_at": "2026-11-13T04:54:21+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "社会",
-      "title": "The End of Russia’s Bravest Newspaper",
-      "summary": "For more than 30 years, the paper covered an increasingly repressive state under Vladimir Putin.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/12/world/russia-novaya-gazeta-nvidia-gaza.html",
-      "published_at": "2026-11-13T04:51:26+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "市场",
-      "title": "Mercedes-Benz to halt ‘all future investments’ in Germany",
-      "summary": "Carmaker has also warned that plant closures are an option in escalating stand-off with unions over bid to reduce labour costs",
-      "source": "金融时报",
-      "url": "https://www.ft.com/content/f4a1fd87-9abc-4965-963a-a5349dbfdab7?syn-25a6b1a6=1",
-      "published_at": "2026-11-13T04:44:12+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "社会",
-      "title": "US invests in Peru’s Callao as port battle with China’s Chancay megaport continues",
-      "summary": "The United States has paid to design a port infrastructure programme at Callao, the US State Department said on Thursday, as Peru moves its main naval base to expand the country’s busiest port, which rivals a",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/news/us/diplomacy/article/3374267/us-invests-perus-callao-port-battle-chinas-chancay-megaport-continues",
-      "published_at": "2026-11-13T04:42:27+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "科技",
-      "title": "Alice Huang tied to Nvidia’s biggest Chinese competitor",
-      "summary": "The woman with whom Jensen Huang reportedly had a relationship also owned stakes in companies that provided computing power to Huawei, a key Nvidia competitor.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
-      "published_at": "2026-11-13T04:34:54+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "社会",
-      "title": "In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks",
-      "summary": "The Kremlin, taking a hard line, is pushing to widen negotiations to overhaul European security structures.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
-      "published_at": "2026-11-13T04:30:48+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "科技",
-      "title": "Lutnick should ban Chinese memory maker CXMT from U.S., Sen. Cotton says",
-      "summary": "Sen. Tom Cotton is urging the Commerce secretary to add CXMT to its \"Entity List\" as the fast-growing Chinese memory maker expands in DRAM and pushes into HBM.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/12/lutnick-cxmt-china-cotton.html",
-      "published_at": "2026-11-13T04:28:41+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "社会",
-      "title": "A Key Paris Agreement Goal Is Dead. What Now?",
-      "summary": "Leaders at COP31 are confronting a new reality as global warming enters the “unsafe zone.”",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/12/climate/a-key-paris-agreement-goal-is-dead-what-now.html",
-      "published_at": "2026-11-13T04:15:04+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "科技",
-      "title": "Huang Affair Suggests 'Compromised Objectivity' Says Anna Ashton",
-      "summary": "Anna Ashton, founder of Ashton Analytics and former China analyst at the Department of Defense, said that it doesn't matter if Alice Huang was an unwitting participant or a spy for the Chinese government because she",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-12/huang-affair-suggests-compromised-objectivity-ashton-video",
-      "published_at": "2026-11-13T03:59:28+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "社会",
-      "title": "Pork fat, a heating pad and a five-storey jump: how a 74-year-old escaped house arrest in Argentina",
-      "summary": "Leonardo Bertulazzi, ex-member of Italy’s radical far-left Red Brigades, fled in dramatic fashion, ‘like something out of a movie’ As dozens of police and sniffer dogs poured into San Telmo, a traditional Buenos Aires",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/world/2026/nov/12/leonardo-bertulazzi-escape-argentina",
-      "published_at": "2026-11-13T03:52:16+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "经济",
-      "title": "Mortgage Rates Remain High as Affordability Challenges Persist",
-      "summary": "The average 30-year, fixed-rate home loan fell slightly, to 7.11 percent, pushing buyers and sellers to the sidelines until conditions improve.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/12/business/mortgage-rates-home-sales-housing-market.html",
-      "published_at": "2026-11-13T03:42:30+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "经济",
-      "title": "Fed's Goolsbee Says Inflation 'Inching' Into Tough Spot",
-      "summary": "Federal Reserve Bank of Chicago President Austan Goolsbee says the Fed needs to act to tame inflation before the economy becomes overheated during remarks on Yahoo! Finance.",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-12/fed-s-goolsbee-says-inflation-inching-into-tough-spot-video",
-      "published_at": "2026-11-13T03:36:20+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "经济",
-      "title": "Mercedes-Benz halts new investment in German plants, considers closures",
-      "summary": "The Stuttgart carmaker is temporarily halting all further investment at its German sites. Possible plant closures are looming, increasing pressure on staff, works council and IG Metall.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/12/mercedes-benz-halts-new-investment-in-german-plants-considers-closures",
-      "published_at": "2026-11-13T03:22:02+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "社会",
-      "title": "Two men found guilty of helping Iran try to ‘eliminate’ UK-based journalists",
-      "summary": "Mostafa Sepahvand and Farhad Javadi Manesh carried out surveillance in an effort to inflict violence on targets Two men of Iranian origin who were hired through social media as part of a plan to “eliminate” journalists",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/12/two-men-found-guilty-over-iranian-attempts-to-eliminate-uk-based-journalists",
-      "published_at": "2026-11-13T03:15:30+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "经济",
-      "title": "The Guardian view on venture capitalism: investor profits are no industrial strategy | Editorial",
-      "summary": "Higher returns for backers do not guarantee national prosperity. Public investment should develop domestic capabilities and meet urgent social needs Britain keeps selling its most valuable companies.",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/12/the-guardian-view-on-venture-capitalism-investor-profits-are-no-industrial-strategy",
-      "published_at": "2026-11-13T02:53:12+08:00"
     },
     {
       "region": "中国",
@@ -306,15 +360,6 @@
       "source": "法国国际广播电台",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261112-%E5%8F%B0%E6%B9%BE%E5%8F%82%E4%B8%8E%E8%B7%A8%E5%9B%BD%E5%90%88%E4%BD%9C%E8%B0%83%E6%9F%A5%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%96%91%E4%BC%BC%E4%B8%AD%E5%9B%BD%E8%B0%8D%E6%A1%88-%E5%A5%B3%E4%B8%BB%E9%BB%84%E4%B9%90%E6%9B%BE8%E6%AC%A1%E8%AE%BF%E5%8F%B0-%E5%B7%B2%E8%A2%AB%E7%A6%81%E6%AD%A2%E5%85%A5%E5%A2%83",
       "published_at": "2026-11-13T02:19:07+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "科技",
-      "title": "Quantum Systems drones grounded by German military after cyber attack",
-      "summary": "Start-up with €7bn valuation and operations in Ukraine is latest European arms group to be targeted",
-      "source": "金融时报",
-      "url": "https://www.ft.com/content/783504cd-aa28-453a-a223-7a34eee86ce8?syn-25a6b1a6=1",
-      "published_at": "2026-11-13T01:32:13+08:00"
     },
     {
       "region": "中国",
@@ -336,24 +381,6 @@
     },
     {
       "region": "中国",
-      "category": "市场",
-      "title": "Yen Jumps in ‘Jittery’ Trading After Hitting 160-Per-Dollar",
-      "summary": "The yen breached the closely watched 160-per-dollar level for the first time since September, only to rebound on speculation that a deeper slide would cause policymakers in Japan to swoop in again to defend the",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-12/yen-falls-to-key-160-level-per-dollar-raising-intervention-risk",
-      "published_at": "2026-11-13T00:42:35+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "科技",
-      "title": "UK car industry to press EU for two-year delay to Brexit EV tariffs",
-      "summary": "‘Rules of origin’ on vehicle batteries due to come into force on 1 January if deal on new delay is not reached Business live – latest updates The UK car industry is preparing to push for a two-year delay to Brexit",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/business/2026/nov/12/uk-car-industry-rules-of-origin-brexit-ev-tariffs-eu",
-      "published_at": "2026-11-13T00:30:27+08:00"
-    },
-    {
-      "region": "中国",
       "category": "科技",
       "title": "间谍丑闻引发担忧美国限制措施，中国AI公司争相获取境外英伟达芯片产能",
       "summary": "据路透社12日北京报道，消息人士称，中国人工智能公司正在寻求英伟达海外云容量。他们担心黄仁勋间谍丑闻可能会促使美国限制远程芯片访问。",
@@ -362,31 +389,13 @@
       "published_at": "2026-11-12T23:42:51+08:00"
     },
     {
-      "region": "中国",
-      "category": "科技",
-      "title": "中国指责美国编造英伟达间谍故事以对华实施“技术封锁”",
-      "summary": "周四，北京指责美国编造间谍故事，如涉及英伟达（Nvidia）负责人的丑闻，并以此为借口，对中国实施“技术封锁”。",
+      "region": "欧洲",
+      "category": "政治",
+      "title": "视频 俄乌战争：泽连斯基称有“停火机会”",
+      "summary": "乌克兰总统泽连斯基今天12月11日到达爱尔兰，在都柏林与欧洲领导人会晤，随后会见美国特使。",
       "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261112-%E4%B8%AD%E5%9B%BD%E6%8C%87%E8%B4%A3%E7%BE%8E%E5%9B%BD%E7%BC%96%E9%80%A0%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%97%B4%E8%B0%8D%E6%95%85%E4%BA%8B%E4%BB%A5%E5%AF%B9%E5%8D%8E%E5%AE%9E%E6%96%BD-%E6%8A%80%E6%9C%AF%E5%B0%81%E9%94%81",
-      "published_at": "2026-11-12T23:24:27+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "科技",
-      "title": "Who is Alice Huang, the alleged Chinese spy linked to Nvidia's Jensen Huang?",
-      "summary": "Footage shows Nvidia CEO Jensen Huang alongside Alice Huang, a Chinese businesswoman at the centre of an alleged Chinese intelligence operation targeting him.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/12/who-is-alice-huang-the-alleged-chinese-spy-linked-to-nvidias-jensen-huang",
-      "published_at": "2026-11-12T22:51:22+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "科技",
-      "title": "英伟达首席执行官黄仁勋辞职",
-      "summary": "英伟达（NVIDIA）董事会今天12日宣布，黄仁勋已辞去公司总裁、首席执行官及董事会成员职务，即刻生效。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261112-%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%A6%96%E5%B8%AD%E6%89%A7%E8%A1%8C%E5%AE%98%E9%BB%84%E4%BB%81%E5%8B%8B%E8%BE%9E%E8%81%8C",
-      "published_at": "2026-11-12T22:30:11+08:00"
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261112-%E8%A7%86%E9%A2%91-%E4%BF%84%E4%B9%8C%E6%88%98%E4%BA%89-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E7%A7%B0%E6%9C%89-%E5%81%9C%E7%81%AB%E6%9C%BA%E4%BC%9A",
+      "published_at": "2026-11-12T23:34:45+08:00"
     },
     {
       "region": "美国",
@@ -396,15 +405,6 @@
       "source": "德国之声",
       "url": "https://www.dw.com/zh/黄仁勋辞职-中企忧美收紧监管-忙抢租海外英伟达算力/a-79929183?maca=chi-rss-chi-all-1127-xml-mrss",
       "published_at": "2026-11-12T22:30:00+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "经济",
-      "title": "非洲棉花寻求重获亚洲市场青睐",
-      "summary": "国际原材料行业（Des Matières Premières）于2026年8月中上旬公布的最新统计数据显示，2025年全球五大棉花进口国均为亚洲国家，依次为孟加拉国、中国、越南、土耳其和印度。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20261112-rfi%E6%B3%95%E5%B9%BF-%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2%E6%A3%89%E8%8A%B1%E5%AF%BB%E6%B1%82%E9%87%8D%E8%8E%B7%E4%BA%9A%E6%B4%B2%E5%B8%82%E5%9C%BA%E9%9D%92%E7%9D%90",
-      "published_at": "2026-11-12T21:11:16+08:00"
     }
   ]
 }
