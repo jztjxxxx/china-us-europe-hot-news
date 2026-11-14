@@ -1,104 +1,284 @@
 {
-  "updated_at": "2026-11-14T05:30:00+08:00",
+  "updated_at": "2026-11-14T11:28:50+08:00",
   "items": [
     {
       "region": "美国",
       "category": "市场",
-      "title": "Nasdaq falls on Friday as Nvidia sells off, but index notches best week since August: Live updates",
-      "summary": "Nvidia shares rebounded from its recent pressure and the latest inflation data came in slightly lighter than expected.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html",
-      "published_at": "2026-11-14T05:29:18+08:00"
+      "title": "US aviation regulator lifts order that grounded thousands of flights",
+      "summary": "Airports had halted take-offs because of a temporary ‘telecommunications outage’",
+      "source": "金融时报",
+      "url": "https://www.ft.com/content/c9b119ff-d1da-46a7-b2b3-4ad0544fff6b?syn-25a6b1a6=1",
+      "published_at": "2026-11-14T11:21:57+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "社会",
+      "title": "Ground Stop Scrambles Travel Plans for Sports Teams Across the Country",
+      "summary": "Some professional and college sports teams were stuck on runways, or opting to pile into buses, ahead of games this weekend that are now uncertain.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/13/us/ground-stop-flights-sports-nba-football.html",
+      "published_at": "2026-11-14T11:20:41+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "科技",
+      "title": "US flight outage: FAA lifts nationwide ground stop; Trump officials suggest new tech overwhelmed old equipment – as it happened",
+      "summary": "This live blog is now closed. Follow our latest coverage here.",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+      "published_at": "2026-11-14T11:11:35+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "社会",
+      "title": "All passengers and crew accounted for after New Orleans boat crash in ‘miracle on the Mississippi’",
+      "summary": "No passengers or crew killed or critically hurt after tanker collides with river cruise ship on Mississippi, officials say In what the city’s mayor declared a “miracle on the Mississippi”, all passengers were accounted",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans",
+      "published_at": "2026-11-14T11:11:28+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "科技",
+      "title": "What we know about the longest US nationwide flight ground stop since 9/11",
+      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack or a Microsoft outage.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-14T11:10:37+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "社会",
+      "title": "US-bound flights out of Australia delayed after telecommunications outage grounded American planes",
+      "summary": "Sydney and Melbourne airports say flights were affected by now-lifted ban on departures in US US flight outage – live updates Get our breaking news email , free app or daily news podcast Some US-bound flights from",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/14/us-bound-flights-out-of-australia-grounded-as-telecommunications-outage-affects-american-travel",
+      "published_at": "2026-11-14T11:08:34+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "社会",
+      "title": "Flight Canceled During the FAA Ground Stop? Here’s What to Do.",
+      "summary": "Travelers are entitled to refunds if their flights are canceled, regardless of the reason, but airlines won’t guarantee other amenities, such as a hotel room or meal vouchers.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/13/us/ground-stop-flight-delays-cancellations-tips.html",
+      "published_at": "2026-11-14T11:07:26+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "社会",
+      "title": "Hear How Air Traffic Controllers Grappled With the Ground Stoppage Chaos",
+      "summary": "Radio conversations gave a glimpse of how air traffic controllers handled the stoppage of air travel across the United States.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/13/us/ground-stop-air-traffic-control-pilots.html",
+      "published_at": "2026-11-14T11:06:59+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "社会",
+      "title": "‘It’s frustrating’: chaos at US airports as stoppage grinds travel plans to a halt",
+      "summary": "Travelers and crew feeling ‘pissed’ or ‘lucky’ depending on level of upset amid nationwide ground stop The US Federal Aviation Administration’s decision to ground all flights on Friday threw airports and travel plans",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/13/us-airports-flight-stoppage",
+      "published_at": "2026-11-14T10:49:59+08:00"
     },
     {
       "region": "美国",
       "category": "市场",
-      "title": "FAA issues nationwide ground stop citing communication issues affecting ‘multiple’ air traffic control facilities",
-      "summary": "The Federal Aviation Administration issued a nationwide ground stop on Friday afternoon, \"due to extraordinary circumstances and for reasons of safety.\"",
+      "title": "FAA lifts ground stop after four hours, but flight cancellations will stretch into the weekend",
+      "summary": "The Federal Aviation Administration issued a nationwide ground stop on Friday afternoon, disrupting thousands of departing of flights.",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
-      "published_at": "2026-11-14T05:28:07+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "科技",
-      "title": "Nvidia stock suffers longest weekly losing streak since 2012 as market value sinks by $1.7 trillion",
-      "summary": "Jensen Huang's resignation added to Nvidia's market woes, with the stock already in a downward slide since early October.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html",
-      "published_at": "2026-11-14T05:27:15+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "科技",
-      "title": "What's ahead for AI financing after Nvidia CEO Jensen Huang departs",
-      "summary": "Jensen Huang’s resignation puts Nvidia’s AI financing strategy in focus as investors watch credit markets and neocloud exposure.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-resignation-ai-financing.html",
-      "published_at": "2026-11-14T05:19:04+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "科技",
-      "title": "AI risks are the biggest threat to the financial system, Fed survey finds",
-      "summary": "The report comes with Wall Street on edge over high-flying AI hyperscalers, while communities are on alert for the rapid spread of data centers.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html",
-      "published_at": "2026-11-14T05:18:30+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "科技",
-      "title": "Nvidia closes below $4T market cap for first time since July 2025 in Huang fallout",
-      "summary": "Jensen Huang resigned as CEO of Nvidia on Thursday after coming under scrutiny for two extramarital affairs.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html",
-      "published_at": "2026-11-14T05:18:11+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "市场",
-      "title": "Goldman Sachs looks to cash in on big IPOs twice. Anthropic’s historic deal is its next chance",
-      "summary": "While co-leading the offering, Goldman also wants a shot at managing the billions of dollars in new wealth that the deal creates. It's not the only one.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/investingclub/2026/11/13/goldman-sachs-looks-to-cash-in-on-anthropics-ipo-twice-heres-how-and-who-else-wants-to.html",
-      "published_at": "2026-11-14T05:17:38+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "市场",
-      "title": "Despite Nvidia’s Drop, Stocks Push Ahead",
-      "summary": "A drop in Nvidia shares after the ouster of the company’s chief executive has not spread to the rest of the market, as stocks have held their ground broadly.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/13/business/nvidia-turmoil-stock-market.html",
-      "published_at": "2026-11-14T05:16:55+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "科技",
-      "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
-      "summary": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-14T05:15:41+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "经济",
-      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-      "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-14T05:14:22+08:00"
+      "published_at": "2026-11-14T10:33:48+08:00"
     },
     {
       "region": "欧洲",
       "category": "政治",
-      "title": "Russia Revives Demand That NATO Retrench to Secure Ukraine Deal",
-      "summary": "The hard-line position of Russian officials in closed-door negotiations about ending the war thrusts European security into the heart of the talks.",
+      "title": "Trump to Meet With Putin and Xi in China, With Nuclear Proliferation on the Agenda",
+      "summary": "The president plans to also discuss the war against Iran, but is not expected to bring up Russia’s war in Ukraine or the scandal that has engulfed Jensen Huang.",
       "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/13/us/politics/russia-demand-nato-ukraine.html",
-      "published_at": "2026-11-14T05:12:33+08:00"
+      "url": "https://www.nytimes.com/2026/11/13/us/politics/trump-putin-xi-china-nuclear-proliferation.html",
+      "published_at": "2026-11-14T10:24:24+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "政治",
+      "title": "Russia sets cull of up to 30 per cent of brown bears after 36 people killed in attacks",
+      "summary": "The Russian government has established a cull of ⁠up to ⁠30 per cent of brown bear ⁠populations to keep numbers in check after bear attacks killed 36 people this year, the Ministry of Natural Resources was quoted as",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3374418/russia-sets-cull-30-cent-brown-bears-after-36-killed-attacks",
+      "published_at": "2026-11-14T10:15:05+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "政治",
+      "title": "Ukraine war briefing: Zelenskyy says Starshield restrictions continue on ‘entire front line’",
+      "summary": "Curbs on SpaceX system are making it hard to intercept drones and sending a bad signal to Russia, says Ukrainian president. What we know on day 1,725 Continue reading...",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/world/2026/nov/14/ukraine-war-briefing-zelenskyy-says-starshield-restrictions-continue-on-entire-front-line",
+      "published_at": "2026-11-14T10:06:00+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "市场",
+      "title": "China Railways Set Record With 4.13 Billion Trips in 10 Months",
+      "summary": "China’s railways carried 4.13 billion passengers in the first 10 months of 2026, up 4.7% from a year earlier, according to the Ministry of Transport.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-14/china-railways-set-record-with-4-13-billion-trips-in-10-months",
+      "published_at": "2026-11-14T10:04:53+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "社会",
+      "title": "China confinement nanny’s emotional farewell to baby after 3 months moves family, internet users",
+      "summary": "A Chinese confinement nanny’s heartfelt farewell to a baby she had cared for over three months moved the family and people online, shining a spotlight on the country’s postpartum care industry.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3374383/china-confinement-nannys-emotional-farewell-baby-after-3-months-moves-family-internet-users",
+      "published_at": "2026-11-14T10:00:14+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "社会",
+      "title": "Why Japanese DJ who survived spiked-drink ordeal in Hong Kong keeps apologising",
+      "summary": "When Mao Hamasaki, also known as DJ Mao, took to the social media platform X earlier this month to recount the ordeal of consuming a spiked drink in Hong Kong, her comments were accompanied by an apology, leaving many",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/hong-kong/article/3374398/why-japanese-dj-who-survived-spiked-drink-ordeal-hong-kong-keeps-apologising",
+      "published_at": "2026-11-14T09:00:14+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "社会",
+      "title": "China holds 80% of world’s underwater data centre patents as computing energy demands grow",
+      "summary": "China owns 80 per cent of the world’s underwater data centre patents, giving it a decisive lead in critical technologies, according to a two-decade study of global patents in the field.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/china/science/article/3374153/china-holds-80-worlds-underwater-data-centre-patents-computing-energy-demands-grow",
+      "published_at": "2026-11-14T09:00:07+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "科技",
+      "title": "India pins hopes on AI start-up to avoid becoming ‘digital colony’",
+      "summary": "Sarvam has received government backing to build native models in world’s most populous country",
+      "source": "金融时报",
+      "url": "https://www.ft.com/content/599cd9ab-dbd0-4c0d-818a-f6270871cd97?syn-25a6b1a6=1",
+      "published_at": "2026-11-14T09:00:05+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "科技",
+      "title": "Tech Now",
+      "summary": "Yasmin Morgan-Griffiths follows a team testing AI early warning systems for landslides.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0034hf1?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-14T09:00:00+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "科技",
+      "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
+      "summary": "The next title in the series is expected to be the biggest video game release ever.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-14T08:37:01+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "经济",
+      "title": "Deed Theft Is Rising, Along With Property Values",
+      "summary": "The victims are often older people or immigrants, with thieves going after vacant land or unoccupied homes. But there are ways to protect yourself.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/13/your-money/deed-title-theft-houses.html",
+      "published_at": "2026-11-14T08:27:27+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "经济",
+      "title": "Life after Labubu? Pop Mart struggles for relevance as its toy sales plummet",
+      "summary": "Pop Mart International will once again send a giant float down Sixth Avenue later this month for the Macy’s Thanksgiving Day Parade in New York City, but the company feels rather less buoyant than it did when it debuted",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/business/companies/article/3374342/life-after-labubu-pop-mart-struggles-relevance-its-toy-sales-plummet",
+      "published_at": "2026-11-14T08:00:05+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "经济",
+      "title": "What to know about the rare nationwide ground stop issued by the FAA",
+      "summary": "The Federal Aviation Administration issued a ground stop for all planes due to take off in the US, delaying and canceling thousands of flights Flights grounded at all US airports due to communications outage – live The",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/world/2026/nov/13/faa-ground-stop-flights-explained",
+      "published_at": "2026-11-14T07:56:08+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "社会",
+      "title": "US Air Force responds to suspected drone activity over UK airbase",
+      "summary": "US Air Force personnel at the RAF Lakenheath base in Britain responded to “suspected unauthorised drone activity” on Friday evening, although no personnel, aircraft or infrastructure were affected, a US Air Force",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3374414/us-air-force-responds-suspected-drone-activity-over-uk-airbase",
+      "published_at": "2026-11-14T07:47:51+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "政治",
+      "title": "中国决定不争取主办2028年的联合国气候峰会",
+      "summary": "法新社引述知情人士报道，中国过去数个月在评估相关可能性后，已决定不争取主办2028年的第33届联合国气候峰会（COP33）。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261113-%E4%B8%AD%E5%9B%BD%E5%86%B3%E5%AE%9A%E4%B8%8D%E4%BA%89%E5%8F%96%E4%B8%BB%E5%8A%9E2028%E5%B9%B4%E7%9A%84%E8%81%94%E5%90%88%E5%9B%BD%E6%B0%94%E5%80%99%E5%B3%B0%E4%BC%9A",
+      "published_at": "2026-11-14T07:10:23+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "科技",
+      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+      "summary": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-14T07:00:31+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "市场",
+      "title": "Jeff Currie Says He’s Bearish on Copper Due to China",
+      "summary": "Jeff Currie, CEO and founder at Real Macro and senior adviser at Carlyle, says gold’s retreat reflects a shortage of dollar liquidity.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-13/jeff-currie-says-he-s-bearish-on-copper-due-to-china-video",
+      "published_at": "2026-11-14T06:51:59+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "经济",
+      "title": "Wall Street Makes Its Pitch for Anthropic’s I.P.O.",
+      "summary": "As market uncertainty deepens, investment banks are on a roadshow to sell investors on what could be the largest public offering ever.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/13/business/anthropic-ipo-roadshow.html",
+      "published_at": "2026-11-14T06:46:15+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "政治",
+      "title": "特朗普、习近平和普京可能于下周四在深圳会晤",
+      "summary": "据《纽约邮报》周五报道，美国总统唐纳德·特朗普将于下周在亚太经合组织（APEC）峰会期间会见中国国家主席习近平和俄罗斯总统弗拉基米尔·普京。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261113-%E7%89%B9%E6%9C%97%E6%99%AE-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%92%8C%E6%99%AE%E4%BA%AC%E5%8F%AF%E8%83%BD%E4%BA%8E%E4%B8%8B%E5%91%A8%E5%9B%9B%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%BC%9A%E6%99%A4",
+      "published_at": "2026-11-14T06:42:27+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "经济",
+      "title": "EU’s fixation on Chinese subsidies masks its own structural stagnation",
+      "summary": "The European Commission is moving to shield its industrial machinery and chemical sectors from Chinese imports, and is weighing a “kill switch” mechanism.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/opinion/world-opinion/article/3373980/eus-fixation-chinese-subsidies-masks-its-own-structural-stagnation",
+      "published_at": "2026-11-14T05:30:09+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "经济",
+      "title": "Meloni Keeps Hope of Italy Upgrade at S&P to Highest Since 2011",
+      "summary": "Italy retained its positive outlook at S&P Global Ratings, keeping alive Premier Giorgia Meloni’s hope to regain the highest score there since 2011.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-13/meloni-keeps-hope-of-italy-upgrade-at-s-p-to-highest-since-2011",
+      "published_at": "2026-11-14T05:25:56+08:00"
     },
     {
       "region": "欧洲",
@@ -110,15 +290,6 @@
       "published_at": "2026-11-14T05:11:29+08:00"
     },
     {
-      "region": "欧洲",
-      "category": "政治",
-      "title": "Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns",
-      "summary": "Kaja Kallas says Moscow is trying to divert attention from its aggression by raising issue of European security The EU’s foreign policy chief has warned against “walking into the traps that Russia is setting” as she",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit",
-      "published_at": "2026-11-14T04:38:25+08:00"
-    },
-    {
       "region": "中国",
       "category": "科技",
       "title": "Bessent blames US Commerce Department for not restricting Nvidia chip exports to China",
@@ -126,15 +297,6 @@
       "source": "南华早报",
       "url": "https://www.scmp.com/news/china/diplomacy/article/3374409/bessent-blames-us-commerce-department-not-restricting-nvidia-chip-exports-china",
       "published_at": "2026-11-14T04:20:33+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "社会",
-      "title": "‘Get Focused on London’: How Iran’s Agents Attacked European Targets",
-      "summary": "A wave of assaults in Britain and elsewhere in the spring sowed fear across Europe. Prosecutors shed new light on how Iran took aim at U.S.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html",
-      "published_at": "2026-11-14T04:10:37+08:00"
     },
     {
       "region": "欧洲",
@@ -155,87 +317,6 @@
       "published_at": "2026-11-14T04:02:27+08:00"
     },
     {
-      "region": "美国",
-      "category": "经济",
-      "title": "Fed Set to Raise Interest Rates Next Month as Debate Moves to January",
-      "summary": "The US monetary policy debate has already moved on to January.",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-13/fed-set-to-raise-interest-rates-next-month-as-debate-moves-to-january",
-      "published_at": "2026-11-14T03:55:01+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "市场",
-      "title": "Brookfield Consortium Progresses to Next Round of Uniper Sale",
-      "summary": "A consortium of Brookfield Asset Management Ltd.",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-13/brookfield-consortium-progresses-to-next-round-of-uniper-sale",
-      "published_at": "2026-11-14T03:53:07+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "经济",
-      "title": "Wall Street Loses a Powerful Dealmaker After Nvidia’s CEO Is Ousted",
-      "summary": "The ousted Nvidia chief executive was the consummate dealmaker leading the trillion-dollar A.I. build out.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-wall-street.html",
-      "published_at": "2026-11-14T03:52:01+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "市场",
-      "title": "We’re Living In An Inflationary Environment: Morse",
-      "summary": "Ed Morse, senior advisor and commodities strategist at Hartree Partners, joins Tome Keene on “Bloomberg Money.” They discuss the current state of the oil market, his career, and China. (Source: Bloomberg)",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-13/we-re-living-in-an-inflationary-environment-morse-video",
-      "published_at": "2026-11-14T03:41:06+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "市场",
-      "title": "Important Guard 'Critical Intellectual Property,' From China, Says Retired Lt. General",
-      "summary": "Retired Lieutenant General Karen Gibson, former deputy director of national intelligence, talked about exports controls, Chinese espionage and the Iran war.",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-13/important-guard-critical-ip-from-china-lt-gen-gibson-video",
-      "published_at": "2026-11-14T03:29:06+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "社会",
-      "title": "Rip out ugly clutter to help revive UK high streets, says thinktank",
-      "summary": "Exclusive: Report says restricting cars and freeing up pavement space could be a cheap way to entice shoppers The long decline of the high street is a problem that has gripped British governments for years.",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/society/2026/nov/13/rip-out-clutter-to-retail-revive-high-streets-thinktank",
-      "published_at": "2026-11-14T03:17:51+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "经济",
-      "title": "US Treasuries set for worst week since Trump’s ‘liberation day’",
-      "summary": "Higher than expected inflation and hawkish remarks by Fed officials have stung investors who bet a global bond rout was over",
-      "source": "金融时报",
-      "url": "https://www.ft.com/content/7bebace2-dc87-410a-ae29-ffd9f3176def?syn-25a6b1a6=1",
-      "published_at": "2026-11-14T03:06:08+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "社会",
-      "title": "Eurovision is finally coming to Asia - meet the stars gearing up to take the stage",
-      "summary": "On Saturday, the biggest and longest-running international song contest will make a leap into unknown territory.",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cw4gn0ky2pgdo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-14T03:01:36+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "社会",
-      "title": "Families clear homes of David Walliams books after sexual offence allegations",
-      "summary": "Parents take action while several independent bookshops say they had already stopped stocking his titles In Sarah’s house, David Walliams has been a bedtime staple for years.",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/13/families-clear-homes-of-david-walliams-books-after-sexual-offence-allegations",
-      "published_at": "2026-11-14T02:55:08+08:00"
-    },
-    {
       "region": "中国",
       "category": "科技",
       "title": "因涉嫌挪用人工智能芯片 马来西亚调查Megaspeed旗下子公司",
@@ -254,15 +335,6 @@
       "published_at": "2026-11-14T02:37:51+08:00"
     },
     {
-      "region": "美国",
-      "category": "经济",
-      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-      "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-14T02:36:57+08:00"
-    },
-    {
       "region": "中国",
       "category": "科技",
       "title": "伊朗黑客用中国AI攻击法国超市冷藏系统 背后还藏着谁？",
@@ -270,24 +342,6 @@
       "source": "法国国际广播电台",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20261113-%E4%BC%8A%E6%9C%97%E9%BB%91%E5%AE%A2%E7%94%A8%E4%B8%AD%E5%9B%BDai%E6%94%BB%E5%87%BB%E6%B3%95%E5%9B%BD%E8%B6%85%E5%B8%82%E5%86%B7%E8%97%8F%E7%B3%BB%E7%BB%9F-%E8%83%8C%E5%90%8E%E8%BF%98%E8%97%8F%E7%9D%80%E8%B0%81",
       "published_at": "2026-11-14T02:10:49+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "经济",
-      "title": "Microsoft Says Outage Disrupting Outlook Is Improving",
-      "summary": "Health services, schools, police departments and companies worldwide reported disruptions to their work. The cause was unclear, though Microsoft appeared to rule out a cyberattack.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html",
-      "published_at": "2026-11-14T02:05:44+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "社会",
-      "title": "The Guardian view on press freedom: authoritarians target journalism because it matters | Editorial",
-      "summary": "From Cairo to Moscow to Washington, governments are turning up the pressure on media workers Lina Attalah is an influential Egyptian journalist.",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/13/the-guardian-view-on-press-freedom-authoritarians-target-journalism-because-it-matters",
-      "published_at": "2026-11-14T02:01:46+08:00"
     },
     {
       "region": "欧洲",
@@ -318,66 +372,12 @@
     },
     {
       "region": "中国",
-      "category": "科技",
-      "title": "Nvidia Scandal Raises New Concerns About Scale of Chinese Spying",
-      "summary": "The Jensen Huang saga is the latest example of what governments around the world say is a broad push by China to steal commercial and technological secrets and gather intelligence on foreign leaders and military plans.",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-13/nvidia-scandal-raises-new-concerns-about-scale-of-chinese-spying",
-      "published_at": "2026-11-14T01:34:27+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "科技",
-      "title": "EU leaders told to ‘act now’ to stay in AI race with US and China",
-      "summary": "The EU must “act now” to ensure Europe stays in the AI race with the US and China, French AI firm Mistral’s Chief Executive Arthur Mensch told a summit of the bloc’s leaders on Friday.",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/news/world/europe/article/3374405/eu-leaders-told-act-now-stay-ai-race-us-and-china",
-      "published_at": "2026-11-14T01:20:31+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "科技",
-      "title": "‘Ahead of his time’: AI helps unlock discoveries hidden in notebooks of man who transformed maths",
-      "summary": "Kurt Gödel left 1,009 pages of densely written text – much of it in an obsolete shorthand – which is now said to contain hundreds of proved theorems The Austrian logician Kurt Gödel was one of the most original thinkers",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-      "published_at": "2026-11-14T00:38:27+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "政治",
-      "title": "日政府拟将未来五年防卫费总额提至60万亿日元 将新设统筹机构强化防卫基础",
-      "summary": "日本政府已着手进行协调，拟将2027至2031财年这五年间的防卫费总额设定在60万亿日元（约合2.5万亿人民币）左右的规模；",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261113-%E6%97%A5%E6%94%BF%E5%BA%9C%E6%8B%9F%E5%B0%86%E6%9C%AA%E6%9D%A5%E4%BA%94%E5%B9%B4%E9%98%B2%E5%8D%AB%E8%B4%B9%E6%80%BB%E9%A2%9D%E6%8F%90%E8%87%B360%E4%B8%87%E4%BA%BF%E6%97%A5%E5%85%83-%E5%B0%86%E6%96%B0%E8%AE%BE%E7%BB%9F%E7%AD%B9%E6%9C%BA%E6%9E%84%E5%BC%BA%E5%8C%96%E9%98%B2%E5%8D%AB%E5%9F%BA%E7%A1%80",
-      "published_at": "2026-11-14T00:19:09+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "科技",
-      "title": "Nvidia scandal draws in Commerce Secretary Lutnick, who reportedly agrees to testify about China chip sales",
-      "summary": "Commerce Secretary Lutnick will testify before the Senate Banking Committee following revelations about Jensen Huang's affair with an alleged Chinese spy.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/13/nvidia-scandal-lutnick-chip-sales.html",
-      "published_at": "2026-11-13T23:49:11+08:00"
-    },
-    {
-      "region": "中国",
       "category": "经济",
       "title": "China drops bid for future COP as climate science battle heats up",
       "summary": "EU presses Beijing to back the speedy publication of crucial reports from the Intergovernmental Panel on Climate Change",
       "source": "金融时报",
       "url": "https://www.ft.com/content/3cc097d4-00af-4ece-8c86-d1bc9af7664d?syn-25a6b1a6=1",
       "published_at": "2026-11-13T23:33:15+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "政治",
-      "title": "COP31 ： 专家谈看点与难点",
-      "summary": "联合国第三十一届气候峰会已经举办了将近一周，一周来的谈判是否已经使峰会的最终结果初现端倪？",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%8E%AF%E5%A2%83%E4%B8%8E%E5%8F%91%E5%B1%95/20261113-cop31-%E4%B8%93%E5%AE%B6%E8%B0%88%E7%9C%8B%E7%82%B9%E4%B8%8E%E9%9A%BE%E7%82%B9",
-      "published_at": "2026-11-13T23:32:52+08:00"
     },
     {
       "region": "美国",
