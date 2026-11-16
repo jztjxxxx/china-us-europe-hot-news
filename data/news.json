@@ -1,104 +1,77 @@
 {
-  "updated_at": "2026-11-17T01:18:03+08:00",
+  "updated_at": "2026-11-17T07:48:11+08:00",
   "items": [
     {
       "region": "美国",
-      "category": "科技",
-      "title": "Jensen Huang scandal casts doubt on Nvidia’s AI dominance — how we got here",
-      "summary": "Nvidia is facing its biggest crisis in its 33 year history, with founder Jensen Huang resigning as CEO. Here's the story of the rise and fall of Jensen Huang.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/13/jensen-huang-scandal-casts-doubt-on-nvidias-ai-dominance-how-we-got-here.html",
-      "published_at": "2026-11-17T01:16:06+08:00"
-    },
-    {
-      "region": "美国",
       "category": "市场",
-      "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
-      "summary": "Eric Trump-backed robot startup Foundation Future Industries has run low on cash and missed payroll, as CEO Sankaet Pathak faces scrutiny over a $4.6 million company loan.",
+      "title": "Stock futures are little changed after Nvidia pressures tech to start the week: Live updates",
+      "summary": "Nvidia shares pulled back 4.1%, as traders dumped the chipmaker ahead of its fiscal third-quarter report, due Tuesday after the bell",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
-      "published_at": "2026-11-17T01:14:13+08:00"
+      "url": "https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html",
+      "published_at": "2026-11-17T07:47:51+08:00"
     },
     {
       "region": "美国",
-      "category": "科技",
-      "title": "Apple Taps 26-Year Veteran Corey Fugman to Run Pay, Card and Wallet Services",
-      "summary": "Apple Inc. has tapped a 26-year company veteran as the new head of its payment service and digital wallet unit, a vital part of the iPhone maker’s services business.",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-16/apple-taps-26-year-veteran-corey-fugman-to-run-pay-card-and-wallet-services",
-      "published_at": "2026-11-17T01:12:33+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "科技",
-      "title": "Trump says he ‘wouldn’t mind’ seeing Jensen Huang reinstated as Nvidia chief",
-      "summary": "US president’s intervention comes days after co-founder of chipmaker resigned following extramarital affair with executive at Singapore-based customer",
-      "source": "金融时报",
-      "url": "https://www.ft.com/content/e5275763-d7e2-4857-8ac6-6b888111986a?syn-25a6b1a6=1",
-      "published_at": "2026-11-17T01:12:30+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "科技",
-      "title": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’",
-      "summary": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
-      "published_at": "2026-11-17T01:11:54+08:00"
-    },
-    {
-      "region": "欧洲",
       "category": "经济",
-      "title": "Digital-only banks could be forced to fund high street banking facilities",
-      "summary": "Treasury review says customers of banks such as Monzo and Revolut often rely on physical cash services Digital banks like Monzo and Revolut could be forced to pay towards high street banking facilities, after a",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/business/2026/nov/16/digital-only-banks-monzo-revolut-fund-high-street-banking-facilities",
-      "published_at": "2026-11-17T01:11:44+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "政治",
-      "title": "Brand statement from prison claiming his innocence ‘appalling’ and could breach rules, says No 10 – UK politics live",
-      "summary": "Brand’s wife Laura read out a message from him on their YouTube show After education questions, there is one urgent question in the Commons and two ministerial statements.",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
-      "published_at": "2026-11-17T01:11:21+08:00"
+      "title": "United Airlines Flights Resume After ‘Widespread System Outage’",
+      "summary": "The brief disruption, after a nationwide ground stop last week, added to concerns about air travel ahead of a busy Thanksgiving travel period.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html",
+      "published_at": "2026-11-17T07:45:29+08:00"
     },
     {
       "region": "美国",
+      "category": "社会",
+      "title": "Trump Administration Sought LinkedIn Data in Effort to Identify New York Times Sources",
+      "summary": "The court filing confirms that the Trump administration has sought on two parallel fronts to identify the sources for an article as part of one overarching investigation.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/16/us/politics/trump-linkedin-data-nyt-sources.html",
+      "published_at": "2026-11-17T07:44:56+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "经济",
+      "title": "Pilots Kept Contact With Controllers During Nationwide Halt to Flights",
+      "summary": "Pilots were generally able to maintain contact with air traffic controllers and airline staff on the ground despite an outage that caused a nearly five-hour halt to departures.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/16/business/faa-ground-stop-pilots-radio-controllers.html",
+      "published_at": "2026-11-17T07:39:24+08:00"
+    },
+    {
+      "region": "中国",
       "category": "市场",
-      "title": "Trump Media faces possible US$1 billion debt repayment as stock nears record lows",
-      "summary": "Trump Media & Technology Group faces a possible US$1 ⁠billion cash demand ⁠from convertible debt holders this ⁠month, putting pressure on the Truth Social parent as its shares trade near record lows and more than half",
+      "title": "Former Hong Kong leader CY Leung appeals for aid to help refugees in Djibouti",
+      "summary": "A charity founded by a former Hong Kong leader has appealed for donations to fund emergency medical aid in Djibouti, where an influx of thousands of refugees has heightened the risk of disease outbreaks in the East",
       "source": "南华早报",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3374645/trump-media-faces-possible-us1-billion-debt-repayment-stock-nears-record-lows",
-      "published_at": "2026-11-17T01:09:46+08:00"
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3374636/former-hong-kong-leader-cy-leung-appeals-aid-help-refugees-djibouti",
+      "published_at": "2026-11-17T07:30:07+08:00"
     },
     {
       "region": "美国",
       "category": "科技",
-      "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
-      "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-17T01:07:55+08:00"
+      "title": "Madison Huang, Jensen Huang’s Daughter, Became a Powerful Force at Nvidia",
+      "summary": "Installed as her father’s de facto chief of staff, Jensen Huang’s daughter alienated top executives. Now her lingering role poses a test for interim C.E.O.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/16/technology/nvidia-jensen-madison-huang.html",
+      "published_at": "2026-11-17T07:29:54+08:00"
     },
     {
       "region": "美国",
       "category": "市场",
-      "title": "Athleisure Faces Price Pressures",
-      "summary": "Regis Schultz, CEO of JD Sports, discusses the state of sports fashion amid the popularity of running.",
+      "title": "Gold Steadies Near 14-Month Low as Inflation Pressure Persists",
+      "summary": "Gold steadied after its lowest close since September 2025, under pressure from stubborn US inflation and losses on Wall Street.",
       "source": "彭博",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-16/athleisure-faces-price-pressures-video",
-      "published_at": "2026-11-17T01:06:05+08:00"
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/gold-steadies-near-14-month-low-as-inflation-pressure-persists",
+      "published_at": "2026-11-17T07:26:48+08:00"
     },
     {
-      "region": "美国",
-      "category": "市场",
-      "title": "Stocks slide as Nvidia leads AI names lower: Live updates",
-      "summary": "The Dow, S&P 500 and Nasdaq posted their biggest weekly gains since August, rising more than 2% each.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html",
-      "published_at": "2026-11-17T01:05:13+08:00"
+      "region": "中国",
+      "category": "科技",
+      "title": "The AI start-ups fixing India's broken roads and messy land records",
+      "summary": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-17T07:25:53+08:00"
     },
     {
       "region": "美国",
@@ -107,160 +80,322 @@
       "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports Sign up for the Breaking News US email Lauren Almeida and Dan Milmo Elon Musk and",
       "source": "卫报",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
-      "published_at": "2026-11-17T01:04:30+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "科技",
-      "title": "The tech world's calls for Jensen Huang to return to Nvidia are growing",
-      "summary": "Calls for Jensen Huang's return as Nvidia CEO are growing, with tech executives and major shareholders backing a potential comeback following his resignation.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html",
-      "published_at": "2026-11-17T01:02:54+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "经济",
-      "title": "Fed’s Warsh Says Staff Are Gaming Out Contingencies on AI Impact",
-      "summary": "Federal Reserve Chairman Kevin Warsh said staff at the US central bank have begun to sketch out contingencies for how the surging adoption of artificial intelligence might impact the world’s biggest economy.",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-16/fed-s-warsh-says-staff-are-gaming-out-contingencies-on-ai-impact",
-      "published_at": "2026-11-17T01:00:00+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "科技",
-      "title": "Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip",
-      "summary": "The rules have been a topic of fierce debate in the administration and would cut back on a booming data center business serving Chinese companies.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-loophole.html",
-      "published_at": "2026-11-17T00:56:07+08:00"
+      "published_at": "2026-11-17T07:23:57+08:00"
     },
     {
       "region": "中国",
       "category": "政治",
-      "title": "Cop31 draft text is attempt to ‘draw out parties’ to find agreement, president of talks says",
-      "summary": "Many countries surprised to see first version delivered with more than four days of negotiation remaining A draft text of a possible final outcome from the Cop31 UN climate summit is an attempt to “draw out parties” on",
+      "title": "Labor to announce policy backflip and allow more backpackers to stay in Australia",
+      "summary": "Number of people allowed to stay for third year on holiday maker visa expected to be increased from 5,000 to 25,000 under revised plan Get our breaking news email , free app or daily news podcast The federal government",
       "source": "卫报",
-      "url": "https://www.theguardian.com/environment/2026/nov/16/cop31-draft-text-draw-out-parties-find-agreement-president-talks-says",
-      "published_at": "2026-11-17T00:54:42+08:00"
+      "url": "https://www.theguardian.com/australia-news/2026/nov/17/labor-backpacker-policy-backflip-work-regional-australia-holiday-visas",
+      "published_at": "2026-11-17T07:21:46+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "社会",
+      "title": "Band of baby sea turtles released into ocean after historic California nesting",
+      "summary": "Hatchlings emerge after discovery in September of first sea turtle nests ever to have been recorded on US west coast Two months after the discovery of the first sea turtle nests ever to have been recorded on the US west",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/16/california-sea-turtle-eggs-hatched",
+      "published_at": "2026-11-17T07:19:11+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "科技",
+      "title": "US agency’s rare AI chip disclaimer exposes rift in Trump administration: experts",
+      "summary": "A US agency’s unusual decision to distance itself from new restrictions on advanced artificial intelligence chips suggests a breakdown in inter-agency coordination on export controls, according to experts.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/us/article/3374656/us-agencys-rare-ai-chip-disclaimer-exposes-rift-trump-administration-experts",
+      "published_at": "2026-11-17T07:16:38+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "政治",
+      "title": "特朗普表示：深圳三边会谈将讨论去核化、伊朗局势和俄乌战争等议题",
+      "summary": "美国总统特朗普16日周一启程前往亚洲，先赴菲律宾出席东协与美国特别峰会以及“四方安全对话”，接着前往中国深圳。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261116-%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%A8%E7%A4%BA-%E6%B7%B1%E5%9C%B3%E4%B8%89%E8%BE%B9%E4%BC%9A%E8%B0%88%E5%B0%86%E8%AE%A8%E8%AE%BA%E5%8E%BB%E6%A0%B8%E5%8C%96-%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF%E5%92%8C%E4%BF%84%E4%B9%8C%E6%88%98%E4%BA%89%E7%AD%89%E8%AE%AE%E9%A2%98",
+      "published_at": "2026-11-17T07:15:27+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "科技",
+      "title": "Customers report service outages at major US banks",
+      "summary": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-17T07:15:21+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "经济",
+      "title": "RBA’s Bullock Says Inflation Risks Still Skewed to the Upside",
+      "summary": "Australia still faces risks of higher inflation, Reserve Bank Governor Michele Bullock said Tuesday, signaling that policymakers are still on watch to tighten policy further.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/rba-s-bullock-says-inflation-risks-still-skewed-to-the-upside",
+      "published_at": "2026-11-17T07:15:17+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "社会",
+      "title": "Cause of death released for partner of Gypsy Rose Blanchard",
+      "summary": "Police investigation continues even as Louisiana coroner’s office releases findings on death of Kenan ‘Ken’ Urker The cause of death of Gypsy Rose Blanchard’s partner, who died last month, has been released.",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/16/cause-of-death-gypsy-rose-blanchard-partner",
+      "published_at": "2026-11-17T07:14:41+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "经济",
+      "title": "California sues OpenAI over Hugging Face attack",
+      "summary": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-17T07:12:24+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "市场",
+      "title": "Hong Kong leapfrogs Dubai as No 1 super-luxury housing market – but can it last?",
+      "summary": "Hong Kong has overtaken Dubai to become the world’s largest market for super-luxury home sales, but the city’s reign could be short-lived as a local rally shows signs of cooling and mainland capital constraints threaten",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/business/markets/article/3374633/hong-kong-leapfrogs-dubai-no-1-super-luxury-housing-market-can-it-last",
+      "published_at": "2026-11-17T07:00:11+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "社会",
+      "title": "Top Chinese cancer researcher calls on Hong Kong to deepen research ties with mainland",
+      "summary": "A leading Chinese blood cancer specialist has urged Hong Kong to deepen research collaboration with mainland China, saying the city could play a unique role in connecting the mainland’s growing scientific capabilities",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3374625/top-chinese-cancer-researcher-calls-hong-kong-deepen-research-ties-mainland",
+      "published_at": "2026-11-17T07:00:08+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "市场",
+      "title": "CNBC's The China Connection newsletter: As Nike and Lululemon struggle in China, Xiaohongshu is helping local brands take off",
+      "summary": "There's one formula for success behind the rise of trendy new Chinese fashion brands, according to Euromonitor International.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/16/as-nike-lululemon-struggle-in-china-xiaohongshu-helps-local-brands.html",
+      "published_at": "2026-11-17T07:00:01+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "科技",
+      "title": "China’s Top AI Firms Limit Cyber Capabilities in Latest Models",
+      "summary": "China’s top AI developers are releasing advanced models with reduced offensive cyber capabilities, stifling their ability to aid online attacks following a government proposal to ban such technology from being exported.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/china-s-top-ai-firms-limit-cyber-capabilities-in-latest-models",
+      "published_at": "2026-11-17T07:00:00+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "经济",
+      "title": "Unusual Public Feud Puts Thai Central Bank Autonomy In Spotlight",
+      "summary": "Just three months ago, Thailand’s central bank governor said he had the backing of the board to take on a more activist role in supporting growth in the economy.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/unusual-public-feud-puts-thai-central-bank-autonomy-in-spotlight",
+      "published_at": "2026-11-17T07:00:00+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "经济",
+      "title": "Bessent Takes Hawkish Turn in White House Debate on China",
+      "summary": "The Treasury secretary who sought to de-escalate tariff wars is taking a tougher approach to exports of sensitive U.S. technology.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/16/us/politics/bessent-lutnick-china.html",
+      "published_at": "2026-11-17T06:46:09+08:00"
     },
     {
       "region": "欧洲",
-      "category": "经济",
-      "title": "Spain Hopes for Quick Deal on De Cos as Next ECB President",
-      "summary": "Spain hopes a decision on the next European Central Bank president is made as soon as possible, again touting the credentials of its own candidate.",
+      "category": "政治",
+      "title": "Ending Alzheimer's with David Cameron",
+      "summary": "Former Prime Minister of the United Kingdom David Cameron sits down with Bloomberg's David Merritt to talk about his podcast “Ending Alzheimer’s”, his personal journey and the increasingly bright future of Alzheimer’s",
       "source": "彭博",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-16/spain-hopes-for-quick-deal-on-de-cos-as-next-ecb-president",
-      "published_at": "2026-11-17T00:40:08+08:00"
+      "url": "https://www.bloomberg.com/news/videos/2026-11-16/ending-alzheimer-s-with-david-cameron-video",
+      "published_at": "2026-11-17T06:42:15+08:00"
     },
     {
       "region": "美国",
       "category": "经济",
       "title": "Elon Musk Wants to Merge Tesla and SpaceX. Their Businesses Already Overlap.",
-      "summary": "For years, engineers have shuffled between Tesla and SpaceX and the companies have worked on major projects together.",
+      "summary": "For years, engineers have shuffled between Tesla and SpaceX, and the companies have worked on major projects together.",
       "source": "纽约时报",
       "url": "https://www.nytimes.com/2026/11/16/business/elon-musk-tesla-spacex.html",
-      "published_at": "2026-11-17T00:34:30+08:00"
+      "published_at": "2026-11-17T06:41:31+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "社会",
+      "title": "Alan Milburn urges Burnham to spend billions on ‘new deal’ for young people",
+      "summary": "Report on Britain’s youth jobs crisis calls for welfare, education, health and employment policy shake-up Andy Burnham is being urged to spend billions of pounds on a “new deal” for the next generation that would fund",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/society/2026/nov/16/alan-milburn-urges-burnham-spend-billions-new-deal-young-people-youth-jobs-crisis-welfare-employment",
+      "published_at": "2026-11-17T06:30:55+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "科技",
+      "title": "China's Long-Term Auto Bet is Winning",
+      "summary": "China has emerged as the global leader in electric vehicles, combining advanced technology, highly automated factories and a dense battery supply chain to produce increasingly sophisticated cars at competitive prices.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-16/china-s-long-term-auto-bet-is-winning-video",
+      "published_at": "2026-11-17T06:22:31+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "社会",
+      "title": "Study Hard, Get a Career and Get Ahead? It’s Not What It Used to Be.",
+      "summary": "From India to France, the implicit meritocratic bargain that underwrote stable societies by providing advancement to new generations is breaking down.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/13/world/europe/education-meritocracy.html",
+      "published_at": "2026-11-17T06:14:50+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "科技",
+      "title": "10 Numbers That Might Change How You See Asia",
+      "summary": "From semiconductor dominance to new power grids, defense deals and K-pop, the region — beyond China — is becoming increasingly interconnected and self-reliant.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/16/world/asia/asean-trade-security-technology.html",
+      "published_at": "2026-11-17T06:14:09+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "政治",
+      "title": "UK PM Andy Burnham says Brexit has not worked ahead of a reset summit with the EU",
+      "summary": "UK Prime Minister Andy Burnham said on Monday that it is time to admit that Brexit has not delivered for the UK and that the country needs a much closer relationship with the European Union to combat growing",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/world/europe/article/3374654/uk-pm-andy-burnham-says-brexit-has-not-worked-ahead-reset-summit-eu",
+      "published_at": "2026-11-17T06:08:48+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "科技",
+      "title": "HSBC Sold $300 Million Troubled Data Center Loan at Discount",
+      "summary": "HSBC Holdings Plc offloaded a roughly $300 million piece of a loan to build a troubled New Mexico data center project at a steep discount, underscoring deepening anxiety surrounding the AI boom.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/hsbc-sold-300-million-troubled-data-center-loan-at-discount",
+      "published_at": "2026-11-17T06:01:27+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "政治",
+      "title": "Why China is betting on ‘home-court diplomacy’ at the Shenzhen Apec gathering",
+      "summary": "In October 2001, with the world still reeling from the September 11 attacks and China on the cusp of joining the World Trade Organization, then Chinese president Jiang Zemin opened the Asia-Pacific Economic Cooperation",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3374575/why-china-betting-home-court-diplomacy-shenzhen-apec-gathering",
+      "published_at": "2026-11-17T06:00:06+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "政治",
+      "title": "Putin could meet North Korea’s Kim if he also heads to China for Apec summit",
+      "summary": "Russian ⁠President ⁠Vladimir Putin could meet North Korean leader Kim Jong-un if he also heads to China for this week’s Apec ⁠summit, Interfax news agency ‌quoted Kremlin spokesman Dmitry Peskov as ‌saying on Monday.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3374652/putin-could-meet-north-koreas-kim-if-he-also-heads-china-apec-summit",
+      "published_at": "2026-11-17T05:34:56+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "政治",
+      "title": "乌、美和欧谈判团队举行三方协调会谈",
+      "summary": "乌克兰总统泽连斯基11月16日表示，由欧洲方面选定的谈判代表首次与乌克兰和美国的特使会面，讨论未来与俄罗斯进行谈判以结束冲突的事宜。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261116-%E4%B9%8C-%E7%BE%8E%E5%92%8C%E6%AC%A7%E8%B0%88%E5%88%A4%E5%9B%A2%E9%98%9F%E4%B8%BE%E8%A1%8C%E4%B8%89%E6%96%B9%E5%8D%8F%E8%B0%83%E4%BC%9A%E8%B0%88",
+      "published_at": "2026-11-17T05:28:26+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "科技",
+      "title": "联合国关于杀手机器人的谈判陷入僵局",
+      "summary": "《特定常规武器公约》（CCW）第七次审议大会于2026年11月16日至11月20日在瑞士日内瓦万国宫开幕并举行。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261116-%E8%81%94%E5%90%88%E5%9B%BD%E5%85%B3%E4%BA%8E%E6%9D%80%E6%89%8B%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E8%B0%88%E5%88%A4%E9%99%B7%E5%85%A5%E5%83%B5%E5%B1%80",
+      "published_at": "2026-11-17T05:23:36+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "政治",
+      "title": "欧盟五国计划将欧洲遣返中心选在卢旺达",
+      "summary": "德国、奥地利、希腊、丹麦和荷兰等5个欧洲国家于2026年11月在维也纳正式宣布，正与卢旺达合作在当地建立非法移民遣返中心（境外中转站）。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261116-%E6%AC%A7%E7%9B%9F%E4%BA%94%E5%9B%BD%E8%AE%A1%E5%88%92%E5%B0%86%E6%AC%A7%E6%B4%B2%E9%81%A3%E8%BF%94%E4%B8%AD%E5%BF%83%E9%80%89%E5%9C%A8%E5%8D%A2%E6%97%BA%E8%BE%BE",
+      "published_at": "2026-11-17T05:21:06+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "科技",
+      "title": "特斯拉宣布将对其德国工厂追加投资30亿欧元",
+      "summary": "电动汽车制造商特斯拉周一宣布，将对其位于德国的特斯拉欧洲超级工厂追加30亿欧元投资。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261116-%E7%89%B9%E6%96%AF%E6%8B%89%E5%AE%A3%E5%B8%83%E5%B0%86%E5%AF%B9%E5%85%B6%E5%BE%B7%E5%9B%BD%E5%B7%A5%E5%8E%82%E8%BF%BD%E5%8A%A0%E6%8A%95%E8%B5%8430%E4%BA%BF%E6%AC%A7%E5%85%83",
+      "published_at": "2026-11-17T05:18:25+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "社会",
+      "title": "华为影像大赛10周年 巴黎大皇宫落幕",
+      "summary": "2026华为影像大赛（HUAWEI XMAGE Awards）颁奖典礼暨十周年主题影像展刚刚在法国巴黎落幕，影展展期为11月11日-15日，颁奖典礼在巴黎摄影博览会期间举行。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261116-%E5%8D%8E%E4%B8%BA%E5%BD%B1%E5%83%8F%E5%A4%A7%E8%B5%9B10%E5%91%A8%E5%B9%B4-%E5%B7%B4%E9%BB%8E%E5%A4%A7%E7%9A%87%E5%AE%AB%E8%90%BD%E5%B9%95",
+      "published_at": "2026-11-17T05:16:37+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "社会",
+      "title": "中电动商用飞机有人驾驶首飞成功 法媒：欧洲震惊",
+      "summary": "11月14日，中国自主研制的10吨级电动商用飞机CE-25A在山东滨州完成首次有人驾驶智能飞行。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261116-%E4%B8%AD%E7%94%B5%E5%8A%A8%E5%95%86%E7%94%A8%E9%A3%9E%E6%9C%BA%E6%9C%89%E4%BA%BA%E9%A9%BE%E9%A9%B6%E9%A6%96%E9%A3%9E%E6%88%90%E5%8A%9F-%E6%B3%95%E5%AA%92-%E6%AC%A7%E6%B4%B2%E9%9C%87%E6%83%8A",
+      "published_at": "2026-11-17T05:12:36+08:00"
     },
     {
       "region": "美国",
-      "category": "经济",
-      "title": "Elon Musk Dreams of Merging Tesla and SpaceX in Move Toward Tech Supremacy",
-      "summary": "The history of the sprawling corporate combinations is rich, colorful and mostly disappointing. Could a SpaceX-Tesla merger be a success story?",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/16/business/elon-musk-tesla-spacex-conglomerate.html",
-      "published_at": "2026-11-17T00:32:37+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "政治",
-      "title": "Burnham told to put ‘brake’ on calls for new EU deal – podcast",
-      "summary": "It is a big week for Andy Burnham as two of his big policy priorities enter the spotlight. On Tuesday, the Milburn review of welfare for under-25s is published, which could ignite old Labour tensions over benefit cuts.",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/politics/audio/2026/nov/16/burnham-told-to-put-brake-on-calls-for-new-eu-deal-podcast",
-      "published_at": "2026-11-17T00:30:57+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "政治",
-      "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
-      "summary": "Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’ Five EU member states have announced plans to set up an offshore centre in Rwanda for people with",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
-      "published_at": "2026-11-17T00:21:40+08:00"
-    },
-    {
-      "region": "欧洲",
       "category": "社会",
-      "title": "Five European Countries Plan to Deport Migrants to Rwanda",
-      "summary": "Germany, Austria, the Netherlands, Greece and Denmark are seeking to establish a hub for rejected asylum seekers. Here’s what to know about their effort.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/16/world/europe/deport-rwanda-asylum-migration.html",
-      "published_at": "2026-11-17T00:19:23+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "市场",
-      "title": "Greece becomes unlikely haven for European investors",
-      "summary": "The question is whether the country has gains still to come",
-      "source": "金融时报",
-      "url": "https://www.ft.com/content/e2bfe9ca-b0a2-439c-8ee3-4108c9955ecd?syn-25a6b1a6=1",
-      "published_at": "2026-11-17T00:08:28+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "政治",
-      "title": "东盟系列峰会伴随更多双边互动，APEC深圳峰会大国博弈喧宾夺主",
-      "summary": "随着东南亚国家联盟系列峰会15日开幕，亚洲地区迎来外交活动密集登场的一周。以东南亚国家联盟11国为核心的东盟系列峰会之际，有着90多个国家和地区政府领导人出席的法语国家领导人峰会也在柬埔寨首都金边开幕。",
+      "title": "美国海军第三艘航空母舰“罗斯福号”已抵达中东",
+      "summary": "美国海军第三艘航空母舰“西奥多·罗斯福号”（USS Theodore Roosevelt）已抵达中东，加入另外两个航母打击群。",
       "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20261116-%E4%B8%9C%E7%9B%9F%E7%B3%BB%E5%88%97%E5%B3%B0%E4%BC%9A%E4%BC%B4%E9%9A%8F%E6%9B%B4%E5%A4%9A%E5%8F%8C%E8%BE%B9%E4%BA%92%E5%8A%A8%EF%BC%8Capec%E6%B7%B1%E5%9C%B3%E5%B3%B0%E4%BC%9A%E5%A4%A7%E5%9B%BD%E5%8D%9A%E5%BC%88%E5%96%A7%E5%AE%BE%E5%A4%BA%E4%B8%BB",
-      "published_at": "2026-11-17T00:02:03+08:00"
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20261116-%E7%BE%8E%E5%9B%BD%E6%B5%B7%E5%86%9B%E7%AC%AC%E4%B8%89%E8%89%98%E8%88%AA%E7%A9%BA%E6%AF%8D%E8%88%B0-%E7%BD%97%E6%96%AF%E7%A6%8F%E5%8F%B7-%E5%B7%B2%E6%8A%B5%E8%BE%BE%E4%B8%AD%E4%B8%9C",
+      "published_at": "2026-11-17T05:02:33+08:00"
     },
     {
-      "region": "中国",
+      "region": "美国",
       "category": "社会",
-      "title": "Prince William and Princess Catherine play street cricket with locals in Mumbai",
-      "summary": "Prince William and Princess Catherine play street cricket with local players in Mumbai, India, during a three-day visit for the Earthshot Prize.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/video/2026/11/16/prince-william-and-princess-catherine-play-street-cricket-with-locals-in-mumbai",
-      "published_at": "2026-11-16T23:57:01+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "政治",
-      "title": "Trump says he could meet with North Korean leader Kim Jong-un in China",
-      "summary": "Trump is planning to discuss nuclear disarmament when he meets with Russian President Vladimir Putin and Chinese President Xi Jinping in Shenzhen, China this week.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/16/trump-says-he-could-meet-with-north-korean-leader-kim-jong-un-in-china",
-      "published_at": "2026-11-16T23:53:58+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "科技",
-      "title": "US tightens AI chip export curbs to close China’s overseas data centre loophole",
-      "summary": "The US Bureau of Industry and Security (BIS) has announced new restrictions on Chinese companies’ remote access to advanced US artificial intelligence chips through overseas data centres, targeting a major loophole that",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/tech/article/3374639/us-tightens-ai-chip-export-curbs-close-chinas-overseas-data-centre-loophole",
-      "published_at": "2026-11-16T23:46:42+08:00"
+      "title": "联邦法官撤销特朗普对外国学生和记者签证限制",
+      "summary": "麻州联邦地区法院16日裁定，撤销美国国土安全部(DHS)原定对国际学生、交换访客及外国媒体代表实施的固定停留期限新规。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261116-%E8%81%94%E9%82%A6%E6%B3%95%E5%AE%98%E6%92%A4%E9%94%80%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A4%96%E5%9B%BD%E5%AD%A6%E7%94%9F%E5%92%8C%E8%AE%B0%E8%80%85%E7%AD%BE%E8%AF%81%E9%99%90%E5%88%B6",
+      "published_at": "2026-11-17T05:02:25+08:00"
     },
     {
       "region": "欧洲",
       "category": "经济",
-      "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
-      "summary": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-16T23:40:16+08:00"
+      "title": "勒庞：如她当选 法将“不再向基辅提供财政援助”",
+      "summary": "据法国极右“国民联盟”发表的声明，玛丽娜·勒庞（Marine Le Pen）周一在巴黎会见了乌克兰大使，重申如果当选入主爱丽舍宫，“法国的公共财政状况将不允许在未来几个月内继续向乌克兰提供财政援助”。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261116-%E5%8B%92%E5%BA%9E-%E5%A6%82%E5%A5%B9%E5%BD%93%E9%80%89-%E6%B3%95%E5%B0%86-%E4%B8%8D%E5%86%8D%E5%90%91%E5%9F%BA%E8%BE%85%E6%8F%90%E4%BE%9B%E8%B4%A2%E6%94%BF%E6%8F%B4%E5%8A%A9",
+      "published_at": "2026-11-17T04:51:04+08:00"
     },
     {
       "region": "欧洲",
       "category": "科技",
-      "title": "UK media regulator tightens curbs on online child abuse material",
-      "summary": "Britain’s media regulator Ofcom announced new online child-safety rules on Monday, requiring platforms to take stronger action against child sexual abuse material and grooming ahead of a planned ban on social media",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/news/world/europe/article/3374638/uk-media-regulator-tightens-curbs-online-child-abuse-material",
-      "published_at": "2026-11-16T23:39:03+08:00"
+      "title": "UK companies line up to replace Palantir in NHS",
+      "summary": "The government has announced a new procurement process after extending the US tech company’s contract to 2029",
+      "source": "金融时报",
+      "url": "https://www.ft.com/content/f69f1f6b-cdbe-40d6-b76d-fb712ca58b51?syn-25a6b1a6=1",
+      "published_at": "2026-11-17T04:30:15+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "经济",
+      "title": "How Milburn won over Labour on tackling rising youth unemployment",
+      "summary": "Labour grandee seems to have assuaged MPs’ nerves on need for welfare reform to tackle youth unemployment crisis In a boxing gym in Peterborough almost a year ago, Alan Milburn, freshly appointed to run a government",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/society/2026/nov/16/how-milburn-won-over-labour-tackling-rising-youth-unemployment",
+      "published_at": "2026-11-17T03:16:19+08:00"
     },
     {
       "region": "中国",
@@ -270,141 +405,6 @@
       "source": "德国之声",
       "url": "https://www.dw.com/zh/黄仁勋事件后-人们关注中国的芯片产业现状/a-79961605?maca=chi-rss-chi-all-1127-xml-mrss",
       "published_at": "2026-11-16T23:36:00+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "政治",
-      "title": "COP31： 首份决议草案提议加速淘汰化石能源 绿色和平点评喜忧参半",
-      "summary": "土耳其安塔利亚第31届联合国气候变化大会主席团联合主席国之一澳大利亚于11月16日（周一）公布了其峰会决议草案。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E7%94%9F%E6%80%81/20261116-cop31-%E9%A6%96%E4%BB%BD%E5%86%B3%E8%AE%AE%E8%8D%89%E6%A1%88%E6%8F%90%E8%AE%AE%E5%8A%A0%E9%80%9F%E6%B7%98%E6%B1%B0%E5%8C%96%E7%9F%B3%E8%83%BD%E6%BA%90-%E7%BB%BF%E8%89%B2%E5%92%8C%E5%B9%B3%E7%82%B9%E8%AF%84%E5%96%9C%E5%BF%A7%E5%8F%82%E5%8D%8A",
-      "published_at": "2026-11-16T23:34:15+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "政治",
-      "title": "French football head Philippe Diallo to fight Infantino for Fifa presidency",
-      "summary": "Diallo confirmed by Uefa as its chosen candidate He accused Infantino of seriously damaging football The French Football Federation president, Philippe Diallo, has been confirmed as Uefa’s surprise late choice to run",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/football/2026/nov/16/philippe-diallo-fifa-gianni-infantino-president-french-football-federation",
-      "published_at": "2026-11-16T23:27:30+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "市场",
-      "title": "UK short-term borrowing costs hit three-year high",
-      "summary": "Two-year gilt yield breaches 5% on strong economic data and hawkish messaging from Bank of England",
-      "source": "金融时报",
-      "url": "https://www.ft.com/content/aad29fc8-1b1b-4b7a-9e60-99989887ad89?syn-25a6b1a6=1",
-      "published_at": "2026-11-16T23:15:33+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "社会",
-      "title": "Hong Kong man arrested at Singapore’s Changi Airport over alleged shop theft",
-      "summary": "A 38-year-old Hong Kong man was arrested on arrival in Singapore in October after he allegedly stole earbuds from a store in Changi Airport before leaving the city state nearly three months earlier.",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/week-asia/people/article/3374637/hong-kong-man-arrested-singapores-changi-airport-over-alleged-shop-theft",
-      "published_at": "2026-11-16T23:15:02+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "市场",
-      "title": "Asean Leaders Gather at Philippines Summit",
-      "summary": "India’s Narendra Modi, Japan’s Sanae Takaichi and Australia’s Anthony Albanese are among world leaders gathering for the ASEAN summit in the Philippines. (Source: Bloomberg)",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-16/asean-leaders-gather-at-philippines-summit-video",
-      "published_at": "2026-11-16T23:12:21+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "经济",
-      "title": "Yalta 2.0? Trump, Xi and Putin lead Asia’s week of high-stakes diplomacy",
-      "summary": "Summits in China and the Philippines provide a backdrop for a string of meetings involving powerful global rivals",
-      "source": "金融时报",
-      "url": "https://www.ft.com/content/5621d364-c767-4b40-a090-054042d1c49b?syn-25a6b1a6=1",
-      "published_at": "2026-11-16T23:10:54+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "社会",
-      "title": "Searching for the Last Stoats of Waiheke Island",
-      "summary": "Can the tourist destination become the first urban island to rid itself of the stoat — an introduced predator that has ravaged New Zealand’s endemic wildlife?",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/16/world/australia/new-zealand-stoats.html",
-      "published_at": "2026-11-16T22:49:58+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "科技",
-      "title": "“堵漏洞” 美国限制中企通过海外数据中心远程访问先进AI芯片",
-      "summary": "美国特朗普政府周一表示，将推进一项新规定，旨在限制中国通过其境外的数据中心获取先进人工智能（AI）芯片的访问权。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261116-%E5%A0%B5%E6%BC%8F%E6%B4%9E-%E7%BE%8E%E5%9B%BD%E9%99%90%E5%88%B6%E4%B8%AD%E4%BC%81%E9%80%9A%E8%BF%87%E6%B5%B7%E5%A4%96%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E8%BF%9C%E7%A8%8B%E8%AE%BF%E9%97%AE%E5%85%88%E8%BF%9Bai%E8%8A%AF%E7%89%87",
-      "published_at": "2026-11-16T22:49:18+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "社会",
-      "title": "U.N. Starts Uncertain Effort to Regulate Lethal Autonomous Weapons",
-      "summary": "Delegates met in Geneva to discuss guardrails for such systems even as their development grows. Russia and the United States have resisted the efforts.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/16/world/europe/un-killer-robots-autonomous-weapons.html",
-      "published_at": "2026-11-16T22:47:46+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "经济",
-      "title": "澳大利亚担忧中国“操纵”铁矿石市场",
-      "summary": "澳洲政府周一表示，担心中国通过操纵铁矿石贸易压低价格，损害澳洲经济利益。铁矿石是澳洲最大的出口商品，中国则是其最大买家。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261116-%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E6%8B%85%E5%BF%A7%E4%B8%AD%E5%9B%BD-%E6%93%8D%E7%BA%B5-%E9%93%81%E7%9F%BF%E7%9F%B3%E5%B8%82%E5%9C%BA",
-      "published_at": "2026-11-16T22:41:32+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "科技",
-      "title": "黄仁勋事件爆发前 特朗普持有英伟达股票价值据报可达6200万美元",
-      "summary": "英伟达前首席执行官黄仁勋曾享有接触美国总统特朗普（Donald Trump）的非凡便利，甚至在后者5月访华行程中，特朗普还临时要求黄仁勋中途在阿拉斯加与他会合，随其搭乘总统专机“空军一号”同行。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261116-%E9%BB%84%E4%BB%81%E5%8B%8B%E4%BA%8B%E4%BB%B6%E7%88%86%E5%8F%91%E5%89%8D-%E7%89%B9%E6%9C%97%E6%99%AE%E6%8C%81%E6%9C%89%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%82%A1%E7%A5%A8%E4%BB%B7%E5%80%BC%E6%8D%AE%E6%8A%A5%E5%8F%AF%E8%BE%BE6200%E4%B8%87%E7%BE%8E%E5%85%83",
-      "published_at": "2026-11-16T22:18:00+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "社会",
-      "title": "中国与东盟称将保持克制 南海距离“定规矩”还有多远？",
-      "summary": "在马尼拉，中国与东盟领导人承诺避免采取可能导致南海局势升级的行动。不过，谈判超过二十年的“南海行为准则”仍有关键分歧未解，预计将延至明年继续磋商。",
-      "source": "德国之声",
-      "url": "https://www.dw.com/zh/中国与东盟称将保持克制-南海距离-定规矩-还有多远？/a-79960794?maca=chi-rss-chi-all-1127-xml-mrss",
-      "published_at": "2026-11-16T22:04:00+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "科技",
-      "title": "乌克兰战争与新雅尔塔幽灵",
-      "summary": "周一法国各报头版主题各有 侧重，《费加罗报》关注法国地下制毒窝点的快速增加，法国正在从毒品过境地向生产地转变，合成毒品问题尤为令人担忧。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20261116-%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%98%E4%BA%89%E4%B8%8E%E6%96%B0%E9%9B%85%E5%B0%94%E5%A1%94%E5%B9%BD%E7%81%B5",
-      "published_at": "2026-11-16T20:36:59+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "政治",
-      "title": "大人物将聚首深圳 两年准备只为这一刻",
-      "summary": "亚太经济合作会议（APEC）领导人峰会将于11月18日、19日在深圳举行。在此期间，中美俄领导人还将举行举世瞩目的三方峰会。",
-      "source": "德国之声",
-      "url": "https://www.dw.com/zh/大人物将聚首深圳-两年准备只为这一刻/a-79959714?maca=chi-rss-chi-all-1127-xml-mrss",
-      "published_at": "2026-11-16T20:36:00+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "社会",
-      "title": "乌军对俄再发大规模无人机袭击，克罗米亚大桥再成目标",
-      "summary": "美国斡旋下的俄乌停战谈判始终收效甚微之际，俄乌两国继续彼此发动大规模袭击。法新社16日引述俄罗斯国防部消息报道，昨夜今晨，俄军在境内多个地区总共击毁了1336架乌克兰无人机。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261116-%E4%B9%8C%E5%86%9B%E5%AF%B9%E4%BF%84%E5%86%8D%E5%8F%91%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A2%AD%E5%87%BB%EF%BC%8C%E5%85%8B%E7%BD%97%E7%B1%B3%E4%BA%9A%E5%A4%A7%E6%A1%A5%E5%86%8D%E6%88%90%E7%9B%AE%E6%A0%87",
-      "published_at": "2026-11-16T20:34:45+08:00"
     }
   ]
 }
