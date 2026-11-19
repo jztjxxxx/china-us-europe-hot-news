@@ -1,221 +1,356 @@
 {
-  "updated_at": "2026-11-20T00:42:45+08:00",
+  "updated_at": "2026-11-20T06:43:58+08:00",
   "items": [
     {
-      "region": "欧洲",
+      "region": "美国",
+      "category": "市场",
+      "title": "Stocks making the biggest moves Thursday: Intuit, Gap, Anthropic, Ross Stores & more",
+      "summary": "Follow along as CNBC covers the biggest stock market moves of the day.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/19/stocks-moving-the-most-today-live-updates.html",
+      "published_at": "2026-11-20T06:38:40+08:00"
+    },
+    {
+      "region": "美国",
       "category": "社会",
-      "title": "Ukraine’s allies meet in Berlin with air defence, energy and financial support on the agenda – Europe live",
-      "summary": "Meeting comes after Trump declared Putin a ‘friend’ during trilateral meeting in China For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state media ,",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
-      "published_at": "2026-11-20T00:39:52+08:00"
+      "title": "World-famous hippo Fiona dies in US days after swallowing visitor’s hat",
+      "summary": "World-famous hippopotamus Fiona has died after several failed attempts by vets to remove a woolly hat that she accidentally swallowed, the Cincinnati Zoo announced Thursday.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3375134/world-famous-hippo-fiona-dies-us-days-after-swallowing-visitors-hat",
+      "published_at": "2026-11-20T06:36:05+08:00"
     },
     {
       "region": "美国",
-      "category": "科技",
-      "title": "Anthropic’s Trillion-Dollar Debut Is Watershed Moment for A.I.’s Risks and Rewards",
-      "summary": "As the technology surges ahead, policymakers in Washington have struggled to prepare for potential disruption to workers, businesses and the rest of the economy.",
+      "category": "经济",
+      "title": "If You Want To Trade Like Anthropic, You Better Look Like Anthropic, Says Buyer",
+      "summary": "Lise Buyer, Founder of Class V Group and one of the chief architects of Google’s 2004 auction IPO, discusses Anthropic’s stronger-than-expected IPO demand, share count and pricing after reports had suggested a possible",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-19/nothing-is-going-to-stop-ai-trade-lise-buyer-video",
+      "published_at": "2026-11-20T06:32:52+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "经济",
+      "title": "Nvidia Asked to Sell Chips to Companies Tied to Chinese Military and Megaspeed",
+      "summary": "Lawmakers released confidential information showing the Commerce Department had approved sales of more than 800,000 A.I. chips to Chinese companies, some with military ties.",
       "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html",
-      "published_at": "2026-11-20T00:39:36+08:00"
+      "url": "https://www.nytimes.com/2026/11/19/business/economy/nvidia-chips-commerce-china-huang.html",
+      "published_at": "2026-11-20T06:29:09+08:00"
     },
     {
       "region": "美国",
       "category": "市场",
-      "title": "Booking a Hilton stay? Stack a 20% discount, 5,000 bonus points and up to 200,000 points in card bonus offers",
-      "summary": "New Amex Hilton card members may have instant access to their card number, which makes it easier to take advantage of these promotions.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/select/stack-hilton-hotels-promotions/",
-      "published_at": "2026-11-20T00:37:48+08:00"
+      "title": "How Much Anthropic Are You About to Own?",
+      "summary": "See how much of the stock you may own through common index funds, like those found in retirement accounts.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/19/upshot/anthropic-ipo-stock.html",
+      "published_at": "2026-11-20T06:28:51+08:00"
     },
     {
       "region": "美国",
-      "category": "市场",
-      "title": "Nasdaq gains on strong Anthropic debut, but the broader market is lower: Live updates",
-      "summary": "Traders are focused on how Anthropic performs when it debuts on the Nasdaq Thursday.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html",
-      "published_at": "2026-11-20T00:35:39+08:00"
+      "category": "社会",
+      "title": "The Bay Area Wonders: What Will Anthropic Workers Do With Their Wealth?",
+      "summary": "San Francisco isn’t preparing for an Anthropic shopping spree after employees gain newfound affluence from the company’s initial public offering.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/19/us/anthropic-ipo-spending-wealth-san-francisco.html",
+      "published_at": "2026-11-20T06:25:19+08:00"
     },
     {
       "region": "美国",
-      "category": "市场",
-      "title": "Anthropic indicated at $110 per share, source says: IPO live updates",
-      "summary": "Anthropic IPO live updates: Follow ANT stock's Nasdaq debut, opening share price, valuation and investor reaction to the Claude AI maker.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
-      "published_at": "2026-11-20T00:33:37+08:00"
-    },
-    {
-      "region": "欧洲",
       "category": "科技",
-      "title": "Dutch watchdog tells people not to buy AI smart glasses",
-      "summary": "Tests of glasses showed some misread medicine instructions or pretended to have called an ambulance",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-20T00:33:17+08:00"
+      "title": "Robinhood CIO on Retail Access to Anthropic’s IPO",
+      "summary": "Stephanie Guild, CIO over at Robinhood Markets, discusses the record breaking IPO of Anthropic and what it says for the AI Trade.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-19/robinhood-cio-on-retail-access-to-anthropic-s-ipo-video",
+      "published_at": "2026-11-20T06:24:11+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "市场",
+      "title": "Congress passes bill to protect older investors from financial fraud",
+      "summary": "Both chambers of Congress have now approved the Financial Exploitation Prevention Act of 2025, which is aimed at protecting vulnerable investors from fraud.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/19/financial-exploitation-prevention-act-older-investors-fraud.html",
+      "published_at": "2026-11-20T06:23:29+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "科技",
+      "title": "US Approved AI Chip Sales to China’s Tencent, Alibaba, Data Show",
+      "summary": "Nvidia Corp. and Advanced Micro Devices Inc.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/us-approved-ai-chip-sales-to-china-s-tencent-alibaba-data-show",
+      "published_at": "2026-11-20T06:21:54+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "市场",
+      "title": "Why Is the Stock Market Down After Anthropic’s Successful IPO?",
+      "summary": "Anthropic shares rose in their first day of trading, while both the S&P 500 and Nasdaq indexes fell. There are a few factors at play.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-stock-market.html",
+      "published_at": "2026-11-20T06:17:42+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "经济",
+      "title": "Anthropic shares end first day of trading at $97 as Wall Street closes sharply lower – as it happened",
+      "summary": "All ⁠three major US stock indexes ⁠ended the session ​sharply lower after record-breaking IPO by maker behind AI agent Claude Anthropic closes first day of public trading at $1.3tn valuation Protesters rally in New York",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
+      "published_at": "2026-11-20T06:13:52+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "经济",
+      "title": "Why China’s Export Machine Seems Unstoppable",
+      "summary": "In this Bloomberg Originals weekly documentary, we explore how the West’s tariffs and restrictions have failed to derail Beijing’s global trade march.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/why-china-s-export-machine-seems-unstoppable",
+      "published_at": "2026-11-20T06:13:35+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "经济",
+      "title": "Judge Allows Trump’s $15 Billion Case Against The Times to Proceed",
+      "summary": "Mr. Trump accused the news organization and the book publisher Penguin Random House of disparaging his reputation as a successful businessman.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/19/business/media/new-york-times-trump-defamation-case.html",
+      "published_at": "2026-11-20T06:08:48+08:00"
     },
     {
       "region": "欧洲",
       "category": "政治",
-      "title": "Live Updates: Trump, Xi and Putin Seek to Project Power at Their First Summit",
+      "title": "Trump, Xi and Putin Seek to Project Power at Their First Summit",
       "summary": "The meeting in China appeared to be largely symbolic. After President Trump departed, President Vladimir V.",
       "source": "纽约时报",
       "url": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec",
-      "published_at": "2026-11-20T00:31:59+08:00"
+      "published_at": "2026-11-20T06:04:42+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "经济",
+      "title": "This Billionaire Just Made a Bundle Off A.I. But It Could Have Been More.",
+      "summary": "Gregory Jensen, a hedge-fund billionaire, invested early in Anthropic and OpenAI. But to fund a succession plan at his firm, he told colleagues that he sold his OpenAI stake.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/19/business/anthropic-openai-gregory-jensen.html",
+      "published_at": "2026-11-20T06:03:46+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "科技",
+      "title": "Why China Is Still Winning the Export Race",
+      "summary": "Despite years of tariffs and trade barriers thrown up by the West, China’s export surplus is on track for a record in 2026. How did Beijing prevail, and can its rivals slow it down?",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-19/why-china-is-still-winning-the-export-race-video",
+      "published_at": "2026-11-20T06:01:00+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "市场",
+      "title": "New rail links would bring Asean even closer to China. Will Beijing pay to make it happen?",
+      "summary": "China and Laos marked a milestone in October, as their joint railway line surpassed 100 billion yuan (US$15 billion) in the cumulative value of imports and exports sent by trains.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/economy/global-economy/article/3375084/new-rail-links-would-bring-asean-even-closer-china-will-beijing-pay-make-it-happen",
+      "published_at": "2026-11-20T06:00:11+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "科技",
+      "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
+      "summary": "Members of Congress have pushed in the wake of the Jensen Huang scandal for legislation to tighten export controls on chip sales to China.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
+      "published_at": "2026-11-20T05:43:30+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "经济",
+      "title": "‘Hong Kong is back’ narrative built on more than hope and hype",
+      "summary": "Hong Kong will be one of the fastest-growing economies in the Asia-Pacific this year. That is according to Goldman Sachs, which expects the city to grow 5.1 per cent.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3374999/hong-kong-back-narrative-built-more-hope-and-hype",
+      "published_at": "2026-11-20T05:30:07+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "市场",
+      "title": "AMD dives on short-seller report of alleged China exposure",
+      "summary": "AMD closed down over 7% after a short-seller alleged that its firmware showed up at a blacklisted Chinese company. The company said it complies with U.S.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
+      "published_at": "2026-11-20T05:14:46+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "社会",
+      "title": "Guardian Australia takes home two Walkley awards for excellence in journalism",
+      "summary": "Stories revealing Pauline Hanson’s US trip with Gina Rinehart and the systemic betrayal of Kardell Lomas before her death recognised Get our breaking news email , free app or daily news podcast Guardian Australia",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/19/guardian-australia-takes-home-two-walkley-awards-for-excellence-in-journalism",
+      "published_at": "2026-11-20T05:04:01+08:00"
     },
     {
       "region": "中国",
       "category": "政治",
-      "title": "Major Powers Vow to Increase Oil Supply Amid Global Energy Transition",
-      "summary": "The United States, China and Russia agreed to boost the supply of refined petroleum products, as oil prices spike because of the Iran war.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/19/world/asia/russia-china-united-states-oil-joint-statement.html",
-      "published_at": "2026-11-20T00:31:30+08:00"
+      "title": "Australian PM to meet Xi Jinping as iron ore tensions loom",
+      "summary": "Prime Minister Anthony Albanese to hold bilateral talks with China’s president on Friday",
+      "source": "金融时报",
+      "url": "https://www.ft.com/content/ddbf0f75-047a-421a-87c0-3e60bf42ed22?syn-25a6b1a6=1",
+      "published_at": "2026-11-20T05:00:10+08:00"
     },
     {
-      "region": "美国",
+      "region": "中国",
       "category": "市场",
-      "title": "Anthropic IPO: Investors who flip the stock may face brokerage penalty",
-      "summary": "Brokerage firms may put future IPO limits in place for investors who sell their Anthropic stake too soon.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-flipping-rules.html",
-      "published_at": "2026-11-20T00:31:23+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "市场",
-      "title": "Gold's bad year is getting worse. Why its price keeps falling",
-      "summary": "Gold has fallen sharply from its January record as higher interest rates and a stronger dollar change the investment case for the precious metal.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/19/gold-prices-fall-fed-rates-dollar.html",
-      "published_at": "2026-11-20T00:29:52+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "经济",
-      "title": "Anthropic set to open more than 30% higher at $110 a share after blockbuster IPO – business live",
-      "summary": "Rolling coverage of Anthropic’s IPO, and the latest economic and financial news Anthropic to begin public trading at $1.5tn valuation after largest ever IPO Outages, spies, and trillion-dollar IPOs: is this our AI",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
-      "published_at": "2026-11-20T00:29:28+08:00"
+      "title": "Tata Sons Largest Shareholder Meets to Discuss Listing Amid Rift",
+      "summary": "India’s Tata Group is entering a critical fortnight as the conglomerate’s controlling shareholders and holding company prepare for back-to-back meetings amid a governance dispute that has spilled beyond the boardroom.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/tata-sons-largest-shareholder-meets-to-discuss-listing-amid-rift",
+      "published_at": "2026-11-20T05:00:00+08:00"
     },
     {
       "region": "欧洲",
       "category": "政治",
-      "title": "Election date? Brexit reset outcome? Farage’s survival chances? Andrew Sparrow answers your questions",
-      "summary": "The Guardian’s UK politics blogger is conducting a live Q&A These are from my colleague Peter Walker , who was at the Tory event where James Cleverly was named as the party’s candidate for London mayor.",
+      "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
+      "summary": "Britain makes concessions on youth mobility scheme as negotiations on food and farming go down to the wire British and European negotiators were striving to put the finishing touches to a deal on Thursday night as they",
       "source": "卫报",
-      "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
-      "published_at": "2026-11-20T00:28:32+08:00"
+      "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
+      "published_at": "2026-11-20T04:52:05+08:00"
     },
     {
-      "region": "美国",
-      "category": "市场",
-      "title": "Josh Brown says the breakout potential in this stock is staring investors in the face",
-      "summary": "This name made Josh Brown's Best Stocks in the Market list earlier this fall.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/19/josh-brown-says-the-breakout-potential-in-this-stock-is-staring-investors-in-the-face.html",
-      "published_at": "2026-11-20T00:28:22+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "市场",
-      "title": "Palo Alto stock jumps on earnings beat and company's big bet on securing open-weight models",
-      "summary": "Palo Alto Networks reported better-than-expected first-quarter results and inked a $4.5 billion deal for AI startup Applied Compute",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/19/palo-alto-networks-earnings-applied-compute.html",
-      "published_at": "2026-11-20T00:28:06+08:00"
+      "region": "中国",
+      "category": "政治",
+      "title": "Critics accuse Trump of falling asleep at international summit – video",
+      "summary": "Donald Trump was accused of falling asleep during Chinese president Xi Jinping's speech at the Asia-Pacific Economic Cooperation summit in China on 19 November.",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/us-news/video/2026/nov/19/critics-accuse-trump-of-falling-asleep-at-international-summit-video",
+      "published_at": "2026-11-20T04:27:38+08:00"
     },
     {
       "region": "欧洲",
       "category": "社会",
-      "title": "‘Take temperature down’ over guidance on single-sex spaces, head of UK equalities body urges",
-      "summary": "EHRC chair says ‘misinformation’ about guidance issued after supreme court ruling has created ‘more anxiety’ The head of the UK’s equalities watchdog has urged people to “take the temperature down” on reaction to",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/society/2026/nov/19/ehrc-guidance-single-sex-spaces-transgender-supreme-court",
-      "published_at": "2026-11-20T00:27:10+08:00"
+      "title": "At least one dead and dozens missing after migrant boat capsizes off Senegal en route to Spain",
+      "summary": "The latest sinking comes amid a sharp rise in departures towards the Canary Islands, with more than 11,000 people reaching the Spanish archipelago in the first two weeks of November.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/19/at-least-one-dead-and-dozens-missing-after-migrant-boat-capsizes-off-senegal-en-route-to-s",
+      "published_at": "2026-11-20T04:21:25+08:00"
     },
     {
-      "region": "中国",
+      "region": "欧洲",
       "category": "市场",
-      "title": "AMD falls on short-seller report of alleged China exposure",
-      "summary": "AMD was slumping Wednesday after a short-seller alleged that its firmware showed up at blacklisted Chinese company",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
-      "published_at": "2026-11-20T00:24:53+08:00"
+      "title": "Who are Anthropic’s seven co-founders, now worth $180bn?",
+      "summary": "The company counts physicists, a former journalist and an associate of the pope among its guiding lights The paper fortunes of Anthropic’s seven co-founders reached a total of more than $180bn on Thursday as shares in",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/technology/2026/nov/19/who-are-anthropic-founders",
+      "published_at": "2026-11-20T04:05:13+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "政治",
+      "title": "法国加强选举监管 大型YouTuber首次须遵守政治多元规则",
+      "summary": "法国视听和数字通信监管机构Arcom宣布，在2027年总统大选期间，部分大型网络内容创作者将首次被要求遵守政治报道多元化原则，引发法国网红和视频创作者的反弹。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261119-%E6%B3%95%E5%9B%BD%E5%8A%A0%E5%BC%BA%E9%80%89%E4%B8%BE%E7%9B%91%E7%AE%A1-%E5%A4%A7%E5%9E%8Byoutuber%E9%A6%96%E6%AC%A1%E9%A1%BB%E9%81%B5%E5%AE%88%E6%94%BF%E6%B2%BB%E5%A4%9A%E5%85%83%E8%A7%84%E5%88%99",
+      "published_at": "2026-11-20T03:41:27+08:00"
     },
     {
       "region": "美国",
       "category": "科技",
-      "title": "Anthropic CEO acknowledges AI has 'very real risks' shortly before IPO – video",
-      "summary": "Anthropic's CEO, Dario Amodei, issued a warning about the dangers of AI, saying it has 'very real' but 'avoidable' risks, shortly before the company rang the opening bell at Nasdaq Anthropic ‘to open up more than 20%",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/technology/video/2026/nov/19/anthropic-dario-amodei-acknowledges-ai-risks-before-ipo-video",
-      "published_at": "2026-11-20T00:24:13+08:00"
+      "title": "美国芯片出口管制遇挑战 CNN称多所中国高校采购英伟达芯片",
+      "summary": "美国对先进人工智能芯片出口限制的执行面临新的挑战。CNN调查中国高校采购记录发现，至少六所被美国政府列入限制名单的中国高校，近年来曾申报购买受出口管制影响的英伟达（Nvidia）芯片。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261119-%E7%BE%8E%E5%9B%BD%E8%8A%AF%E7%89%87%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E9%81%87%E6%8C%91%E6%88%98-cnn%E7%A7%B0%E5%A4%9A%E6%89%80%E4%B8%AD%E5%9B%BD%E9%AB%98%E6%A0%A1%E9%87%87%E8%B4%AD%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%8A%AF%E7%89%87",
+      "published_at": "2026-11-20T02:59:20+08:00"
     },
     {
       "region": "欧洲",
       "category": "社会",
-      "title": "Drone Hits Dutch Embassy Compound in Kyiv, Ukrainian Officials Say",
-      "summary": "Dutch officials said a projectile hit just behind the embassy compound, and that no one was harmed. Russia launched a wave of attacks into Ukraine’s capital on Thursday.",
+      "title": "Jason White on Andy Burnham’s overtures to the EU – cartoon",
+      "summary": "Continue reading...",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/commentisfree/picture/2026/nov/19/jason-white-on-andy-burnhams-overtures-to-the-eu-cartoon",
+      "published_at": "2026-11-20T02:49:01+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "社会",
+      "title": "俄罗斯借GTA 6热潮发布征兵宣传",
+      "summary": "俄罗斯国防部利用全球热门电子游戏《侠盗猎车手VI》（Grand Theft Auto VI）发布宣传图，鼓励民众加入军队、参与乌克兰战事。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261119-%E4%BF%84%E7%BD%97%E6%96%AF%E5%80%9Fgta-vi%E7%83%AD%E6%BD%AE%E5%8F%91%E5%B8%83%E5%BE%81%E5%85%B5%E5%AE%A3%E4%BC%A0",
+      "published_at": "2026-11-20T02:48:27+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "社会",
+      "title": "Dutch and Austrian Embassies Are Damaged as Russian Drones Swarm Kyiv",
+      "summary": "Foreign ministers for Austria and the Netherlands said no one was harmed at their embassy compounds, and the European Union’s ambassador said a drone “exploded right above my head\" by her hotel.",
       "source": "纽约时报",
       "url": "https://www.nytimes.com/2026/11/19/world/europe/ukraine-dutch-embassy.html",
-      "published_at": "2026-11-20T00:21:40+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "社会",
-      "title": "Southern California braced for fierce storm after record rain in San Francisco",
-      "summary": "Planes temporarily grounded, roads flooded and tens of thousands lose power, with evacuations in south of state Southern California braced for the arrival of a fierce winter storm that already set records for rainfall",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/us-news/2026/nov/19/california-atmospheric-river-san-francisco-rain-record",
-      "published_at": "2026-11-20T00:21:07+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "市场",
-      "title": "Trump, Xi, Putin said they plan to boost oil production, revamp UN after trilateral talks",
-      "summary": "The leaders of the U.S., China and Russia met in Shenzhen, China on Thursday for a rare trilateral gathering.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html",
-      "published_at": "2026-11-20T00:19:00+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "经济",
-      "title": "Anthropic’s Public Debut Sets Up ‘Experiment’ in Corporate Power",
-      "summary": "The artificial intelligence giant will become by far the largest publicly traded “public benefit corporation,” a structure that mandates it balance safety and profit.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/18/business/anthropic-ipo-corporate-governance.html",
-      "published_at": "2026-11-20T00:12:00+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "经济",
-      "title": "China Is Shut Out of Anthropic’s Blockbuster I.P.O.",
-      "summary": "Anthropic excluded investment firms from China and Hong Kong from buying shares in advance of its initial public offering.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-china-hong-kong.html",
-      "published_at": "2026-11-20T00:10:29+08:00"
+      "published_at": "2026-11-20T02:47:57+08:00"
     },
     {
       "region": "欧洲",
+      "category": "科技",
+      "title": "Sage maps out the attractions of the UK’s tech hinterland",
+      "summary": "By embedding AI into its products, the software group hopes it can dissuade its small business clients from looking elsewhere",
+      "source": "金融时报",
+      "url": "https://www.ft.com/content/0918d3ec-f398-4508-8027-33c0f7327a50?syn-25a6b1a6=1",
+      "published_at": "2026-11-20T02:44:09+08:00"
+    },
+    {
+      "region": "中国",
       "category": "社会",
-      "title": "Four UK men convicted of sexual assault and rape of drugged woman at invitation of husband",
-      "summary": "Former Tory councillor advertised ex-wife on swinging websites and drugged and bound her for sex Four men have been convicted of sexually assaulting and raping a woman at the invitation of her husband who had drugged",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/19/men-convicted-sexual-assault-and-rape-woman-at-invitation-of-husband",
-      "published_at": "2026-11-20T00:08:06+08:00"
+      "title": "彭博记者遭拒进入美中俄会谈 中国媒体管控再受关注",
+      "summary": "中国当局周四禁止彭博社记者安玛丽·霍登（Annmarie Hordern）进入美国、中国和俄罗斯领导人三方会谈现场，事件再次引发外界对中国媒体管控的关注。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261119-%E5%BD%AD%E5%8D%9A%E8%AE%B0%E8%80%85%E9%81%AD%E6%8B%92%E8%BF%9B%E5%85%A5%E7%BE%8E%E4%B8%AD%E4%BF%84%E4%BC%9A%E8%B0%88-%E4%B8%AD%E5%9B%BD%E5%AA%92%E4%BD%93%E7%AE%A1%E6%8E%A7%E5%86%8D%E5%8F%97%E5%85%B3%E6%B3%A8",
+      "published_at": "2026-11-20T02:38:07+08:00"
     },
     {
       "region": "美国",
+      "category": "政治",
+      "title": "南非总统拉马福萨考察美国硅谷",
+      "summary": "南非总统西里尔·拉马福萨（le président sud-africain Cyril Ramaphosa）率领着一支庞大的代表团正在对美国展开为期一个星期的跨大西洋访问（une visite outre-Atlantique）。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261119-rfi%E6%B3%95%E5%B9%BF-%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E5%8D%97%E9%9D%9E%E6%80%BB%E7%BB%9F%E6%8B%89%E9%A9%AC%E7%A6%8F%E8%90%A8%E8%80%83%E5%AF%9F%E7%BE%8E%E5%9B%BD%E7%A1%85%E8%B0%B7",
+      "published_at": "2026-11-20T02:32:50+08:00"
+    },
+    {
+      "region": "欧洲",
       "category": "经济",
-      "title": "Meet Anthropic’s seven founders. Each is now worth about $20 billion.",
-      "summary": "Meet Anthropic’s seven founders. Each is now worth about $20 billion.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/meet-anthropics-seven-founders-each-is-now-worth-about-20-billion",
-      "published_at": "2026-11-20T00:05:01+08:00"
+      "title": "ECB’s Panetta Says Inflation Mustn’t Be Allowed to Take Root",
+      "summary": "The European Central Bank must prevent inflation from becoming entrenched but without causing undue harm to the economy, Governing Council member Fabio Panetta said.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/ecb-s-panetta-says-inflation-mustn-t-be-allowed-to-take-root",
+      "published_at": "2026-11-20T02:32:19+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "市场",
+      "title": "Leaked files shine a harsh light on Deutsche Bank",
+      "summary": "Revelations about Germany’s biggest lender carry lessons for European peers",
+      "source": "金融时报",
+      "url": "https://www.ft.com/content/e444203b-c639-4cb5-b35a-75829d2d62de?syn-25a6b1a6=1",
+      "published_at": "2026-11-20T02:30:01+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "市场",
+      "title": "Anthropic登陆纳斯达克 人工智能公司IPO创纪录",
+      "summary": "美国人工智能公司Anthropic周四登陆纳斯达克，上市首日表现强劲，在整体市场低迷之际受到投资者追捧。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261119-anthropic%E7%BA%B3%E6%96%AF%E8%BE%BE%E5%85%8B%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E5%A4%A7%E6%B6%A8-%E5%B8%82%E5%80%BC%E7%AA%81%E7%A0%B4%E4%B8%A4%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
+      "published_at": "2026-11-20T02:15:48+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "科技",
+      "title": "Anthropic keeps the AI party swinging, but the atmosphere is bubbly | Nils Pratley",
+      "summary": "Can the newly listed AI company really be worth $2tn?",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/19/anthropic-keeps-ai-party-swinging-but-atmosphere-bubbly",
+      "published_at": "2026-11-20T02:15:48+08:00"
     },
     {
       "region": "中国",
@@ -227,24 +362,6 @@
       "published_at": "2026-11-20T00:02:59+08:00"
     },
     {
-      "region": "中国",
-      "category": "经济",
-      "title": "HKECIC at 60 navigates a changing world of trade",
-      "summary": "[The content of this article has been produced by our advertising partner.] For a Hong Kong exporter, securing an overseas order is only half the battle.",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/presented/business/topics/hkecic-60-navigates-trade/article/3374895/hkecic-60-navigates-changing-world-trade",
-      "published_at": "2026-11-20T00:00:09+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "科技",
-      "title": "APEC 2026 Meets Tencent Cloud: A New Era for Global Media Centres",
-      "summary": "[The content of this article has been produced by our advertising partner.] SHENZHEN, China, 20 November 2026 – As global leaders gather in Shenzhen for the 33rd APEC Economic Leaders’ Week, Tencent Cloud is",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/presented/business/topics/apec-2026-meets-tencent-cloud/article/3374893/apec-2026-meets-tencent-cloud-new-era-global-media-centres",
-      "published_at": "2026-11-20T00:00:08+08:00"
-    },
-    {
       "region": "美国",
       "category": "科技",
       "title": "财务披露文件显示，特朗普9月买入最高26.5万美元的英伟达股票",
@@ -252,33 +369,6 @@
       "source": "法国国际广播电台",
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261119-%E8%B4%A2%E5%8A%A1%E6%8A%AB%E9%9C%B2%E6%96%87%E4%BB%B6%E6%98%BE%E7%A4%BA%EF%BC%8C%E7%89%B9%E6%9C%97%E6%99%AE9%E6%9C%88%E4%B9%B0%E5%85%A5%E6%9C%80%E9%AB%9826-5%E4%B8%87%E7%BE%8E%E5%85%83%E7%9A%84%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%82%A1%E7%A5%A8",
       "published_at": "2026-11-19T23:57:03+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "社会",
-      "title": "After Bridge Attack, Putin Says He Will ‘Not Be Negotiating’ Ukraine Cease-Fires",
-      "summary": "The Russian leader invited European representatives to Moscow to discuss giving them a role in negotiations. It was unclear how serious the offer was.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/19/world/europe/putin-shenzhen-crimea-bridge.html",
-      "published_at": "2026-11-19T23:54:42+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "社会",
-      "title": "3 dead, 3 trapped as Georgia building collapses after gas blast",
-      "summary": "A suspected natural gas explosion in a residential block in Tbilisi in the country of Georgia killed three people on Thursday, while three others remained trapped under rubble, officials said.",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/news/world/europe/article/3375125/3-dead-3-trapped-georgia-building-collapses-after-gas-blast",
-      "published_at": "2026-11-19T23:52:57+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "科技",
-      "title": "UK loses bid to keep Apple ‘backdoor’ order secret",
-      "summary": "Privacy rights campaigners laud a ‘big win for accountability, transparency and online security’",
-      "source": "金融时报",
-      "url": "https://www.ft.com/content/46a5cf3c-a827-477f-b72f-e7415565e729?syn-25a6b1a6=1",
-      "published_at": "2026-11-19T23:50:37+08:00"
     },
     {
       "region": "中国",
@@ -299,42 +389,6 @@
       "published_at": "2026-11-19T23:42:33+08:00"
     },
     {
-      "region": "欧洲",
-      "category": "经济",
-      "title": "EU must move beyond piecemeal trade deals with China, MEPs warn",
-      "summary": "MEPs are calling on the European Commission to “ease” the regulatory burden on EU companies and deploy “horizontal” trade defence tools to tackle Chinese competition.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/19/eu-must-move-beyond-piecemeal-trade-deals-with-china-meps-warn",
-      "published_at": "2026-11-19T23:30:48+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "市场",
-      "title": "Milbank swoops on Weil Paris office as US law firms target European growth",
-      "summary": "Recruitment of 87-lawyer team will give Milbank a French office for first time",
-      "source": "金融时报",
-      "url": "https://www.ft.com/content/d3f558d6-bbe3-4ba6-b831-8064579a6731?syn-25a6b1a6=1",
-      "published_at": "2026-11-19T23:30:08+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "经济",
-      "title": "More support for households reliant on heating oil",
-      "summary": "North Northamptonshire Council is encouraging eligible residents to apply for more support.",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwm2mj7vezr3o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-19T23:22:31+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "政治",
-      "title": "德语媒体：特朗普助力习近平",
-      "summary": "《法兰克福汇报》评论认为，习近平之所以能够成为深圳峰会上的最大赢家，离不开美国总统特朗普的积极配合和努力。",
-      "source": "德国之声",
-      "url": "https://www.dw.com/zh/德语媒体：特朗普助力习近平/a-79993891?maca=chi-rss-chi-all-1127-xml-mrss",
-      "published_at": "2026-11-19T23:15:00+08:00"
-    },
-    {
       "region": "中国",
       "category": "政治",
       "title": "肢体语言透露什么？专家解读习近平、特朗普与普京的互动",
@@ -351,60 +405,6 @@
       "source": "德国之声",
       "url": "https://www.dw.com/zh/谁是最大赢家？三巨头会晤并发表《和平宣言》/a-79991746?maca=chi-rss-chi-all-1127-xml-mrss",
       "published_at": "2026-11-19T21:07:00+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "政治",
-      "title": "怎样继续支持乌克兰？柏林举行“自愿者联盟”会议",
-      "summary": "几十位主要来自欧洲的国家元首和政府首脑周四（11月19日）聚集德国首都柏林，德国总理默茨作为东道主，领衔这场围绕乌克兰展开的一系列讨论。",
-      "source": "德国之声",
-      "url": "https://www.dw.com/zh/怎样继续支持乌克兰？柏林举行-自愿者联盟-会议/a-79991386?maca=chi-rss-chi-all-1127-xml-mrss",
-      "published_at": "2026-11-19T20:50:00+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "政治",
-      "title": "毛里求斯要加入查戈斯群岛讨论",
-      "summary": "印度洋岛国毛里求斯（Maurice）提出加入美英两国有关查戈斯群岛（Archipel des Chagos）未来的讨论。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20261119-rfi%E6%B3%95%E5%B9%BF-%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E6%AF%9B%E9%87%8C%E6%B1%82%E6%96%AF%E8%A6%81%E5%8A%A0%E5%85%A5%E6%9F%A5%E6%88%88%E6%96%AF%E7%BE%A4%E5%B2%9B%E8%AE%A8%E8%AE%BA",
-      "published_at": "2026-11-19T20:07:57+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "政治",
-      "title": "特习普结束历史性三方会晤，讨论乌战与核军控并发表联合《和平宣言》",
-      "summary": "周四（11月19日），美国总统特朗普、中国国家主席习近平和俄罗斯总统普京结束了一场前所未有的三方会晤。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261119-%E7%89%B9%E4%B9%A0%E6%99%AE%E7%BB%93%E6%9D%9F%E5%8E%86%E5%8F%B2%E6%80%A7%E4%B8%89%E6%96%B9%E4%BC%9A%E6%99%A4%EF%BC%8C%E8%AE%A8%E8%AE%BA%E4%B9%8C%E6%88%98%E4%B8%8E%E6%A0%B8%E5%86%9B%E6%8E%A7%E5%B9%B6%E5%8F%91%E8%A1%A8%E8%81%94%E5%90%88-%E5%92%8C%E5%B9%B3%E5%AE%A3%E8%A8%80",
-      "published_at": "2026-11-19T19:30:00+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "社会",
-      "title": "高市早苗：对台立场不变 遵循《日中联合声明》",
-      "summary": "日本首相高市早苗11月19日在中国深圳表示，日本对台湾的立场自1972年以来没有改变，对中国主张台湾是其领土一部分的立场表示“充分理解和尊重”。",
-      "source": "德国之声",
-      "url": "https://www.dw.com/zh/高市早苗：对台立场不变-遵循《日中联合声明》/a-79989505?maca=chi-rss-chi-all-1127-xml-mrss",
-      "published_at": "2026-11-19T18:18:00+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "政治",
-      "title": "朝中社报导金正恩视察海军大学，韩总统府：尚未发现朝美领导人可能会晤的“特殊动向”",
-      "summary": "朝鲜官方媒体周四（11月19日）报导，朝鲜最高领导人金正恩近日视察了一所海军大学和多处造船设施。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261119-%E6%9C%9D%E4%B8%AD%E7%A4%BE%E6%8A%A5%E5%AF%BC%E9%87%91%E6%AD%A3%E6%81%A9%E8%A7%86%E5%AF%9F%E6%B5%B7%E5%86%9B%E5%A4%A7%E5%AD%A6%EF%BC%8C%E9%9F%A9%E6%80%BB%E7%BB%9F%E5%BA%9C-%E5%B0%9A%E6%9C%AA%E5%8F%91%E7%8E%B0%E6%9C%9D%E7%BE%8E%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%99%A4%E7%9A%84-%E7%89%B9%E6%AE%8A%E5%8A%A8%E5%90%91",
-      "published_at": "2026-11-19T18:01:50+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "社会",
-      "title": "乌克兰一周内三次袭击克里米亚大桥 铁路运输中断",
-      "summary": "乌克兰在一周内三次袭击连接俄罗斯与克里米亚的大桥，导致大桥的铁路运输被迫中断。数小时之后，美俄中三方会晤在深圳上演。",
-      "source": "德国之声",
-      "url": "https://www.dw.com/zh/乌克兰一周内三次袭击克里米亚大桥-铁路运输中断/a-79988821?maca=chi-rss-chi-all-1127-xml-mrss",
-      "published_at": "2026-11-19T17:53:00+08:00"
     }
   ]
 }
