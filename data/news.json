@@ -1,230 +1,176 @@
 {
-  "updated_at": "2026-11-20T12:12:31+08:00",
+  "updated_at": "2026-11-21T00:18:15+08:00",
   "items": [
     {
       "region": "美国",
-      "category": "经济",
-      "title": "Why the ball is in Kim Jong-un’s court on a meeting with Donald Trump",
-      "summary": "North Korean leader Kim Jong-un’s absence from the Asia-Pacific Economic Cooperation gathering in Shenzhen could indicate that a meeting with Donald Trump will not take place in the foreseeable future.",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3375160/why-ball-kim-jong-uns-court-meeting-donald-trump",
-      "published_at": "2026-11-20T12:07:56+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "科技",
-      "title": "AI Spurs Funding Needs as Top Japan Power Producer Weighs IPO",
-      "summary": "Japan’s biggest electricity producer said the artificial intelligence boom is supporting the case for investment in the power sector as it considers ways to raise funds for expansion, including a possible initial public",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/ai-spurs-funding-needs-as-top-japan-power-producer-weighs-ipo",
-      "published_at": "2026-11-20T12:00:05+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "政治",
-      "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
-      "summary": "The permitting bill's Senate passage is a key step to it becoming law, but it would also need to clear the House before heading to President Trump's desk.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html",
-      "published_at": "2026-11-20T11:56:17+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "政治",
-      "title": "Justice Department Gives Up on Alaska Senate Lawsuit",
-      "summary": "The Trump administration had sought to block certification of election results if Senator Dan Sullivan, a Republican, lost narrowly in his bid for re-election. Critics had called the suit meritless.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/19/us/politics/justice-department-gives-up-on-alaska-senate-lawsuit.html",
-      "published_at": "2026-11-20T11:47:05+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "经济",
-      "title": "China Solar Cell Exports Rise for Second Month on Tariff Rush",
-      "summary": "China’s solar cell exports expanded for a second month in October as overseas buyers rushed to stock up before US tariffs on polysilicon take effect in early December.",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/china-solar-cell-exports-rise-for-second-month-on-tariff-rush",
-      "published_at": "2026-11-20T11:40:28+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "社会",
-      "title": "Hong Kong police hunt man suspected of stealing cameras, lenses worth HK$1.9 million",
-      "summary": "Hong Kong police are searching for a man suspected of stealing 61 cameras and 55 lenses worth nearly HK$1.9 million (US$242,300) from a shop in Causeway Bay, the South China Morning Post has learned.",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3375157/hong-kong-police-hunt-man-suspected-stealing-cameras-lenses-worth-hk19-million",
-      "published_at": "2026-11-20T11:38:58+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "经济",
-      "title": "NZ Central Bank’s Chief Economist Urges Government to Stop Messing With Mandate",
-      "summary": "Reserve Bank of New Zealand Chief Economist Paul Conway called on future finance ministers to stop tinkering with the central bank’s mandate, warning that repeated changes affect how monetary policy is conducted.",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/nz-central-bank-s-chief-economist-urges-government-to-stop-messing-with-mandate",
-      "published_at": "2026-11-20T11:38:19+08:00"
-    },
-    {
-      "region": "美国",
       "category": "市场",
-      "title": "Anthropic IPO 'exactly what the markets need,' but analysts warn of volatility",
-      "summary": "The Anthropic IPO is \"what the markets need.\" However, analysts say its shares will be volatile in the coming weeks.",
+      "title": "Nasdaq tumbles, turns negative for 2026, as Anthropic leads AI sell-off: Live updates",
+      "summary": "A decline in Anthropic shares weighed on the broader market following the artificial intelligence giant's public market debut in the previous session.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-stocks-market.html",
-      "published_at": "2026-11-20T11:38:07+08:00"
+      "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+      "published_at": "2026-11-21T00:14:12+08:00"
     },
     {
       "region": "美国",
       "category": "社会",
-      "title": "Top White House Cybersecurity Official Is Replaced",
-      "summary": "The departure of Sean Cairncross comes after a series of technological outages affected U.S. companies and federal agencies in the past week.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/19/us/politics/white-house-cyber-director-departs.html",
-      "published_at": "2026-11-20T11:31:41+08:00"
+      "title": "How Orchestra Noir turned classical music into a cultural movement",
+      "summary": "Orchestra Noir is back on tour, selling out stages across the country and proving classical music can be anything you want it to be.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/20/g-s1-154644/orchestra-noir-black-musical-tour-classical-music",
+      "published_at": "2026-11-21T00:12:18+08:00"
     },
     {
       "region": "美国",
-      "category": "市场",
-      "title": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
-      "summary": "The declines in Asia come after the tech-heavy Nasdaq Composite fell more than 2% overnight following Anthropic's highly anticipated Wall Street debut.",
+      "category": "科技",
+      "title": "Anthropic stock falls 10% in first full day of trading amid AI sell-off",
+      "summary": "Anthropic opened at $111.50 per share on Thursday, but closed at $97.17, which was 17% above the $83 IPO price.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
-      "published_at": "2026-11-20T11:30:34+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "社会",
-      "title": "Fiona the Hippo, Star of Cincinnati Zoo and Beyond, Dies After Eating Child’s Hat",
-      "summary": "The beloved Nile hippopotamus became ill after eating a children’s hat that accidentally ended up in her enclosure.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/19/us/fiona-hippo-dead-cincinnati-zoo.html",
-      "published_at": "2026-11-20T11:25:05+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "社会",
-      "title": "Debate erupts over China university’s US$4.6m smart system tracking ‘head-raising rates’",
-      "summary": "An elite university in eastern China has spent more than 30 million yuan (US$4.6 million) installing a smart classroom system to track students’ “head-raising rate” – an indicator intended to reflect their attentiveness",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3375156/debate-erupts-over-china-universitys-us46m-smart-system-tracking-head-raising-rates",
-      "published_at": "2026-11-20T11:17:29+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "政治",
-      "title": "China-Russia-US trilateral summit declaration towards peace",
-      "summary": "Chinese President Xi Jinping, US President Donald Trump and Russian President Vladimir Putin held a trilateral summit in Shenzhen on November 19, 2026.",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/plus/news/china/article/3375154/china-russia-us-trilateral-summit-declaration-towards-peace",
-      "published_at": "2026-11-20T11:16:47+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "社会",
-      "title": "California Thieves Carried Out String of Train Heists, Prosecutors Say",
-      "summary": "A crew of 14 men boarded moving trains in Southern California, forced them to stop and made away with sneakers, electronics and power tools, according to an indictment unsealed on Thursday.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/19/us/california-train-robberies-indictment.html",
-      "published_at": "2026-11-20T11:08:13+08:00"
+      "url": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html",
+      "published_at": "2026-11-21T00:10:20+08:00"
     },
     {
       "region": "美国",
       "category": "科技",
-      "title": "White House fires cyber chief after tech chaos rattles US",
-      "summary": "⁠White House national cyber director Sean ⁠Cairncross was “fired” from his job, a person close to the White House said on Thursday, days after technology outages disrupted US air travel, banking and national security",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3375152/white-house-fires-cybersecurity-chief-after-tech-chaos-rattles-us",
-      "published_at": "2026-11-20T11:04:01+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "科技",
-      "title": "Malaysia’s military eyes gamers for South China Sea drone surveillance",
-      "summary": "Malaysia’s military chief Malek Razak Sulaiman said the armed forces are looking at tapping into the digital skills of the nation’s youth, including gamers, to strengthen its drone capabilities.",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3375151/malaysias-military-eyes-gamers-south-china-sea-drone-surveillance",
-      "published_at": "2026-11-20T11:03:54+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "科技",
-      "title": "Trump Offers Xi a Helping Hand on Escalator",
-      "summary": "Donald Trump, 80, offered Xi Jinping, 73, a hand while boarding an escalator, with Xi holding his forearm as he stepped up, during their third summit of the year in Shenzhen.",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-20/trump-offers-xi-a-helping-hand-on-escalator-video",
-      "published_at": "2026-11-20T11:01:17+08:00"
+      "title": "Jensen Huang wasn't mentioned in latest talks with China, Bessent says",
+      "summary": "Questions have been raised over why the Trump administration did not impose restrictions on Megaspeed, a company at the center of the Nvidia scandal.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
+      "published_at": "2026-11-21T00:09:57+08:00"
     },
     {
       "region": "欧洲",
-      "category": "社会",
-      "title": "Is it time to change the UK age of consent? – podcast",
-      "summary": "After Russell Brand’s conviction and accusations against David Walliams, campaigners are calling for a staggered age of consent.",
+      "category": "政治",
+      "title": "The War Is Ravaging Ukraine’s Wildlife, Too",
+      "summary": "The war in Ukraine has had untold consequences for dolphins, moose, storks and a huge range of other wildlife whose habitats are now rife with anti-drone netting, minefields or in the direct line of fire.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html",
+      "published_at": "2026-11-21T00:05:55+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "政治",
+      "title": "Burnham has agreed EU reset deal with tuition fees issue unresolved, says No 10",
+      "summary": "Discord between EU and UK on whether arrangements for food and drink, emissions trading and youth mobility scheme depend on settlement for students UK-EU summit live – latest news updates The UK and EU have agreed a",
       "source": "卫报",
-      "url": "https://www.theguardian.com/news/audio/2026/nov/20/is-it-time-to-change-the-uk-age-of-consent-podcast",
-      "published_at": "2026-11-20T11:00:19+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "经济",
-      "title": "Judge Allows Trump’s $15 Billion Case Against The Times to Proceed",
-      "summary": "Mr. Trump accused the news organization and the book publisher Penguin Random House of disparaging his reputation as a successful businessman.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/19/business/media/new-york-times-trump-defamation-case.html",
-      "published_at": "2026-11-20T10:48:52+08:00"
+      "url": "https://www.theguardian.com/politics/2026/nov/20/fallout-over-tuition-fees-may-snag-burnhams-eu-deal-say-insiders",
+      "published_at": "2026-11-21T00:03:13+08:00"
     },
     {
       "region": "欧洲",
       "category": "政治",
-      "title": "Russian barrage damages embassies and cathedral in Ukraine capital",
-      "summary": "A wave of daytime Russian strikes on Kyiv on Thursday killed one person and damaged a historic cathedral as well as the embassies of Austria and the Netherlands.",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/news/world/europe/article/3375146/russian-barrage-damages-embassies-and-cathedral-ukraine-capital",
-      "published_at": "2026-11-20T10:33:41+08:00"
+      "title": "Italy: Workers and students stage nationwide strike over living costs",
+      "summary": "Workers and students marched through Rome, on Friday 20 November 2026, joining a nationwide strike over stagnant wages, rising living costs and government spending priorities.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/video/2026/11/20/italy-workers-and-students-stage-nationwide-strike-over-living-costs",
+      "published_at": "2026-11-21T00:02:20+08:00"
     },
     {
-      "region": "中国",
+      "region": "美国",
+      "category": "社会",
+      "title": "Onlookers say botched Texas prison execution is like nothing they have ever seen",
+      "summary": "Reinaldo Dennes’ execution took more than an hour as workers struggled to find suitable veins An observer of the botched execution of Texas prisoner Reinaldo Dennes this week has said the effects of the lethal injection",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/reinaldo-dennes-texas-execution-lethal-injection-botched",
+      "published_at": "2026-11-21T00:00:44+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "经济",
+      "title": "Suki Waterhouse and Robert Pattinson to become Britain’s next big Hollywood power couple",
+      "summary": "Duo’s fame set to soar after Pattinson announced as next James Bond – but they will take newgen approach to power He is the next James Bond. She is a successful model/actor/singer-songwriter.",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/film/2026/nov/20/suki-waterhouse-robert-pattinson-britain-hollywood-power-couple",
+      "published_at": "2026-11-21T00:00:33+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "经济",
+      "title": "Is Your Employer Telling You to Use A.I.? We Want to Hear From You.",
+      "summary": "Please tell us what kind of instructions your employer is providing about A.I. We may include your experiences in an article.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/20/business/is-your-employer-telling-you-to-use-ai-we-want-to-hear-from-you.html",
+      "published_at": "2026-11-21T00:00:05+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "市场",
+      "title": "Bitcoin sell-off: Crypto is failing the 'digital gold' test again as it sinks with stocks",
+      "summary": "Bitcoin’s sell-off is tracking risk assets again as experts weigh rates, ETF flows, politics and whether the crypto can function as a market hedge.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/20/bitcoin-price-gold-market-hedge.html",
+      "published_at": "2026-11-20T23:59:21+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "市场",
+      "title": "Anthropic shares slump on second day of trading as markets reel from AI sell-off",
+      "summary": "Asian markets record worst week since 2020 as investors question huge sums being poured into AI build-out Business live – latest updates Anthropic’s shares have slumped at the start of a second day of trading, as its",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "published_at": "2026-11-20T23:59:08+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "社会",
+      "title": "Agriculture Secretary’s Christian Messages to Staff Went ‘Too Far,’ Judge Says",
+      "summary": "A federal judge ordered limits on Brooke Rollins’s promotion of her religious beliefs, saying her emails to her department had violated the First Amendment.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/19/us/politics/rollins-christian-messages.html",
+      "published_at": "2026-11-20T23:56:24+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "社会",
+      "title": "As He Leaves Office, Ken Paxton Drops Suits Against Political Opponents",
+      "summary": "The Texas attorney general has abandoned suits against Muslim and immigrant rights groups — and the N.C.A.A.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/20/us/texas-ken-paxton-drops-lawsuits.html",
+      "published_at": "2026-11-20T23:56:17+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "经济",
+      "title": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
+      "summary": "President of European Council says EU ‘remains open to have the closest possible relationship’ with the UK Senior correspondent Making today’s reset deal contingent on a further agreement on the level of tuition fees",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
+      "published_at": "2026-11-20T23:54:33+08:00"
+    },
+    {
+      "region": "美国",
       "category": "科技",
-      "title": "Hong Kong stocks head for 19-month low as Anthropic’s debut fails to soothe AI jitters",
-      "summary": "Hong Kong stocks fell on Friday, dragging the benchmark gauge to a 19-month low, as the blockbuster listing of AI frontier lab Anthropic in the US failed to revive confidence in technology stocks among investors rattled",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/business/china-business/article/3375145/hong-kong-stocks-head-19-month-low-anthropics-debut-fails-reinvigorate-ai-trade",
-      "published_at": "2026-11-20T10:32:21+08:00"
+      "title": "White House replaces cyber director Sean Cairncross amid widespread tech outages",
+      "summary": "Sean Cairncross will be replaced by Pentagon chief information officer Kirsten Davies.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/20/sean-cairncross-white-house-cyber-director.html",
+      "published_at": "2026-11-20T23:52:45+08:00"
     },
     {
-      "region": "中国",
-      "category": "市场",
-      "title": "Taiwan Stocks Face Worst Week Since 1991 Despite Support Steps",
-      "summary": "Taiwan’s tech-heavy stock market witnessed another selloff on Friday as the global artificial intelligence trade came under further strain, putting the island’s benchmark on course for its worst week since 1991.",
+      "region": "美国",
+      "category": "科技",
+      "title": "What Caused the US Tech Outages? Why Experts Expect More",
+      "summary": "A series of technology outages that began on Nov. 11 spawned a collective freak-out across the US.",
       "source": "彭博",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/taiwan-stocks-taiex-twse-1991-ai-chips-tsmc-hon-hai-foxconn",
-      "published_at": "2026-11-20T10:29:57+08:00"
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/what-caused-the-us-tech-outages-why-experts-expect-more",
+      "published_at": "2026-11-20T23:51:37+08:00"
     },
     {
-      "region": "中国",
+      "region": "美国",
       "category": "市场",
-      "title": "Hong Kong Stocks Fall 20% From 2026 High as AI Selloff Spreads",
-      "summary": "Hong Kong stocks fell toward a grim milestone as an AI-led selloff spread to engulf even the more defensive corners of the market.",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/hong-kong-stocks-hang-seng-hsi-hkex-2026-ai-selloff-bear-market",
-      "published_at": "2026-11-20T10:29:50+08:00"
+      "title": "Ex-GM CEO on Mary Barra succession planning: 'It's going to be tough'",
+      "summary": "Former GM CEO Dan Akerson says whoever replaces Mary Barra will have a difficult task because they'll inherit rapid change in technology and the auto industry.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/20/gm-ceo-succession-mary-barra-dan-akerson.html",
+      "published_at": "2026-11-20T23:50:27+08:00"
     },
     {
       "region": "欧洲",
       "category": "社会",
-      "title": "Turning Climate Warnings Into Household Action",
-      "summary": "[The content of this article has been produced by our advertising partner.] COP31 is taking place in Antalya, Türkiye, from 9 to 20 November, with a clear emphasis on implementation.",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/presented/business/topics/climate-warnings-home-action/article/3374607/turning-climate-warnings-household-action",
-      "published_at": "2026-11-20T10:27:33+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "市场",
-      "title": "Financial Street Securities says chairman detained and under investigation on mainland",
-      "summary": "Hong Kong-listed mainland China brokerage Financial Street Securities says its chairman, Zhu Yanhui, has been placed under investigation and detained by mainland authorities in the latest case involving a senior",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/business/china-business/article/3375144/financial-street-securities-says-chairman-detained-and-under-investigation-mainland",
-      "published_at": "2026-11-20T10:14:01+08:00"
+      "title": "‘Russian Objects’ Crashed in Poland, Officials Say. Here’s What We Can See.",
+      "summary": "There were no injuries or damage from three incidents that the Polish authorities called a likely “provocation” from Russia during military exercises by Ukraine’s allies.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html",
+      "published_at": "2026-11-20T23:49:29+08:00"
     },
     {
       "region": "欧洲",
@@ -233,178 +179,232 @@
       "summary": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers.",
       "source": "BBC",
       "url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-20T08:12:28+08:00"
+      "published_at": "2026-11-20T23:48:35+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "社会",
+      "title": "为什么伊斯兰教到了2035年应会成为世界第一大宗教？",
+      "summary": "根据美国皮尤研究中心 Pew Research Center 最新预测显示，穆斯林最早可能在2035年超越基督教，成为世界上最大的宗教群体。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261120-%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%8A%E6%96%AF%E5%85%B0%E6%95%99%E5%88%B0%E4%BA%862035%E5%B9%B4%E5%BA%94%E4%BC%9A%E6%88%90%E4%B8%BA%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%E5%A4%A7%E5%AE%97%E6%95%99",
+      "published_at": "2026-11-20T23:45:27+08:00"
     },
     {
       "region": "欧洲",
       "category": "经济",
-      "title": "Fish and eggs al desko? The dos and don'ts of the lunch break",
-      "summary": "What is acceptable to eat at your desk, without annoying your colleagues?",
+      "title": "Anthropic shares fall a day after blockbuster opening",
+      "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-20T08:08:37+08:00"
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-20T23:44:53+08:00"
     },
     {
       "region": "欧洲",
       "category": "经济",
-      "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
-      "summary": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
+      "title": "Could you spot a fake banknote?",
+      "summary": "A landlord says he took £100 in fake banknotes during his pub's opening weekend.",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-20T08:02:07+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "经济",
-      "title": "UK Consumers Become More Willing to Spend, GfK Survey Finds",
-      "summary": "British consumers regained their appetite for splashing out on things such as furniture and electronics in November, according to a survey that provides some relief for retailers ahead of crucial festive season.",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/uk-consumers-become-more-willing-to-spend-gfk-survey-finds",
-      "published_at": "2026-11-20T08:01:00+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "社会",
-      "title": "Ukraine: Russian strikes damage Austrian and Dutch embassies in Kyiv",
-      "summary": "Russian strikes damaged the Austrian and Dutch embassies in Kyiv on Thursday. Windows were shattered and vehicles damaged, but diplomatic staff escaped unharmed.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/video/2026/11/20/ukraine-russian-strikes-damage-austrian-and-dutch-embassies-in-kyiv",
-      "published_at": "2026-11-20T07:21:18+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "政治",
-      "title": "习近平 特朗普 普京 谁是最大的赢家",
-      "summary": "这场被美国总统特朗普形容为“书写历史”的美中俄三元首峰会，究竟谁胜谁负，众说纷纭。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261119-%E4%B9%A0%E8%BF%91%E5%B9%B3-%E7%89%B9%E6%9C%97%E6%99%AE-%E6%99%AE%E4%BA%AC-%E8%B0%81%E6%98%AF%E6%9C%80%E5%A4%A7%E7%9A%84%E8%B5%A2%E5%AE%B6",
-      "published_at": "2026-11-20T06:51:29+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "经济",
-      "title": "UK and EU poised to finalise deal to ‘reset’ relations",
-      "summary": "Andy Burnham due to seal accord that will improve British trade with the bloc after dispute resolved with France",
-      "source": "金融时报",
-      "url": "https://www.ft.com/content/912a7730-2428-4d4c-8dde-9c41a99ab562?syn-25a6b1a6=1",
-      "published_at": "2026-11-20T06:44:56+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "政治",
-      "title": "法国加强选举监管 大型YouTuber首次须遵守政治多元规则",
-      "summary": "法国视听和数字通信监管机构Arcom宣布，在2027年总统大选期间，部分大型网络内容创作者将首次被要求遵守政治报道多元化原则，引发法国网红和视频创作者的反弹。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261119-%E6%B3%95%E5%9B%BD%E5%8A%A0%E5%BC%BA%E9%80%89%E4%B8%BE%E7%9B%91%E7%AE%A1-%E5%A4%A7%E5%9E%8Byoutuber%E9%A6%96%E6%AC%A1%E9%A1%BB%E9%81%B5%E5%AE%88%E6%94%BF%E6%B2%BB%E5%A4%9A%E5%85%83%E8%A7%84%E5%88%99",
-      "published_at": "2026-11-20T03:41:27+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "科技",
-      "title": "美国芯片出口管制遇挑战 CNN称多所中国高校采购英伟达芯片",
-      "summary": "美国对先进人工智能芯片出口限制的执行面临新的挑战。CNN调查中国高校采购记录发现，至少六所被美国政府列入限制名单的中国高校，近年来曾申报购买受出口管制影响的英伟达（Nvidia）芯片。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261119-%E7%BE%8E%E5%9B%BD%E8%8A%AF%E7%89%87%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E9%81%87%E6%8C%91%E6%88%98-cnn%E7%A7%B0%E5%A4%9A%E6%89%80%E4%B8%AD%E5%9B%BD%E9%AB%98%E6%A0%A1%E9%87%87%E8%B4%AD%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%8A%AF%E7%89%87",
-      "published_at": "2026-11-20T02:59:20+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "社会",
-      "title": "俄罗斯借GTA 6热潮发布征兵宣传",
-      "summary": "俄罗斯国防部利用全球热门电子游戏《侠盗猎车手VI》（Grand Theft Auto VI）发布宣传图，鼓励民众加入军队、参与乌克兰战事。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261119-%E4%BF%84%E7%BD%97%E6%96%AF%E5%80%9Fgta-vi%E7%83%AD%E6%BD%AE%E5%8F%91%E5%B8%83%E5%BE%81%E5%85%B5%E5%AE%A3%E4%BC%A0",
-      "published_at": "2026-11-20T02:48:27+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "科技",
-      "title": "Sage maps out the attractions of the UK’s tech hinterland",
-      "summary": "By embedding AI into its products, the software group hopes it can dissuade its small business clients from looking elsewhere",
-      "source": "金融时报",
-      "url": "https://www.ft.com/content/0918d3ec-f398-4508-8027-33c0f7327a50?syn-25a6b1a6=1",
-      "published_at": "2026-11-20T02:44:09+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "社会",
-      "title": "彭博记者遭拒进入美中俄会谈 中国媒体管控再受关注",
-      "summary": "中国当局周四禁止彭博社记者安玛丽·霍登（Annmarie Hordern）进入美国、中国和俄罗斯领导人三方会谈现场，事件再次引发外界对中国媒体管控的关注。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261119-%E5%BD%AD%E5%8D%9A%E8%AE%B0%E8%80%85%E9%81%AD%E6%8B%92%E8%BF%9B%E5%85%A5%E7%BE%8E%E4%B8%AD%E4%BF%84%E4%BC%9A%E8%B0%88-%E4%B8%AD%E5%9B%BD%E5%AA%92%E4%BD%93%E7%AE%A1%E6%8E%A7%E5%86%8D%E5%8F%97%E5%85%B3%E6%B3%A8",
-      "published_at": "2026-11-20T02:38:07+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "政治",
-      "title": "南非总统拉马福萨考察美国硅谷",
-      "summary": "南非总统西里尔·拉马福萨（le président sud-africain Cyril Ramaphosa）率领着一支庞大的代表团正在对美国展开为期一个星期的跨大西洋访问（une visite outre-Atlantique）。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261119-rfi%E6%B3%95%E5%B9%BF-%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E5%8D%97%E9%9D%9E%E6%80%BB%E7%BB%9F%E6%8B%89%E9%A9%AC%E7%A6%8F%E8%90%A8%E8%80%83%E5%AF%9F%E7%BE%8E%E5%9B%BD%E7%A1%85%E8%B0%B7",
-      "published_at": "2026-11-20T02:32:50+08:00"
+      "url": "https://www.bbc.co.uk/news/videos/c6808y974d13o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-20T23:40:40+08:00"
     },
     {
       "region": "美国",
       "category": "市场",
-      "title": "Anthropic登陆纳斯达克 人工智能公司IPO创纪录",
-      "summary": "美国人工智能公司Anthropic周四登陆纳斯达克，上市首日表现强劲，在整体市场低迷之际受到投资者追捧。",
+      "title": "Anthropic Shares Slip as AI and Tech Stock Sell-Off Continues",
+      "summary": "The S&P 500 and Nasdaq were on course for their worst weekly performances in over a year. Anthropic’s shares tumbled as much as 8 percent when U.S.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/20/business/anthropic-ai-stocks-sp500.html",
+      "published_at": "2026-11-20T23:35:43+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "社会",
+      "title": "COP31 climate talks go into overtime as nations quarrel over fossil fuels",
+      "summary": "The COP31 climate conference slipped into overtime on Friday as negotiators from nearly 200 ⁠countries struggled to bridge deep divisions ⁠over fossil fuels and climate finance.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/world/article/3375291/cop31-climate-talks-go-overtime-nations-quarrel-over-fossil-fuels",
+      "published_at": "2026-11-20T23:34:06+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "政治",
+      "title": "欧英峰会：伯纳姆试图与欧盟进行风险重合",
+      "summary": "英国首相安迪·伯纳姆于本周五（11月20日）抵达布鲁塞尔, 参加第二次欧盟-英国峰会。",
       "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261119-anthropic%E7%BA%B3%E6%96%AF%E8%BE%BE%E5%85%8B%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E5%A4%A7%E6%B6%A8-%E5%B8%82%E5%80%BC%E7%AA%81%E7%A0%B4%E4%B8%A4%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
-      "published_at": "2026-11-20T02:15:48+08:00"
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20261120-%E6%AC%A7%E8%8B%B1%E5%B3%B0%E4%BC%9A-%E4%BC%AF%E7%BA%B3%E5%A7%86%E8%AF%95%E5%9B%BE%E4%B8%8E%E6%AC%A7%E7%9B%9F%E8%BF%9B%E8%A1%8C%E9%A3%8E%E9%99%A9%E9%87%8D%E5%90%88",
+      "published_at": "2026-11-20T23:25:11+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "社会",
+      "title": "Young people across Europe stage coordinated ‘fight for our future’ protests",
+      "summary": "Activists in more than 20 countries demonstrate over cost of living, learning conditions and rising military spending Students and young workers have taken to the streets in more than 20 European countries in",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/world/2026/nov/20/young-people-europe-coordinated-protests-cost-of-living",
+      "published_at": "2026-11-20T23:15:28+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "经济",
+      "title": "Judge Allows Trump’s Case Against The Times to Proceed",
+      "summary": "Mr. Trump accused the news organization and the book publisher Penguin Random House of disparaging his reputation as a successful businessman.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/19/business/media/new-york-times-trump-defamation-case.html",
+      "published_at": "2026-11-20T23:14:00+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "社会",
+      "title": "高市首相首次访华被冷遇 或激发日本国内更多拥护",
+      "summary": "没有奏乐，没有鲜花迎接，更没有达成双边最高层会晤，有日本媒体描绘高市首相首访中国遭到赤裸裸的怠慢。",
+      "source": "德国之声",
+      "url": "https://www.dw.com/zh/高市首相首次访华被冷遇-或激发日本国内更多拥护/a-80005039?maca=chi-rss-chi-all-1127-xml-mrss",
+      "published_at": "2026-11-20T23:12:00+08:00"
     },
     {
       "region": "欧洲",
       "category": "科技",
-      "title": "Anthropic keeps the AI party swinging, but the atmosphere is bubbly | Nils Pratley",
-      "summary": "Can the newly listed AI company really be worth $2tn?",
+      "title": "‘Light therapy without remortgaging the house’: the best LED face masks – tested",
+      "summary": "They claim to reduce fine lines, blemishes and redness – but which stand up to scrutiny?",
       "source": "卫报",
-      "url": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/19/anthropic-keeps-ai-party-swinging-but-atmosphere-bubbly",
-      "published_at": "2026-11-20T02:15:48+08:00"
+      "url": "https://www.theguardian.com/thefilter/2025/sep/19/best-led-red-light-therapy-face-masks",
+      "published_at": "2026-11-20T23:06:46+08:00"
     },
     {
-      "region": "中国",
-      "category": "科技",
-      "title": "AI芯片热潮推动韩国出口突破万亿美元，晋升全球第四",
-      "summary": "韩国贸易部周四表示，在全球人工智能（AI）芯片热潮带动下，韩国今年累计出口额已突破1万亿美元，成为继德国、美国和中国之后，全球第四个达到这一出口额的国家。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20261119-ai%E8%8A%AF%E7%89%87%E7%83%AD%E6%BD%AE%E6%8E%A8%E5%8A%A8%E9%9F%A9%E5%9B%BD%E5%87%BA%E5%8F%A3%E7%AA%81%E7%A0%B4%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%8C%E6%99%8B%E5%8D%87%E5%85%A8%E7%90%83%E7%AC%AC%E5%9B%9B",
-      "published_at": "2026-11-20T00:02:59+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "科技",
-      "title": "财务披露文件显示，特朗普9月买入最高26.5万美元的英伟达股票",
-      "summary": "根据美国总统特朗普最新财务披露文件显示，他今年9月买入价值最高达26.5万美元的英伟达股票，并卖出价值最高1.5万美元的相关持股。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261119-%E8%B4%A2%E5%8A%A1%E6%8A%AB%E9%9C%B2%E6%96%87%E4%BB%B6%E6%98%BE%E7%A4%BA%EF%BC%8C%E7%89%B9%E6%9C%97%E6%99%AE9%E6%9C%88%E4%B9%B0%E5%85%A5%E6%9C%80%E9%AB%9826-5%E4%B8%87%E7%BE%8E%E5%85%83%E7%9A%84%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%82%A1%E7%A5%A8",
-      "published_at": "2026-11-19T23:57:03+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "科技",
-      "title": "美国新规生效，台积电与三星暂停部分中国客户先进制程订单",
-      "summary": "两名知情人士表示，台积电正进一步收紧对中国芯片设计企业的限制，部分此前仍被允许的先进制程订单将会被暂停，并将受影响客户限制在较成熟工艺节点。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261119-%E7%BE%8E%E5%9B%BD%E6%96%B0%E8%A7%84%E7%94%9F%E6%95%88%EF%BC%8C%E5%8F%B0%E7%A7%AF%E7%94%B5%E4%B8%8E%E4%B8%89%E6%98%9F%E6%9A%82%E5%81%9C%E9%83%A8%E5%88%86%E4%B8%AD%E5%9B%BD%E5%AE%A2%E6%88%B7%E5%85%88%E8%BF%9B%E5%88%B6%E7%A8%8B%E8%AE%A2%E5%8D%95",
-      "published_at": "2026-11-19T23:42:35+08:00"
-    },
-    {
-      "region": "美国",
+      "region": "欧洲",
       "category": "政治",
-      "title": "德语媒体：特朗普助力习近平",
-      "summary": "《法兰克福汇报》评论认为，习近平之所以能够成为深圳峰会上的最大赢家，离不开美国总统特朗普的积极配合和努力。",
+      "title": "德语媒体：特朗普在断送美国的领袖地位",
+      "summary": "《每日镜报》评论称，西方各国领导人在柏林为乌克兰和平商讨对策之际，特朗普却在深圳充当中俄的工具，断送了美国的领袖地位。",
       "source": "德国之声",
-      "url": "https://www.dw.com/zh/德语媒体：特朗普助力习近平/a-79993891?maca=chi-rss-chi-all-1127-xml-mrss",
-      "published_at": "2026-11-19T23:15:00+08:00"
+      "url": "https://www.dw.com/zh/德语媒体：特朗普在断送美国的领袖地位/a-80004952?maca=chi-rss-chi-all-1127-xml-mrss",
+      "published_at": "2026-11-20T23:06:00+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "经济",
+      "title": "China’s Exports of Robots, Cars, Semiconductors Make Life Hard For Rivals",
+      "summary": "…and why it's so hard for Beijing's economic rivals to fight back",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/features/2026-11-20/china-s-exports-of-robots-cars-semiconductors-make-life-hard-for-rivals",
+      "published_at": "2026-11-20T23:05:04+08:00"
     },
     {
       "region": "中国",
       "category": "政治",
-      "title": "肢体语言透露什么？专家解读习近平、特朗普与普京的互动",
-      "summary": "在APEC峰会结束后，一位肢体语言专家解读了中国领导人习近平、美国总统特朗普和俄罗斯总统普京在公开环节中的姿态、表情和互动细节，试图从非语言层面解读三人的关系与权力定位。",
+      "title": "台湾举报数千个疑似与中国有关的Threads账号，意图影响下周的选举",
+      "summary": "路透社周五（11月20日）独家消息称，据三名台湾政府官员以及路透社查阅的内部报告显示，台湾方面已向Meta举报近2700个Threads的社交媒体账号，称这些账号疑似属于一项中国信息战行动的一部分，意图影响下周举行的台湾地方选举。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261120-%E5%8F%B0%E6%B9%BE%E4%B8%BE%E6%8A%A5%E6%95%B0%E5%8D%83%E4%B8%AA%E7%96%91%E4%BC%BC%E4%B8%8E%E4%B8%AD%E5%9B%BD%E6%9C%89%E5%85%B3%E7%9A%84threads%E8%B4%A6%E5%8F%B7%EF%BC%8C%E6%84%8F%E5%9B%BE%E5%BD%B1%E5%93%8D%E4%B8%8B%E5%91%A8%E7%9A%84%E9%80%89%E4%B8%BE",
+      "published_at": "2026-11-20T22:55:28+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "社会",
+      "title": "中国批评海牙国际法院裁定缅甸迫害罗兴亚人为种族灭绝，认为不利于解决争端",
+      "summary": "中国周五（11月20日）对海牙国际法院（ICJ）裁定缅甸针对罗兴亚人的镇压构成种族灭绝表示批评，认为这一判决“不利于”相关争端的解决。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261120-%E4%B8%AD%E5%9B%BD%E6%89%B9%E8%AF%84%E6%B5%B7%E7%89%99%E5%9B%BD%E9%99%85%E6%B3%95%E9%99%A2%E8%A3%81%E5%AE%9A%E7%BC%85%E7%94%B8%E8%BF%AB%E5%AE%B3%E7%BD%97%E5%85%B4%E4%BA%9A%E4%BA%BA%E4%B8%BA%E7%A7%8D%E6%97%8F%E7%81%AD%E7%BB%9D%EF%BC%8C%E8%AE%A4%E4%B8%BA%E4%B8%8D%E5%88%A9%E4%BA%8E%E8%A7%A3%E5%86%B3%E4%BA%89%E7%AB%AF",
+      "published_at": "2026-11-20T22:51:11+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "政治",
+      "title": "法新社：高市在APEC峰会遭冷遇或反助其迎合国内排外情绪，进一步巩固保守派支持",
+      "summary": "法新社周五（11月20日）报导称，分析人士认为，日本首相高市早苗首次访华期间遭遇中方冷淡对待，但这一来自北京的“冷遇”反而可能进一步巩固她在日本国内保守派选民中的支持基础。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261120-%E6%B3%95%E6%96%B0%E7%A4%BE-%E9%AB%98%E5%B8%82%E5%9C%A8apec%E5%B3%B0%E4%BC%9A%E9%81%AD%E5%86%B7%E9%81%87%E6%88%96%E5%8F%8D%E5%8A%A9%E5%85%B6%E8%BF%8E%E5%90%88%E5%9B%BD%E5%86%85%E6%8E%92%E5%A4%96%E6%83%85%E7%BB%AA%EF%BC%8C%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%B7%A9%E5%9B%BA%E4%BF%9D%E5%AE%88%E6%B4%BE%E6%94%AF%E6%8C%81",
+      "published_at": "2026-11-20T22:50:20+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "科技",
+      "title": "USTR Greer on Chip Curbs, Rare Earths, US-China Trade",
+      "summary": "US Trade Representative Jamieson Greer discusses US chip controls, talks between President Donald Trump and Chinese President Xi Jinping on rare earths, and the potential for an extension of the US-China trade",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-20/ustr-greer-on-chip-curbs-rare-earths-us-china-trade-video",
+      "published_at": "2026-11-20T22:46:22+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "科技",
+      "title": "Polish Stocks Lead European Losses After Russian Airspace Breach",
+      "summary": "Polish stocks were the worst performers in Europe as a Russian incursion into the country’s airspace reminded investors of the geopolitical risks stemming from the war in neighboring Ukraine.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/polish-stocks-lead-european-losses-after-russian-airspace-breach",
+      "published_at": "2026-11-20T22:37:22+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "科技",
+      "title": "SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models",
+      "summary": "SpaceX's Cursor is considering phasing out Chinese-developed open-weight AI models over geopolitical risk, according to a House report reviewed by CNBC.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
+      "published_at": "2026-11-20T22:07:24+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "经济",
+      "title": "Norway signs carbon credit deals with Indonesia and Morocco to help fund renewable energy",
+      "summary": "Norway’s carbon credit purchases will help finance projects that might otherwise go unbuilt, while allowing it to count emissions cuts towards its own targets.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/20/norway-signs-carbon-credit-deals-with-indonesia-and-morocco-to-help-fund-renewable-energy",
+      "published_at": "2026-11-20T21:55:52+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "经济",
+      "title": "Baidu fined US$75,000 as China wraps up Joyy antitrust case",
+      "summary": "China’s top market regulator has fined Baidu’s Hong Kong unit 500,000 yuan (US$75,000) for proceeding with its acquisition of part of live-streaming platform Joyy’s business before receiving antitrust clearance.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/tech/big-tech/article/3375283/baidu-fined-us75000-china-wraps-joyy-antitrust-case",
+      "published_at": "2026-11-20T21:50:14+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "科技",
+      "title": "Anthropic有史最大募股但未能消除对人工智能担忧 亚洲科技股普跌",
+      "summary": "美国初创企业Anthropic 公开募股创纪录，周四首日表现强劲但是未能重振市场对人工智能股票的信心，在早盘一度飙升后科技股也普遍遭到抛售。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E4%BB%8A%E6%97%A5%E7%BB%8F%E6%B5%8E/20261120-anthropic%E6%9C%89%E5%8F%B2%E6%9C%80%E5%A4%A7%E5%8B%9F%E8%82%A1%E4%BD%86%E6%9C%AA%E8%83%BD%E6%B6%88%E9%99%A4%E5%AF%B9%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%8B%85%E5%BF%A7-%E4%BA%9A%E6%B4%B2%E7%A7%91%E6%8A%80%E8%82%A1%E6%99%AE%E8%B7%8C",
+      "published_at": "2026-11-20T21:23:10+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "政治",
+      "title": "俄罗斯空袭基辅波及奥地利荷兰大使馆后 巴黎要求安理会召开紧急会议",
+      "summary": "法国外交部长巴罗今天周五宣布，俄罗斯昨晚对基辅发动导弹袭击，在击中当地的奥地利和荷兰大使馆后，法国已要求联合国安理会召开紧急会议。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261120-%E4%BF%84%E7%BD%97%E6%96%AF%E7%A9%BA%E8%A2%AD%E5%9F%BA%E8%BE%85%E6%B3%A2%E5%8F%8A%E5%A5%A5%E5%9C%B0%E5%88%A9%E8%8D%B7%E5%85%B0%E5%A4%A7%E4%BD%BF%E9%A6%86%E5%90%8E-%E5%B7%B4%E9%BB%8E%E8%A6%81%E6%B1%82%E5%AE%89%E7%90%86%E4%BC%9A%E5%8F%AC%E5%BC%80%E7%B4%A7%E6%80%A5%E4%BC%9A%E8%AE%AE",
+      "published_at": "2026-11-20T21:17:04+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "社会",
+      "title": "媒体爆料分析：中国黑客曾袭击德意志银行",
+      "summary": "德意志银行曾在9年前受到黑客袭击，但银行认为没有必要通知相关客户。现在人们从最新的爆料中知道那次黑客来自中国。",
       "source": "德国之声",
-      "url": "https://www.dw.com/zh/肢体语言透露什么？专家解读习近平、特朗普与普京的互动/a-79993639?maca=chi-rss-chi-all-1127-xml-mrss",
-      "published_at": "2026-11-19T22:44:00+08:00"
+      "url": "https://www.dw.com/zh/媒体爆料分析：中国黑客曾袭击德意志银行/a-80002947?maca=chi-rss-chi-all-1127-xml-mrss",
+      "published_at": "2026-11-20T20:49:00+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "政治",
+      "title": "国际法院以九票对六票认定缅甸对罗兴亚人实施种族灭绝",
+      "summary": "联合国最高司法机构国际法院周四（11月19日）就冈比亚诉缅甸案作出判决，认定缅甸在2017年若开邦北部的军事清剿行动中，对罗兴亚人实施了种族灭绝。",
+      "source": "德国之声",
+      "url": "https://www.dw.com/zh/国际法院以九票对六票认定缅甸对罗兴亚人实施种族灭绝/a-80002919?maca=chi-rss-chi-all-1127-xml-mrss",
+      "published_at": "2026-11-20T20:49:00+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "科技",
+      "title": "美众议院披露近88万枚AI芯片获批出口中国，其中包括国防部认证的“军工企业”",
+      "summary": "据CNBC报导，美国众议院外交事务委员会周四公布的文件显示，截至2026年5月，美国商务部负责出口管制与执法的工业与安全局（BIS）已批准向中国企业出售超过87.9万枚人工智能芯片，其中涉及阿里巴巴、腾讯等中国科技公司。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261120-%E7%BE%8E%E4%BC%97%E8%AE%AE%E9%99%A2%E6%8A%AB%E9%9C%B2%E8%BF%9188%E4%B8%87%E6%9E%9Aai%E8%8A%AF%E7%89%87%E8%8E%B7%E6%89%B9%E5%87%BA%E5%8F%A3%E4%B8%AD%E5%9B%BD%EF%BC%8C%E5%85%B6%E4%B8%AD%E5%8C%85%E6%8B%AC%E5%9B%BD%E9%98%B2%E9%83%A8%E8%AE%A4%E8%AF%81%E7%9A%84-%E5%86%9B%E5%B7%A5%E4%BC%81%E4%B8%9A",
+      "published_at": "2026-11-20T19:40:59+08:00"
     }
   ]
 }
