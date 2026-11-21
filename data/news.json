@@ -1,131 +1,239 @@
 {
-  "updated_at": "2026-11-21T06:18:04+08:00",
+  "updated_at": "2026-11-21T12:12:42+08:00",
   "items": [
     {
-      "region": "欧洲",
-      "category": "社会",
-      "title": "Denmark Expels Russian Diplomat After Accusing Moscow of Planning a Hit",
-      "summary": "Danish officials say Russian intelligence services recruited members of a violent gang to try to assassinate a Ukrainian rapper at a concert outside Copenhagen.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/20/world/europe/denmark-russia-ukraine-rapper-assassination.html",
-      "published_at": "2026-11-21T06:15:56+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "市场",
-      "title": "Stocks Often Prosper After an Abrupt C.E.O. Exit. Is Nvidia Different?",
-      "summary": "The stock value of a top executive is often less important than it initially seems. But Nvidia’s entanglement in U.S.-Chinese relations poses special problems.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/20/business/nvidia-ceo-stock-succession-jensen-huang.html",
-      "published_at": "2026-11-21T06:11:56+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "市场",
-      "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
-      "summary": "AI stocks have hefty market values and have a much bigger impact on the market's direction. They were responsible for Wall Street's big gains this year and are now behind the big slide for the market.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
-      "published_at": "2026-11-21T06:11:29+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "科技",
-      "title": "Nvidia Plunges as SEC Probe Deepens AI Market Selloff | Closing Bell",
-      "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Carol Massar and Tim Stenovec.",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-20/nvidia-plunges-on-sec-probe-closing-bell-video",
-      "published_at": "2026-11-21T06:08:59+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "科技",
-      "title": "Trump says he discussed Jensen Huang with Xi; Bessent tells CNBC Nvidia chip export policy is unchanged",
-      "summary": "Trump said he discussed Jensen Huang with China's Xi. Bessent said the ousted Nvidia CEO didn't come up in talks he had while in China.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
-      "published_at": "2026-11-21T06:08:41+08:00"
-    },
-    {
       "region": "中国",
-      "category": "社会",
-      "title": "Chinese-Born Neuroscientist Is Detained by ICE While Traveling From Conference",
-      "summary": "Eva Yi Xie was detained on her way back to New Jersey from a neuroscience conference in Washington this week, the latest in a string of researcher arrests.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/20/science/chinese-scientist-detained-ice-princeton-eva-yi-xie-.html",
-      "published_at": "2026-11-21T06:06:57+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "科技",
-      "title": "Can China’s top-down military adapt to the speed of AI and drone warfare?",
-      "summary": "Drawing on lessons from the Ukraine war, Chinese military commentators are calling for frontline commanders to have greater freedom to make battlefield decisions without waiting for orders from above, as drones and AI",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/news/china/military/article/3375250/can-chinas-top-down-military-adapt-speed-ai-and-drone-warfare",
-      "published_at": "2026-11-21T06:00:19+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "社会",
-      "title": "Top White House Cybersecurity Official Is Replaced",
-      "summary": "The departure of Sean Cairncross comes after a series of technological outages affected U.S. companies and federal agencies in the past week.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/19/us/politics/white-house-cyber-director-departs.html",
-      "published_at": "2026-11-21T05:59:39+08:00"
-    },
-    {
-      "region": "美国",
       "category": "政治",
-      "title": "Trump says Vance’s statement blaming Iran war for Republican midterm wipeout was ‘fine’ in wide-ranging press conference – live",
-      "summary": "US president again claims Republicans’ midterms losses were because he ‘wasn’t on the ballot’, vows to fight for datacenters and boasts of his relationship with Xi Jinping Sign up for the Breaking News US email We’re",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
-      "published_at": "2026-11-21T05:58:50+08:00"
+      "title": "A steadier US-China relationship still leaves Southeast Asia on guard",
+      "summary": "Even as Washington and Beijing seek greater stability in their relationship, tensions involving China and US allies and partners in Southeast Asia can and do persist.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/week-asia/opinion/article/3375242/steadier-us-china-relationship-still-leaves-southeast-asia-guard",
+      "published_at": "2026-11-21T12:00:14+08:00"
     },
     {
-      "region": "美国",
+      "region": "中国",
       "category": "科技",
-      "title": "Nvidia faces US regulator’s probe into its accounting",
-      "summary": "Securities and Exchange Commission’s investigation adds to difficulties facing chip group after Jensen Huang’s resignation",
-      "source": "金融时报",
-      "url": "https://www.ft.com/content/9b28ed72-aac4-4291-9734-bf60b66645ab?syn-25a6b1a6=1",
-      "published_at": "2026-11-21T05:58:08+08:00"
+      "title": "Tanks, drone and anti-drone vehicles spotted at Zhuhai air show site",
+      "summary": "New vehicles for drone and anti-drone warfare have been spotted at the site where the Zhuhai air show will be held next month, reflecting China’s push to integrate hi-tech platforms on land battlefields as well as its",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/china/article/3375197/tanks-drone-and-anti-drone-vehicles-spotted-zhuhai-air-show-site",
+      "published_at": "2026-11-21T12:00:12+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "科技",
+      "title": "‘A new record for entertainment’: Grand Theft Auto VI sales hit $3.8bn on first day of release, developer says",
+      "summary": "The announcement from Rockstar Games would mean GTA VI has already earned more than the entire box office run of the highest-grossing film of all time Grand Theft Auto VI generated $3.79bn in retail sales on its first",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/games/2026/nov/21/a-new-record-for-entertainment-grand-theft-auto-vi-sales-hit-38bn-on-first-day-of-release-developer-says",
+      "published_at": "2026-11-21T11:51:03+08:00"
     },
     {
       "region": "美国",
       "category": "社会",
-      "title": "Here’s the latest.",
-      "summary": "Here’s the latest.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/live/2026/11/20/us/trump-news-conference/heres-the-latest",
-      "published_at": "2026-11-21T05:55:47+08:00"
+      "title": "Judge approves $7.25bn settlement for Roundup weedkiller cancer claims",
+      "summary": "The settlement will be paid by Bayer to users who already have non-Hodgkin lymphoma and those who fall ill in the future.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg21gyl650o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-21T11:49:09+08:00"
     },
     {
       "region": "美国",
+      "category": "社会",
+      "title": "As He Leaves Office, Ken Paxton Drops Suits Against Political Opponents",
+      "summary": "The Texas attorney general has abandoned suits against Muslim and immigrant rights groups — and the N.C.A.A.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/20/us/texas-ken-paxton-drops-lawsuits.html",
+      "published_at": "2026-11-21T11:39:14+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "社会",
+      "title": "Japan’s ‘Rabbit Island’ draws tourists with fluffy bunnies and dark wartime past",
+      "summary": "Stepping onto an island in western Japan, tourists squeal with joy at the sight of hundreds of fluffy rabbits, but few realise the land was once home to a secret chemical weapons factory for the country’s Imperial Army.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3375307/japans-rabbit-island-draws-tourists-fluffy-bunnies-and-dark-wartime-past",
+      "published_at": "2026-11-21T11:25:40+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "社会",
+      "title": "China pet ‘memorial diamond’ industry charging US$15,000 for ash gems faces scrutiny",
+      "summary": "Moving beyond traditional urns and paw-print keepsakes, some grieving pet owners in China are having their companions’ fur and ashes turned into lab-grown diamonds.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3375306/china-pet-memorial-diamond-industry-charging-us15000-ash-gems-faces-scrutiny",
+      "published_at": "2026-11-21T10:36:04+08:00"
+    },
+    {
+      "region": "中国",
       "category": "科技",
-      "title": "‘Grand Theft Auto’ Drives Internet Providers to Busiest Day Ever",
-      "summary": "Record demand for the hot new video game Grand Theft Auto VI sent US internet traffic soaring this week.",
+      "title": "China Deploys 5G Across Manufacturing Base as 6G Testing Advances, CCTV Reports",
+      "summary": "China is expanding the use of 5G across its manufacturing sector, with more than 26,000 private industrial 5G networks built nationwide, China Central Television said on Saturday.",
       "source": "彭博",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/-grand-theft-auto-drives-internet-providers-to-busiest-day-ever",
-      "published_at": "2026-11-21T05:54:22+08:00"
+      "url": "https://www.bloomberg.com/news/articles/2026-11-21/china-deploys-5g-across-manufacturing-base-as-6g-testing-advances-cctv-reports",
+      "published_at": "2026-11-21T10:33:58+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "科技",
+      "title": "AI agents are getting wallets. Is Hong Kong ready for them?",
+      "summary": "Minds by Animoca Brands, an agentic artificial intelligence platform created by the Web3 firm, is riding on Hong Kong’s push to turn automated agents into everyday shopping tools, piloting live transactions on Visa’s",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/tech/big-tech/article/3375253/ai-agents-are-getting-wallets-hong-kong-ready-them",
+      "published_at": "2026-11-21T10:30:05+08:00"
     },
     {
       "region": "美国",
-      "category": "科技",
-      "title": "Anthropic Shares Slip as AI and Tech Stock Sell-Off Continues",
-      "summary": "The S&P 500 ended the day down more than 10 percent from its recent high, in a symbolic measure of investors’ souring mood.",
+      "category": "社会",
+      "title": "A Prosecutor Got Drunk to Help the Police. Things Got Out of Hand.",
+      "summary": "The man drank too much while participating in a “wet lab” to help officers recognize inebriation — and wound up the subject of an internal investigation, officials said.",
       "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/20/business/anthropic-ai-stocks-sp500.html",
-      "published_at": "2026-11-21T05:52:45+08:00"
+      "url": "https://www.nytimes.com/2026/11/20/us/drunk-officers-training-maricopa-county-arizona.html",
+      "published_at": "2026-11-21T10:22:41+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "社会",
+      "title": "Washington State Fines Company $9 Million Over Fatal Tank Implosion",
+      "summary": "Investigators said the company, Nippon Dynawave Packaging, knew conditions at its plant in Longview, Wash., were unsafe. The company said it would appeal.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/20/us/washington-state-fatal-tank-implosion-fine.html",
+      "published_at": "2026-11-21T10:18:13+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "科技",
+      "title": "Who are you calling a ‘Chinese honeypot’?",
+      "summary": "“Please stop being such a Chinese honeypot.” When reports emerged alleging that then-Nvidia chief executive Jensen Huang had been romantically involved with a Chinese woman suspected of espionage, my inbox filled with",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/opinion/world-opinion/article/3374874/who-are-you-calling-chinese-honeypot",
+      "published_at": "2026-11-21T09:30:06+08:00"
     },
     {
       "region": "美国",
       "category": "科技",
-      "title": "US tech stocks plunge into bear market in worst week since Covid-19 crisis",
-      "summary": "Shares in Anthropic and Nvidia tumble as fears over the AI spending boom grip Wall Street",
+      "title": "Nvidia Said to Face S.E.C. Probe Into Its Accounting Practices",
+      "summary": "Questions around the company’s accounting had surfaced amid revelations about its questionable chip sales in Asia.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/20/business/nvidia-sec-accounting.html",
+      "published_at": "2026-11-21T09:06:52+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "科技",
+      "title": "Nvidia faces further blow after shock US export permit data release: analysts",
+      "summary": "US lawmakers have thrown the cross-border semiconductor trade into fresh turmoil after releasing confidential licensing records showing Washington approved the sale of nearly 880,000 advanced AI chips to Chinese tech",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/tech/big-tech/article/3375287/nvidia-faces-further-blow-after-shock-us-export-permit-data-release-analysts",
+      "published_at": "2026-11-21T09:00:13+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "科技",
+      "title": "Tech Now",
+      "summary": "Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0034tjc?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-21T09:00:00+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "科技",
+      "title": "Trump threatens ‘tremendous tax’ on US firms building AI data centres overseas",
+      "summary": "President Donald Trump on Friday threatened “a tremendous tax” on US companies that build artificial intelligence data centres abroad, highlighting a divide between a president who sees their expansion as critical to",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3375303/trump-threatens-tremendous-tax-us-firms-building-ai-data-centres-overseas",
+      "published_at": "2026-11-21T08:48:00+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "科技",
+      "title": "Wall Street Week | Gaming Blockbuster, Healthcare Costs, Cybersecurity Meets AI",
+      "summary": "This week, former New York Fed President Bill Dudley and Kathryn Judge of Columbia Law School discuss what the Treasury and Fed can do to tackle the nation’s debt crisis.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-21/wall-street-week-gaming-blockbuster-cybersecurity-video",
+      "published_at": "2026-11-21T08:13:38+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "科技",
+      "title": "Can AI really help spot Black Friday deals? We put it to the test",
+      "summary": "We put four AI models to the test to see if they could save us money on a new TV.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-21T08:06:11+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "经济",
+      "title": "Back in style? Starbucks wins over China’s shoppers – with a viral handbag",
+      "summary": "Starbucks China has faced intense competition in the coffee market in recent years, but the brand is now winning over consumers with an unexpected product: a faux-leather handbag.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/business/china-business/article/3375259/back-style-starbucks-wins-over-chinas-shoppers-viral-handbag",
+      "published_at": "2026-11-21T08:00:11+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "市场",
+      "title": "S&P 500 and Dow close in correction; Nasdaq erases 2026 gain as AI rout picks up steam",
+      "summary": "A decline in Anthropic shares weighed on the broader market following the artificial intelligence giant's public market debut in the previous session.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+      "published_at": "2026-11-21T07:46:18+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "政治",
+      "title": "深圳三方会晤：特朗普掉入温柔乡，表面上的亲近难掩在关键问题上没有共识",
+      "summary": "2026年11月19日，习近平、特朗普和普京在中国深圳举行了一场备受瞩目的三方会晤。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20261120-%E6%B7%B1%E5%9C%B3%E4%B8%89%E6%96%B9%E4%BC%9A%E6%99%A4-%E7%89%B9%E6%9C%97%E6%99%AE%E6%8E%89%E5%85%A5%E6%B8%A9%E6%9F%94%E4%B9%A1%EF%BC%8C%E8%A1%A8%E9%9D%A2%E4%B8%8A%E7%9A%84%E4%BA%B2%E8%BF%91%E9%9A%BE%E6%8E%A9%E5%9C%A8%E5%85%B3%E9%94%AE%E9%97%AE%E9%A2%98%E4%B8%8A%E6%B2%A1%E6%9C%89%E5%85%B1%E8%AF%86",
+      "published_at": "2026-11-21T07:29:23+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "经济",
+      "title": "A new Nepal, an old neighbour - Balendra Shah's India test",
+      "summary": "Trade, connectivity and regional cooperation will be on top of the agenda when Nepal's PM meets his India counterpart.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-21T07:28:17+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "市场",
+      "title": "Bayer’s $7.25bn settlement over cancer cases approved by US judge",
+      "summary": "Ruling will help German chemicals group contain legal bills after years of court battles",
       "source": "金融时报",
-      "url": "https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?syn-25a6b1a6=1",
-      "published_at": "2026-11-21T05:52:25+08:00"
+      "url": "https://www.ft.com/content/e7d36416-9eb7-4479-a217-d593545499df?syn-25a6b1a6=1",
+      "published_at": "2026-11-21T07:16:28+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "市场",
+      "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
+      "summary": "Once the most valuable company in the world, Nvidia now ranks fourth behind Apple, Microsoft and Alphabet.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
+      "published_at": "2026-11-21T06:59:33+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "经济",
+      "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+      "summary": "The mammoth figure surpasses every video game launch and single-day film box office record.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-21T06:53:24+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "政治",
+      "title": "脱欧公投十年 英国可能重返欧盟吗？",
+      "summary": "在英国举行脱欧公投十年之后，英国和欧盟周五在布鲁塞尔举行的峰会上庆祝欧英关系重启，双方就首批具体措施达成协议，获得与会者极高赞誉。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261120-%E8%84%B1%E6%AC%A7%E5%85%AC%E6%8A%95%E5%8D%81%E5%B9%B4-%E8%8B%B1%E5%9B%BD%E5%8F%AF%E8%83%BD%E9%87%8D%E8%BF%94%E6%AC%A7%E7%9B%9F%E5%90%97",
+      "published_at": "2026-11-21T06:31:40+08:00"
     },
     {
       "region": "美国",
@@ -147,30 +255,12 @@
     },
     {
       "region": "美国",
-      "category": "社会",
-      "title": "Ghanaian boy killed in US 'deserved so much better', says New York Mayor Mamdani",
-      "summary": "At the funeral for the 15-year-old who was fatally shot last month, Mamdani spoke alongside the boy's father and civil rights leaders.",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cv8e07825l90o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-21T05:40:45+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "政治",
-      "title": "美民主党议员批特朗普遭习近平普京利用 指美中俄峰会毫无成果",
-      "summary": "美国总统特朗普（Donald Trump）日前在中国深圳，与中国国家主席习近平及俄罗斯总统普京（Vladimir Putin）举行首次三方峰会，会后虽发表涉及能源供应、联合国改革、国际刑事法院及核扩散等议题的四点“和平宣言”，但未有触及乌克兰及伊朗战争，也未见在核武控制等问题取得具体进展。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261120-%E7%BE%8E%E6%B0%91%E4%B8%BB%E5%85%9A%E8%AE%AE%E5%91%98%E6%89%B9%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%AD%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%99%AE%E4%BA%AC%E5%88%A9%E7%94%A8-%E6%8C%87%E7%BE%8E%E4%B8%AD%E4%BF%84%E5%B3%B0%E4%BC%9A%E6%AF%AB%E6%97%A0%E6%88%90%E6%9E%9C",
-      "published_at": "2026-11-21T05:39:47+08:00"
-    },
-    {
-      "region": "美国",
       "category": "经济",
       "title": "Grand Theft Auto VI Made $3.79 Billion in a Single Day",
       "summary": "Anticipation was high after a 13-year gap in the game franchise. No movie has ever made more than $3 billion at the box office.",
       "source": "纽约时报",
       "url": "https://www.nytimes.com/2026/11/20/arts/grand-theft-auto-vi-sales-revenue.html",
-      "published_at": "2026-11-21T05:21:39+08:00"
+      "published_at": "2026-11-21T05:21:40+08:00"
     },
     {
       "region": "欧洲",
@@ -189,15 +279,6 @@
       "source": "法国国际广播电台",
       "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261120-%E5%A6%82%E6%9E%9C%E6%9C%89-%E5%85%85%E5%88%86%E5%8F%82%E4%B8%8E%E6%9D%83-%EF%BC%8C%E6%AC%A7%E7%9B%9F%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA%E6%84%BF%E6%84%8F%E5%8E%BB%E8%8E%AB%E6%96%AF%E7%A7%91%E5%8F%82%E5%8A%A0%E4%B9%8C%E5%85%8B%E5%85%B0%E9%97%AE%E9%A2%98%E4%BC%9A%E8%B0%88",
       "published_at": "2026-11-21T04:51:34+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "社会",
-      "title": "‘Russian Objects’ Crashed in Poland, Officials Say. Here’s What We Can See.",
-      "summary": "There were no injuries or damage from three incidents that the Polish authorities called a likely “provocation” from Russia during military exercises by Ukraine’s allies.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html",
-      "published_at": "2026-11-21T04:30:59+08:00"
     },
     {
       "region": "欧洲",
@@ -290,51 +371,6 @@
       "published_at": "2026-11-21T02:06:52+08:00"
     },
     {
-      "region": "中国",
-      "category": "科技",
-      "title": "Alice Huang, Accused of Spying on Nvidia’s CEO, Is Linked to Firms With Ties to China’s Military",
-      "summary": "Companies linked to Alice Huang, the woman at the heart of the Nvidia scandal, are part of a network of Chinese tech firms and defense contractors that need advanced computing power.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html",
-      "published_at": "2026-11-21T02:05:36+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "经济",
-      "title": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
-      "summary": "President of European Council says EU ‘remains open to have the closest possible relationship’ with the UK Senior correspondent Making today’s reset deal contingent on a further agreement on the level of tuition fees",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
-      "published_at": "2026-11-21T01:59:55+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "科技",
-      "title": "Anthropic researcher says Claude AI has solved maths’ greatest riddle: Riemann Hypothesis",
-      "summary": "A mathematician at AI company Anthropic said on Friday that he had used the firm’s Claude chatbot to prove the Riemann Hypothesis, a problem that has eluded mathematicians for more than 160 years.",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3375294/anthropic-researcher-says-claude-has-solved-maths-greatest-riddle",
-      "published_at": "2026-11-21T01:55:08+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "社会",
-      "title": "Martin Rowson on the summits in Shenzhen and Brussels – cartoon",
-      "summary": "Continue reading...",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/commentisfree/picture/2026/nov/20/martin-rowson-summits-shenzhen-brussels-trump-xi-putin-cartoon",
-      "published_at": "2026-11-21T01:30:16+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "市场",
-      "title": "Jamie Dimon vows to claw back ‘unfair’ UK bank tax",
-      "summary": "Boss of US lender says he will find ways to offset the increase announced by the government last month",
-      "source": "金融时报",
-      "url": "https://www.ft.com/content/4dd143d0-0b10-4bb8-ac15-e04702fa8b9a?syn-25a6b1a6=1",
-      "published_at": "2026-11-21T01:08:46+08:00"
-    },
-    {
       "region": "美国",
       "category": "社会",
       "title": "为什么伊斯兰教到了2035年应会成为世界第一大宗教？",
@@ -342,15 +378,6 @@
       "source": "法国国际广播电台",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261120-%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%8A%E6%96%AF%E5%85%B0%E6%95%99%E5%88%B0%E4%BA%862035%E5%B9%B4%E5%BA%94%E4%BC%9A%E6%88%90%E4%B8%BA%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%E5%A4%A7%E5%AE%97%E6%95%99",
       "published_at": "2026-11-20T23:45:27+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "社会",
-      "title": "COP31 climate talks go into overtime as nations quarrel over fossil fuels",
-      "summary": "The COP31 climate conference slipped into overtime on Friday as negotiators from nearly 200 ⁠countries struggled to bridge deep divisions ⁠over fossil fuels and climate finance.",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/news/world/article/3375291/cop31-climate-talks-go-overtime-nations-quarrel-over-fossil-fuels",
-      "published_at": "2026-11-20T23:34:06+08:00"
     },
     {
       "region": "中国",
@@ -371,40 +398,13 @@
       "published_at": "2026-11-20T23:06:46+08:00"
     },
     {
-      "region": "中国",
-      "category": "经济",
-      "title": "China’s Exports of Robots, Cars, Semiconductors Make Life Hard For Rivals",
-      "summary": "…and why it's so hard for Beijing's economic rivals to fight back",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/features/2026-11-20/china-s-exports-of-robots-cars-semiconductors-make-life-hard-for-rivals",
-      "published_at": "2026-11-20T23:05:04+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "政治",
-      "title": "台湾举报数千个疑似与中国有关的Threads账号，意图影响下周的选举",
-      "summary": "路透社周五（11月20日）独家消息称，据三名台湾政府官员以及路透社查阅的内部报告显示，台湾方面已向Meta举报近2700个Threads的社交媒体账号，称这些账号疑似属于一项中国信息战行动的一部分，意图影响下周举行的台湾地方选举。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261120-%E5%8F%B0%E6%B9%BE%E4%B8%BE%E6%8A%A5%E6%95%B0%E5%8D%83%E4%B8%AA%E7%96%91%E4%BC%BC%E4%B8%8E%E4%B8%AD%E5%9B%BD%E6%9C%89%E5%85%B3%E7%9A%84threads%E8%B4%A6%E5%8F%B7%EF%BC%8C%E6%84%8F%E5%9B%BE%E5%BD%B1%E5%93%8D%E4%B8%8B%E5%91%A8%E7%9A%84%E9%80%89%E4%B8%BE",
-      "published_at": "2026-11-20T22:55:28+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "经济",
-      "title": "Norway signs carbon credit deals with Indonesia and Morocco to help fund renewable energy",
-      "summary": "Norway’s carbon credit purchases will help finance projects that might otherwise go unbuilt, while allowing it to count emissions cuts towards its own targets.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/20/norway-signs-carbon-credit-deals-with-indonesia-and-morocco-to-help-fund-renewable-energy",
-      "published_at": "2026-11-20T21:55:52+08:00"
-    },
-    {
       "region": "欧洲",
-      "category": "科技",
-      "title": "Lagarde says EU funds should take first losses on chip plants, data centers",
-      "summary": "Public funds should absorb early risks in major technology projects, the European Central Bank chief said Friday.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/20/lagarde-eu-data-center-funding.html",
-      "published_at": "2026-11-20T20:52:15+08:00"
+      "category": "政治",
+      "title": "德语媒体：特朗普在断送美国的领袖地位",
+      "summary": "《每日镜报》评论称，西方各国领导人在柏林为乌克兰和平商讨对策之际，特朗普却在深圳充当中俄的工具，断送了美国的领袖地位。",
+      "source": "德国之声",
+      "url": "https://www.dw.com/zh/德语媒体：特朗普在断送美国的领袖地位/a-80004952?maca=chi-rss-chi-all-1127-xml-mrss",
+      "published_at": "2026-11-20T23:06:00+08:00"
     }
   ]
 }
