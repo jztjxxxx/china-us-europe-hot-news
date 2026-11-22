@@ -1,29 +1,272 @@
 {
-  "updated_at": "2026-11-22T04:59:11+08:00",
+  "updated_at": "2026-11-22T11:23:48+08:00",
   "items": [
     {
       "region": "美国",
       "category": "社会",
-      "title": "Bayer reaches Roundup settlement that could cost the company billions",
-      "summary": "The money will go to thousands of people who have been or will be diagnosed with non-Hodgkin lymphoma – a blood cancer linked to the herbicide.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement",
-      "published_at": "2026-11-22T04:37:35+08:00"
+      "title": "Lionel Messi at center of red-card controversy as Inter Miami face early MLS playoff exit",
+      "summary": "Messi booked for throwing ball into opponent’s face Columbus coach insists Argentine deserved red card Defending champions thrashed 3-0 in series opener Columbus Crew coach Laurent Courtois said Lionel Messi should have",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/football/2026/nov/21/lionel-messi-red-card-controversy-inter-miami-columbus-crew-mls-playoffs",
+      "published_at": "2026-11-22T11:01:55+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "经济",
+      "title": "Recovery at last? Analysts divided on China’s home market outlook",
+      "summary": "How long the property slump in mainland China will continue remains an ominous question for the world’s second-largest economy, where local governments’ fiscal revenue largely hinges on land sales.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/business/china-business/article/3375239/recovery-last-analysts-divided-chinas-home-market-outlook",
+      "published_at": "2026-11-22T11:00:16+08:00"
     },
     {
       "region": "中国",
       "category": "社会",
-      "title": "French police officers jailed for racist violence against black man in landmark ruling",
-      "summary": "The lawyer for a black man who was beaten up by three French police officers hailed a “historic ruling” on Saturday after a court acknowledged the racist nature of the violence and sentenced them to between one and two",
+      "title": "Chinese teen girl who dreams of becoming a soldier runs into burning home to save 2 kids",
+      "summary": "A 14-year-old student in central China has won widespread admiration on social media for braving a fire to rescue two toddlers while on her way home after taking sick leave from school.",
       "source": "南华早报",
-      "url": "https://www.scmp.com/news/world/europe/article/3375350/french-police-officers-jailed-racist-violence-against-black-man-landmark-ruling",
-      "published_at": "2026-11-22T04:22:55+08:00"
+      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3375355/chinese-teen-girl-who-dreams-becoming-soldier-runs-burning-home-save-2-kids",
+      "published_at": "2026-11-22T10:42:18+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "社会",
+      "title": "A year of grief: Tai Po fire residents on coping with loss and trying to move on",
+      "summary": "What has life been like for the residents of Wang Fuk Court displaced by the deadly blaze of last November? Lo Hoi-ying speaks to residents as part of a series on the first anniversary of the Tai Po fire.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3375345/year-grief-tai-po-fire-residents-coping-loss-and-trying-move",
+      "published_at": "2026-11-22T10:30:06+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "政治",
+      "title": "Hong Kong Election Committee race: first hour of voting draws record 45% turnout",
+      "summary": "A total of 856 candidates are vying for 723 seats across the 31 subsectors.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/hong-kong/politics/article/3375354/hong-kong-election-committee-race-long-lines-polling-stations-voting-begins",
+      "published_at": "2026-11-22T10:26:45+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "政治",
+      "title": "Ukraine war briefing: Russian cargo ship hit by drone in Baltic Sea as Finland PM says conflict ‘spilling over’",
+      "summary": "Vessel erupts in flames after strike in Gulf of Finland; Nato vows to defend ‘every inch’ of Polish territory.",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/world/2026/nov/22/ukraine-war-briefing-russian-cargo-ship-hit-by-drone-in-baltic-sea-as-finland-pm-says-conflict-spilling-over",
+      "published_at": "2026-11-22T10:19:48+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "社会",
+      "title": "‘Horrific’ ICE arrests at Seattle airport jet bridge rattle passengers, fuel outrage",
+      "summary": "Masked immigration officers detained two people on a crowded airport jet bridge in Seattle as people were boarding on Saturday, causing what Alaska Airlines called a “distressing” scene for passengers and employees and",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3375353/horrific-ice-arrests-seattle-airport-jet-bridge-rattles-passengers-fuels-outrage",
+      "published_at": "2026-11-22T10:14:54+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "市场",
+      "title": "Singapore hosts 8 of the top 10 drug makers – now it needs commercial wins",
+      "summary": "Singapore has long sought to become Southeast Asia’s premier biomedicine hub – with its investments and initiatives having already attracted some of the world’s biggest pharmaceutical manufacturers.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/week-asia/health-environment/article/3375240/singapore-hosts-8-top-10-drug-makers-now-it-needs-commercial-wins",
+      "published_at": "2026-11-22T10:00:08+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "市场",
+      "title": "India’s $126bn insurance sector slams proposed commission cap",
+      "summary": "Industry argues regulation would hamper growth of a market that only recently opened up fully to foreign investment",
+      "source": "金融时报",
+      "url": "https://www.ft.com/content/2e67313b-d6c5-4e62-bd50-14639fe5ef95?syn-25a6b1a6=1",
+      "published_at": "2026-11-22T09:30:02+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "社会",
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-22T09:25:03+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "经济",
+      "title": "Why Nostalgia for Tamagotchis, the Virtual Pets, Won’t Die",
+      "summary": "Millennials are answering the beeping call of the pocket-size game that caused a sensation 30 years ago. But analog-craving Gen Zers are, too.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/21/arts/tamagotchis-comeback.html",
+      "published_at": "2026-11-22T09:05:28+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "社会",
+      "title": "Paolo Bulgari, the Italian jeweller who dazzled stars and supermodels, dies at 89",
+      "summary": "Paolo Bulgari, the grandson of a Greek silversmith who helped transform the family jewellery business into a global luxury brand synonymous with Italian glamour and design, has died. He was 89.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/world/europe/article/3375352/paolo-bulgari-italian-jeweller-who-dazzled-stars-and-supermodels-dies-89",
+      "published_at": "2026-11-22T08:57:19+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "经济",
+      "title": "California train burglars carefully executed heists for ‘staggering’ $22m haul",
+      "summary": "US justice department brings charges against group after at least 36 trains burglarized for shoes and tools Fourteen people in southern California have been accused of burglarizing more than $22m worth of goods from",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/21/california-arrests-train-heists",
+      "published_at": "2026-11-22T08:20:41+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "社会",
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-22T08:10:44+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "经济",
+      "title": "2 veteran Chinese property tycoons turn to urban renewal amid prolonged downturn",
+      "summary": "Two of China’s best-known property tycoons have made a comeback in recent months, turning their attention to renovating existing buildings and reviving established commercial properties.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/business/article/3375241/two-veteran-chinese-property-tycoons-turn-urban-renewal-amid-prolonged-downturn",
+      "published_at": "2026-11-22T08:00:15+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "科技",
+      "title": "China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet",
+      "summary": "China’s AI stock trade, once a hot bet as the nation’s technology powerhouses raced to catch up with the US, has morphed into a losing strategy.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/china-s-1-7-trillion-ai-rout-turns-hot-trade-into-losing-bet",
+      "published_at": "2026-11-22T08:00:00+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "市场",
+      "title": "COP31 negotiators try to break impasse after EU raises prospect of ‘no deal’",
+      "summary": "Talks run into second day of overtime as Saudi Arabia leads opposition to inclusion of fossil fuel phase out in final agreement",
+      "source": "金融时报",
+      "url": "https://www.ft.com/content/b3ba64e9-9482-4525-acc7-49825f3daace?syn-25a6b1a6=1",
+      "published_at": "2026-11-22T07:34:24+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "经济",
+      "title": "欧盟与印度尼西亚的贸易协议：让欧盟GDP高出160亿欧元， 印度尼西亚GDP高270亿欧元",
+      "summary": "欧盟与印度尼西亚周六在布鲁塞尔正式签署了一项贸易协议，旨在开放双方市场。因为有了这份协议， 预计到2042年，欧盟GDP高出160亿欧元， 印度尼西亚GDP高270亿欧元。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261121-%E6%AC%A7%E7%9B%9F%E4%B8%8E%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A%E7%9A%84%E8%B4%B8%E6%98%93%E5%8D%8F%E8%AE%AE-%E8%AE%A9%E6%AC%A7%E7%9B%9Fgdp%E9%AB%98%E5%87%BA160%E4%BA%BF%E6%AC%A7%E5%85%83%EF%BC%8C-%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9Agdp%E9%AB%98270%E4%BA%BF%E6%AC%A7%E5%85%83",
+      "published_at": "2026-11-22T07:18:50+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "政治",
+      "title": "德维尔潘竞选总统为何引发热议",
+      "summary": "法国总统竞选进入关键阶段，左右候选人成堆，极右翼国民联盟候选人玛丽娜.勒庞领衔民调，极左翼法兰西不屈服领袖梅郎雄摇旗呐喊，声势不小，民调虽低于国民联盟十个点左右，但高于其他左右各翼。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261121-%E5%BE%B7%E7%BB%B4%E5%B0%94%E6%BD%98%E7%AB%9E%E9%80%89%E6%80%BB%E7%BB%9F%E4%B8%BA%E4%BD%95%E5%BC%95%E5%8F%91%E7%83%AD%E8%AE%AE",
+      "published_at": "2026-11-22T07:14:19+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "社会",
+      "title": "欧盟开支预算： 德国认为规模太大，法国认为预算被砍得太厉害了",
+      "summary": "欧盟开支预算，德国认为总体规模太大，但法国认为被预算砍得太厉害了。于是在协调的时间点，欧盟要征收数字税，扩大收入。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261121-%E6%AC%A7%E7%9B%9F%E5%BC%80%E6%94%AF%E9%A2%84%E7%AE%97-%E5%BE%B7%E5%9B%BD%E8%AE%A4%E4%B8%BA%E8%A7%84%E6%A8%A1%E5%A4%AA%E5%A4%A7%EF%BC%8C%E6%B3%95%E5%9B%BD%E8%AE%A4%E4%B8%BA%E9%A2%84%E7%AE%97%E8%A2%AB%E7%A0%8D%E5%BE%97%E5%A4%AA%E5%8E%89%E5%AE%B3%E4%BA%86",
+      "published_at": "2026-11-22T07:13:50+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "社会",
+      "title": "Ukraine: Dashcam captures massive explosion on Lviv street",
+      "summary": "A dashcam captured the moment a Russian projectile struck a building directly ahead of a car in Lviv, forcing the driver to reverse. The attack killed two people and injured at least 10 others.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/video/2026/11/22/ukraine-dashcam-captures-massive-explosion-on-lviv-street",
+      "published_at": "2026-11-22T07:05:47+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "社会",
+      "title": "COP31 : 欧盟专员说没有协议总比达成一份糟糕的协议要好， 法国巴拿马带头说目前的协议不够好",
+      "summary": "在土耳其安塔利亚参加第31届联合国气候变化大会的谈判代表仍在努力寻找近200个国家都能接受的方案。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E7%94%9F%E6%80%81/20261121-cop31-%E6%AC%A7%E7%9B%9F%E4%B8%93%E5%91%98%E8%AF%B4%E6%B2%A1%E6%9C%89%E5%8D%8F%E8%AE%AE%E6%80%BB%E6%AF%94%E8%BE%BE%E6%88%90%E4%B8%80%E4%BB%BD%E7%B3%9F%E7%B3%95%E7%9A%84%E5%8D%8F%E8%AE%AE%E8%A6%81%E5%A5%BD%EF%BC%8C-%E6%B3%95%E5%9B%BD%E5%B7%B4%E6%8B%BF%E9%A9%AC%E5%B8%A6%E5%A4%B4%E8%AF%B4%E7%9B%AE%E5%89%8D%E7%9A%84%E5%8D%8F%E8%AE%AE%E4%B8%8D%E5%A4%9F%E5%A5%BD",
+      "published_at": "2026-11-22T06:59:46+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "市场",
+      "title": "周六法国多个城市爆发大规模游行，抗议公共服务差、生活成本高、不平等",
+      "summary": "周六，法国多个城市爆发了大规模游行，这是第六个周末的抗议活动。示威者要求改善公共服务，并对不断上涨的生活成本和不平等现象表达不满。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261121-%E5%91%A8%E5%85%AD%E6%B3%95%E5%9B%BD%E5%A4%9A%E4%B8%AA%E5%9F%8E%E5%B8%82%E7%88%86%E5%8F%91%E4%BA%86%E7%AC%AC%E5%85%AD%E4%B8%AA%E5%91%A8%E6%9C%AB%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%B8%B8%E8%A1%8C%EF%BC%8C%E6%8A%97%E8%AE%AE%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8A%A1%E5%B7%AE%EF%BC%8C%E7%94%9F%E6%B4%BB%E6%88%90%E6%9C%AC%E9%AB%98%EF%BC%8C%E4%B8%8D%E5%B9%B3%E7%AD%89",
+      "published_at": "2026-11-22T06:34:27+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "政治",
+      "title": "泽连斯基回应特朗普：普京只是一介屠夫",
+      "summary": "针对特朗普形容普京是其“朋友”，乌克兰总统泽连斯基毫不犹豫地对美国媒体表示，他的同行俄罗斯总统普京仅仅是一介“屠夫”。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261121-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE-%E6%99%AE%E4%BA%AC%E5%8F%AA%E6%98%AF%E4%B8%80%E4%BB%8B%E5%B1%A0%E5%A4%AB",
+      "published_at": "2026-11-22T06:29:13+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "科技",
+      "title": "Google employees protest AI in schools policy",
+      "summary": "More than 550 Google employees signed a petition to allow schools access to Search without AI. Parents and educators protested outside Google offices in 6 cities last week for the same ask.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6048599/google-employees-protest-ai-in-schools-policy",
+      "published_at": "2026-11-22T06:01:40+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "社会",
+      "title": "德国《南方信使报》：中美俄三巨头会晤成果寥寥无几",
+      "summary": "德国媒体就深圳中美俄三巨头会晤表示了关注，但多份媒体感到失望。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261121-%E5%BE%B7%E5%9B%BD-%E5%8D%97%E6%96%B9%E4%BF%A1%E4%BD%BF%E6%8A%A5-%E4%B8%AD%E7%BE%8E%E4%BF%84%E4%B8%89%E5%B7%A8%E5%A4%B4%E4%BC%9A%E6%99%A4%E6%88%90%E6%9E%9C%E5%AF%A5%E5%AF%A5%E6%97%A0%E5%87%A0",
+      "published_at": "2026-11-22T05:55:32+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "政治",
+      "title": "加州律师公会调查前白宫发言人扎卡里亚 涉未取得执照却多次自称律师",
+      "summary": "美国加州律师公会已对前白宫发言人扎卡里亚（Katie Zacharia）展开调查，厘清她是否在未取得律师执业资格的情况下，多次对外宣称自己是律师，涉嫌违反加州法律。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261121-%E5%8A%A0%E5%B7%9E%E5%BE%8B%E5%B8%88%E5%85%AC%E4%BC%9A%E8%B0%83%E6%9F%A5%E5%89%8D%E7%99%BD%E5%AE%AB%E5%8F%91%E8%A8%80%E4%BA%BA%E6%89%8E%E5%8D%A1%E9%87%8C%E4%BA%9A-%E6%B6%89%E6%9C%AA%E5%8F%96%E5%BE%97%E6%89%A7%E7%85%A7%E5%8D%B4%E5%A4%9A%E6%AC%A1%E8%87%AA%E7%A7%B0%E5%BE%8B%E5%B8%88",
+      "published_at": "2026-11-22T05:52:21+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "市场",
+      "title": "Dream of gas-powered vehicles falters in China’s hydrogen capital",
+      "summary": "High costs and dwindling subsidies leave rows of hydrogen-powered buggies sitting idle in the southern city of Foshan",
+      "source": "金融时报",
+      "url": "https://www.ft.com/content/91d25e77-efa2-4ced-a9e1-92f53fa18e4d?syn-25a6b1a6=1",
+      "published_at": "2026-11-22T05:00:02+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "经济",
+      "title": "US Consumers Are Holding Up Against Inflation Going Into Holiday Season",
+      "summary": "Anxiety about inflation has yet to spoil the spending appetite of US consumers in the period leading up to the holiday-shopping season.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-21/us-consumers-are-holding-up-against-inflation-going-into-holiday-season",
+      "published_at": "2026-11-22T05:00:00+08:00"
     },
     {
       "region": "美国",
       "category": "科技",
       "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
-      "summary": "Anthropic’s Levent Alpöge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesis A mathematician at Anthropic has convincingly said that the San Francisco -based artificial",
+      "summary": "Anthropic’s Levent Alpöge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesis A mathematician at Anthropic has said that the San Francisco -based artificial intelligence (AI)",
       "source": "卫报",
       "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
       "published_at": "2026-11-22T04:15:57+08:00"
@@ -36,24 +279,6 @@
       "source": "纽约时报",
       "url": "https://www.nytimes.com/2026/11/20/business/nvidia-sec-accounting.html",
       "published_at": "2026-11-22T04:07:36+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "社会",
-      "title": "2-Year-Old Girl Wearing Only a Diaper Is Rescued After Hours in the Desert",
-      "summary": "“It was a life-changing moment,” said a searcher who found the girl, Vella Campillo, early on Wednesday in a remote area of Arizona after she had been missing for more than seven hours.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/21/us/missing-2-year-old-arizona-desert.html",
-      "published_at": "2026-11-22T04:02:01+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "社会",
-      "title": "International Student Enrollment Plunged. Schools Are Bracing for More Losses.",
-      "summary": "A blitz of new Trump administration policies are set to upend the lives of international students again, making it harder for them to live and work in the United States.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/21/us/politics/international-student-enrollment-plunged.html",
-      "published_at": "2026-11-22T03:58:02+08:00"
     },
     {
       "region": "欧洲",
@@ -83,69 +308,6 @@
       "published_at": "2026-11-22T03:11:51+08:00"
     },
     {
-      "region": "中国",
-      "category": "政治",
-      "title": "Australian neo-Nazis among far-right groups raising hundreds of thousands via global crowdfunding platform",
-      "summary": "GiveSendGo has been accused of facilitating the financing of extremism, but the platform says it does not ‘condone racism, discrimination, hate speech, or violence of any kind’ Get our breaking news email , free app or",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/22/australian-neo-nazis-among-far-right-groups-raising-hundreds-of-thousands-via-global-crowdfunding-platform-ntwnfb",
-      "published_at": "2026-11-22T03:00:06+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "社会",
-      "title": "Louisiana man charged with killing woman on hiking trail and murdering co-worker with crossbow",
-      "summary": "Jared Schurr arrested in Mississippi after Lizeht Rodriguez and Woodrow Scott died in otherwise unrelated killings A man recently strangled a woman to death whom he did not know along a hiking trail north of New Orleans",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/us-news/2026/nov/21/louisiana-mississippi-hiking-trail-crossbow-murder-charges",
-      "published_at": "2026-11-22T02:50:00+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "经济",
-      "title": "Why Nostalgia for Tamagotchis, the Virtual Pets, Won’t Die",
-      "summary": "Millennials are answering the beeping call of the pocket-size game that caused a sensation 30 years ago. But analog-craving Gen Zers are, too.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/21/arts/tamagotchis-comeback.html",
-      "published_at": "2026-11-22T02:29:14+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "社会",
-      "title": "Storms expected on both coasts threatens Thanksgiving travel",
-      "summary": "The mayor of San Francisco is asking people in the city not to travel unless \"absolutely essential.\" Meanwhile, a storm moving up the Eastern seaboard could also cause travel delays ahead of Thanksgiving.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino",
-      "published_at": "2026-11-22T02:22:46+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "社会",
-      "title": "Former Italian police chief De Gennaro takes own life amid mafia probe",
-      "summary": "Former Italian police chief Gianni De Gennaro, under ⁠investigation for alleged efforts to obstruct a new probe into the 1992 killing of a top anti-mafia magistrate, has taken his own life, an official familiar with the",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/news/world/europe/article/3375349/former-italian-police-chief-de-gennaro-takes-own-life-amid-mafia-probe",
-      "published_at": "2026-11-22T02:21:02+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "政治",
-      "title": "Suffolk village votes to ‘leave the UK’ over plans to house asylum seekers nearby",
-      "summary": "Local MP says legitimate criticisms of asylum housing plans are being co-opted by opposition parties ‘stirring up racial discord’ Residents of a Suffolk village have voted to “leave the UK” in a referendum held in",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/21/suffolk-village-votes-to-leave-the-uk-over-plans-to-house-asylum-seekers-nearby",
-      "published_at": "2026-11-22T02:20:37+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "市场",
-      "title": "EU raises prospect of ‘no deal’ at COP31",
-      "summary": "Escalation in tactics comes as Saudi Arabia leads opposition to inclusion of fossil fuel phase out in final agreement",
-      "source": "金融时报",
-      "url": "https://www.ft.com/content/b3ba64e9-9482-4525-acc7-49825f3daace?syn-25a6b1a6=1",
-      "published_at": "2026-11-22T02:07:02+08:00"
-    },
-    {
       "region": "美国",
       "category": "经济",
       "title": "The Used Car Industry Is Booming. This N.J. Campus Is Setting the Price.",
@@ -155,13 +317,22 @@
       "published_at": "2026-11-22T01:59:58+08:00"
     },
     {
-      "region": "欧洲",
-      "category": "社会",
-      "title": "In France’s Angry Autumn, TV News Channels Are Accused of Stirring the Pot",
-      "summary": "Critics say that CNews and BFM TV, two major news channels, have used racist language in protest coverage. The channels deny it.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/21/world/europe/france-tv-news-channels.html",
-      "published_at": "2026-11-22T01:14:17+08:00"
+      "region": "美国",
+      "category": "科技",
+      "title": "Amazon closes in on $7.5bn deal to buy AI start-up Decart",
+      "summary": "Acquisition would help AWS compete with Nvidia in race for computing power",
+      "source": "金融时报",
+      "url": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616?syn-25a6b1a6=1",
+      "published_at": "2026-11-22T01:21:36+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "科技",
+      "title": "California Nvidia Probe Covers Potential Criminal Law Violations",
+      "summary": "California’s probe into whether Nvidia Corp.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-21/california-nvidia-probe-covers-potential-criminal-law-violations",
+      "published_at": "2026-11-22T01:11:23+08:00"
     },
     {
       "region": "中国",
@@ -173,15 +344,6 @@
       "published_at": "2026-11-22T01:00:10+08:00"
     },
     {
-      "region": "美国",
-      "category": "市场",
-      "title": "Trump says there could be a 'positive spin' from the latest FBI database hack",
-      "summary": "This would make the second recent intrusion into the FBI system.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html",
-      "published_at": "2026-11-22T00:57:34+08:00"
-    },
-    {
       "region": "欧洲",
       "category": "经济",
       "title": "Real Madrid outpace Bayern Munich in revenue race as both clubs post record figures",
@@ -189,15 +351,6 @@
       "source": "Euronews",
       "url": "https://www.euronews.com/2026/11/21/real-madrid-outpace-bayern-munich-in-revenue-race-as-both-clubs-post-record-figures",
       "published_at": "2026-11-22T00:51:05+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "市场",
-      "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
-      "summary": "Anthropic held its historic Nasdaq debut a day before Nvidia's stock closed out its longest weekly losing streak since 2008.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
-      "published_at": "2026-11-22T00:40:05+08:00"
     },
     {
       "region": "欧洲",
@@ -236,24 +389,6 @@
       "published_at": "2026-11-21T23:13:00+08:00"
     },
     {
-      "region": "美国",
-      "category": "经济",
-      "title": "How the U.S. Economy Is Tied to A.I.",
-      "summary": "Artificial intelligence has become a huge piece of the U.S. economy.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/video/business/100000011293737/how-the-us-economy-is-tied-to-ai.html",
-      "published_at": "2026-11-21T23:06:22+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "政治",
-      "title": "欧洲希望效仿美国收购TikTok， 德国称已有投资者愿出资250亿欧元",
-      "summary": "继美国之后，欧洲很可能也会要求TikTok与其中国母公司断绝关系。据POLITICO报导，德国文化部长沃尔夫拉姆·魏默（Wolfram Weimer）周五(11月20日)表示，德国政府已经找到有意投资高达250亿欧元的投资者，希望收购TikTok欧洲业务的大部分股权。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261121-%E6%AC%A7%E6%B4%B2%E5%B8%8C%E6%9C%9B%E6%95%88%E4%BB%BF%E7%BE%8E%E5%9B%BD%E6%94%B6%E8%B4%ADtiktok%EF%BC%8C-%E5%BE%B7%E5%9B%BD%E7%A7%B0%E5%B7%B2%E6%9C%89%E6%8A%95%E8%B5%84%E8%80%85%E6%84%BF%E5%87%BA%E8%B5%84250%E4%BA%BF%E6%AC%A7%E5%85%83",
-      "published_at": "2026-11-21T23:03:31+08:00"
-    },
-    {
       "region": "中国",
       "category": "政治",
       "title": "分析：为什么中国不愿承担气候领导角色？",
@@ -263,51 +398,6 @@
       "published_at": "2026-11-21T22:29:00+08:00"
     },
     {
-      "region": "中国",
-      "category": "经济",
-      "title": "Shenzhen Wants to Become a Cultural Capital",
-      "summary": "Bloomberg’s Tiffany Ap tells Bloomberg This Weekend how Shenzhen is spending billions on museums as the technology and manufacturing hub tries to establish itself as a cultural destination and attract talent and",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-21/shenzhen-wants-to-become-a-cultural-capital-video",
-      "published_at": "2026-11-21T22:24:08+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "政治",
-      "title": "Cop 31 : 对比中西专家对走出化石能源以及电气化目标的看法",
-      "summary": "正在土耳其召开的联合国第31届气候峰会进入最后的拉锯战，各方分歧集中电气化目标，走出化石能源以及是否将碳捕捉等技术纳入最终文本的问题，如果说中国与西方在遵守巴黎协定等问题上方向一致的话，欧洲国家对走出化石能源路线图的呼吁似乎并没有受到中国的相应，同样，欧洲原先提出的电气化的电力必须来自清洁能源的要求也并没有赢得中国方面的支持，其中原因，除了不排除地缘政治方面的影响之外，或许还归结于中西方对如何务实的行动问题上的认知差异。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%8E%AF%E4%BF%9D%E5%A4%A9%E5%9C%B0/20261121-cop-31-%E5%AF%B9%E6%AF%94%E4%B8%AD%E8%A5%BF%E4%B8%93%E5%AE%B6%E5%AF%B9%E8%B5%B0%E5%87%BA%E5%8C%96%E7%9F%B3%E8%83%BD%E6%BA%90%E4%BB%A5%E5%8F%8A%E7%94%B5%E6%B0%94%E5%8C%96%E7%9B%AE%E6%A0%87%E7%9A%84%E7%9C%8B%E6%B3%95",
-      "published_at": "2026-11-21T22:07:05+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "经济",
-      "title": "Many Etsy Sellers Close Up Shop Over Site’s New A.I. Policy",
-      "summary": "Numerous longtime users of the online marketplace have left the platform because they do not want their work training artificial intelligence. Etsy said it would revise its policy.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/20/arts/etsy-ai-policy.html",
-      "published_at": "2026-11-21T22:04:25+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "政治",
-      "title": "路透分析：习近平借峰会巩固国际地位，特朗普获礼遇但无实质成果",
-      "summary": "路透社周六（11月21日）发布一篇深度报道称，分析人士表示，美国总统特朗普将本周中国方面对他高规格的接待礼遇视为一种胜利，但今年举行的三次这样的峰会都没能给他带来多少实际收获。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261121-%E8%B7%AF%E9%80%8F%E5%88%86%E6%9E%90-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%80%9F%E5%B3%B0%E4%BC%9A%E5%B7%A9%E5%9B%BA%E5%9B%BD%E9%99%85%E5%9C%B0%E4%BD%8D%EF%BC%8C%E7%89%B9%E6%9C%97%E6%99%AE%E8%8E%B7%E7%A4%BC%E9%81%87%E4%BD%86%E6%97%A0%E5%AE%9E%E8%B4%A8%E6%88%90%E6%9E%9C",
-      "published_at": "2026-11-21T22:04:22+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "科技",
-      "title": "Why a slow-paced show about broken friendships is China’s antidote to AI fatigue",
-      "summary": "A slow-paced Chinese reality show about fractured friendships has proved an unexpected cultural phenomenon, sparking a nationwide reckoning over huorengan – the messy, unscripted sense of being alive – as AI companions",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/news/china/politics/article/3375328/why-slow-paced-show-about-broken-friendships-chinas-antidote-ai-fatigue",
-      "published_at": "2026-11-21T22:00:05+08:00"
-    },
-    {
       "region": "欧洲",
       "category": "科技",
       "title": "‘I was shaking, crying, having trouble breathing’: the uncharted trauma of breaking up with AI companions",
@@ -315,96 +405,6 @@
       "source": "卫报",
       "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/21/shaking-crying-trouble-breathing-breaking-up-with-ai-companions",
       "published_at": "2026-11-21T22:00:01+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "经济",
-      "title": "Indonesia, EU sign ‘ambitious’ trade deal",
-      "summary": "The EU and Indonesia officially signed a trade deal to open up their markets in Brussels on Saturday, paving the way for the accord to come into force early next year.",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3375341/indonesia-eu-sign-ambitious-trade-deal",
-      "published_at": "2026-11-21T21:46:13+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "科技",
-      "title": "‘Little room for error’: what a debt-laden cloud computing company says about the AI boom",
-      "summary": "‘Poster child of AI bubble’ CoreWeave symbolises increasingly risky business model of datacentre buildout The Egyptians had pyramids. The Roman empire had roads.",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom",
-      "published_at": "2026-11-21T21:00:01+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "科技",
-      "title": "英伟达深陷多重调查 特朗普盼黄仁勋回归",
-      "summary": "美国芯片巨头英伟达面临多重压力：美国证监会正在调查其会计问题，国会则关注其对华芯片出口及可能存在的违规转运。",
-      "source": "德国之声",
-      "url": "https://www.dw.com/zh/英伟达深陷多重调查-特朗普盼黄仁勋回归/a-80009664?maca=chi-rss-chi-all-1127-xml-mrss",
-      "published_at": "2026-11-21T20:56:00+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "经济",
-      "title": "Asian Gaelic Games brings 2-day celebration of all things Irish to Hong Kong",
-      "summary": "More than 700 amateur athletes from Ireland and across the region descended on Hong Kong for the Asian Gaelic Games on Saturday, as the city played host to the annual sporting tournament’s 30th anniversary.",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/sport/other-sport/article/3375337/asian-gaelic-games-brings-2-day-celebration-all-things-irish-hong-kong",
-      "published_at": "2026-11-21T20:52:29+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "市场",
-      "title": "An early breakdown in the polar vortex is threatening already depleted gas stocks",
-      "summary": "Colder weather and low wind speeds could strain Europe’s gas market, where storage started winter at its lowest level in more than a decade.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/21/polar-vortex-europe-gas-prices.html",
-      "published_at": "2026-11-21T20:47:25+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "科技",
-      "title": "China unveils space mining road map with a big move on the moon within 4 years",
-      "summary": "China should test making water or oxygen on the moon no later than 2030, according to the chief designer of its lunar programme, as the country’s race with the US to settle there heats up.",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/news/china/science/article/3375323/china-unveils-space-mining-road-map-big-move-moon-within-4-years",
-      "published_at": "2026-11-21T20:00:06+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "社会",
-      "title": "日本外相谈中美俄三国首脑会谈 不认为中国是亚洲的霸权国家",
-      "summary": "日本外务大臣茂木敏充在20日的记者会上，在回答记者有关中美俄首脑会谈的提问时表示：我并不认为中国已经成为亚洲的地区霸权国家。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261121-%E6%97%A5%E6%9C%AC%E5%A4%96%E7%9B%B8%E8%B0%88%E4%B8%AD%E7%BE%8E%E4%BF%84%E4%B8%89%E5%9B%BD%E9%A6%96%E8%84%91%E4%BC%9A%E8%B0%88-%E4%B8%8D%E8%AE%A4%E4%B8%BA%E4%B8%AD%E5%9B%BD%E6%98%AF%E4%BA%9A%E6%B4%B2%E7%9A%84%E9%9C%B8%E6%9D%83%E5%9B%BD%E5%AE%B6",
-      "published_at": "2026-11-21T19:06:52+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "社会",
-      "title": "皮克敏手游「中国台湾」争议与个资疑虑 引发台湾玩家退坑潮",
-      "summary": "知名手游皮克敏《Pikmin Bloom》 在台湾掀起一股散步种花、打菇风潮的旋风。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261121-%E7%9A%AE%E5%85%8B%E6%95%8F%E6%89%8B%E6%B8%B8-%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE-%E4%BA%89%E8%AE%AE%E4%B8%8E%E4%B8%AA%E8%B5%84%E7%96%91%E8%99%91-%E5%BC%95%E5%8F%91%E5%8F%B0%E6%B9%BE%E7%8E%A9%E5%AE%B6%E9%80%80%E5%9D%91%E6%BD%AE",
-      "published_at": "2026-11-21T18:53:46+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "政治",
-      "title": "俄罗斯导弹落入波兰 北约秘书长：这是“严重侵犯”",
-      "summary": "两枚俄罗斯导弹和一架疑似无人机周五坠落在波兰。波兰总理表示，这很可能是俄罗斯方面一次蓄意挑衅，其时机恰逢欧洲多国在波兰境内举行军事演习。",
-      "source": "德国之声",
-      "url": "https://www.dw.com/zh/俄罗斯导弹落入波兰-北约秘书长：这是-严重侵犯/a-80008999?maca=chi-rss-chi-all-1127-xml-mrss",
-      "published_at": "2026-11-21T18:38:00+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "科技",
-      "title": "China Plans to Strengthen AI Token Standards in Computing Push",
-      "summary": "China’s National Data Administration will improve standards on the measurement and billing of artificial intelligence tokens and quality assessment, as Beijing guides the development of the growing industry.",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-21/china-plans-to-strengthen-ai-token-standards-in-computing-push",
-      "published_at": "2026-11-21T18:11:29+08:00"
     }
   ]
 }
