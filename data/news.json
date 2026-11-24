@@ -1,122 +1,347 @@
 {
-  "updated_at": "2026-11-24T03:25:33+08:00",
+  "updated_at": "2026-11-24T10:28:54+08:00",
   "items": [
+    {
+      "region": "美国",
+      "category": "社会",
+      "title": "Federal court clears way for army to detonate bomb-making material in Iowa",
+      "summary": "Decision comes after Trump urged court to first sign off on what he called the safest way to resolve the situation The US army can proceed with detonating several tons of degraded bomb-making chemicals in Iowa, a",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/23/iowa-lead-bomb-appeals-court",
+      "published_at": "2026-11-24T10:24:48+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "科技",
+      "title": "What Jensen Huang’s return means for Nvidia’s Colette Kress",
+      "summary": "Kress steered the company through billions in AI financing deals and during Huang's sudden departure. Now she's back to full-time CFO.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-returns-colette-kress-cfo.html",
+      "published_at": "2026-11-24T10:21:06+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "科技",
+      "title": "Jensen Huang cheered by Nvidia employees after return, pledges to be a better CEO",
+      "summary": "Nvidia's Jensen Huang admitted to an affair in a note to employees on Nov. 8 and resigned as CEO on Nov.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/jensen-huang-nvidia-ceo-return.html",
+      "published_at": "2026-11-24T10:20:44+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "市场",
+      "title": "Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price limits",
+      "summary": "Investors piled back into the tech market, following the reinstatement of Nvidia CEO Jensen Huang by its board.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
+      "published_at": "2026-11-24T10:20:36+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "科技",
+      "title": "Australian politics live: Greens secure ‘multibillion dollar fines’ for big tech in digital duty of care; ANZ predicts RBA will cut rates in June",
+      "summary": "Get our breaking news email , free app or daily news podcast The government will save more than it spends, says Jim Chalmers , but it won’t be a “slash and burn” budget update.",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
+      "published_at": "2026-11-24T10:13:53+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "市场",
+      "title": "Republican lawmakers break with Trump over alleged Nvidia chip smuggling after Jensen Huang’s reinstatement – live",
+      "summary": "‘Congress has much to investigate’, says Tom Cotton, US Republican senator from Arkansas, as some of his colleagues in the House vow to get answers from Huang Sign up to the Breaking News US email Nvidia ’s shares have",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+      "published_at": "2026-11-24T10:13:02+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "市场",
+      "title": "Billionaire Richard Li shares guitar playing on social media, sparking slew of reactions",
+      "summary": "Billionaire Richard Li Tzar-kai, the second son of Hong Kong’s richest man Li Ka-shing, has apparently posted videos of himself on Instagram playing the guitar, including a song by Taiwanese singer Eric Chou, drawing a",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3375542/billionaire-richard-li-shares-guitar-playing-social-media-sparking-slew-reactions",
+      "published_at": "2026-11-24T10:03:50+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "社会",
+      "title": "China’s historical climate records could be skewed by human bias, study finds",
+      "summary": "For centuries, scholars, officials and local chroniclers in China recorded the world around them, resulting in a collection of imperial histories, gazetteers, personal diaries and records that is seen as the most",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/china/science/article/3375453/chinas-historical-climate-records-could-be-skewed-human-bias-study-finds",
+      "published_at": "2026-11-24T10:00:07+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "市场",
+      "title": "U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy",
+      "summary": "The U.S. has added Megaspeed and six other companies to its trade blacklist over concerns about the potential diversion of advanced computing products.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html",
+      "published_at": "2026-11-24T09:56:28+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "科技",
+      "title": "US adds Megaspeed, AI firm at center of Nvidia scandal, to trade blacklist",
+      "summary": "Singapore-based company entangled in scandal over alleged spy Alice Huang’s affair with Jensen Huang The US commerce department published an official notice on Monday adding the Singapore-based company Megaspeed, and",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/23/megaspeed-us-trade-blacklist-nvidia",
+      "published_at": "2026-11-24T09:47:15+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "科技",
+      "title": "Jensen Huang returns to Nvidia to applause from staff, no trademark leather jacket in sight",
+      "summary": "When Jensen Huang walked back into Nvidia’s headquarters in Santa Clara on Monday – without his trademark black leather jacket – the applause from cheering staff momentarily drowned out nearly two weeks of corporate",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/tech/tech-war/article/3375539/jensen-huang-returns-nvidia-applause-staff-no-trademark-leather-jacket-sight",
+      "published_at": "2026-11-24T09:45:37+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "科技",
+      "title": "US Blacklists Alibaba-Owned Company in Setback to AI Ambitions",
+      "summary": "The Trump administration blacklisted a Singaporean subsidiary of Alibaba Group Holding Ltd.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/us-blacklists-alibaba-owned-company-in-setback-to-ai-ambitions",
+      "published_at": "2026-11-24T09:45:36+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "科技",
+      "title": "Hong Kong stocks surge as Jensen Huang’s surprising comeback revives AI trade",
+      "summary": "Hong Kong stocks surged on Tuesday, as the return of Jensen Huang to Nvidia sparked buying frenzy and reignited the artificial intelligence (AI) trade.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/business/china-business/article/3375538/hong-kong-stocks-surge-jensen-huangs-surprising-comeback-revives-ai-trade",
+      "published_at": "2026-11-24T09:45:16+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "市场",
+      "title": "Swire Pacific nets HK$3.57 billion from 4.15% Cathay stake sale amid share rally",
+      "summary": "Hong Kong conglomerate Swire Pacific has capitalised on the recent strength in Cathay Pacific Airways’ share price by selling a 4.15 per cent stake in the airline for net proceeds of HK$3.57 billion.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3375523/swire-pacific-nets-hk357-billion-415-cathay-stake-sale-amid-share-rally",
+      "published_at": "2026-11-24T09:30:08+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "社会",
+      "title": "Pakistani astronaut joins Shenzhou-24 crew heading for China’s Tiangong space station",
+      "summary": "China’s Tiangong space station is set to welcome its first foreign astronaut as part of the Shenzhou-24 crew announced on Tuesday.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/china/science/article/3375536/pakistani-astronaut-joins-shenzhou-24-crew-heading-chinas-tiangong-space-station",
+      "published_at": "2026-11-24T09:21:04+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "市场",
+      "title": "Malaysia Index Rejig Puts Tech, Power Stocks in Focus for 2027",
+      "summary": "Malaysia is gearing up for the first major overhaul of its equity benchmark in 17 years, a shake-up that may channel more investor money into technology and energy companies just as traders rethink the profitability of",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/malaysia-index-rejig-puts-tech-power-stocks-in-focus-for-2027",
+      "published_at": "2026-11-24T09:12:37+08:00"
+    },
     {
       "region": "欧洲",
       "category": "政治",
-      "title": "Over 700,000 Russian Soldiers Have Died in Ukraine, Analysis Indicates",
-      "summary": "Hacked government data underscores the immense human cost of President Vladimir V. Putin’s war of attrition.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html",
-      "published_at": "2026-11-24T03:19:23+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "市场",
-      "title": "Tech stocks rally after Nvidia board approves Jensen Huang's return as CEO",
-      "summary": "The Nasdaq slid 10% last week in its worst week since the early days of Covid in 2020.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
-      "published_at": "2026-11-24T03:19:08+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "科技",
-      "title": "Here’s the latest.",
-      "summary": "Mr. Huang resigned from Nvidia on Nov.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/live/2026/11/23/technology/nvidia-jensen-huang-reinstated/nvidia-jensen-huang",
-      "published_at": "2026-11-24T03:16:11+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "市场",
-      "title": "Nasdaq roars back by 6% as Nvidia soars on Huang’s return, S&P 500 rebounds 5%: Live updates",
-      "summary": "U.S. equities surged on Monday after Nvidia reinstated Jensen Huang as CEO.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html",
-      "published_at": "2026-11-24T03:15:37+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "科技",
-      "title": "Trump says he 'convinced' Nvidia to reinstate Jensen Huang",
-      "summary": "The US president personally intervened to speak to members of Nvidia's board of directors.",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-24T03:14:44+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "市场",
-      "title": "DNI Jay Clayton tapped as acting national cyber director",
-      "summary": "President Donald Trump last week said he decided to replace Sean Cairncross as national cyber director \"because I didn't think that person was good enough.\"",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/23/jay-clayton-cyber-director-kirsten-davies-trump.html",
-      "published_at": "2026-11-24T03:12:49+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "科技",
-      "title": "US lawmakers vow to sharpen Huang probes as he returns to Nvidia",
-      "summary": "Democrats and Republicans insist tech CEO must testify in public",
-      "source": "金融时报",
-      "url": "https://www.ft.com/content/6b4e5bfb-d566-4a61-a12c-057881a261b8?syn-25a6b1a6=1",
-      "published_at": "2026-11-24T03:11:29+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "科技",
-      "title": "Republican senators criticize Nvidia’s decision to reinstate Jensen Huang",
-      "summary": "Senators criticize move, and say Huang needs to testify before Congress and address national security concerns Nvidia reinstates Jensen Huang – latest updates US politics – live updates Republican US lawmakers are",
+      "title": "Ukraine war briefing: Kyiv’s strike on Russian ships in Benghazi condemned by Libya’s UN-backed government",
+      "summary": "Tripoli-based foreign ministry demands explanation from Kyiv; Guardian analysis identifies more than 460,000 Russian deaths linked to the war. What we know on day 1,735 Continue reading...",
       "source": "卫报",
-      "url": "https://www.theguardian.com/technology/2026/nov/23/trump-jensen-huang-nvidia-reinstated",
-      "published_at": "2026-11-24T03:08:37+08:00"
+      "url": "https://www.theguardian.com/world/2026/nov/24/ukraine-war-briefing-kyiv-strike-on-russian-ships-in-benghazi-condemned-by-un-backed-libya-government",
+      "published_at": "2026-11-24T09:08:35+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "市场",
+      "title": "Keppel Agrees to Merge M1 and Starhub in All-Share Deal",
+      "summary": "Keppel Ltd. agreed to combine M1 with Starhub Ltd.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/keppel-agrees-to-merge-m1-and-starhub-in-all-share-deal",
+      "published_at": "2026-11-24T09:07:27+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "经济",
+      "title": "Thailand agrees new durian export rules with China to protect US$5 billion trade",
+      "summary": "China and Thailand have agreed a new sanitation protocol for exports of Thai durian to raise Beijing’s “confidence” in the trade and protect billions of dollars’ worth of shipments, according to Thailand’s Ministry of",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/economy/china-economy/article/3375498/thailand-agrees-new-durian-export-rules-china-protect-us5-billion-trade",
+      "published_at": "2026-11-24T09:00:11+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "社会",
+      "title": "24 Killed After Fire Rips Through Candy Factory in Indonesia",
+      "summary": "Hundreds of people were at the compound when a blaze broke out on Saturday and then raged for hours.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/23/world/asia/indonesia-factory-fire.html",
+      "published_at": "2026-11-24T08:35:20+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "科技",
+      "title": "Japan Stocks Rebound as Huang’s Return Resuscitates AI Trade",
+      "summary": "Japanese stocks rose as Jensen Huang’s return to lead Nvidia Corp. eased concerns about a slowdown in AI investment that had intensified following his departure.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/japan-stocks-rebound-as-huang-s-return-resuscitates-ai-trade",
+      "published_at": "2026-11-24T08:32:45+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "经济",
+      "title": "Meet the robots: China’s 6 top humanoid developers vie for market share",
+      "summary": "Shenzhen captured the world’s attention last week as the host city of this year’s Asia-Pacific Economic Cooperation (Apec) summit.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/tech/article/3375497/meet-robots-chinas-six-top-humanoid-developers-vie-market-share",
+      "published_at": "2026-11-24T08:30:05+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "经济",
+      "title": "I pay £250 a month for someone else to do my life admin - it's worth it",
+      "summary": "Busy mothers on both sides of the Atlantic are paying companies to handle their to-do lists.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-24T08:01:04+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "政治",
+      "title": "Zack Polanski backs report endorsing Nato membership and maintaining nuclear weapons",
+      "summary": "Position contrasts with Green party’s policies before 2024 election, as polls show just 17% of voters trust them on defence Zack Polanski has given his backing to a paper that endorses Britain’s membership of Nato and",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/politics/2026/nov/24/zack-polanski-backs-report-endorsing-nato-membership-maintaining-nuclear-weapons",
+      "published_at": "2026-11-24T08:01:01+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "经济",
+      "title": "China shifts property funding to projects. Who benefits and who misses out?",
+      "summary": "China is allowing more corporate bond proceeds to flow directly into residential projects, but recent approvals suggest access to funding remains concentrated among stronger developers as investment and home sales",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/business/china-business/article/3375500/china-shifts-property-funding-projects-who-benefits-and-who-misses-out",
+      "published_at": "2026-11-24T08:00:12+08:00"
     },
     {
       "region": "美国",
-      "category": "市场",
-      "title": "ESPN, NFL to show Super Bowl 61 in Imax theaters",
-      "summary": "In addition to ESPN channels, Super Bowl 61 will also be available on streaming platform Disney+ as well as the company's broadcast network ABC.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/23/espn-nfl-super-bowl-imax.html",
-      "published_at": "2026-11-24T03:08:37+08:00"
+      "category": "科技",
+      "title": "黄仁勋重返英伟达后，特朗普引发政治风暴",
+      "summary": "美国民主党人指责特朗普施压让黄仁勋重返芯片巨头英伟达掌舵，认为特朗普此举不仅损害了国家安全，甚至还从中牟利。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261123-%E9%BB%84%E4%BB%81%E5%8B%8B%E9%87%8D%E8%BF%94%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%90%8E%EF%BC%8C%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%95%E5%8F%91%E6%94%BF%E6%B2%BB%E9%A3%8E%E6%9A%B4",
+      "published_at": "2026-11-24T07:27:29+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "政治",
+      "title": "塔吉克斯坦周一宣布正式退出国际刑事法院（ICC）",
+      "summary": "塔吉克斯坦周一公布了其上周五提交给联合国秘书长的退出通知。退出将于一年后生效。也是上周五这一天，俄罗斯总统普京访问了塔吉克斯坦。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261123-%E5%A1%94%E5%90%89%E5%85%8B%E6%96%AF%E5%9D%A6%E5%91%A8%E4%B8%80%E5%AE%A3%E5%B8%83%E6%AD%A3%E5%BC%8F%E9%80%80%E5%87%BA%E5%9B%BD%E9%99%85%E5%88%91%E4%BA%8B%E6%B3%95%E9%99%A2-icc",
+      "published_at": "2026-11-24T07:23:05+08:00"
     },
     {
       "region": "美国",
       "category": "经济",
-      "title": "'Biggest U-turn in economic history': Experts react to Jensen Huang's return to Nvidia",
-      "summary": "The Nvidia CEO was reinstated after weeks of controversy over his affair with an alleged Chinese spy.",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/videos/cq8r7e35mkzlo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-24T02:43:00+08:00"
+      "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
+      "summary": "The administration added Megaspeed to the entity list, a trade blacklist, after weeks of sparring among top officials on the decision.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
+      "published_at": "2026-11-24T07:18:58+08:00"
     },
     {
       "region": "欧洲",
       "category": "社会",
-      "title": "UK’s former prince Andrew took ‘bribe’ to help Turkish heiress, UK court told",
-      "summary": "Britain’s former prince Andrew received £750,000 (US$976,000) as an alleged “bribe” to help a Turkish heiress, the High Court in London was told on Monday, with the disgraced British royal due to testify in the civil",
+      "title": "罗兴亚人种族灭绝：十四个国家承认国际法院的裁决",
+      "summary": "包括英国和西班牙在内的十四个国家周一承认国际法院就罗兴亚人遭种族灭绝的裁决。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261123-%E7%BD%97%E5%85%B4%E4%BA%9A%E4%BA%BA%E7%A7%8D%E6%97%8F%E7%81%AD%E7%BB%9D-%E5%8D%81%E5%9B%9B%E4%B8%AA%E5%9B%BD%E5%AE%B6%E6%89%BF%E8%AE%A4%E5%9B%BD%E9%99%85%E6%B3%95%E9%99%A2%E7%9A%84%E8%A3%81%E5%86%B3",
+      "published_at": "2026-11-24T07:12:57+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "政治",
+      "title": "北约决定向波兰部署预警机，以应对俄罗斯的威胁",
+      "summary": "北约和波兰国防部副部长周一宣布，北约已决定向波兰提供一架预警机（AWACS）。此前，华沙方面称，三枚俄罗斯导弹于上周五落入波兰的东南部。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261123-%E5%8C%97%E7%BA%A6%E5%86%B3%E5%AE%9A%E5%90%91%E6%B3%A2%E5%85%B0%E9%83%A8%E7%BD%B2%E9%A2%84%E8%AD%A6%E6%9C%BA%EF%BC%8C%E4%BB%A5%E5%BA%94%E5%AF%B9%E4%BF%84%E7%BD%97%E6%96%AF%E7%9A%84%E5%A8%81%E8%83%81",
+      "published_at": "2026-11-24T07:06:58+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "经济",
+      "title": "墨西哥要求中国减少“越来越大的”贸易失衡",
+      "summary": "墨西哥经济部周一宣布，要求中国减少两国之间“持续且不断增长”的贸易不平衡，并要求中国加快批准允许多种墨西哥产品出口的程序。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261123-%E5%A2%A8%E8%A5%BF%E5%93%A5%E8%A6%81%E6%B1%82%E4%B8%AD%E5%9B%BD%E5%87%8F%E5%B0%91-%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%A7%E7%9A%84-%E8%B4%B8%E6%98%93%E5%A4%B1%E8%A1%A1",
+      "published_at": "2026-11-24T06:48:35+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "市场",
+      "title": "比亚迪股价大跌，其Ti7车型此前被禁止在欧盟销售",
+      "summary": "周一，中国汽车巨头比亚迪在香港股市的股价下跌。在此之前，一家荷兰法院裁定，比亚迪的一款SUV车型与捷豹路虎过于相似，禁止其在欧盟销售。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261123-%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%82%A1%E4%BB%B7%E6%9A%B4%E8%B7%8C%EF%BC%8C%E5%85%B6ti7%E8%BD%A6%E5%9E%8B%E6%AD%A4%E5%89%8D%E8%A2%AB%E7%A6%81%E6%AD%A2%E5%9C%A8%E6%AC%A7%E7%9B%9F%E9%94%80%E5%94%AE",
+      "published_at": "2026-11-24T06:45:07+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "科技",
+      "title": "Peterson: Expect a Lot of Damage From Keeping Huang",
+      "summary": "Randall Peterson, a Professor of Organizational Behavior and Founding Director of the London Business School Leadership Institute, discusses why markets have reacted so strongly both to the upside today and to the",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-23/peterson-expect-a-lot-of-damage-from-keeping-huang-video",
+      "published_at": "2026-11-24T06:26:10+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "经济",
+      "title": "Audra Fordin Fixes Cars, and Eases Women’s Fears",
+      "summary": "Audra Fordin recognized an undeniable need to make automobile education more accessible, and did something about it.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/23/business/small-business/women-cars.html",
+      "published_at": "2026-11-24T05:31:04+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "政治",
+      "title": "EU proposes banning Russian flags at sports events under new sanctions",
+      "summary": "European Commission President Ursula von der Leyen has announced a proposal for the next sanctions package over Russia’s war against Ukraine that would ban Russian teams and individual athletes from competing under the",
       "source": "南华早报",
-      "url": "https://www.scmp.com/news/world/europe/article/3375527/uks-former-prince-andrew-took-bribe-help-turkish-heiress-uk-court-told",
-      "published_at": "2026-11-24T02:35:45+08:00"
+      "url": "https://www.scmp.com/news/world/europe/article/3375530/eu-moves-ban-russian-flags-sports-events-under-new-sanctions",
+      "published_at": "2026-11-24T05:15:30+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "科技",
+      "title": "黄仁勋重返英伟达：科技大佬和金融界纷纷表示欢迎",
+      "summary": "尽管美国的一些国会议员对黄仁勋重返英伟达董事会的决定持批评态度，但一些科技大佬们和金融界人士纷纷对黄仁勋重返英伟达表示欢迎。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261123-%E9%BB%84%E4%BB%81%E5%8B%8B%E9%87%8D%E8%BF%94%E8%8B%B1%E4%BC%9F%E8%BE%BE-%E7%A7%91%E6%8A%80%E5%A4%A7%E4%BD%AC%E5%92%8C%E9%87%91%E8%9E%8D%E7%95%8C%E7%BA%B7%E7%BA%B7%E8%A1%A8%E7%A4%BA%E6%AC%A2%E8%BF%8E",
+      "published_at": "2026-11-24T05:06:35+08:00"
     },
     {
       "region": "欧洲",
-      "category": "政治",
-      "title": "Burnham says it would be ‘unthinkable’ for the UK to rejoin the EU without a referendum – as it happened",
-      "summary": "The prime minister’s remarks were the clearest commitment yet to not joining the EU without another vote In her speech, Louise Haigh announced that Juergen Maier, chair of Great British Energy, has been appointed as the",
+      "category": "市场",
+      "title": "Metropolitan police seize 893kg of cocaine hidden in boxes of oranges",
+      "summary": "London force also makes eight arrests in operation centred on New Spitalfields Market in the capital A tonne of cocaine was found hidden in boxes of oranges as part of one of the biggest drug seizures in the history of",
       "source": "卫报",
-      "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
-      "published_at": "2026-11-24T02:31:17+08:00"
+      "url": "https://www.theguardian.com/uk-news/2026/nov/23/metropolitan-police-seize-cocaine-hidden-boxes-oranges-new-spitalfields",
+      "published_at": "2026-11-24T04:41:43+08:00"
     },
     {
       "region": "欧洲",
-      "category": "政治",
-      "title": "The Guardian view on Andy Burnham’s EU intentions: undogmatic consensus building is a sensible strategy | Editorial",
-      "summary": "On treacherous political terrain, the government is right to want to proceed with caution and at a pace of its own choosing During the 1980s and 90s, the French president of the European Commission, Jacques Delors,",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/23/the-guardian-view-on-andy-burnhams-eu-intentions-undogmatic-consensus-building-is-the-sensible-strategy",
-      "published_at": "2026-11-24T02:28:47+08:00"
+      "category": "社会",
+      "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
+      "summary": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
+      "published_at": "2026-11-24T03:27:13+08:00"
     },
     {
       "region": "美国",
@@ -126,15 +351,6 @@
       "source": "法国国际广播电台",
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261123-%E7%89%B9%E6%9C%97%E6%99%AE%E4%BF%83%E4%BD%BF%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%91%A3%E4%BA%8B%E4%BC%9A%E8%AE%A9%E9%BB%84%E4%BB%81%E5%8B%8B%E5%A4%8D%E8%81%8C-%E6%8D%AE%E6%8A%A5%E6%9C%AA%E5%BE%81%E6%B1%82%E4%B8%B4%E6%97%B6ceo%E7%AD%89%E9%AB%98%E7%AE%A1%E6%84%8F%E8%A7%81",
       "published_at": "2026-11-24T02:24:52+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "政治",
-      "title": "A.I.-Powered Fake Personas Target Taiwan’s Elections",
-      "summary": "A new tool developed by researchers at Vanderbilt is detecting A.I.-generated posts linked to social media accounts aligned with China.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/23/us/politics/taiwan-elections-misinformation.html",
-      "published_at": "2026-11-24T02:19:26+08:00"
     },
     {
       "region": "美国",
@@ -164,15 +380,6 @@
       "published_at": "2026-11-24T02:11:21+08:00"
     },
     {
-      "region": "欧洲",
-      "category": "经济",
-      "title": "Pip assessments need 'fundamental overhaul', report to say",
-      "summary": "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-24T01:59:55+08:00"
-    },
-    {
       "region": "美国",
       "category": "科技",
       "title": "特朗普称其说服英伟达董事会让黄仁勋复职 未问习近平黄乐是否是间谍",
@@ -191,114 +398,6 @@
       "published_at": "2026-11-24T01:37:46+08:00"
     },
     {
-      "region": "欧洲",
-      "category": "社会",
-      "title": "UK Grand Theft Auto VI hacker gets 7-year sentence",
-      "summary": "A UK court sentenced a British hacker to seven years in prison on Monday for a series of cyberattacks, including leaking footage from Grand Theft Auto VI years before the blockbuster game’s release.",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/news/world/europe/article/3375524/uk-grand-theft-auto-vi-hacker-gets-7-year-sentence",
-      "published_at": "2026-11-24T01:26:00+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "市场",
-      "title": "Capita’s pesky civil service pension mandate may be its saving grace",
-      "summary": "There are few competitors ready to take on the UK group",
-      "source": "金融时报",
-      "url": "https://www.ft.com/content/e99cf35e-7d96-4eff-8c50-cb66f7d55b48?syn-25a6b1a6=1",
-      "published_at": "2026-11-24T01:22:20+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "市场",
-      "title": "Germany to Press Ahead With Gasoline Price Cap From Next Year",
-      "summary": "Germany is set to move ahead with a temporary three-month cap on gasoline prices from the start of next year as Berlin attempts to shield drivers in Europe’s biggest economy from higher fuel costs caused by the Iran",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-23/germany-to-press-ahead-with-gasoline-price-cap-from-next-year",
-      "published_at": "2026-11-24T01:14:35+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "市场",
-      "title": "Asian Stocks Drop As AI Worries Offset State Support Measures",
-      "summary": "South Korean and Chinese shares fell, showing investor sentiment toward the AI trade remains fragile even after Asian authorities rolled out support measures and US markets showed signs of stabilizing. (Source:",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-23/asian-stocks-drop-as-ai-worries-offset-state-support-measures",
-      "published_at": "2026-11-24T01:13:06+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "市场",
-      "title": "Capita shares drop 74% on cash call after civil service pension failures",
-      "summary": "UK outsourcer replaces chief executive Adolfo Hernandez alongside recapitalisation and profit guidance cut",
-      "source": "金融时报",
-      "url": "https://www.ft.com/content/d5e951e6-b5f6-4286-9de4-495c9a3c2472?syn-25a6b1a6=1",
-      "published_at": "2026-11-24T00:55:05+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "科技",
-      "title": "Nato vows space defence after Russia nuclear satellite report",
-      "summary": "Nato chief Mark Rutte said on Monday the alliance would defend against threats in space when asked about German media reports that Russia may be preparing to launch a nuclear-armed satellite.",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3375522/nato-vows-space-defence-after-russia-nuclear-satellite-report",
-      "published_at": "2026-11-24T00:49:46+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "政治",
-      "title": "黄仁勋在美参众两院委员会的作证目前预计仍将按计划进行",
-      "summary": "英伟达周一宣布恢复黄仁勋的总裁兼首席执行官及董事职务，这一举动可能会打乱美国国会两党议员对这家人工智能巨头进行监管的计划。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261123-%E9%BB%84%E4%BB%81%E5%8B%8B%E5%9C%A8%E7%BE%8E%E5%9B%BD%E4%BC%9A%E5%8F%82%E4%BC%97%E4%B8%A4%E9%99%A2%E7%9A%84%E4%BD%9C%E8%AF%81%E7%9B%AE%E5%89%8D%E9%A2%84%E8%AE%A1%E4%BB%8D%E5%B0%86%E6%8C%89%E8%AE%A1%E5%88%92%E8%BF%9B%E8%A1%8C",
-      "published_at": "2026-11-24T00:46:47+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "经济",
-      "title": "Senegal Debt Outlook Key to Investment Decisions, EBRD Says",
-      "summary": "The European Bank for Reconstruction and Development is monitoring Senegal’s debt position as it weighs investments in West Africa, its president said on a visit to the region.",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-23/senegal-debt-outlook-key-to-investment-decisions-ebrd-says",
-      "published_at": "2026-11-24T00:41:33+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "经济",
-      "title": "Mexico and China agree to create working group to boost trade",
-      "summary": "Mexico and China agreed on Monday to create a working group focused on bilateral economic priorities, Mexico’s ⁠Economy Ministry said.",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/news/china/article/3375520/mexico-and-china-agree-create-working-group-boost-trade",
-      "published_at": "2026-11-24T00:29:52+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "经济",
-      "title": "Elon Musk Faces an A.I. Dilemma at SpaceX",
-      "summary": "Mr. Musk’s SpaceX is renting out computing power from its data centers to competitors, including Anthropic.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/23/business/elon-musk-ai-anthropic-google.html",
-      "published_at": "2026-11-24T00:13:32+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "科技",
-      "title": "黄仁勋复职前数小时 特朗普据报曾亲自致电英伟达董事会，力主其回归",
-      "summary": "据旗语新闻社援引知情人士报导称，在美国总统特朗普（Donald Trump）通过电话连线参加英伟达董事会会议，力主黄仁勋回归后的数小时内，该公司便恢复了这位此前在压力下辞职的首席执行官的职务。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20261123-%E9%BB%84%E4%BB%81%E5%8B%8B%E5%A4%8D%E8%81%8C%E5%89%8D%E6%95%B0%E5%B0%8F%E6%97%B6-%E7%89%B9%E6%9C%97%E6%99%AE%E6%8D%AE%E6%8A%A5%E6%9B%BE%E4%BA%B2%E8%87%AA%E8%87%B4%E7%94%B5%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%91%A3%E4%BA%8B%E4%BC%9A%EF%BC%8C%E5%8A%9B%E4%B8%BB%E5%85%B6%E5%9B%9E%E5%BD%92",
-      "published_at": "2026-11-24T00:07:35+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "科技",
-      "title": "South Korea’s education minister resigns after backlash over AI exam cheating rules",
-      "summary": "South Korea’s university entrance exam can shape a student’s future.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/23/south-koreas-education-minister-resigns-after-backlash-over-ai-exam-cheating-rules",
-      "published_at": "2026-11-23T23:35:18+08:00"
-    },
-    {
       "region": "中国",
       "category": "政治",
       "title": "德语媒体：深圳全家福 -习近平中心 特朗普普京分立两侧",
@@ -306,105 +405,6 @@
       "source": "德国之声",
       "url": "https://www.dw.com/zh/德语媒体：深圳全家福-习近平中心-特朗普普京分立两侧/a-80022446?maca=chi-rss-chi-all-1127-xml-mrss",
       "published_at": "2026-11-23T23:17:00+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "科技",
-      "title": "特朗普：董事会作出正确且恰当决定，英伟达应继续合规内部调查",
-      "summary": "美国总统特朗普（Donald Trump）周一通过其社媒平台表示，他对英伟达董事会恢复黄仁勋首席执行官等职务一事表示欢迎，并宣称黄仁勋回归不会对美国国家安全构成任何风险。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261123-%E7%89%B9%E6%9C%97%E6%99%AE-%E8%91%A3%E4%BA%8B%E4%BC%9A%E4%BD%9C%E5%87%BA%E6%AD%A3%E7%A1%AE%E4%B8%94%E6%81%B0%E5%BD%93%E7%9A%84%E5%86%B3%E5%AE%9A%EF%BC%8C%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%BA%94%E5%90%8C%E6%97%B6%E7%BB%A7%E7%BB%AD%E5%90%88%E8%A7%84%E5%86%85%E9%83%A8%E8%B0%83%E6%9F%A5",
-      "published_at": "2026-11-23T23:11:00+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "社会",
-      "title": "John Lee urges continued reform as new public housing maintenance unit launches",
-      "summary": "A new group tasked with overseeing building maintenance in Hong Kong has been established to replace the Housing Bureau’s disgraced Independent Checking Unit (ICU), which was deemed culpable for a litany of failings",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/news/hong-kong/society/article/3375519/hong-kong-creates-building-maintenance-regulator-address-tai-po-fire-failings",
-      "published_at": "2026-11-23T22:57:36+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "社会",
-      "title": "At least 24 people killed in Indonesia factory fire, police say",
-      "summary": "Dozens of employees are still reported to be missing after a blaze broke out at a candy factory in Banten province at around 4:30 pm local time on Saturday.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/23/at-least-24-people-killed-in-indonesia-factory-fire-police-say",
-      "published_at": "2026-11-23T22:39:22+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "社会",
-      "title": "欧委会怀疑中国支持黑客组织是已持续一个月的网络攻击幕后黑手",
-      "summary": "据欧洲新闻台报导，欧盟委员会怀疑，一个中国支持的黑客组织是一场使其系统受到影响的网络攻击的幕后黑手；",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261123-%E6%AC%A7%E5%A7%94%E4%BC%9A%E6%80%80%E7%96%91%E4%B8%AD%E5%9B%BD%E6%94%AF%E6%8C%81%E9%BB%91%E5%AE%A2%E7%BB%84%E7%BB%87%E6%98%AF%E5%B7%B2%E6%8C%81%E7%BB%AD%E4%B8%80%E4%B8%AA%E6%9C%88%E7%9A%84%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB%E5%B9%95%E5%90%8E%E9%BB%91%E6%89%8B",
-      "published_at": "2026-11-23T22:21:14+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "经济",
-      "title": "India Working to Resolve Scotch Whisky Dispute, Official Says",
-      "summary": "India is working to resolve the dispute over Scotch whisky shipments held up at its ports, Commerce Secretary Rajesh Agrawal said, after importers raised the issue with the government.",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-23/india-working-to-resolve-scotch-whisky-dispute-official-says",
-      "published_at": "2026-11-23T22:13:05+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "社会",
-      "title": "Deadly Fire Rips Through Candy Factory in Indonesia",
-      "summary": "Hundreds of people were at the compound when a blaze broke out on Saturday and then raged for hours.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/23/world/asia/indonesia-factory-fire.html",
-      "published_at": "2026-11-23T22:03:09+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "经济",
-      "title": "Plant-based lunches could cut Australia’s emissions by 15m tonnes, new research shows",
-      "summary": "Nationwide change in lunch habits could cut more climate pollution than grounding every domestic flight Get our breaking news email , free app or daily news podcast Australians could collectively cut climate pollution",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/environment/2026/nov/23/plant-based-lunches-could-cut-australia-emissions-by-15m-tonnes-new-research-shows",
-      "published_at": "2026-11-23T21:58:01+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "社会",
-      "title": "Domestic violence perpetrators are misusing smart car features to abuse, researchers warn",
-      "summary": "Exclusive: Alarming report reveals how tracking and monitoring functions and digital key access have been used to facilitate abuse Get our breaking news email , free app or daily news podcast Earlier this year a man in",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/society/2026/nov/23/smart-car-tracking-control-features-domestic-violence-warning-ntwnfb",
-      "published_at": "2026-11-23T21:57:45+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "政治",
-      "title": "印官员指针对中国公民的签证拒签率降至约7% 中方称愿为商务人员提供便利",
-      "summary": "针对有报道称中国驻外外交机构减少了向印度公民发放签证，包括商务签证的情况，中方表示愿与印方共同努力，为双方商务人员的签证安排提供便利。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261123-%E5%8D%B0%E5%AE%98%E5%91%98%E6%8C%87%E9%92%88%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E7%9A%84%E7%AD%BE%E8%AF%81%E6%8B%92%E7%AD%BE%E7%8E%87%E9%99%8D%E8%87%B3%E7%BA%A67-%E4%B8%AD%E6%96%B9%E7%A7%B0%E6%84%BF%E4%B8%BA%E5%95%86%E5%8A%A1%E4%BA%BA%E5%91%98%E6%8F%90%E4%BE%9B%E4%BE%BF%E5%88%A9",
-      "published_at": "2026-11-23T21:01:27+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "政治",
-      "title": "CNN调查揭露疑似中国情报网络，锁定美国政府官员刺探敏感情报",
-      "summary": "CNN调查发现，疑似中国情报人员涉嫌建立虚假咨询公司 ，在招聘网站发布报酬优渥的工作机会，锁定美国现任及前任政府官员，试图搜集敏感情报。",
-      "source": "德国之声",
-      "url": "https://www.dw.com/zh/cnn调查揭露疑似中国情报网络，锁定美国政府官员刺探敏感情报/a-80020177?maca=chi-rss-chi-all-1127-xml-mrss",
-      "published_at": "2026-11-23T20:31:00+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "科技",
-      "title": "From steel to style: China’s ‘flagship’ AI factories move beyond heavy industry",
-      "summary": "Before a shirt reaches a shop in China, artificial intelligence may have already played a part in making it, from helping manufacturers understand consumer preferences to turning those insights into design ideas.",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/economy/china-economy/article/3375495/steel-style-chinas-flagship-ai-factories-move-beyond-heavy-industry",
-      "published_at": "2026-11-23T20:00:20+08:00"
     }
   ]
 }
