@@ -1,140 +1,302 @@
 {
-  "updated_at": "2026-11-26T07:43:56+08:00",
+  "updated_at": "2026-11-26T13:21:22+08:00",
   "items": [
     {
       "region": "美国",
-      "category": "社会",
-      "title": "Macy’s Thanksgiving Day Parade postponed, as New York braces for huge storm",
-      "summary": "Macy’s 100th Thanksgiving Day Parade will also be a first: organisers made an unprecedented decision to postpone the event to Saturday because of bad weather.",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3375820/macys-thanksgiving-day-parade-postponed-new-york-braces-huge-storm",
-      "published_at": "2026-11-26T07:34:54+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "经济",
-      "title": "US trading partners’ patience wears thin as Trump slaps on new tariffs",
-      "summary": "Major US trading partners and companies on the economic front lines decried US President Donald Trump’s latest tariff salvo on Wednesday, even as they expressed resignation, as his playbook has become more predictable",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/news/us/economy-trade-business/article/3375819/us-trading-partners-patience-wears-thin-trump-slaps-new-tariffs",
-      "published_at": "2026-11-26T07:30:23+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "经济",
-      "title": "Empowered Democrats Aim at Weakened Regulation and Corporate Corruption",
-      "summary": "After two years of deregulation, congressional committees led by Democrats will shine the spotlight back on corporate America.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/25/business/corporate-america-democrats.html",
-      "published_at": "2026-11-26T07:24:51+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "社会",
-      "title": "Duran Duran guitarist Andy Taylor, sound of the 1980s, dies at 65",
-      "summary": "Andy Taylor, the former guitarist with new wave pop group Duran Duran, has died after a “long and courageous battle with prostate cancer”, the band and his family said on social media late on Wednesday. He was 65.",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/news/world/europe/article/3375817/duran-duran-guitarist-andy-taylor-sound-1980s-dies-65",
-      "published_at": "2026-11-26T07:20:50+08:00"
+      "category": "市场",
+      "title": "North Korea's Kim calls for nuclear arsenal expansion, says status 'will never change'",
+      "summary": "Kim Jong Un called for wider use of tactical nuclear weapons and an expanded arsenal, rejecting international denuclearization pressure.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/north-korea-kim-nuclear-weapons-expansion.html",
+      "published_at": "2026-11-26T13:16:38+08:00"
     },
     {
       "region": "欧洲",
-      "category": "市场",
-      "title": "Financier Todd Boehly strikes deal for Lukoil assets",
-      "summary": "Shares in the Russian oil company have been frozen since Moscow’s full-scale invasion of Ukraine in 2022",
-      "source": "金融时报",
-      "url": "https://www.ft.com/content/643dc287-d112-4715-bdf1-aa49b98a4af7?syn-25a6b1a6=1",
-      "published_at": "2026-11-26T07:18:32+08:00"
+      "category": "社会",
+      "title": "‘Trapped in grief’: wife of Japanese journalist detained by Russia pleads for his release",
+      "summary": "Yuki Imai being held in Moscow on allegations he conducted ‘espionage’ while working for a newspaper in Sakhalin island in Russia’s far east The wife of a Japanese journalist who has been detained in Russia for more",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/world/2026/nov/26/japanese-journalist-yuki-imai-detained-in-russia-wife-pleads-his-release",
+      "published_at": "2026-11-26T13:16:17+08:00"
     },
     {
       "region": "美国",
       "category": "社会",
-      "title": "Angelina Jolie and Brad Pitt settle legal battle over French winery",
-      "summary": "The Hollywood A-listers' legal battle focused on the vineyard they bought in 2008 and where they wed six years later.",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg2989wv74o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-26T07:18:27+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "社会",
-      "title": "After Extraordinary Iowa Explosion, Officials and Scientists Assess Fallout Risks",
-      "summary": "Military and civilian authorities said the Army operation was a success. But testing will continue to make sure residents are safe from contamination.",
+      "title": "Flights at Miami Airport Are Disrupted After FedEx Jet Overshoots Runway",
+      "summary": "The plane overran a runway after landing at Miami International Airport on Wednesday, and stopped near a fence. FedEx said there were no injuries.",
       "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/25/us/iowa-army-ammunition-blast.html",
-      "published_at": "2026-11-26T07:09:50+08:00"
+      "url": "https://www.nytimes.com/2026/11/26/us/fedex-plane-miami-airport.html",
+      "published_at": "2026-11-26T13:14:22+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "社会",
+      "title": "Indonesia: rescuers race to find 13 miners trapped in flooded illegal gold mine",
+      "summary": "Search for trapped miners increases after flooding kills 13 at Indonesia illegal gold mine",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/26/indonesia-rescuers-race-to-find-13-miners-trapped-in-flooded-illegal-gold-mine",
+      "published_at": "2026-11-26T13:14:01+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "科技",
+      "title": "Alibaba sells US$482 million in ZTO Express shares as AI focus sharpens",
+      "summary": "Alibaba Group Holding has sharply reduced its stake in Chinese logistics giant ZTO Express, raising roughly US$482 million in its second major sell-off of the courier’s shares in two months.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/tech/big-tech/article/3375870/alibaba-sells-us482-million-zto-express-shares-ai-focus-sharpens",
+      "published_at": "2026-11-26T13:04:00+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "社会",
+      "title": "London Banning Noise and Capping Fares for Its Pedicabs",
+      "summary": "Starting Friday, the city will regulate pedicab operators for the first time, imposing fare caps and noise restrictions.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/26/world/europe/london-pedicab-regulations-music-ban-nyc.html",
+      "published_at": "2026-11-26T13:01:11+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "政治",
+      "title": "Was Japan Prime Minister Takaichi Snubbed at China’s Big Summit?",
+      "summary": "Images show the differences between the welcomes afforded to Sanae Takaichi and other world leaders in Shenzhen, as some officials in Japan cry foul.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/26/world/asia/japan-china-takaichi-snubbed.html",
+      "published_at": "2026-11-26T13:01:04+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "社会",
+      "title": "‘Just taking part was a victory’: veterans’ sport helps recovery in Ukraine",
+      "summary": "Photographer David Levene meets service personnel and veterans at selection trials in Lviv for next year’s Invictus Games in Birmingham It took a little longer than expected for the 100 or so archers to begin competing",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/sport/2026/nov/26/veterans-sport-helps-recovery-ukraine-war-invictus-games-disability",
+      "published_at": "2026-11-26T13:00:47+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "政治",
+      "title": "UK to invest £9.5m in Ukraine windfarm to bolster war-hit energy system",
+      "summary": "Project capable of powering 300,000 homes, with Britain having offered more than £770m to rebuild energy sector Britain will add to its multimillion pound investments in rebuilding Ukraine’s energy system by funding a",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/business/2026/nov/26/uk-to-invest-95m-in-ukraine-windfarm-war-hit-energy-system",
+      "published_at": "2026-11-26T13:00:46+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "社会",
+      "title": "Can Roof Tiles Reduce Indoor Heat? India Is Finding Out.",
+      "summary": "As temperatures soar, researchers are experimenting with ways to make life more comfortable for the most vulnerable.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/26/world/asia/india-extreme-heat-housing-roof-tiles.html",
+      "published_at": "2026-11-26T13:00:24+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "社会",
+      "title": "The Unbearable Heat of Delhi’s Summer Nights",
+      "summary": "Residents of India’s dense capital tried switching off fridges and leaving doors open all night to cope with rising temperatures, which affect their sleep, health and ability to work.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/26/world/asia/the-unbearable-heat-of-delhis-summer-nights.html",
+      "published_at": "2026-11-26T13:00:18+08:00"
     },
     {
       "region": "中国",
       "category": "经济",
-      "title": "‘Guaranteed traffic’: SSP Group set to expand Hong Kong airport catering services",
-      "summary": "London-listed SSP Group is looking to add more restaurants at Hong Kong International Airport (HKIA) as the world’s largest travel food company soft-launches Yung Kee Pop, a quick-service iteration of Central’s Yung Kee",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/business/article/3375779/guaranteed-traffic-ssp-group-set-expand-hong-kong-airport-catering-services",
-      "published_at": "2026-11-26T07:00:08+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "科技",
-      "title": "Pro Shop’s Chad Mumm on Skins Game Return To Prime Video",
-      "summary": "“The Farmers Insurance Skins Game” returns to Prime video this Friday for a second year in a row.",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-25/pro-shop-s-chad-mumm-on-skins-game-return-to-prime-video-video",
-      "published_at": "2026-11-26T06:57:14+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "社会",
-      "title": "Record-breaking California tides cause major flooding of roads and businesses",
-      "summary": "Beaches close as Los Angeles and La Jolla see all-time high tides and big waves batter landmark pier in Pacifica Super El Niño weather brought record-breaking high tides up and down the California coast on Wednesday,",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/us-news/2026/nov/25/california-flooding-high-tides",
-      "published_at": "2026-11-26T06:56:36+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "市场",
-      "title": "Poundland collapses into administration",
-      "summary": "Retailer’s demise follows criticism of US owner Gordon Brothers, which bought the business for less than £1 last year",
-      "source": "金融时报",
-      "url": "https://www.ft.com/content/cfa5222e-c629-4f8c-8d32-d4723e13b7f4?syn-25a6b1a6=1",
-      "published_at": "2026-11-26T06:46:13+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "科技",
-      "title": "How to Talk to Your Family About A.I. Doom at Thanksgiving",
-      "summary": "For people steeped in the world of artificial intelligence, the topic could be a minefield at this year’s dinner.",
+      "title": "In China, the ‘Female Gaze’ Is Driving a New Entertainment Boom",
+      "summary": "From male dancers to handsome hiking companions, a thriving entertainment industry is catering to female fantasies and testing the limits of Beijing’s tolerance.",
       "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/25/technology/thanksgiving-ai-doom-family.html",
-      "published_at": "2026-11-26T06:44:55+08:00"
+      "url": "https://www.nytimes.com/2026/11/26/business/china-women-spending-entertainment.html",
+      "published_at": "2026-11-26T13:00:17+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "科技",
+      "title": "Stephanomics Podcast: How AI Could Rewrite the Holiday Shopping Season",
+      "summary": "Artificial intelligence could transform the way we shop this holiday season — from finding the best deals to letting agents buy on our behalf.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/audio/2026-11-26/stephanomics-podcast-how-ai-could-rewrite-the-holiday-shopping-season",
+      "published_at": "2026-11-26T13:00:00+08:00"
     },
     {
       "region": "美国",
       "category": "社会",
-      "title": "Macy's postpones Thanksgiving parade due to weather",
-      "summary": "The was the first time ever that the iconic celebration - known for its massive balloons floating past the city's skyscrapers - was delayed because of storms.",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-26T06:38:19+08:00"
+      "title": "Rams pound Packers to win fifth straight game despite Kam Kinchens’ ejection",
+      "summary": "Green Bay Packers 13-26 Los Angeles Rams Micah Parson has sack on Green Bay return Blake Corum rushes for career-high 184 yards Blake Corum rushed for a career-high 184 yards and a touchdown, Kyren Williams ran for",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/sport/2026/nov/25/rams-pound-packers-to-win-fifth-straight-game-despite-kam-kinchens-ejection",
+      "published_at": "2026-11-26T12:53:40+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "经济",
+      "title": "美拟施加新关税 欧盟：欧洲也是产能过剩受害者",
+      "summary": "特朗普政府公布针对中国、欧盟等14个主要贸易伙伴的工业“产能过剩”调查结果，以此为基础施加新关税。",
+      "source": "德国之声",
+      "url": "https://www.dw.com/zh/美拟施加新关税-欧盟：欧洲也是产能过剩受害者/a-80049070?maca=chi-rss-chi-all-1127-xml-mrss",
+      "published_at": "2026-11-26T12:53:00+08:00"
     },
     {
       "region": "美国",
-      "category": "市场",
-      "title": "Stocks Pare AI-Driven Losses as Dip Buyers Emerge",
-      "summary": "Wild swings lashed Wall Street again, with dip buyers fading a stock selloff that had briefly sent the Nasdaq 100 to the brink of a bear market.",
+      "category": "科技",
+      "title": "Musk Says Every US Kid to Get Two SpaceX Shares, Doubling Pledge",
+      "summary": "Elon Musk and SpaceX will give every child in the US two shares in the space exploration company, doubling a commitment the world’s richest person made just last month.",
       "source": "彭博",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-25/stocks-pare-ai-driven-losses-as-dip-buyers-emerge-video",
-      "published_at": "2026-11-26T06:21:45+08:00"
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/musk-says-every-us-kid-to-get-two-spacex-shares-doubling-pledge",
+      "published_at": "2026-11-26T12:52:54+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "市场",
+      "title": "South Korea's Kospi leads gains as tech rebound lifts Asia markets",
+      "summary": "Investors appear to have looked past a fresh set of U.S. tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+      "published_at": "2026-11-26T12:49:03+08:00"
     },
     {
       "region": "中国",
       "category": "社会",
-      "title": "North Korea expels Swiss diplomat in sanctions row",
-      "summary": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
+      "title": "Officer found dead with gunshot wound in Sheung Shui police station toilet",
+      "summary": "A Hong Kong police officer has been found dead with a gunshot wound in Sheung Shui Police Station. A police spokesman said the officer was confirmed dead at the scene on Thursday after the case was reported at 10.50am.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/hong-kong/society/article/3375862/officer-found-dead-gunshot-wound-sheung-shui-police-station-toilet",
+      "published_at": "2026-11-26T12:42:16+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "市场",
+      "title": "Australia Firms See Inflation Holding Over 4% for Next 12 Months",
+      "summary": "Australian businesses expect inflation will remain well above the top of the Reserve Bank’s 2-3% target band for the next 12 months, even after policymakers delivered five interest-rate hikes this year to try to rein in",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/australia-firms-see-inflation-holding-over-4-for-next-12-months",
+      "published_at": "2026-11-26T12:30:00+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "科技",
+      "title": "Veruschka, the world’s first supermodel – a life in pictures",
+      "summary": "The German supermodel and Blow-Up actor, born Vera Gottliebe Anna Gräfin von Lehndorff-Steinort, has died aged 87.",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/fashion/gallery/2026/nov/26/veruschka-death-worlds-first-supermodel-a-life-in-pictures",
+      "published_at": "2026-11-26T12:29:46+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "市场",
+      "title": "Hedge funds are no longer just for the rich. They’re wooing everyday investors",
+      "summary": "Hedge funds are increasingly courting retail investors as the industry seeks new avenues for growth.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/hedge-funds-retail-investors.html",
+      "published_at": "2026-11-26T12:20:18+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "经济",
+      "title": "Japan Protests New US Tariff Rate, Allegation of Excess Capacity",
+      "summary": "Japan has protested to the US over its plans to impose a 15% levy on imports from the Asian country to address concerns over excess manufacturing capacity, a government spokesman said, even though the new level is in",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/japan-protests-new-us-tariff-rate-allegation-of-excess-capacity",
+      "published_at": "2026-11-26T12:19:44+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "经济",
+      "title": "How Trump’s latest tariff moves hand India an edge over rival Asian exporters",
+      "summary": "Proposed tariffs of 18% on Bangladesh, Cambodia, Thailand, and 20% on China and Vietnam, subject to their respective trade deals, offer India a competitive advantage.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/trump-us-tariff-india-trade.html",
+      "published_at": "2026-11-26T12:12:18+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "社会",
+      "title": "Teen’s homicidal thoughts dismissed as ‘crap’ days before she killed 10-year-old, inquest hears",
+      "summary": "Circumstances surrounding Bridgette ‘Biddy’ Porter’s death on rural NSW property being examined by coroner’s court Get our breaking news email , free app or daily news podcast Two days before a teenager killed a young",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/26/teens-homicidal-thoughts-dismissed-as-crap-before-killed-10-year-old-inquest-ntwnfb",
+      "published_at": "2026-11-26T12:11:34+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "市场",
+      "title": "US announces new tariffs on host of countries including China",
+      "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-26T05:51:17+08:00"
+      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-26T12:10:58+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "市场",
+      "title": "Early review of Disney’s ABC station licences blocked in blow to Trump",
+      "summary": "US judge Loren AliKhan wrote that broadcast regulator’s chair had ‘taken President Trump’s rhetoric as his marching orders’",
+      "source": "金融时报",
+      "url": "https://www.ft.com/content/99acbf19-3a6f-4b4c-aa8c-77b8b7edb5e9?syn-25a6b1a6=1",
+      "published_at": "2026-11-26T12:10:42+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "科技",
+      "title": "Huawei Teases Next-Gen AI Memory Chip to Take On Samsung, Hynix",
+      "summary": "Huawei Technologies Co. is preparing to release details of a new high-bandwidth memory chip that could potentially surpass current offerings from Samsung Electronics Co.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/huawei-teases-next-gen-ai-memory-chip-to-take-on-samsung-hynix",
+      "published_at": "2026-11-26T12:06:10+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "市场",
+      "title": "Judge blocks FCC early-renewal process for Disney-owned ABC stations, for now",
+      "summary": "A judge has blocked the FCC's early license renewal process for Disney-owned ABC stations in 'important victory for the First Amendment'",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/fcc-disney-abc-stations-judge-block.html",
+      "published_at": "2026-11-26T12:00:15+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "科技",
+      "title": "Chinese AI chips to capture 88% of home market by 2028, UBS says, as Nvidia woes mount",
+      "summary": "China’s annual domestic artificial intelligence accelerator shipments are set to jump nearly sixfold between 2025 and 2030 to more than 10 million units, with Cambricon Technologies and Biren Technology emerging as",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/tech/tech-war/article/3375758/chinese-ai-chips-capture-88-home-market-2028-ubs-says-nvidia-woes-mount",
+      "published_at": "2026-11-26T12:00:11+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "经济",
+      "title": "Trump tariff threat ‘unacceptable’, says Brazil, as China denounces levies as baseless",
+      "summary": "Brazil indignant about proposed tariffs on sugar and aircraft, while Beijing says new levies amount to ‘political manipulation’ Trump proposing new tariffs on 14 partners including China and EU Brazil has said it will",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+      "published_at": "2026-11-26T11:54:24+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "经济",
+      "title": "Trump’s China Tariffs Raise Threat of New Test for Trade Truce",
+      "summary": "China has signaled it’s unlikely to retaliate against new US tariffs that remain within the bounds of a previously agreed trade deal, but the threat of higher rates shows Washington wants to maintain some leverage over",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/trump-s-china-tariffs-raise-threat-of-new-test-for-trade-truce",
+      "published_at": "2026-11-26T11:45:09+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "经济",
+      "title": "HSBC sees more than 100,000 users of its stablecoin in first month since launch",
+      "summary": "More than 100,000 people used HSBC RedCoin, the stablecoin issued by Hong Kong’s biggest lender, in the first month following its launch, indicating retail customers in the city were interested in digital assets, HSBC",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/business/article/3375825/hsbc-sees-more-100000-users-its-stablecoin-first-month-launch",
+      "published_at": "2026-11-26T11:00:11+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "经济",
+      "title": "As Russia seeks closer Asean ties, Singapore faces a diplomatic ‘dilemma’",
+      "summary": "Russia’s push to strengthen economic ties with Southeast Asia could present Singapore with a diplomatic balancing act as it prepares to chair Asean, analysts have said.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/week-asia/politics/article/3375800/russia-seeks-closer-asean-ties-singapore-faces-diplomatic-dilemma",
+      "published_at": "2026-11-26T11:00:06+08:00"
     },
     {
       "region": "中国",
@@ -144,15 +306,6 @@
       "source": "法国国际广播电台",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20261125-%E8%8B%B1%E4%BC%9F%E8%BE%BE-%E9%97%B9%E5%89%A7-%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84-%E7%A8%B3%E5%AE%9A-%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84-%E6%B7%B7%E4%B9%B1-%E4%B9%8B%E6%9C%80%E6%96%B0%E4%B8%80%E7%AB%A0",
       "published_at": "2026-11-26T05:45:17+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "经济",
-      "title": "Stocks Slump Again as Investors Fret About A.I., Tariffs and Inflation",
-      "summary": "Nvidia and other tech companies fell as investors weighed developments in global trade and the path of interest rates.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/25/business/stocks-sp500-nvidia-ai.html",
-      "published_at": "2026-11-26T05:32:42+08:00"
     },
     {
       "region": "美国",
@@ -171,15 +324,6 @@
       "source": "法国国际广播电台",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261125-%E7%BE%8E%E5%9B%BD%E5%B8%8C%E6%9C%9B%E4%BF%84%E6%AC%A7%E4%BF%AE%E5%A5%BD%EF%BC%8C%E8%8E%AB%E6%96%AF%E7%A7%91%E7%A7%B0%E6%AC%A7%E6%96%B9%E5%B0%9A%E6%9C%AA%E6%8B%92%E7%BB%9D%E4%BC%9A%E8%B0%88%E9%82%80%E8%AF%B7",
       "published_at": "2026-11-26T05:31:42+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "经济",
-      "title": "Poundland collapses putting 11,000 jobs at risk",
-      "summary": "The discount chain has fallen into administration after its owners failed to find a buyer.",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-26T05:31:10+08:00"
     },
     {
       "region": "欧洲",
@@ -219,15 +363,6 @@
     },
     {
       "region": "欧洲",
-      "category": "政治",
-      "title": "英皇家空军夜间将飞机移至掩体后方",
-      "summary": "据《泰晤士报》和天空新闻周三报道，英国皇家空军已决定将飞机夜间转移至加固机库或掩体，以防范潜在的无人机袭击。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261125-%E8%8B%B1%E7%9A%87%E5%AE%B6%E7%A9%BA%E5%86%9B%E5%A4%9C%E9%97%B4%E5%B0%86%E9%A3%9E%E6%9C%BA%E7%A7%BB%E8%87%B3%E6%8E%A9%E4%BD%93%E5%90%8E%E6%96%B9",
-      "published_at": "2026-11-26T05:05:32+08:00"
-    },
-    {
-      "region": "欧洲",
       "category": "社会",
       "title": "国际香料香精公司及Firmenich被处以4.719亿欧元罚款",
       "summary": "欧盟反垄断监管机构因欧洲香料价格卡特尔，对奇华顿（Givaudan）、DSM Firmenich AG及国际香料香精公司（IFF）合计处以好几亿欧元罚款。",
@@ -245,22 +380,13 @@
       "published_at": "2026-11-26T04:53:25+08:00"
     },
     {
-      "region": "中国",
-      "category": "政治",
-      "title": "Liberal senator Leah Blyth announces defection to One Nation",
-      "summary": "South Australian senator labels One Nation the ‘only party with the bold ideas needed to turn this country around’ Follow our Australia politics live blog for latest updates Get our daily political email , free app or",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-senator-leah-blyth-defection-to-one-nation-ntwnfb",
-      "published_at": "2026-11-26T04:50:15+08:00"
-    },
-    {
       "region": "欧洲",
-      "category": "社会",
-      "title": "Wrongly deported Salvadoran arrives in Spain after US legal battle",
-      "summary": "The Salvadoran, deported \"by mistake\" to a prison in El Salvador in 2025, has brought an end to 20 months of litigation in the United States, with Madrid as the first stop in what his lawyers describe as a temporary",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/25/wrongly-deported-salvadoran-arrives-in-spain-after-us-legal-battle",
-      "published_at": "2026-11-26T04:15:17+08:00"
+      "category": "科技",
+      "title": "欧盟500亿欧元基金缩小美欧在AI与量子领域差距",
+      "summary": "欧盟准备投资最高500亿欧元成立基金，对欧洲人工智能（AI）与量子运算企业进行长期、高风险投资，从而设法降低欧洲对美国与中国科技的依赖。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20261125-%E6%AC%A7%E7%9B%9F500%E4%BA%BF%E6%AC%A7%E5%85%83%E5%9F%BA%E9%87%91%E7%BC%A9%E5%B0%8F%E7%BE%8E%E6%AC%A7%E5%9C%A8ai%E4%B8%8E%E9%87%8F%E5%AD%90%E9%A2%86%E5%9F%9F%E5%B7%AE%E8%B7%9D",
+      "published_at": "2026-11-26T04:34:59+08:00"
     },
     {
       "region": "欧洲",
@@ -273,138 +399,12 @@
     },
     {
       "region": "中国",
-      "category": "经济",
-      "title": "Lululemon founder stuns Canadian women’s leadership conference with sexist comments",
-      "summary": "Chip Wilson said men importing brides from Thailand was due to women waiting too long to have children The controversial founder of Lululemon suggested women in Canada are having too few children and this could lead",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/world/2026/nov/25/lululemon-founder-comments-canada-womens-leadership-conference",
-      "published_at": "2026-11-26T03:57:49+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "科技",
-      "title": "EU postpones discussion to approve Tesla's self-driving tech",
-      "summary": "The vote is a key hurdle in Tesla's effort to roll out the technology across Europe.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/25/eu-postpones-discussion-to-approve-teslas-self-driving-tech.html",
-      "published_at": "2026-11-26T03:54:42+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "政治",
-      "title": "Colombia quiet as China says lawmakers’ Taiwan trip crossed its ‘first red line’",
-      "summary": "A multiparty group of Colombian lawmakers visiting Taiwan has drawn a formal protest from China, while President Abelardo de la Espriella’s government has stayed silent for two days as of Wednesday, even as the pressure",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3375815/colombia-quiet-china-says-lawmakers-taiwan-trip-crossed-its-first-red-line",
-      "published_at": "2026-11-26T03:52:34+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "政治",
-      "title": "UK food inflation could hit 5% next year, Bank of England says",
-      "summary": "Sharp rise expected as cost pressures mount, with experts factoring in energy price cap hike and potential impact of El Niño Food price inflation in the UK could hit 5% next year, the Bank of England has said, despite",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/business/2026/nov/25/uk-food-inflation-sharp-rise-next-year-mounting-cost-pressures-bank-of-england",
-      "published_at": "2026-11-26T03:25:57+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "经济",
-      "title": "Ministers can’t control gas prices, but they can attack other energy costs more ruthlessly",
-      "summary": "Louise Haigh talked the right talk at the CBI this week, but greater ambition and tighter timelines are needed Shocked by average annual energy bills at £2,166 for the first three months of next year? Here’s worse news.",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/25/energy-bills-gas-prices-electricity-costs",
-      "published_at": "2026-11-26T03:21:16+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "科技",
-      "title": "Europe Tonight: Russia reportedly prepares nuclear satellite launch",
-      "summary": "Jamie Shea, former NATO spokesperson joined Euronews' new evening show Europe Tonight to discuss how Satellite systems could be affected and what would it mean for the world.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/25/europe-tonight-russia-reportedly-prepares-nuclear-satellite-launch",
-      "published_at": "2026-11-26T03:20:03+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "社会",
-      "title": "Libyan Forces Threaten Retaliation Over Ukraine’s Attack on Russian Ships",
-      "summary": "The Ukrainian drone strike off Libya’s coast killed two Libyan naval officers, according to the forces controlling the country’s east.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/25/world/middleeast/libya-ukraine-russia-haftar.html",
-      "published_at": "2026-11-26T03:02:50+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "社会",
-      "title": "EU nationals will pay higher tuition fees than UK students, Burnham indicates",
-      "summary": "Asked by Kemi Badenoch to rule out equal rate for UK and EU students, PM says proposal ‘will not be put on the table’ European students will have to pay higher fees than their domestic equivalents at UK universities",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/25/eu-nationals-will-pay-higher-tuition-fees-than-uk-students-burnham-indicates",
-      "published_at": "2026-11-26T02:19:19+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "经济",
-      "title": "UK inflation may peak at lower rate than BoE forecast, says governor",
-      "summary": "But Andrew Bailey refuses to rule out another interest rate increase next month",
-      "source": "金融时报",
-      "url": "https://www.ft.com/content/402e640b-8933-4b3c-bb4c-ce12a7994ac6?syn-25a6b1a6=1",
-      "published_at": "2026-11-26T01:55:48+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "市场",
-      "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
-      "summary": "The new levies seek to counter foreign trade practices deemed unfair, discriminatory or burdensome to U.S. commerce.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
-      "published_at": "2026-11-26T00:02:52+08:00"
-    },
-    {
-      "region": "中国",
       "category": "政治",
       "title": "德语媒体：中美俄峰会，谁是受益者？",
       "summary": "《新苏黎世报》评论认为，上周在中国深圳举行的中美俄三方峰会中，除了让习近平和普京赚足面子之外，美国非但没有收获，还疏远了众多盟友。",
       "source": "德国之声",
       "url": "https://www.dw.com/zh/德语媒体：中美俄峰会，谁是受益者？/a-80051852?maca=chi-rss-chi-all-1127-xml-mrss",
       "published_at": "2026-11-25T23:11:00+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "市场",
-      "title": "长平观察：黄仁勋复职，特朗普向习近平学到了什么？",
-      "summary": "黄仁勋复职，《华尔街日报》社论称之为“特朗普的国家资本主义”。时事评论作家长平指出，股市上涨是对权力的逢迎，特朗普正在抄习近平的作业。",
-      "source": "德国之声",
-      "url": "https://www.dw.com/zh/长平观察：黄仁勋复职，特朗普向习近平学到了什么？/a-80051122?maca=chi-rss-chi-all-1127-xml-mrss",
-      "published_at": "2026-11-25T22:47:00+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "科技",
-      "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
-      "summary": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
-      "published_at": "2026-11-25T22:29:50+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "经济",
-      "title": "Trump announces raft of new tariffs on major economies",
-      "summary": "China, the EU, Japan and South Korea to be hit by levies as US president doubles down on trade strategy",
-      "source": "金融时报",
-      "url": "https://www.ft.com/content/335b593d-1478-4550-ab0a-71fec6280eb0?syn-25a6b1a6=1",
-      "published_at": "2026-11-25T22:00:55+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "科技",
-      "title": "China embeds ‘loyal wingman’ drone simulations in fighter pilot training",
-      "summary": "China’s military is increasingly integrating artificial intelligence – including AI-driven “loyal wingman” drones – into its routine training for frontline fighter pilots, official media reports have confirmed.",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/news/china/military/article/3375766/china-embeds-loyal-wingman-drone-simulations-fighter-pilot-training",
-      "published_at": "2026-11-25T22:00:07+08:00"
     }
   ]
 }
