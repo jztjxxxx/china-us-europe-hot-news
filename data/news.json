@@ -1,6 +1,132 @@
 {
-  "updated_at": "2026-11-27T07:57:03+08:00",
+  "updated_at": "2026-11-27T13:17:05+08:00",
   "items": [
+    {
+      "region": "中国",
+      "category": "经济",
+      "title": "China’s factories are growing profits again, but the AI boom is picking the winners",
+      "summary": "China's economy has been running at two speeds, with AI-related manufacturing and exports powering growth while consumption, real estate investment lag.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
+      "published_at": "2026-11-27T13:15:55+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "社会",
+      "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+      "summary": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-27T13:15:26+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "科技",
+      "title": "Singapore reaches out to local firms amid reports of Nvidia chip shipment halt",
+      "summary": "Singapore said on Friday it was “engaging” with local businesses over tightened US export controls on advanced AI chips designed by tech titan Nvidia.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3375994/singapore-reaches-out-local-firms-amid-reports-nvidia-chip-shipment-halt",
+      "published_at": "2026-11-27T13:13:01+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "社会",
+      "title": "Can Roof Tiles Reduce Indoor Heat? India Is Finding Out.",
+      "summary": "As temperatures soar, researchers are experimenting with ways to make life more comfortable for the most vulnerable.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/26/world/asia/india-extreme-heat-housing-roof-tiles.html",
+      "published_at": "2026-11-27T13:05:26+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "政治",
+      "title": "Race hate exploded in this Spanish town last year. Now its residents are bracing for more",
+      "summary": "Torre-Pacheco’s diverse communities are fearful that the far-right Vox party will enter government after Sunday’s election Sitting on a park bench, taking in the sunny day, Naima reflected on all that had seemingly",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/world/2026/nov/27/spain-migrants-election-vox-far-right-europe",
+      "published_at": "2026-11-27T13:00:55+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "政治",
+      "title": "Why all of Europe should be watching as Spain’s far-right Vox closes in on power | Eoghan Gilmartin",
+      "summary": "Santiago Abascal’s party has adopted radical ideas from France and beyond.",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/27/spain-far-right-vox-europe-santiago-abascal-france-coalition",
+      "published_at": "2026-11-27T13:00:55+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "社会",
+      "title": "Thousands of girls and women report bleeding and miscarriages after French police use of teargas",
+      "summary": "Almost 10,000 women and girls who took part in nationwide protests in October give testimony about disrupted menstrual cycles For three years, Naïma Di Piero says she barely had a period.",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/global-development/2026/nov/27/thousands-of-girls-and-women-report-bleeding-and-miscarriages-after-french-police-use-of-teargas",
+      "published_at": "2026-11-27T13:00:54+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "科技",
+      "title": "Singapore Talking to US to Keep AI Chip Access, Deputy PM Says",
+      "summary": "Singapore is in talks with the US to retain access to advanced semiconductors, Deputy Prime Minister Gan Kim Yong said, after Washington tightened restrictions on chip exports to the Southeast Asian nation.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/singapore-talking-to-us-to-keep-ai-chip-access-deputy-pm-says",
+      "published_at": "2026-11-27T13:00:51+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "社会",
+      "title": "The Threat to a Sanctuary for Children of North Korean Defectors",
+      "summary": "A school in Seoul caters to students whose parents fled North Korea. Neighbors want it gone, and students say it is just one example of the prejudice they face in the South.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/27/world/asia/the-threat-to-a-sanctuary-for-children-of-north-korean-defectors.html",
+      "published_at": "2026-11-27T13:00:39+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "市场",
+      "title": "China Stocks Rally After Rare Midday Statement on Market Support",
+      "summary": "Chinese stocks rallied after the State Council reaffirmed its support for the capital market in a rare mid-day statement, emphasizing the role of the so-called national team and pledging to roll out more policies.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/china-s-cabinet-stresses-market-support-in-midday-release",
+      "published_at": "2026-11-27T13:00:23+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "社会",
+      "title": "A Japanese Volleyball Player Breaks a Taboo",
+      "summary": "Rui Takahashi, 26, has made waves as one of only a few professional athletes to come out as gay in Japan.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/27/world/asia/a-japanese-volleyball-player-breaks-a-taboo.html",
+      "published_at": "2026-11-27T13:00:17+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "经济",
+      "title": "A Targeted Tax Cut May Do Little to Fix Britain’s Youth Crisis",
+      "summary": "The UK’s attempts to overcome its youth unemployment crisis have landed on a straightforward idea: lower payroll tax on young workers.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/a-targeted-tax-cut-may-do-little-to-fix-britain-s-youth-crisis",
+      "published_at": "2026-11-27T13:00:00+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "市场",
+      "title": "Taiwan's ETF Godfather Julian Liu on Market Momentum",
+      "summary": "Julian Liu, Chairman at Yuanta Securities Investment Trust, discusses Taiwan's ETF market and the next catalysts for 2027. He speaks exclusively on Bloomberg's ETF IQ Asia.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-27/taiwan-s-etf-godfather-julian-liu-on-market-momentum-video",
+      "published_at": "2026-11-27T12:57:17+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "科技",
+      "title": "Beyond the Degree: How EdUHK’s Honours College Prepares Students for What’s Next",
+      "summary": "[The content of this article has been produced by our advertising partner.] As artificial intelligence reshapes classrooms and workplaces, universities must prepare graduates not only to use technology, but to question",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/presented/news/hong-kong/education/topics/eduhks-internationalisation-drive/article/3375876/beyond-degree-how-eduhks-honours-college-prepares-students-whats-next",
+      "published_at": "2026-11-27T12:47:37+08:00"
+    },
     {
       "region": "美国",
       "category": "市场",
@@ -8,7 +134,151 @@
       "summary": "Investors are wrapping up a turbulent trading week that was shortened due to the Thanksgiving holiday.",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
-      "published_at": "2026-11-27T07:54:50+08:00"
+      "published_at": "2026-11-27T12:40:59+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "市场",
+      "title": "SpaceX shares jump on alternative trading platform after Musk says he will expand share donations",
+      "summary": "SpaceX shares jumped in overnight trading on Blue Ocean ATS after Elon Musk said on X that he would donate shares to American children every year.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
+      "published_at": "2026-11-27T12:20:55+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "经济",
+      "title": "Thai Exports Surge as Imports Drive Trade Deficit to Record High",
+      "summary": "Thailand’s exports grew at the fastest pace in more than five years in October, but an even bigger surge in imports pushed the country’s trade deficit to a record.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/thai-exports-surge-as-imports-drive-trade-deficit-to-record-high",
+      "published_at": "2026-11-27T12:16:07+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "科技",
+      "title": "Huawei guilty on 10 counts in US trial; Nvidia’s Jensen Huang returns: SCMP’s 7 highlights",
+      "summary": "We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that resonated with our readers and shed light on topical issues.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/news/world/article/3375979/huawei-guilty-10-counts-us-trial-nvidias-jensen-huang-returns-scmps-7-highlights",
+      "published_at": "2026-11-27T12:15:06+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "市场",
+      "title": "This 170-year historical study says ‘major market collapse’ is coming",
+      "summary": "The artificial intelligence boom is flashing warning signs of speculative excess that rival those seen at the height of the dot-com bubble.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/27/ai-bubble-burst-market-study.html",
+      "published_at": "2026-11-27T12:07:07+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "科技",
+      "title": "Philippine Trade Deficit Hits Record as Imports Soar 50%",
+      "summary": "The Philippines posted a record trade deficit in October as a 50% surge in imports outpaced another sharp rise in exports.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/philippine-trade-deficit-hits-record-as-imports-soar-50",
+      "published_at": "2026-11-27T12:01:23+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "社会",
+      "title": "Dream homes at sea run aground in Asia as fuel costs and debts bite",
+      "summary": "When Randy Cassingham returned to his US$379,000 cabin aboard the Villa Vie Odyssey in Sihanoukville, Cambodia, ship security had to break a seal on the door.",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/week-asia/people/article/3375913/dream-homes-sea-run-aground-asia-fuel-costs-and-debts-bite",
+      "published_at": "2026-11-27T12:00:16+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "科技",
+      "title": "Foreign Funds on Pace for Record Taiwan Stock Exodus in AI Rout",
+      "summary": "Foreign investors dumped a record amount of Taiwanese stocks so far in November, underscoring how heavily the global AI bellwether has been battered by the pullback in tech shares.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/foreign-funds-on-pace-for-record-taiwan-stock-exodus-in-ai-rout",
+      "published_at": "2026-11-27T11:53:31+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "经济",
+      "title": "Photos: Macy’s Thanksgiving Day Parade History and Wacky Moments",
+      "summary": "It isn’t always easy to keep New York City’s Thanksgiving parade on track. Here’s a look back at notable moments and mishaps.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/26/nyregion/macys-thanksgiving-parade-history-timeline.html",
+      "published_at": "2026-11-27T11:39:46+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "政治",
+      "title": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’",
+      "summary": "Iran's foreign minister Abbas Araghchi said \"The incident is suspicious and looks like a precooked recipe for war.\"",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html",
+      "published_at": "2026-11-27T11:30:23+08:00"
+    },
+    {
+      "region": "中国",
+      "category": "科技",
+      "title": "CIExpo 2026 reinforces Hong Kong's role as a global construction innovation hub",
+      "summary": "[The content of this article has been produced by our advertising partner.] With Hong Kong’s construction output projected to reach HK$360 billion by 2030/31 the industry is entering a new phase of expansion and",
+      "source": "南华早报",
+      "url": "https://www.scmp.com/presented/news/hong-kong/topics/ciexpo-showcases-hk-tech-hub/article/3375835/ciexpo-2026-reinforces-hong-kongs-role-global-construction-innovation-hub",
+      "published_at": "2026-11-27T11:19:51+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "经济",
+      "title": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
+      "summary": "The shipping halt, which hit four countries, follows a new U.S. rule that would require licenses for companies in the countries to buy advanced A.I.",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html",
+      "published_at": "2026-11-27T10:45:41+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "市场",
+      "title": "Treasuries Retreat as Gains in Equities Sap Demand for Havens",
+      "summary": "Treasuries fell in light trading as the market reopened after the Thanksgiving holiday, with gains in Asian equities damping demand for haven assets.",
+      "source": "彭博",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/treasuries-retreat-as-gains-in-equities-sap-demand-for-havens",
+      "published_at": "2026-11-27T10:43:08+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "社会",
+      "title": "Bills, Eagles and Bears pull off last-gasp wins in trio of Thanksgiving thrillers",
+      "summary": "Bass hits from 57 yards at the gun to lift Buffalo Elliott’s 59-yarder caps Eagles’ 21-point comeback Bears take NFC North lead on Odunze’s late catch Jake Elliott kicked a 59-yard field with two seconds remaining , and",
+      "source": "卫报",
+      "url": "https://www.theguardian.com/sport/2026/nov/26/nfl-roundup-thanksgiving-scores-bears-lions-eagles-cowboys-chiefs-bills",
+      "published_at": "2026-11-27T09:50:28+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "经济",
+      "title": "I spend £200 a month on fancy meals by myself - would you dine solo?",
+      "summary": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-27T08:54:45+08:00"
+    },
+    {
+      "region": "美国",
+      "category": "市场",
+      "title": "Sovereign wealth funds are acting more like private equity giants — and inheriting their risks",
+      "summary": "Sovereign wealth funds are increasingly originating deals, taking controlling stakes and building their own investment platforms.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/27/swf-private-equity-risks.html",
+      "published_at": "2026-11-27T08:22:29+08:00"
+    },
+    {
+      "region": "欧洲",
+      "category": "经济",
+      "title": "Why is there a shortage of 'wizard' elevator mechanics?",
+      "summary": "The pay is good and there's lots of work, so what's behind the shortage of elevator mechanics?",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-11-27T08:02:19+08:00"
     },
     {
       "region": "中国",
@@ -29,193 +299,13 @@
       "published_at": "2026-11-27T07:48:44+08:00"
     },
     {
-      "region": "中国",
-      "category": "市场",
-      "title": "Japan Bank Shares Risk Further Unwind as Funding Cost Bites",
-      "summary": "Japanese banking shares face increasing risk of an unwind as higher interest rates provide less of a boost to profits amid intensifying competition across the sector.",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/japan-bank-shares-risk-further-unwind-as-funding-cost-bites",
-      "published_at": "2026-11-27T07:41:36+08:00"
-    },
-    {
       "region": "美国",
-      "category": "社会",
-      "title": "A City Fears the Loss of Its Pier After a Section Collapsed Into the Sea",
-      "summary": "The famed pier in Pacifica, Calif., had long been crumbling. This week, a portion of it succumbed to fierce waves and toppled into the sea.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/26/us/pacifica-pier-collapse-el-nino-king-tides.html",
-      "published_at": "2026-11-27T07:40:44+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "经济",
-      "title": "Tokyo Inflation Accelerates, Backing Case for BOJ Rate Hike",
-      "summary": "Inflation in Japan’s capital city accelerated to the fastest pace this year, backing the case for a Bank of Japan rate increase next month as it focuses on keeping price growth around its 2% target.",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/tokyo-inflation-accelerates-keeping-boj-wary-of-price-pressure",
-      "published_at": "2026-11-27T07:36:40+08:00"
-    },
-    {
-      "region": "欧洲",
       "category": "政治",
-      "title": "EU leaders unable to agree on budget after over 12 hours of talks: ‘zero results’",
-      "summary": "French President Emmanuel Macron set an end-of-year deadline for an agreement on the European Union’s next seven-year budget after the continent’s leaders ruled out any chances for a deal to be reached at their summit",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/news/world/europe/article/3375966/eu-leaders-unable-agree-budget-after-over-12-hours-talks-zero-results",
-      "published_at": "2026-11-27T07:35:18+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "经济",
-      "title": "UK to pay 'participation' fee to deliver EU deals",
-      "summary": "Details of the contribution towards EU running costs have been revealed in new legal documents.",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-27T07:17:12+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "科技",
-      "title": "Asia made a big AI bet on Nvidia. What happens now?",
-      "summary": "Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO.",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-27T07:08:12+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "社会",
-      "title": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
-      "summary": "The city marks a year since a huge blaze tore through seven apartment blocks, killing 168 people.",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-27T07:03:16+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "市场",
-      "title": "Let’s keep doing lunch: Hong Kong exchange leans towards keeping noon break, sources say",
-      "summary": "Lunch is likely to remain on the menu for Hong Kong stock brokers, as the city’s bourse operator leans towards extending trading hours at either end of the day while keeping the market’s traditional mid-day break",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/business/markets/article/3375915/lets-keep-doing-lunch-hong-kong-exchange-leans-towards-keeping-noon-break-sources-say",
-      "published_at": "2026-11-27T07:00:10+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "市场",
-      "title": "Bankers Pay Up for Hong Kong Apartments as Rents Hit New Highs",
-      "summary": "Hong Kong’s booming rental real estate market is spurring gains in previously underappreciated neighborhoods, as bankers pay up for apartments in one of the world’s most expensive places to live.",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/bankers-pay-up-for-hong-kong-apartments-as-rents-hit-new-highs",
-      "published_at": "2026-11-27T07:00:00+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "市场",
-      "title": "Euro Set for Biggest Drop in Two Decades Against Yuan This Year",
-      "summary": "The euro is set for its biggest annual slide against the yuan in two decades, with European officials calling on China to let its currency strengthen further to curb surging imports.",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/euro-set-for-biggest-drop-in-two-decades-against-yuan-this-year",
-      "published_at": "2026-11-27T07:00:00+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "社会",
-      "title": "Strobe Talbott, Time magazine reporter and deputy US secretary of state, dies aged 80",
-      "summary": "After 21 years at Time, Talbott joined the Clinton administration and later headed the Brookings Institution Strobe Talbott, a former Time magazine reporter who later served as deputy secretary of state under Bill",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/us-news/2026/nov/26/strobe-talbott-time-secretary-of-state-dead",
-      "published_at": "2026-11-27T06:36:55+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "科技",
-      "title": "AI Rout Makes Kioxia Japan’s Cheapest Blue Chip, Backing Bulls",
-      "summary": "The brutal selloff in Kioxia Holdings Corp. on worries over the AI boom’s sustainability has made it the cheapest Japanese blue chip, reinforcing bullish analyst calls.",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/ai-rout-makes-kioxia-japan-s-cheapest-blue-chip-backing-bulls",
-      "published_at": "2026-11-27T06:30:13+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "经济",
-      "title": "ICE Maintains Flagship Gilt Futures Design After Market Feedback",
-      "summary": "Intercontinental Exchange Inc. is maintaining the design of its flagship futures contract for UK government bonds following market feedback, in a move that may surprise investors who had been positioning for a change.",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/ice-maintains-flagship-gilt-futures-design-after-market-feedback",
-      "published_at": "2026-11-27T06:16:55+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "社会",
-      "title": "Caleb Williams throws for game-winning TD as Bears stun Lions on Thanksgiving",
-      "summary": "Chicago Bears 39-35 Detroit Lions QB throws TD pass to Odunze with three seconds left Detroit’s win streak ends at six games Caleb Williams threw a go-ahead six-yard touchdown pass to Rome Odunze with three seconds left",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/sport/2026/nov/26/nfl-roundup-thanksgiving-scores-bears-lions-eagles-cowboys-chiefs-bills",
-      "published_at": "2026-11-27T06:05:34+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "社会",
-      "title": "Germany: Christmas markets open across the country amid tight security",
-      "summary": "Christmas markets across Germany are welcoming visitors with dazzling lights, traditional treats and festive attractions. Security remains a priority following deadly attacks in recent years.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/video/2026/11/26/germany-christmas-markets-open-across-the-country-amid-tight-security",
-      "published_at": "2026-11-27T06:05:21+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "科技",
-      "title": "Laila Khawaja on how the Jensen Huang saga resets the US-China tech rivalry",
-      "summary": "Laila Khawaja is research director at Gavekal Technologies, the financial services and analytics firm’s tech wing.",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/tech/tech-war/article/3375909/laila-khawaja-how-jensen-huang-saga-resets-us-china-tech-rivalry",
-      "published_at": "2026-11-27T06:00:16+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "科技",
-      "title": "Holidays to Test AI Shopping Bots From Google, Amazon, Meta and OpenAI",
-      "summary": "Google, Amazon, Meta and OpenAI all want to help pick your holiday gifts. Whose advice will shoppers take?",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/features/2026-11-26/holidays-to-test-ai-shopping-bots-from-google-amazon-meta-and-openai",
-      "published_at": "2026-11-27T06:00:04+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "社会",
-      "title": "Thanksgiving storms flood US coasts and disrupt holiday travel",
-      "summary": "Macy's has postponed its 100th parade in Manhattan as more than 600,000 homes and businesses lost power.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/26/thanksgiving-storms-flood-us-coasts-and-disrupt-holiday-travel",
-      "published_at": "2026-11-27T05:57:53+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "社会",
-      "title": "Watch: Man and dog narrowly escape powerful king tide in Oregon",
-      "summary": "Both the man and his dog escaped unharmed, the police department says.",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/videos/cm4gnje836x2o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-11-27T05:51:16+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "科技",
-      "title": "Roller-coaster fortnight for tech raises urgent questions about AI",
-      "summary": "It has been a bewildering fortnight for technology. Jensen Huang left Nvidia and returned.",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/opinion/world-opinion/article/3375777/roller-coaster-fortnight-tech-raises-urgent-questions-about-ai",
-      "published_at": "2026-11-27T05:30:06+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "科技",
-      "title": "Jensen Huang Is Back, and So Is His Plaque at Denny’s",
-      "summary": "The chain said it had restored a plaque honoring Mr. Huang above a booth in San Jose, Calif., after he was reinstated at Nvidia, the company he is said to have co-founded while eating there.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html",
-      "published_at": "2026-11-27T05:25:16+08:00"
+      "title": "报告显示亚洲移民被遣返人数激增逾11倍",
+      "summary": "美国总统特朗普（Donald Trump）第二任期移民打击行动持续扩大，亚洲移民成为受影响群体之一。",
+      "source": "法国国际广播电台",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261126-%E6%8A%A5%E5%91%8A%E6%98%BE%E7%A4%BA%E4%BA%9A%E6%B4%B2%E7%A7%BB%E6%B0%91%E8%A2%AB%E9%81%A3%E8%BF%94%E4%BA%BA%E6%95%B0%E6%BF%80%E5%A2%9E%E9%80%BE11%E5%80%8D",
+      "published_at": "2026-11-27T05:53:21+08:00"
     },
     {
       "region": "欧洲",
@@ -234,15 +324,6 @@
       "source": "法国国际广播电台",
       "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261126-%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E7%BE%8E%E4%B8%89%E5%AD%A3%E5%BA%A6gdp%E5%A2%9E%E9%80%9F%E5%A4%A7%E5%B9%85%E4%B8%8A%E4%BF%AE%E8%87%B34-3-%E6%B7%B1%E8%A1%A8%E4%B8%8D%E6%BB%A1",
       "published_at": "2026-11-27T05:13:58+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "经济",
-      "title": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
-      "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a mistake, claiming that it should be \"immediately investigated.\"",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
-      "published_at": "2026-11-27T05:13:17+08:00"
     },
     {
       "region": "欧洲",
@@ -290,69 +371,6 @@
       "published_at": "2026-11-27T04:59:30+08:00"
     },
     {
-      "region": "中国",
-      "category": "政治",
-      "title": "Coalition teams up with Labor to pass 20% gas reservation scheme for Australia’s largest exporters",
-      "summary": "Coalition voted in Senate to pass government’s final major piece of legislation for 2026, denying Greens’ bid for 25% tax on exports Get our daily political email , free app or daily news podcast A federal gas",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/26/coalition-to-team-up-with-labor-to-pass-20-gas-reservation-scheme-for-australias-largest-exporters",
-      "published_at": "2026-11-27T04:58:12+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "政治",
-      "title": "‘Disaster’ unfolding as Sydney fire ant outbreak partly blamed on ignored biosecurity recommendations",
-      "summary": "Farmers’ Federation president says Australia ‘can’t even keep [illicit] cigarettes out of the country … let alone some of these difficult-to-detect pests’ Get our breaking news email , free app or daily news podcast",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/27/sydney-fire-ants-outbreak-biosecurity-experts-ignored",
-      "published_at": "2026-11-27T04:33:26+08:00"
-    },
-    {
-      "region": "美国",
-      "category": "科技",
-      "title": "Slow internet? The best wifi extenders and mesh systems to boost your home network – tested",
-      "summary": "We put 11 range extenders and mesh systems to the test to find the fastest and most reliable for streaming, gaming and working from home • The best office chairs Fast fibre broadband is fantastic – if the wifi signal",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/thefilter/2026/nov/26/best-wifi-extender-repeater-uk",
-      "published_at": "2026-11-27T04:00:43+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "市场",
-      "title": "Ford CEO on Le Mans, New Electric Pickup and Trade Talks",
-      "summary": "Bloomberg’s Matt Miller sits down with Ford CEO Jim Farley to talk racing, Ford’s planned $30,000 electric pickup, Chinese EV competition and USMCA trade talks, zeroing in on how to protect US auto manufacturing while",
-      "source": "彭博",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-26/ford-ceo-on-le-mans-new-electric-pickup-and-trade-talks-video",
-      "published_at": "2026-11-27T04:00:15+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "经济",
-      "title": "European Central Bank Chooses Pablo Hernández de Cos as Next President",
-      "summary": "The early exit of Christine Lagarde as president of the European Central Bank, and two looming vacancies on the board, will make way for new leadership at the institution.",
-      "source": "纽约时报",
-      "url": "https://www.nytimes.com/2026/11/26/business/ecb-pablo-hernandez-de-cos.html",
-      "published_at": "2026-11-27T03:41:34+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "经济",
-      "title": "Major East Midlands road projects shelved to divert funding to defence",
-      "summary": "Regional mayor says cancelling works on A38 at Derby and Newark bypass on A46 ‘disappointing and short-sighted’ Two long-awaited major road schemes have been cancelled to divert more than £400m into defence spending,",
-      "source": "卫报",
-      "url": "https://www.theguardian.com/world/2026/nov/26/major-east-midlands-road-projects-shelved-to-divert-funding-to-defence",
-      "published_at": "2026-11-27T02:47:24+08:00"
-    },
-    {
-      "region": "欧洲",
-      "category": "市场",
-      "title": "Britain’s electricity grid operator makes record number of calls for extra power",
-      "summary": "Issue driven by colder weather and constraints in getting electricity from wind farms in Scotland to consumers in England",
-      "source": "金融时报",
-      "url": "https://www.ft.com/content/21a1331c-c201-4333-b312-ab87b7fd994f?syn-25a6b1a6=1",
-      "published_at": "2026-11-27T02:36:59+08:00"
-    },
-    {
       "region": "欧洲",
       "category": "科技",
       "title": "SAP explores at least 10,000 job cuts",
@@ -372,15 +390,6 @@
     },
     {
       "region": "中国",
-      "category": "科技",
-      "title": "AI新云被告知若算力出租给中国公司，将无法购买英伟达芯片",
-      "summary": "据知情人士向消费者新闻与商业频道（CNBC）透露，AI新云（neoclouds）公司被告知，如果计算能力中有任何部分将被中国公司租用，将无法购买英伟达芯片。",
-      "source": "法国国际广播电台",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261126-ai%E6%96%B0%E4%BA%91%E8%A2%AB%E5%91%8A%E7%9F%A5%E8%8B%A5%E7%AE%97%E5%8A%9B%E5%87%BA%E7%A7%9F%E7%BB%99%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%8F%B8%EF%BC%8C%E5%B0%86%E6%97%A0%E6%B3%95%E8%B4%AD%E4%B9%B0%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%8A%AF%E7%89%87",
-      "published_at": "2026-11-27T00:43:54+08:00"
-    },
-    {
-      "region": "中国",
       "category": "社会",
       "title": "德语媒体：陈吉宁落马 一种政治晋升模式的终结？",
       "summary": "网络新闻平台《China Table》就上海市委书记陈吉宁被查一事发表分析文章称，陈吉宁失势带给在华外企的教训是：同单个领导人建立起来的良好关系可能隔夜之间就会变成企业的负资产。",
@@ -396,15 +405,6 @@
       "source": "德国之声",
       "url": "https://www.dw.com/zh/美国限制海外算力-知情人士称中国ai公司受冲击/a-80064912?maca=chi-rss-chi-all-1127-xml-mrss",
       "published_at": "2026-11-26T22:48:00+08:00"
-    },
-    {
-      "region": "中国",
-      "category": "经济",
-      "title": "HKEX censures Evergrande founder Hui over US$2 billion financing deal",
-      "summary": "China Evergrande Group founder and chairman Hui Ka-yan and six former directors face disciplinary action by Hong Kong’s stock exchange for breaching listing rules involving bank loan pledges made in 2020 and 2021,",
-      "source": "南华早报",
-      "url": "https://www.scmp.com/business/companies/article/3375956/hkex-censures-evergrande-founder-hui-over-us2-billion-financing-deal",
-      "published_at": "2026-11-26T21:44:10+08:00"
     }
   ]
 }
